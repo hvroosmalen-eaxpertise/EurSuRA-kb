@@ -1,0 +1,56 @@
+2026-06-04T16:10:01 [INFO] START JRC144121_01.pdf
+2026-06-04T16:10:05 [INFO] EXTRACTED 360945 chars from JRC144121_01.pdf
+2026-06-04T16:10:05 [ERROR] FAILED JRC144121_01.pdf: [Errno 2] No such file or directory: 'C:\\Windows\\kb-framework\\agents\\wikipedia-style.md'
+2026-06-04T16:10:05 [INFO] START Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T16:10:06 [INFO] EXTRACTED 9137 chars from Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T16:10:06 [ERROR] FAILED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf: [Errno 2] No such file or directory: 'C:\\Windows\\kb-framework\\agents\\wikipedia-style.md'
+2026-06-04T16:12:35 [INFO] START JRC144121_01.pdf
+2026-06-04T16:12:39 [INFO] EXTRACTED 360945 chars from JRC144121_01.pdf
+2026-06-04T16:12:40 [ERROR] FAILED JRC144121_01.pdf: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2026-06-04T16:12:40 [INFO] START Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T16:12:40 [INFO] EXTRACTED 9137 chars from Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T16:12:40 [ERROR] FAILED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2026-06-04T17:01:34 [INFO] START 6 ESG Reporting frameworks.pdf
+2026-06-04T17:01:35 [INFO] EXTRACTED 2753 chars from 6 ESG Reporting frameworks.pdf
+2026-06-04T17:01:35 [ERROR] FAILED 6 ESG Reporting frameworks.pdf: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2026-06-04T17:01:35 [INFO] START Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:01:36 [INFO] EXTRACTED 5883 chars from Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:01:36 [ERROR] FAILED Due Diligence in 6 stappen-NL-sep2021.pdf: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2026-06-04T17:01:36 [INFO] START ESG Business Handbook.pdf
+2026-06-04T17:01:37 [INFO] EXTRACTED 117657 chars from ESG Business Handbook.pdf
+2026-06-04T17:01:38 [ERROR] FAILED ESG Business Handbook.pdf: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2026-06-04T17:08:46 [INFO] START 6 ESG Reporting frameworks.pdf
+2026-06-04T17:08:46 [INFO] EXTRACTED 2753 chars from 6 ESG Reporting frameworks.pdf
+2026-06-04T17:09:23 [ERROR] FAILED 6 ESG Reporting frameworks.pdf: 'charmap' codec can't encode character '\u2192' in position 65: character maps to <undefined>
+2026-06-04T17:09:23 [INFO] START Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:09:23 [INFO] EXTRACTED 5883 chars from Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:09:53 [ERROR] FAILED Due Diligence in 6 stappen-NL-sep2021.pdf: 'charmap' codec can't encode character '\u2192' in position 76: character maps to <undefined>
+2026-06-04T17:09:53 [INFO] START ESG Business Handbook.pdf
+2026-06-04T17:09:55 [INFO] EXTRACTED 117657 chars from ESG Business Handbook.pdf
+2026-06-04T17:10:41 [ERROR] FAILED ESG Business Handbook.pdf: 'charmap' codec can't encode character '\u2192' in position 60: character maps to <undefined>
+2026-06-04T17:10:41 [INFO] START JRC144121_01.pdf
+2026-06-04T17:10:45 [INFO] EXTRACTED 360945 chars from JRC144121_01.pdf
+2026-06-04T17:11:18 [ERROR] FAILED JRC144121_01.pdf: 'charmap' codec can't encode character '\u2192' in position 51: character maps to <undefined>
+2026-06-04T17:11:18 [INFO] START Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T17:11:19 [INFO] EXTRACTED 9137 chars from Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T17:12:08 [ERROR] FAILED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf: 'charmap' codec can't encode character '\u2192' in position 90: character maps to <undefined>
+2026-06-04T17:14:32 [INFO] START 6 ESG Reporting frameworks.pdf
+2026-06-04T17:14:33 [INFO] EXTRACTED 2753 chars from 6 ESG Reporting frameworks.pdf
+2026-06-04T17:15:05 [INFO] WRITTEN docs\reports\2026\6-esg-reporting-frameworks.md
+2026-06-04T17:15:05 [INFO] DONE 6 ESG Reporting frameworks.pdf → 6-esg-reporting-frameworks.md
+2026-06-04T17:15:06 [INFO] START Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:15:06 [INFO] EXTRACTED 5883 chars from Due Diligence in 6 stappen-NL-sep2021.pdf
+2026-06-04T17:15:40 [INFO] WRITTEN docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+2026-06-04T17:15:40 [INFO] DONE Due Diligence in 6 stappen-NL-sep2021.pdf → due-diligence-in-6-stappen-nl-sep2021.md
+2026-06-04T17:15:40 [INFO] START ESG Business Handbook.pdf
+2026-06-04T17:15:41 [INFO] EXTRACTED 117657 chars from ESG Business Handbook.pdf
+2026-06-04T17:16:36 [INFO] WRITTEN docs\reports\2026\esg-business-handbook.md
+2026-06-04T17:16:36 [INFO] DONE ESG Business Handbook.pdf → esg-business-handbook.md
+2026-06-04T17:16:36 [INFO] START JRC144121_01.pdf
+2026-06-04T17:16:41 [INFO] EXTRACTED 360945 chars from JRC144121_01.pdf
+2026-06-04T17:17:12 [INFO] WRITTEN docs\reports\2026\jrc144121_01.md
+2026-06-04T17:17:12 [INFO] DONE JRC144121_01.pdf → jrc144121_01.md
+2026-06-04T17:17:12 [INFO] START Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T17:17:12 [INFO] EXTRACTED 9137 chars from Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-04T17:17:59 [INFO] WRITTEN docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
+2026-06-04T17:17:59 [INFO] DONE Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf → webinar-vsme---marlou-duchateau-en-esther-roelofsen.md

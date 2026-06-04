@@ -5,3 +5,4 @@ pipeline/failed/
 __pycache__/
 *.pyc
 .env
+.vs/

@@ -20,6 +20,9 @@ theme:
 plugins:
   - search
 
+hooks:
+  - hooks.py
+
 markdown_extensions:
   - tables
   - toc:
@@ -33,11 +36,21 @@ nav:
     - ESRS: standards/esrs/index.md
     - CSRD: standards/csrd/index.md
     - EU Taxonomy: standards/eu-taxonomy/index.md
+    - VSME: standards/vsme/index.md
+    - GHG Protocol: standards/ghg-protocol/index.md
   - Frameworks:
     - UN SDGs: frameworks/un-sdgs/index.md
     - GRI: frameworks/gri/index.md
     - TCFD: frameworks/tcfd/index.md
-  - Reports: reports/2025/index.md
+  - Reports:
+    - "2025": reports/2025/index.md
+    - "2026":
+      - Overview: reports/2026/index.md
+      - "Sustainability and ESG Reporting Frameworks": reports/2026/6-esg-reporting-frameworks.md
+      - "Due Diligence in Corporate Sustainability": reports/2026/due-diligence-in-6-stappen-nl-sep2021.md
+      - "ESG Business Handbook": reports/2026/esg-business-handbook.md
+      - "DigComp 3.0 - European Digital Competence Framework": reports/2026/jrc144121_01.md
+      - "Voluntary Sustainability Reporting for SMEs": reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
   - Models:
     - Semantic Model: models/semantic-model.md
     - Concept Map: models/concept-map.md
