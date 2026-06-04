@@ -63,4 +63,7 @@ nav:
     - Concept Map: models/concept-map.md
     - Ontology: models/ontology.md
     - Cross-Reference Matrix: cross-reference-matrix.md
+  - Insights:
+    - Overview: insights/index.md
+    - "Climate Disclosure Across Frameworks": insights/climate-disclosure-across-frameworks.md
   - Glossary: glossary.md

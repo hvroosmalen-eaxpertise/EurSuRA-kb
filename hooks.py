@@ -187,16 +187,27 @@ def _meta_line(meta):
 
 
 def _inject_meta(markdown, meta):
-    """Insert the metadata line just below the first H1 heading."""
+    """Insert a metadata line (and a banner for generated pages) below the H1."""
+    block = []
+    if meta.get("generated"):
+        block += [
+            '!!! warning "Generated page"',
+            "    This page is generated from its source articles and is "
+            "regenerated automatically. Edits made here are overwritten — "
+            "change the source pages or the synthesis configuration instead.",
+            "",
+        ]
     line = _meta_line(meta)
-    if not line:
+    if line:
+        block.append(line)
+    if not block:
         return markdown
     out, injected = [], False
     for row in markdown.splitlines():
         out.append(row)
         if not injected and row.startswith("# "):
             out.append("")
-            out.append(line)
+            out.extend(block)
             injected = True
     return "\n".join(out) if injected else markdown
 

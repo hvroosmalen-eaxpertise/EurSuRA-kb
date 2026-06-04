@@ -67,13 +67,43 @@ python ../kb-framework/pipeline/ingest.py --kb .
 The pipeline calls the Claude API for enrichment, so copy `.env.example` to
 `.env` and set `ANTHROPIC_API_KEY` first.
 
-On success the pipeline:
-1. Moves the PDF to `pipeline/processed/`
-2. Writes the enriched Markdown article to `docs/`
-3. Appends an entry to `CHANGELOG.md`
-4. Logs the full event sequence to `logs/ingestion.log`
+On success the pipeline runs the three-layer flow described below, then builds
+the site and **commits locally** (it does not push — you review the merged and
+synthesised diffs, then `git push` yourself). On failure the PDF moves to
+`pipeline/failed/` and the error is recorded in `logs/ingestion.log`.
 
-On failure the PDF moves to `pipeline/failed/` and the error is recorded in `logs/ingestion.log`.
+## How ingestion builds knowledge (the three layers)
+
+A new source does not just add an isolated page — it grows the knowledge base on
+three connected layers:
+
+1. **Domain layer** — For a `standard`, `directive`, or `framework`, the enriched
+   content is **merged into that domain's canonical `index.md`** (e.g. an ESRS PDF
+   grows `docs/standards/esrs/index.md`) rather than creating a parallel page. The
+   `domain-merge` agent integrates new facts, reconciles overlaps, and preserves
+   curated prose. Reports stay standalone.
+2. **Shared graph** — Terms are extracted and **upserted into the single
+   `docs/glossary.md`** (updated in place if the term exists, appended if new), so
+   terminology stays consistent across domains. Domain pages reference terms via
+   `[[wikilinks]]` and never redefine them. `[[wikilinks]]` are resolved
+   automatically (see `hooks.py`) and validated by the strict build.
+3. **Synthesis layer** — Cross-domain *insight* pages and the cross-reference
+   matrix are **regenerated** from the current corpus (see Insights below).
+
+## Insights (cross-domain synthesis pages)
+
+`docs/insights/` holds LLM-composed pages that combine several domains around a
+practical question (e.g. "Climate Disclosure Across Frameworks"). They are
+declared in `config/synthesis.yaml` and regenerated on every ingest, or manually:
+
+```bash
+python ../kb-framework/pipeline/query.py --kb . --synthesis
+```
+
+Insight pages, the cross-reference matrix, and the derived models carry
+`generated: true` in their frontmatter and render a "Generated page" banner.
+**Do not edit them by hand** — they are overwritten on regeneration. To change
+one, edit its source domain pages or `config/synthesis.yaml`.
 
 ## Logs and Change History
 
@@ -81,7 +111,7 @@ On failure the PDF moves to `pipeline/failed/` and the error is recorded in `log
 |---|---|
 | `CHANGELOG.md` | Human-readable record of all content additions — ingested and manual |
 | `logs/ingestion.log` | Machine-readable event log: START / EXTRACTED / WRITTEN / DONE / FAILED per PDF |
-| `logs/enrichment.log` | Claude enrichment steps: style rewrite, tagging, term extraction |
+| `logs/enrichment.log` | Claude enrichment steps: style rewrite, tagging, domain merge, glossary upsert |
 
 ## Cross-Reference Matrix
 
