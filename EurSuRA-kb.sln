@@ -1,23 +1,22 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11822.322 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EurSuRA-kb", "EurSuRA-kb", "{DB84D525-C724-4C70-BE68-F4EB6555AE92}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		CHANGELOG.md = CHANGELOG.md
 		hooks.py = hooks.py
+		config\kb.yaml = config\kb.yaml
 		mkdocs.yml = mkdocs.yml
 		README.md = README.md
-		config\kb.yaml = config\kb.yaml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}"
 	ProjectSection(SolutionItems) = preProject
-		docs\index.md = docs\index.md
-		docs\glossary.md = docs\glossary.md
 		docs\cross-reference-matrix.md = docs\cross-reference-matrix.md
+		docs\glossary.md = docs\glossary.md
+		docs\index.md = docs\index.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "standards", "standards", "{09A43038-D22F-44A7-AB13-9C5E457B9453}"
@@ -38,58 +37,64 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frameworks", "frameworks", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "models", "models", "{F6618AAE-ECF1-4837-B9A5-9BBD88D5A34E}"
 	ProjectSection(SolutionItems) = preProject
-		docs\models\semantic-model.md = docs\models\semantic-model.md
 		docs\models\concept-map.md = docs\models\concept-map.md
 		docs\models\ontology.md = docs\models\ontology.md
+		docs\models\semantic-model.md = docs\models\semantic-model.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{D526CFC1-5992-4C88-8F5F-B1D8554CA586}"
 	ProjectSection(SolutionItems) = preProject
-		docs\reports\2025\index.md = docs\reports\2025\index.md
-		docs\reports\2026\index.md = docs\reports\2026\index.md
 		docs\reports\2026\6-esg-reporting-frameworks.md = docs\reports\2026\6-esg-reporting-frameworks.md
 		docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md = docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
 		docs\reports\2026\esg-business-handbook.md = docs\reports\2026\esg-business-handbook.md
+		docs\reports\2025\index.md = docs\reports\2025\index.md
+		docs\reports\2026\index.md = docs\reports\2026\index.md
 		docs\reports\2026\jrc144121_01.md = docs\reports\2026\jrc144121_01.md
 		docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md = docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kb-framework", "kb-framework", "{0F2C9E1B-E859-4817-AA1E-429539CB79D9}"
+	ProjectSection(SolutionItems) = preProject
+		..\kb-framework\README.md = ..\kb-framework\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pipeline", "pipeline", "{90487C3E-23AD-4D07-A49B-9B6932224780}"
 	ProjectSection(SolutionItems) = preProject
 		..\kb-framework\pipeline\ingest.py = ..\kb-framework\pipeline\ingest.py
-		..\kb-framework\pipeline\rebuild.py = ..\kb-framework\pipeline\rebuild.py
 		..\kb-framework\pipeline\query.py = ..\kb-framework\pipeline\query.py
+		..\kb-framework\pipeline\rebuild.py = ..\kb-framework\pipeline\rebuild.py
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "agents", "agents", "{9301E7F9-2779-41A8-B40E-E6A2033083C6}"
 	ProjectSection(SolutionItems) = preProject
-		..\kb-framework\agents\wikipedia-style.md = ..\kb-framework\agents\wikipedia-style.md
-		..\kb-framework\agents\tagger.md = ..\kb-framework\agents\tagger.md
-		..\kb-framework\agents\summarizer.md = ..\kb-framework\agents\summarizer.md
-		..\kb-framework\agents\term-enricher.md = ..\kb-framework\agents\term-enricher.md
 		..\kb-framework\agents\cross-ref-finder.md = ..\kb-framework\agents\cross-ref-finder.md
 		..\kb-framework\agents\model-builder.md = ..\kb-framework\agents\model-builder.md
+		..\kb-framework\agents\summarizer.md = ..\kb-framework\agents\summarizer.md
+		..\kb-framework\agents\tagger.md = ..\kb-framework\agents\tagger.md
+		..\kb-framework\agents\term-enricher.md = ..\kb-framework\agents\term-enricher.md
+		..\kb-framework\agents\wikipedia-style.md = ..\kb-framework\agents\wikipedia-style.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rules", "rules", "{FC1F9314-7950-4E0D-84DD-B4D0AA7DA959}"
 	ProjectSection(SolutionItems) = preProject
-		..\kb-framework\rules\writing-style.md = ..\kb-framework\rules\writing-style.md
-		..\kb-framework\rules\tagging.md = ..\kb-framework\rules\tagging.md
-		..\kb-framework\rules\term-definition.md = ..\kb-framework\rules\term-definition.md
 		..\kb-framework\rules\cross-referencing.md = ..\kb-framework\rules\cross-referencing.md
 		..\kb-framework\rules\quality-checklist.md = ..\kb-framework\rules\quality-checklist.md
+		..\kb-framework\rules\tagging.md = ..\kb-framework\rules\tagging.md
+		..\kb-framework\rules\term-definition.md = ..\kb-framework\rules\term-definition.md
+		..\kb-framework\rules\writing-style.md = ..\kb-framework\rules\writing-style.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "schemas", "schemas", "{81EE6BED-491E-48E9-A4A9-E48EFA6FE5D1}"
 	ProjectSection(SolutionItems) = preProject
-		..\kb-framework\schemas\standard.yaml = ..\kb-framework\schemas\standard.yaml
 		..\kb-framework\schemas\report.yaml = ..\kb-framework\schemas\report.yaml
+		..\kb-framework\schemas\standard.yaml = ..\kb-framework\schemas\standard.yaml
 		..\kb-framework\schemas\term.yaml = ..\kb-framework\schemas\term.yaml
 	EndProjectSection
 EndProject
 Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9A6CB60F-0238-4C94-B1D4-B92AB25E06FE} = {DB84D525-C724-4C70-BE68-F4EB6555AE92}
 		{09A43038-D22F-44A7-AB13-9C5E457B9453} = {9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}
