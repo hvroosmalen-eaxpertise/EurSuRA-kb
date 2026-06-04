@@ -1,0 +1,9 @@
+# Site build (required to build/serve the wiki)
+mkdocs>=1.6,<2.0
+mkdocs-material>=9.5
+
+# Ingestion pipeline (kb-framework/pipeline/ingest.py)
+anthropic>=0.40
+pyyaml>=6.0
+python-dotenv>=1.0
+pypdf>=4.0          # PDF text-extraction fallback when marker-pdf is unavailable

@@ -8,7 +8,7 @@ source_file: 6 ESG Reporting frameworks.pdf
 
 # Sustainability and ESG Reporting Frameworks
 
-Sustainability and [[ESG (Environmental, Social, and Governance)]] reporting frameworks are standardised systems that guide organisations in disclosing their environmental, social, and governance performance and impacts. Six frameworks have achieved widespread institutional recognition: the [[Global Reporting Initiative]] (GRI), the [[European Sustainability Reporting Standards]] (ESRS), the [[Task Force on Climate-Related Financial Disclosures]] (TCFD), the [[Sustainability Accounting Standards Board]] (SASB), the [[International Sustainability Standards Board]] (ISSB), and the [[Carbon Disclosure Project]] (CDP).[^1] Increasing regulatory pressure, investor demand for [[material]] ESG data, and the imperative to prevent [[greenwashing]] have collectively elevated the importance of structured sustainability disclosure.[^1]
+Sustainability and [[ESG (Environmental, Social, and Governance)]] reporting frameworks are standardised systems that guide organisations in disclosing their environmental, social, and governance performance and impacts. Six frameworks have achieved widespread institutional recognition: the [[Global Reporting Initiative]] (GRI), the [[European Sustainability Reporting Standards]] (ESRS), the [[Task Force on Climate-Related Financial Disclosures]] (TCFD), the [[Sustainability Accounting Standards Board]] (SASB), the [[International Sustainability Standards Board]] (ISSB), and the [[Carbon Disclosure Project]] (CDP).[^1] Increasing regulatory pressure, investor demand for material ESG data, and the imperative to prevent [[greenwashing]] have collectively elevated the importance of structured sustainability disclosure.[^1]
 
 ---
 

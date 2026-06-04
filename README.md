@@ -57,11 +57,15 @@ All content lives in `docs/`. Each page is a Markdown file with a YAML frontmatt
 
 ### Ingest a PDF source document
 
-Drop the PDF into `pipeline/inbox/` and run:
+Drop the PDF into `pipeline/inbox/` and run the ingestion script from the shared
+framework (see `framework_path` in `config/kb.yaml`), pointing it at this KB:
 
 ```bash
-python pipeline/ingest.py
+python ../kb-framework/pipeline/ingest.py --kb .
 ```
+
+The pipeline calls the Claude API for enrichment, so copy `.env.example` to
+`.env` and set `ANTHROPIC_API_KEY` first.
 
 On success the pipeline:
 1. Moves the PDF to `pipeline/processed/`
@@ -84,20 +88,21 @@ On failure the PDF moves to `pipeline/failed/` and the error is recorded in `log
 `docs/cross-reference-matrix.md` maps ESRS topics (E1–E5, S1–S4, G1) to GRI standards, TCFD pillars, EU Taxonomy objectives, and UN SDGs. Update it manually when new standards are added, or regenerate it with:
 
 ```bash
-python pipeline/query.py --cross-ref
+python ../kb-framework/pipeline/query.py --kb . --cross-ref
 ```
 
 ## Requirements
 
 - Python 3.8+
-- `mkdocs` and `mkdocs-material`:
+- Install everything (site build + ingestion pipeline) from the pinned manifest:
   ```bash
-  pip install mkdocs mkdocs-material
+  pip install -r requirements.txt
   ```
+  To build/serve the wiki only, `mkdocs` and `mkdocs-material` are sufficient.
 
 ## Deployment (GitHub Pages)
 
-The repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml` that builds and deploys the site to GitHub Pages on every push to `main`.
+The repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`. Pull requests run a strict build (`mkdocs build --strict`), which fails on any unresolved `[[wikilink]]`; pushes to `master` build and deploy the site to GitHub Pages.
 
 ## Related Projects
 

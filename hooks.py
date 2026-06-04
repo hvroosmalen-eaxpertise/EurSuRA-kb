@@ -1,117 +1,221 @@
 """
-MkDocs hook: resolve [[wikilinks]] to proper relative markdown links.
+MkDocs hooks for the EurSuRA Knowledge Base.
 
-Runs on every page before rendering. Unknown wikilinks are rendered as plain text.
+Resolves ``[[wikilinks]]`` to relative Markdown links using an index that is
+built automatically from page titles and glossary headings — there is no
+hand-maintained link table to keep in sync.
+
+Behaviour:
+
+* A link that matches a page title, a title abbreviation, or a glossary term
+  resolves to the correct relative path, **including the heading anchor** for
+  glossary terms (e.g. ``[[Double Materiality]]`` → ``glossary.md#double-materiality``).
+* A link that cannot be resolved and is *not* in ``KNOWN_EXTERNAL`` renders as
+  plain text **and emits a build warning**. Under ``mkdocs build --strict`` this
+  fails the build, so a broken cross-reference can never silently disappear again.
+* ``KNOWN_EXTERNAL`` lists concepts that are deliberately referenced but do not
+  (yet) have a page or glossary entry. They render as plain text without a
+  warning. To turn one into a real link, add a glossary entry (or page) and
+  remove it from this set.
 """
 
 import os
 import re
-from pathlib import PurePosixPath
+import logging
+from pathlib import Path, PurePosixPath
 
-WIKILINK_RE = re.compile(r'\[\[([^\]|]+?)(?:\|([^\]]+))?\]\]')
+from markdown.extensions.toc import slugify
 
-# Normalised wikilink text → path relative to docs root
-LINK_MAP = {
-    # ── Standards ──────────────────────────────────────────────────────────────
-    "esrs": "standards/esrs/index.md",
-    "esrs 1": "standards/esrs/index.md",
-    "esrs e1": "standards/esrs/index.md",
-    "esrs — european sustainability reporting standards": "standards/esrs/index.md",
-    "esrs — european sustainability reporting standards|esrs": "standards/esrs/index.md",
-    "european sustainability reporting standards": "standards/esrs/index.md",
+log = logging.getLogger("mkdocs.plugins.eursura.wikilinks")
 
-    "csrd": "standards/csrd/index.md",
-    "csrd — corporate sustainability reporting directive": "standards/csrd/index.md",
-    "csrd — corporate sustainability reporting directive|csrd": "standards/csrd/index.md",
-    "corporate sustainability reporting directive": "standards/csrd/index.md",
-    "corporate sustainability reporting directive (csrd)": "standards/csrd/index.md",
+WIKILINK_RE = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]+))?\]\]")
+HEADING_RE = re.compile(r"^#{2,3}\s+(.+?)\s*#*$", re.MULTILINE)
+PAREN_RE = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*$")
 
-    "eu taxonomy": "standards/eu-taxonomy/index.md",
-    "eu taxonomy regulation": "standards/eu-taxonomy/index.md",
+# Concepts intentionally referenced without a local target (no page / glossary
+# entry yet). These render as plain text and do NOT raise a warning. Add a
+# glossary entry and remove the term here to turn it into a live link.
+KNOWN_EXTERNAL = {
+    "ai continent action plan",
+    "artificial intelligence",
+    "carbon border adjustment mechanism",
+    "carbon disclosure project",
+    "carbon leakage",
+    "climate change",
+    "corporate social responsibility",
+    "corporate sustainability due diligence directive",
+    "esg (environmental, social, and governance)",
+    "ifrs foundation",
+    "digital decade policy programme",
+    "digital skills indicator",
+    "european strategy for a better internet for kids",
+    "greenhouse gas",
+    "greenwashing",
+    "grievance mechanisms in business and human rights",
+    "integrated reporting",
+    "joint research centre",
+    "oecd guidelines for multinational enterprises",
+    "paris agreement",
+    "principles for responsible investment",
+    "renewable energy",
+    "science-based targets",
+    "science-based targets initiative (sbti)",
+    "sustainability accounting standards board",
+    "sustainable finance disclosure regulation",
+    "un global compact",
+    "un guiding principles on business and human rights",
+    "union of skills",
+    "united nations guiding principles on business and human rights",
+    "value chain due diligence",
+}
 
-    "vsme": "standards/vsme/index.md",
-    "vsme — voluntary sustainability reporting standard for non-listed smes": "standards/vsme/index.md",
-    "vsme — voluntary sustainability reporting standard for non-listed smes|vsme": "standards/vsme/index.md",
-    "voluntary sustainability reporting standard for non-listed smes": "standards/vsme/index.md",
-    "small and medium-sized enterprises": "standards/vsme/index.md",
+# Short synonyms that do not appear literally in any title or heading.
+# Normalised link text → docs-relative target (optionally with #anchor).
+MANUAL_ALIASES = {
     "sme": "standards/vsme/index.md",
     "smes": "standards/vsme/index.md",
-
-    "ghg protocol": "standards/ghg-protocol/index.md",
-    "ghg protocol corporate standard": "standards/ghg-protocol/index.md",
-
-    # ── Frameworks ─────────────────────────────────────────────────────────────
-    "gri": "frameworks/gri/index.md",
-    "gri — global reporting initiative": "frameworks/gri/index.md",
-    "gri — global reporting initiative|gri standards": "frameworks/gri/index.md",
-    "global reporting initiative": "frameworks/gri/index.md",
-
-    "tcfd": "frameworks/tcfd/index.md",
-    "tcfd — task force on climate-related financial disclosures": "frameworks/tcfd/index.md",
-    "tcfd — task force on climate-related financial disclosures|tcfd": "frameworks/tcfd/index.md",
-    "task force on climate-related financial disclosures": "frameworks/tcfd/index.md",
-    "task force on climate-related financial disclosures": "frameworks/tcfd/index.md",
-
-    "un sustainable development goals": "frameworks/un-sdgs/index.md",
+    "small and medium-sized enterprises": "standards/vsme/index.md",
     "un sdgs": "frameworks/un-sdgs/index.md",
     "sdgs": "frameworks/un-sdgs/index.md",
     "sustainable development goals": "frameworks/un-sdgs/index.md",
-
-    # ── Models ──────────────────────────────────────────────────────────────────
-    "semantic model": "models/semantic-model.md",
-    "concept map": "models/concept-map.md",
-    "ontology": "models/ontology.md",
-    "cross-reference matrix": "cross-reference-matrix.md",
-
-    # ── Glossary terms ──────────────────────────────────────────────────────────
-    "double materiality": "glossary.md",
-    "double materiality assessment": "glossary.md",
-    "materiality assessment": "glossary.md",
-    "impact materiality": "glossary.md",
-    "financial materiality": "glossary.md",
-
-    "dnsh": "glossary.md",
-    "do no significant harm": "glossary.md",
-
-    "efrag": "glossary.md",
-    "european financial reporting advisory group": "glossary.md",
-    "european financial reporting advisory group (efrag)": "glossary.md",
-
-    "nfrd": "glossary.md",
-
-    "ifrs s1": "glossary.md",
-    "ifrs s2": "glossary.md",
-    "ifrs s2 climate-related disclosures": "glossary.md",
-    "international sustainability standards board": "glossary.md",
-    "issb": "glossary.md",
-
-    "scope 1": "glossary.md",
-    "scope 2": "glossary.md",
-    "scope 3": "glossary.md",
-    "scope 1 emissions": "glossary.md",
-    "scope 2 emissions": "glossary.md",
-    "scope 3 emissions": "glossary.md",
-    "scope 1, 2, and 3": "glossary.md",
-    "scope 1, 2, and 3 emissions": "glossary.md",
-
-    "taxonomy alignment": "glossary.md",
-    "taxonomy eligibility": "glossary.md",
-
-    "vsme": "standards/vsme/index.md",
+    "eu taxonomy": "standards/eu-taxonomy/index.md",
+    "ghg protocol": "standards/ghg-protocol/index.md",
+    "esrs 1": "standards/esrs/index.md",
+    "esrs e1": "standards/esrs/index.md",
+    "european financial reporting advisory group": "glossary.md#efrag",
+    "european financial reporting advisory group (efrag)": "glossary.md#efrag",
+    "issb": "glossary.md#ifrs-s1-ifrs-s2",
+    "international sustainability standards board": "glossary.md#ifrs-s1-ifrs-s2",
+    "ifrs s1": "glossary.md#ifrs-s1-ifrs-s2",
+    "ifrs s2": "glossary.md#ifrs-s1-ifrs-s2",
+    "ifrs s2 climate-related disclosures": "glossary.md#ifrs-s1-ifrs-s2",
+    "scope 1": "glossary.md#scope-1-emissions",
+    "scope 2": "glossary.md#scope-2-emissions",
+    "scope 3": "glossary.md#scope-3-emissions",
+    "scope 1, 2, and 3": "glossary.md#scope-1-emissions",
+    "scope 1, 2, and 3 emissions": "glossary.md#scope-1-emissions",
+    "materiality assessment": "glossary.md#double-materiality",
+    "double materiality assessment": "glossary.md#double-materiality",
 }
+
+# Populated by on_config(); normalised link text → docs-relative target.
+LINK_INDEX = {}
+
+
+def _norm(text):
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+
+def _register(index, key, target):
+    # First registration wins; callers add higher-priority tiers first.
+    index.setdefault(_norm(key), target)
+
+
+def _read_title(md_text):
+    if not md_text.startswith("---"):
+        return None
+    end = md_text.find("\n---", 3)
+    if end == -1:
+        return None
+    for line in md_text[3:end].splitlines():
+        if line.strip().lower().startswith("title:"):
+            return line.split(":", 1)[1].strip().strip("\"'")
+    return None
+
+
+def _index_titles(index, docs_dir):
+    for md in sorted(Path(docs_dir).rglob("*.md")):
+        rel = md.relative_to(docs_dir).as_posix()
+        title = _read_title(md.read_text(encoding="utf-8"))
+        if not title:
+            continue
+        _register(index, title, rel)
+        if "—" in title:  # "ABBR — Full Name" → register both sides
+            abbr, _, full = title.partition("—")
+            _register(index, abbr, rel)
+            _register(index, full, rel)
+        paren = PAREN_RE.match(title)  # "Name (ABBR)" → register name and abbr
+        if paren:
+            _register(index, paren.group(1), rel)
+            _register(index, paren.group(2), rel)
+
+
+def _index_glossary(index, docs_dir):
+    glossary = Path(docs_dir) / "glossary.md"
+    if not glossary.exists():
+        return
+    for heading in HEADING_RE.findall(glossary.read_text(encoding="utf-8")):
+        if heading.strip().lower() == "glossary":
+            continue
+        anchor = "glossary.md#" + slugify(heading, "-")
+        _register(index, heading, anchor)
+        paren = PAREN_RE.match(heading)
+        if paren:
+            _register(index, paren.group(1), anchor)  # name without abbr
+            _register(index, paren.group(2), anchor)  # abbr alone
+        if "/" in heading:  # "IFRS S1 / IFRS S2" → each side
+            for part in heading.split("/"):
+                _register(index, part, anchor)
+
+
+def on_config(config, **kwargs):
+    """Build the wikilink index once, before any page is rendered."""
+    docs_dir = config["docs_dir"]
+    LINK_INDEX.clear()
+    # Priority order (first wins): manual aliases, page titles, glossary terms.
+    for key, target in MANUAL_ALIASES.items():
+        _register(LINK_INDEX, key, target)
+    _index_titles(LINK_INDEX, docs_dir)
+    _index_glossary(LINK_INDEX, docs_dir)
+    log.info("wikilinks: indexed %d link targets", len(LINK_INDEX))
+    return config
+
+
+def _meta_line(meta):
+    """Render selected frontmatter as a visible metadata line, or '' if none."""
+    parts = []
+    if meta.get("content_type"):
+        parts.append(f"**Type:** `{meta['content_type']}`")
+    domain = meta.get("domain")
+    if domain:
+        if isinstance(domain, list):
+            domain = ", ".join(str(d) for d in domain)
+        parts.append(f"**Domain:** `{domain}`")
+    if meta.get("status"):
+        parts.append(f"**Status:** `{meta['status']}`")
+    return " · ".join(parts)
+
+
+def _inject_meta(markdown, meta):
+    """Insert the metadata line just below the first H1 heading."""
+    line = _meta_line(meta)
+    if not line:
+        return markdown
+    out, injected = [], False
+    for row in markdown.splitlines():
+        out.append(row)
+        if not injected and row.startswith("# "):
+            out.append("")
+            out.append(line)
+            injected = True
+    return "\n".join(out) if injected else markdown
 
 
 def on_page_markdown(markdown, page, config, **kwargs):
     src = page.file.src_path.replace("\\", "/")
     current_dir = PurePosixPath(src).parent
+    markdown = _inject_meta(markdown, page.meta or {})
 
     def replace(match):
         link_key = match.group(1).strip()
-        display  = (match.group(2) or link_key).strip()
-        target   = LINK_MAP.get(link_key.lower())
+        display = (match.group(2) or link_key).strip()
+        target = LINK_INDEX.get(_norm(link_key))
         if not target:
-            return display  # unknown link → plain text, no broken anchor
-        rel = os.path.relpath(target, str(current_dir)).replace("\\", "/")
-        return f"[{display}]({rel})"
+            if _norm(link_key) not in KNOWN_EXTERNAL:
+                log.warning("wikilinks: unresolved [[%s]] in %s", link_key, src)
+            return display  # plain text, no broken anchor
+        path, _, anchor = target.partition("#")
+        rel = os.path.relpath(path, str(current_dir)).replace("\\", "/")
+        return f"[{display}]({rel}#{anchor})" if anchor else f"[{display}]({rel})"
 
     return WIKILINK_RE.sub(replace, markdown)

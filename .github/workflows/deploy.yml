@@ -1,24 +1,54 @@
-name: Deploy Wiki
+name: Build & Deploy Wiki
 
 on:
   push:
-    branches: [main]
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          submodules: true
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: pip
 
-      - name: Install MkDocs
-        run: pip install mkdocs mkdocs-material
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
+      # --strict turns unresolved [[wikilinks]] and other warnings into errors,
+      # so a broken cross-reference fails the build instead of shipping silently.
+      - name: Build (strict)
+        run: python -m mkdocs build --config-file mkdocs.yml --strict
+
+      - name: Upload Pages artifact
+        if: github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    # Only deploy on push to master; pull requests just run the strict build above.
+    if: github.event_name == 'push'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+        id: deployment
+        uses: actions/deploy-pages@v4
