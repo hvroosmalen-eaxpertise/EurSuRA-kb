@@ -1,0 +1,5 @@
+name: EurSuRA-kb
+description: European Sustainability Reporting and Assessment Knowledge Base
+framework_path: ../kb-framework
+default_source_body: EFRAG
+mkdocs_config: mkdocs.yml

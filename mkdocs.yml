@@ -1,0 +1,46 @@
+site_name: EurSuRA Knowledge Base
+site_description: European Sustainability Reporting and Assessment
+site_author: EAXpertise
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+
+nav:
+  - Home: index.md
+  - Standards:
+    - ESRS: standards/esrs/index.md
+    - CSRD: standards/csrd/index.md
+    - EU Taxonomy: standards/eu-taxonomy/index.md
+  - Frameworks:
+    - UN SDGs: frameworks/un-sdgs/index.md
+    - GRI: frameworks/gri/index.md
+    - TCFD: frameworks/tcfd/index.md
+  - Reports: reports/2025/index.md
+  - Models:
+    - Semantic Model: models/semantic-model.md
+    - Concept Map: models/concept-map.md
+    - Ontology: models/ontology.md
+    - Cross-Reference Matrix: cross-reference-matrix.md
+  - Glossary: glossary.md
