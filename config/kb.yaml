@@ -9,3 +9,16 @@ lint:
   ignore_terms:                   # glossary terms too common to require wikilinking
     - sustainability
     - climate change
+
+# Domain tag -> canonical page. Used by ingest (Layer-1 merge) and bootstrap (splitter
+# routing). Tags are matched case-insensitively against frontmatter `domain` values.
+domains:
+  ESRS: standards/esrs/index.md
+  CSRD: standards/csrd/index.md
+  EU-TAXONOMY: standards/eu-taxonomy/index.md
+  VSME: standards/vsme/index.md
+  GHG: standards/ghg-protocol/index.md
+  GHG-PROTOCOL: standards/ghg-protocol/index.md
+  GRI: frameworks/gri/index.md
+  TCFD: frameworks/tcfd/index.md
+  SDG: frameworks/un-sdgs/index.md
