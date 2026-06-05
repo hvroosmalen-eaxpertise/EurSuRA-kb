@@ -142,6 +142,21 @@ It runs warn-only after each ingest. Policy — which finding kinds fail, and
 glossary terms to ignore — lives in the `lint:` block of `config/kb.yaml`. CI
 runs the deterministic checks as a hard gate.
 
+## Rebuilding from scratch (bootstrap)
+
+`bootstrap.py` rebuilds the wiki from the PDFs in `pipeline/inbox/`, using the
+`mkdocs.yml` nav as the blueprint and the `domains:` map in `config/kb.yaml` to route
+content. It splits each source across the domains it substantively covers, seeds the
+glossary, regenerates models/insights/catalog, and scaffolds any unfilled nav page so the
+strict build passes.
+
+```bash
+python ../kb-framework/pipeline/bootstrap.py --kb . --clean   # true from-scratch
+```
+
+Bootstrapped domain pages are auto-generated summaries from the source PDFs — structurally
+complete but lower quality than hand-authored pages. Everyday `ingest` is unaffected.
+
 ## Logs and Change History
 
 | File | Purpose |
