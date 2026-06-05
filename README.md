@@ -76,10 +76,11 @@ python ../kb-framework/pipeline/ingest.py --kb .
 The pipeline calls the Claude API for enrichment, so copy `.env.example` to
 `.env` and set `ANTHROPIC_API_KEY` first.
 
-On success the pipeline runs the three-layer flow described below, then builds
-the site and **commits locally** (it does not push — you review the merged and
-synthesised diffs, then `git push` yourself). On failure the PDF moves to
-`pipeline/failed/` and the error is recorded in `logs/ingestion.log`.
+On success the pipeline runs the three-layer flow described below, regenerates
+the catalog, runs a warn-only lint, then builds the site and **commits locally**
+(it does not push — you review the merged and synthesised diffs, then `git push`
+yourself). On failure the PDF moves to `pipeline/failed/` and the error is
+recorded in `logs/ingestion.log`.
 
 ## How ingestion builds knowledge (the three layers)
 
@@ -96,8 +97,9 @@ three connected layers:
    terminology stays consistent across domains. Domain pages reference terms via
    `[[wikilinks]]` and never redefine them. `[[wikilinks]]` are resolved
    automatically (see `hooks.py`) and validated by the strict build.
-3. **Synthesis layer** — Cross-domain *insight* pages and the cross-reference
-   matrix are **regenerated** from the current corpus (see Insights below).
+3. **Synthesis layer** — Cross-domain *insight* pages, the cross-reference
+   matrix, and the page **catalog** are **regenerated** from the current corpus
+   (see Insights and Catalog below).
 
 ## Insights (cross-domain synthesis pages)
 
@@ -113,6 +115,32 @@ Insight pages, the cross-reference matrix, and the derived models carry
 `generated: true` in their frontmatter and render a "Generated page" banner.
 **Do not edit them by hand** — they are overwritten on regeneration. To change
 one, edit its source domain pages or `config/synthesis.yaml`.
+
+## Catalog (read API)
+
+`docs/catalog.md` lists every page grouped by type; `docs/catalog.json` is the
+same data as a machine-readable array, served on the live site at
+[`/catalog.json`](https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/catalog.json).
+Both carry `generated: true` and are regenerated on every ingest, or manually:
+
+```bash
+python ../kb-framework/pipeline/query.py --kb . --catalog
+```
+
+## Quality checks (lint)
+
+`lint.py` health-checks the corpus: **orphans** (pages reachable from neither the
+nav nor any `[[wikilink]]`), **stale/dangling sources**, and **missing
+cross-references**; `--deep` adds an LLM contradiction check.
+
+```bash
+python ../kb-framework/pipeline/lint.py --kb .          # deterministic checks
+python ../kb-framework/pipeline/lint.py --kb . --deep   # + contradiction check
+```
+
+It runs warn-only after each ingest. Policy — which finding kinds fail, and
+glossary terms to ignore — lives in the `lint:` block of `config/kb.yaml`. CI
+runs the deterministic checks as a hard gate.
 
 ## Logs and Change History
 
@@ -141,7 +169,7 @@ python ../kb-framework/pipeline/query.py --kb . --cross-ref
 
 ## Deployment (GitHub Pages)
 
-The repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`. Pull requests run a strict build (`mkdocs build --strict`), which fails on any unresolved `[[wikilink]]`; pushes to `master` build and deploy the site to GitHub Pages.
+The repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`. Pull requests run the deterministic **lint gate** (`lint.py`, failing on orphan/stale findings) and a strict build (`mkdocs build --strict`, failing on any unresolved `[[wikilink]]`); pushes to `master` build and deploy the site to GitHub Pages. Every page shows its last-update datetime in the footer, sourced from git history via the `git-revision-date-localized` plugin.
 
 ## Related Projects
 
