@@ -47,9 +47,25 @@ from the local `config/kb.yaml` — exactly like the existing `--synthesis` and
 
 - Derive from frontmatter already written by the pipeline (`load_articles()` in
   `query.py` already parses it). No new hand-maintained tables.
-- Live in `kb-framework/pipeline/` (shared across KBs); configured from local
-  `config/kb.yaml`.
+- **Mechanism lives in `kb-framework` (the engine); policy and artefacts stay in the
+  instance.** `kb-framework` already embodies this split (`rules/` + `schemas/` +
+  `agents/` + `pipeline/`); these additions must honour it rather than dump instance
+  logic into the engine or engine logic into the instance.
 - Regenerated artefacts carry `generated: true` and render the existing banner.
+
+### Where each part lives
+
+| Design part | `kb-framework` (engine, reusable) | EurSuRA-kb (instance, local) |
+|---|---|---|
+| **Catalog** | `build_catalog()` generator in `query.py` | `docs/catalog.md` + `catalog.json` artefacts; grouping config in `kb.yaml` |
+| **Lint** | `lint.py` engine + `agents/linter.md`; enforces `rules/quality-checklist.md` | lint policy in `kb.yaml` (hard-vs-warn, ignore lists, `orphan_ok`); `logs/lint.log` |
+| **Schema doc** | generic schema surface (`rules/` + `schemas/` + a tying-together overview) | thin `CLAUDE.md` pointer + instance specifics (domains, do-not-edit list) |
+| **Docs refresh** | update stale `README.md` (missing `--synthesis`, three-layer merge, catalog, lint) | — |
+
+Two consequences of this split, expanded in the components below: **(1)** lint is the
+*automated enforcement of an existing framework rule* (`quality-checklist.md`), not a new
+concept; **(2)** the "schema layer" Karpathy calls the key config file *already exists* in
+`kb-framework` — the instance `CLAUDE.md` is therefore thin, mostly a pointer.
 
 ---
 
@@ -91,6 +107,12 @@ This matters most once content arrives faster than a human diffs every change.
 Writes `logs/lint.log` and a console summary; **exits non-zero on hard failures** so CI
 can gate it, mirroring `mkdocs build --strict`.
 
+**This is the automated enforcement of an existing framework rule, not a new concept.**
+`kb-framework/rules/quality-checklist.md` already defines the pre-publish checklist
+(completeness, citations, links). `lint.py` operationalises it; it should reference that
+rule file so the human-readable rule and its machine enforcement cannot drift. New checks
+are added to the rule file first, then enforced in `lint.py`.
+
 **Checks, two tiers:**
 
 - **Deterministic (free, always on — the CI gate):**
@@ -118,24 +140,35 @@ hard-fail vs warn, glossary-term ignore list) with safe defaults if absent.
 **Output format:** grouped findings (`ORPHAN` / `STALE` / `XREF` / `CONTRADICTION`) with
 `path:detail`, plus a one-line pass/fail summary and counts.
 
-## Component 3 — Local schema file (`CLAUDE.md`)
+## Component 3 — Schema layer (mostly framework, thin instance pointer)
 
-**Purpose:** Karpathy's "schema is the key configuration file." The local `CLAUDE.md` is
-currently empty (0 bytes); the schema lives only in `kb-framework`. Make the repo
-self-describing without duplicating the shared rules.
+**Purpose:** Karpathy's "schema is the key configuration file." The catch: that schema
+layer **already exists in `kb-framework`** (`rules/` + `schemas/` + the README). The work
+is therefore *not* writing a big local schema — it is (a) giving the framework one tying-
+together overview, and (b) shrinking the empty local `CLAUDE.md` to a thin pointer. This
+keeps the schema reusable across KBs and avoids duplicating framework rules into every
+instance.
 
-**Content (a short schema-of-record, not a copy of `kb-framework`):**
+**Framework side (`kb-framework`):**
 
-- The three layers (domain / glossary graph / synthesis) and what is **canonical vs
-  generated** — i.e. the do-not-hand-edit list (`catalog.*`, `cross-reference-matrix.md`,
-  `insights/*`, `models/*`).
-- The frontmatter schema and wikilink rules, pointing to `hooks.py` for the resolver.
-- The pipeline command surface: ingest / `--catalog` / `--synthesis` / `--cross-ref` /
-  lint.
-- A pointer to `kb-framework` (rules, agents, schemas) as the shared source of truth.
+- A short **schema overview** that ties `rules/` + `schemas/` + `agents/` together as the
+  one Karpathy "schema" surface (e.g. a `schemas/README.md` or a section in the root
+  README). It names the three layers and the canonical-vs-generated distinction once, for
+  all KBs.
+- Refresh the stale root `README.md`: document `--synthesis`, the three-layer merge
+  ingest, and the new `--catalog` / `lint.py` surface.
 
-**Decision (D):** hand-written to match the layer model (not `/init`-generated), kept
-short and link-heavy to avoid drift with `kb-framework`.
+**Instance side (EurSuRA-kb `CLAUDE.md`) — thin, link-heavy:**
+
+- The instance's **actual** do-not-hand-edit list (`catalog.*`,
+  `cross-reference-matrix.md`, `insights/*`, `models/*`).
+- The instance's domains (ESRS/CSRD/EU Taxonomy/VSME/GHG/…) and `hooks.py` as the local
+  wikilink resolver.
+- A pointer to the `kb-framework` schema overview as the shared source of truth — **not** a
+  copy of it.
+
+**Decision (D):** hand-written (not `/init`-generated); the generic content lives in the
+framework, the instance file stays short to avoid drift.
 
 ---
 
