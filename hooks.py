@@ -101,6 +101,12 @@ MANUAL_ALIASES = {
 # Populated by on_config(); normalised link text → docs-relative target.
 LINK_INDEX = {}
 
+# Populated by on_config(): KNOWN_EXTERNAL plus any terms listed in
+# config/known_external.txt (one per line). Terms here render as plain text without
+# a warning. bootstrap.py appends auto-generated external concepts to that file so a
+# from-scratch build passes --strict. Edit the file to promote a term to a real link.
+RUNTIME_EXTERNAL = set(KNOWN_EXTERNAL)
+
 
 def _norm(text):
     return re.sub(r"\s+", " ", text).strip().lower()
@@ -158,15 +164,40 @@ def _index_glossary(index, docs_dir):
                 _register(index, part, anchor)
 
 
+def _index_slugs(index, docs_dir):
+    """Register each page's slug (folder name for index.md, else file stem) as a
+    lowest-priority link target, so e.g. ``[[eu-taxonomy]]`` resolves to that page."""
+    for md in sorted(Path(docs_dir).rglob("*.md")):
+        rel = md.relative_to(docs_dir).as_posix()
+        slug = md.parent.name if md.name == "index.md" else md.stem
+        if slug:
+            _register(index, slug, rel)
+
+
+def _load_known_external(docs_dir):
+    """KNOWN_EXTERNAL plus normalised terms from config/known_external.txt, if present."""
+    ext = set(KNOWN_EXTERNAL)
+    kx = Path(docs_dir).parent / "config" / "known_external.txt"
+    if kx.exists():
+        for line in kx.read_text(encoding="utf-8").splitlines():
+            term = _norm(line)
+            if term and not term.startswith("#"):
+                ext.add(term)
+    return ext
+
+
 def on_config(config, **kwargs):
     """Build the wikilink index once, before any page is rendered."""
     docs_dir = config["docs_dir"]
     LINK_INDEX.clear()
-    # Priority order (first wins): manual aliases, page titles, glossary terms.
+    # Priority order (first wins): manual aliases, page titles, glossary terms, slugs.
     for key, target in MANUAL_ALIASES.items():
         _register(LINK_INDEX, key, target)
     _index_titles(LINK_INDEX, docs_dir)
     _index_glossary(LINK_INDEX, docs_dir)
+    _index_slugs(LINK_INDEX, docs_dir)
+    RUNTIME_EXTERNAL.clear()
+    RUNTIME_EXTERNAL.update(_load_known_external(docs_dir))
     log.info("wikilinks: indexed %d link targets", len(LINK_INDEX))
     return config
 
@@ -222,7 +253,7 @@ def on_page_markdown(markdown, page, config, **kwargs):
         display = (match.group(2) or link_key).strip()
         target = LINK_INDEX.get(_norm(link_key))
         if not target:
-            if _norm(link_key) not in KNOWN_EXTERNAL:
+            if _norm(link_key) not in RUNTIME_EXTERNAL:
                 log.warning("wikilinks: unresolved [[%s]] in %s", link_key, src)
             return display  # plain text, no broken anchor
         path, _, anchor = target.partition("#")

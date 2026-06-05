@@ -157,6 +157,12 @@ python ../kb-framework/pipeline/bootstrap.py --kb . --clean   # true from-scratc
 Bootstrapped domain pages are auto-generated summaries from the source PDFs — structurally
 complete but lower quality than hand-authored pages. Everyday `ingest` is unaffected.
 
+To keep the from-scratch build **strict-clean**, bootstrap reconciles cross-references: it
+resolves `[[domain-slug]]` links automatically (e.g. `[[eu-taxonomy]]`) and records any
+remaining external concepts the LLM referenced in `config/known_external.txt`, so
+`mkdocs build --strict` passes. Promote one of those to a real link by adding a page or
+glossary entry and removing it from that file.
+
 ## Logs and Change History
 
 | File | Purpose |
