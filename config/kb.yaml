@@ -3,3 +3,9 @@ description: European Sustainability Reporting and Assessment Knowledge Base
 framework_path: ../kb-framework
 default_source_body: EFRAG
 mkdocs_config: mkdocs.yml
+
+lint:
+  hard_fail: [ORPHAN, STALE]      # kinds that fail CI; XREF and CONTRADICTION are advisory
+  ignore_terms:                   # glossary terms too common to require wikilinking
+    - sustainability
+    - climate change
