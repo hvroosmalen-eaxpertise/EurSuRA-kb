@@ -4,6 +4,8 @@ The **EurSuRA Knowledge Base** is a structured wiki covering the standards, dire
 
 It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
+**Live wiki:** <https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/>
+
 ## Contents
 
 | Section | Description |
@@ -15,6 +17,13 @@ It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](http
 | **Reports** | Ingested sustainability reports (2025) |
 
 ## Viewing the Wiki
+
+### Live site (GitHub Pages)
+
+The wiki is published automatically on every push to `master` at
+**<https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/>**. A machine-readable
+catalog of every page is served at
+[`/catalog.json`](https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/catalog.json).
 
 ### Locally (development server)
 
