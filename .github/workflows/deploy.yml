@@ -29,6 +29,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # The pipeline lives in the sibling kb-framework repo; clone it to ../kb-framework
+      # so `framework_path: ../kb-framework` (config/kb.yaml) resolves in CI.
+      - name: Check out kb-framework (sibling path)
+        run: git clone --depth 1 https://github.com/hvroosmalen-eaxpertise/kb-framework.git ../kb-framework
+
+      # Deterministic lint gate: fails on ORPHAN/STALE findings (see lint: in config/kb.yaml).
+      # Mirrors the strict build's link gate, but for semantic integrity.
+      - name: Lint (deterministic gate)
+        run: python ../kb-framework/pipeline/lint.py --kb .
+
       # --strict turns unresolved [[wikilinks]] and other warnings into errors,
       # so a broken cross-reference fails the build instead of shipping silently.
       - name: Build (strict)
