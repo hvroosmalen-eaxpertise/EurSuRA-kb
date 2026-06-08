@@ -4,71 +4,67 @@ site_author: EAXpertise
 site_url: https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/
 docs_dir: docs
 site_dir: site
-
 repo_url: https://github.com/hvroosmalen-eaxpertise/EurSuRA-kb
 repo_name: hvroosmalen-eaxpertise/EurSuRA-kb
 edit_uri: edit/master/docs/
-
 theme:
   name: material
   palette:
     primary: green
     accent: teal
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.footer
-    - content.action.edit
-    - search.highlight
-    - search.suggest
-    - toc.follow
-
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - navigation.footer
+  - content.action.edit
+  - search.highlight
+  - search.suggest
+  - toc.follow
 plugins:
-  - search
-  - git-revision-date-localized:
-      type: datetime
-      fallback_to_build_date: true
-      enable_creation_date: false
-
+- search
+- git-revision-date-localized:
+    type: datetime
+    fallback_to_build_date: true
+    enable_creation_date: false
 hooks:
-  - hooks.py
-
+- hooks.py
 markdown_extensions:
-  - tables
-  - toc:
-      permalink: true
-  - admonition
-  - footnotes
-
+- tables
+- toc:
+    permalink: true
+- admonition
+- footnotes
 nav:
-  - Home: index.md
-  - Standards:
-    - ESRS: standards/esrs/index.md
-    - CSRD: standards/csrd/index.md
-    - EU Taxonomy: standards/eu-taxonomy/index.md
-    - VSME: standards/vsme/index.md
-    - GHG Protocol: standards/ghg-protocol/index.md
-  - Frameworks:
-    - UN SDGs: frameworks/un-sdgs/index.md
-    - GRI: frameworks/gri/index.md
-    - TCFD: frameworks/tcfd/index.md
-  - Reports:
-    - "2025": reports/2025/index.md
-    - "2026":
-      - Overview: reports/2026/index.md
-      - "Sustainability and ESG Reporting Frameworks": reports/2026/6-esg-reporting-frameworks.md
-      - "Due Diligence in Corporate Sustainability": reports/2026/due-diligence-in-6-stappen-nl-sep2021.md
-      - "ESG Business Handbook": reports/2026/esg-business-handbook.md
-      - "DigComp 3.0 - European Digital Competence Framework": reports/2026/jrc144121_01.md
-      - "Voluntary Sustainability Reporting for SMEs": reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
-  - Models:
-    - Semantic Model: models/semantic-model.md
-    - Concept Map: models/concept-map.md
-    - Ontology: models/ontology.md
-    - Cross-Reference Matrix: cross-reference-matrix.md
-  - Insights:
-    - Overview: insights/index.md
-    - "Climate Disclosure Across Frameworks": insights/climate-disclosure-across-frameworks.md
-  - Glossary: glossary.md
-  - Catalog: catalog.md
+- Home: index.md
+- Standards:
+  - ESRS: standards/esrs/index.md
+  - CSRD: standards/csrd/index.md
+  - EU Taxonomy: standards/eu-taxonomy/index.md
+  - VSME: standards/vsme/index.md
+  - GHG Protocol: standards/ghg-protocol/index.md
+- Frameworks:
+  - UN SDGs: frameworks/un-sdgs/index.md
+  - GRI: frameworks/gri/index.md
+  - TCFD: frameworks/tcfd/index.md
+- Reports:
+  - '2025': reports/2025/index.md
+  - '2026':
+    - Overview: reports/2026/index.md
+    - Sustainability and ESG Reporting Frameworks: reports/2026/6-esg-reporting-frameworks.md
+    - Due Diligence in Corporate Sustainability: reports/2026/due-diligence-in-6-stappen-nl-sep2021.md
+    - ESG Business Handbook: reports/2026/esg-business-handbook.md
+    - DigComp 3.0 - European Digital Competence Framework: reports/2026/jrc144121_01.md
+    - Voluntary Sustainability Reporting for SMEs: reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
+- Models:
+  - Semantic Model: models/semantic-model.md
+  - Concept Map: models/concept-map.md
+  - Ontology: models/ontology.md
+  - Cross-Reference Matrix: cross-reference-matrix.md
+- Insights:
+  - Overview: insights/index.md
+  - Climate Disclosure Across Frameworks: insights/climate-disclosure-across-frameworks.md
+  - The SME Reporting Pathway: insights/the-sme-reporting-pathway.md
+  - Double Materiality Across Regimes: insights/double-materiality-across-regimes.md
+- Glossary: glossary.md
+- Catalog: catalog.md

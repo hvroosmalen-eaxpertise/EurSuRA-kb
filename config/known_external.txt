@@ -1,0 +1,18 @@
+# Auto-recorded by bootstrap: external concepts referenced by [[wikilinks]]
+# but not (yet) pages or glossary terms. Promote one by adding a page/glossary
+# entry and removing it here.
+carbon border adjustment mechanism (cbam)
+cdp
+circular economy
+corporate sustainability due diligence
+corporate sustainability reporting directive (csrd)
+digital competence
+european sustainability reporting standards (esrs)
+national contact points (oecd)
+sasb
+supply chain due diligence
+sustainability reporting
+sustainability transformation
+sustainable resource use
+voluntary sustainability reporting standard for smes
+vsme (voluntary sustainability reporting standard for smes)

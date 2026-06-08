@@ -93,8 +93,9 @@ three connected layers:
    `domain-merge` agent integrates new facts, reconciles overlaps, and preserves
    curated prose. Reports stay standalone.
 2. **Shared graph** — Terms are extracted and **upserted into the single
-   `docs/glossary.md`** (updated in place if the term exists, appended if new), so
-   terminology stays consistent across domains. Domain pages reference terms via
+   `docs/glossary.md`** (updated in place if the term exists, appended if new) and
+   always rendered in **alphabetical order** (case-insensitive), so terminology stays
+   consistent across domains. Domain pages reference terms via
    `[[wikilinks]]` and never redefine them. `[[wikilinks]]` are resolved
    automatically (see `hooks.py`) and validated by the strict build.
 3. **Synthesis layer** — Cross-domain *insight* pages, the cross-reference
@@ -170,6 +171,7 @@ glossary entry and removing it from that file.
 | `CHANGELOG.md` | Human-readable record of all content additions — ingested and manual |
 | `logs/ingestion.log` | Machine-readable event log: START / EXTRACTED / WRITTEN / DONE / FAILED per PDF |
 | `logs/enrichment.log` | Claude enrichment steps: style rewrite, tagging, domain merge, glossary upsert |
+| `logs/token_usage.jsonl` | Per-call Claude token usage (input/output, labelled by stage); tally with `python ../kb-framework/pipeline/usage.py --kb .` |
 
 ## Cross-Reference Matrix
 
