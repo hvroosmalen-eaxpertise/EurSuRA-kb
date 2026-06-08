@@ -7,7 +7,7 @@ status: draft
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: 6 ESG Reporting frameworks.pdf
-sources:
+source_files:
 - 6 ESG Reporting frameworks.pdf
 - ESG Business Handbook.pdf
 - Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf

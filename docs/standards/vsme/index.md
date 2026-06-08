@@ -7,7 +7,7 @@ status: draft
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
-sources:
+source_files:
 - Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
 ---
 

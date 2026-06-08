@@ -7,7 +7,7 @@ status: draft
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: ESG Business Handbook.pdf
-sources:
+source_files:
 - ESG Business Handbook.pdf
 ---
 
