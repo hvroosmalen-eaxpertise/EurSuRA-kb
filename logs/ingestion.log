@@ -54,3 +54,20 @@
 2026-06-04T17:17:12 [INFO] EXTRACTED 9137 chars from Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
 2026-06-04T17:17:59 [INFO] WRITTEN docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
 2026-06-04T17:17:59 [INFO] DONE Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf → webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
+2026-06-08T15:59:25 [INFO] BOOTSTRAP_CLEAN removed 25 files
+2026-06-08T16:00:01 [INFO] BOOTSTRAP_MERGED 6 ESG Reporting frameworks.pdf -> frameworks/gri/index.md
+2026-06-08T16:00:01 [INFO] BOOTSTRAP_MERGED 6 ESG Reporting frameworks.pdf -> standards/esrs/index.md
+2026-06-08T16:00:01 [INFO] BOOTSTRAP_MERGED 6 ESG Reporting frameworks.pdf -> standards/csrd/index.md
+2026-06-08T16:00:01 [INFO] BOOTSTRAP_MERGED 6 ESG Reporting frameworks.pdf -> frameworks/tcfd/index.md
+2026-06-08T16:01:19 [INFO] BOOTSTRAP_REPORT Due Diligence in 6 stappen-NL-sep2021.pdf -> reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+2026-06-08T16:02:50 [INFO] BOOTSTRAP_MERGED ESG Business Handbook.pdf -> standards/csrd/index.md
+2026-06-08T16:02:50 [INFO] BOOTSTRAP_MERGED ESG Business Handbook.pdf -> standards/eu-taxonomy/index.md
+2026-06-08T16:02:50 [INFO] BOOTSTRAP_MERGED ESG Business Handbook.pdf -> frameworks/un-sdgs/index.md
+2026-06-08T16:02:50 [INFO] BOOTSTRAP_MERGED ESG Business Handbook.pdf -> standards/ghg-protocol/index.md
+2026-06-08T16:04:01 [INFO] BOOTSTRAP_REPORT JRC144121_01.pdf -> reports\2026\jrc144121_01.md
+2026-06-08T16:05:13 [INFO] BOOTSTRAP_MERGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf -> standards/vsme/index.md
+2026-06-08T16:05:22 [INFO] BOOTSTRAP_MERGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf -> standards/esrs/index.md
+2026-06-08T16:05:30 [INFO] BOOTSTRAP_MERGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf -> standards/csrd/index.md
+2026-06-08T16:05:40 [INFO] BOOTSTRAP_MERGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf -> standards/ghg-protocol/index.md
+2026-06-08T16:10:19 [INFO] BOOTSTRAP_SCAFFOLD 7 stub pages
+2026-06-08T16:10:34 [INFO] BOOTSTRAP_RECONCILE 15 external links recorded

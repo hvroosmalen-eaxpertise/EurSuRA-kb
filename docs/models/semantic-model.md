@@ -1,105 +1,87 @@
 ---
 title: Semantic Model
 content_type: model
-status: published
+generated: true
+date_updated: 2026-06-08
 ---
 
-# Semantic Model
+## Semantic Model
 
-The semantic model describes the key concepts in the EurSuRA knowledge domain and the relationships between them. It serves as the conceptual backbone for mapping standards, frameworks, and reporting obligations.
-
-## Core Concepts
-
-### Reporting Entity
-
-An organisation that has a **reporting obligation** under a regulation or directive, or that voluntarily produces a sustainability report. For EurSuRA, the primary reporting entity is an **SME** (Small and Medium Enterprise).
-
-A reporting entity:
-- Is subject to one or more **Regulations** or **Directives**
-- May voluntarily apply one or more **Frameworks**
-- Produces one or more **Reports**
-- Has **Activities** generating **Impacts**
-
-### Regulation / Directive
-
-A legally binding act that imposes disclosure obligations. Examples: [[CSRD — Corporate Sustainability Reporting Directive|CSRD]], [[EU Taxonomy Regulation]].
-
-A regulation:
-- Mandates compliance with one or more **Standards**
-- Applies to **Reporting Entities** meeting defined thresholds (size, listing status, sector)
-- Has a **Scope** (which entities are covered) and a **Phase-in** schedule
-
-### Standard
-
-A set of disclosure requirements that specifies what information a reporting entity must disclose and how. Standards are either mandatory (issued under a regulation) or voluntary.
-
-Examples: [[ESRS — European Sustainability Reporting Standards|ESRS]], [[VSME — Voluntary Sustainability Reporting Standard for non-listed SMEs|VSME]], [[GRI — Global Reporting Initiative|GRI Standards]], [[GHG Protocol]].
-
-A standard:
-- Consists of one or more **Topical Standards** or **Modules**
-- Contains **Disclosure Requirements**
-- Addresses one or more **Sustainability Topics**
-
-### Sustainability Topic
-
-A subject area that a standard or framework addresses. Topics follow the ESG (Environmental, Social, Governance) taxonomy and are the unit of **materiality assessment**.
-
-Examples: Climate Change, Biodiversity, Own Workforce, Business Conduct.
-
-A topic:
-- Is covered by one or more **Disclosure Requirements**
-- May be cross-referenced across multiple standards (e.g. ESRS E1 ↔ GRI 305 ↔ TCFD ↔ SDG 13)
-- Has a **materiality** determination (material or not material) per reporting entity
-
-### Disclosure Requirement
-
-A specific data point, narrative disclosure, or metric that a standard requires a reporting entity to include in its report. Disclosure requirements are the atomic units of reporting.
-
-Examples: ESRS E1-6 (gross GHG emissions Scope 1), GRI 305-1 (direct Scope 1 emissions).
-
-### Impact
-
-An actual or potential effect that the reporting entity's activities have on people or the environment (**impact materiality**), or an actual or potential effect of sustainability matters on the entity's finances (**financial materiality**). The [[Double Materiality]] assessment determines which impacts are material and therefore which topics require disclosure.
-
-### Report
-
-The document (integrated into the management report for CSRD reporters) that contains the disclosures produced by the reporting entity. Reports must be machine-readable (XBRL tags) under CSRD.
-
-## Relationships at a Glance
-
-```
-Regulation
-  └─ mandates ──► Standard(s)
-                     └─ contains ──► Topical Standard(s)
-                                        └─ contains ──► Disclosure Requirement(s)
-                                                           └─ addresses ──► Topic(s)
-
-Reporting Entity
-  ├─ subject to ──► Regulation(s)
-  ├─ applies voluntarily ──► Framework(s)
-  ├─ performs ──► Materiality Assessment
-  │                  └─ identifies ──► Material Topic(s)
-  └─ produces ──► Report
-                    └─ includes ──► Disclosures (per Disclosure Requirement)
-
-Topic
-  └─ cross-referenced across ──► Standards / Frameworks / SDGs
-```
-
-## Domain Entities Mapped to Standards
-
-| Concept | CSRD/ESRS | GRI | TCFD | EU Taxonomy | GHG Protocol |
-|---|---|---|---|---|---|
-| Reporting scope | In-scope companies | Any organisation | Companies with climate risk | Taxonomy-aligned activities | Any organisation |
-| Materiality | Double materiality | GRI 3 material topics | Climate risk materiality | DNSH criterion | N/A |
-| Climate metric | ESRS E1 | GRI 305 | Metrics & Targets pillar | Climate change mitigation objective | Scope 1/2/3 |
-| Governance | ESRS G1 | GRI 2 / 205-206 | Governance pillar | N/A | N/A |
-| Social | ESRS S1–S4 | GRI 400 series | N/A | N/A | N/A |
-| Biodiversity | ESRS E4 | GRI 304 | Physical risk | Biodiversity objective | N/A |
-
-## See Also
-
-- [[Concept Map]]
-- [[Ontology]]
-- [[Cross-Reference Matrix]]
-- [[ESRS — European Sustainability Reporting Standards]]
+| Concept | Type | Related Concept | Relationship | Source Article |
+|---|---|---|---|---|
+| Environmental, Social, and Governance (ESG) | Framework | Sustainability Reporting | assessed through | Glossary |
+| Environmental, Social, and Governance (ESG) | Framework | Double Materiality | assessed via | Glossary |
+| Environmental, Social, and Governance (ESG) | Framework | Greenwashing | related risk of | Glossary |
+| Environmental, Social, and Governance (ESG) | Framework | Global Reporting Initiative | disclosed using | Glossary |
+| Environmental, Social, and Governance (ESG) | Framework | European Sustainability Reporting Standards (ESRS) | standardised under | Glossary |
+| Global Reporting Initiative (GRI) | Organisation / Framework | ESG | provides framework for | Glossary |
+| Global Reporting Initiative (GRI) | Organisation / Framework | Double Materiality | incorporates principle of | Glossary |
+| Global Reporting Initiative (GRI) | Organisation / Framework | Materiality (ESRS) | relates concept of | Glossary |
+| Global Reporting Initiative (GRI) | Organisation / Framework | ISSB | compared / related to | Glossary |
+| Global Reporting Initiative (GRI) | Organisation / Framework | SASB | compared / related to | Glossary |
+| European Sustainability Reporting Standards (ESRS) | Regulatory Standard | Corporate Sustainability Reporting Directive (CSRD) | adopted under | Glossary |
+| European Sustainability Reporting Standards (ESRS) | Regulatory Standard | Double Materiality Assessment | requires completion of | Glossary |
+| European Sustainability Reporting Standards (ESRS) | Regulatory Standard | Voluntary Sustainability Reporting Standards for SMEs (VSME) | complemented by | Glossary |
+| European Sustainability Reporting Standards (ESRS) | Regulatory Standard | European Financial Reporting Advisory Group (EFRAG) | developed by | Glossary |
+| Corporate Sustainability Reporting Directive (CSRD) | EU Directive | European Sustainability Reporting Standards (ESRS) | underpins | Glossary |
+| Corporate Sustainability Reporting Directive (CSRD) | EU Directive | Voluntary Sustainability Reporting Standards for SMEs (VSME) | generates demand for | Glossary |
+| Corporate Sustainability Reporting Directive (CSRD) | EU Directive | Double Materiality Assessment | mandates | Glossary |
+| Corporate Sustainability Reporting Directive (CSRD) | EU Directive | Sustainable Finance Disclosure Regulation | related regulation | Glossary |
+| Corporate Sustainability Reporting Directive (CSRD) | EU Directive | SMEs (supply chain) | creates information requests toward | Glossary |
+| Double Materiality | Reporting Principle | ESRS | principle embedded in | Glossary |
+| Double Materiality | Reporting Principle | Financial Materiality | comprises dimension of | Glossary |
+| Double Materiality | Reporting Principle | Impact Materiality | comprises dimension of | Glossary |
+| Due Diligence | Process | Gepaste Zorgvuldigheid | synonymous term (NL) | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | Ketenverantwoordelijkheid | synonymous term (NL) | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | International Corporate Social Responsibility (ICSR) | central component of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | OECD Guidelines for Multinational Enterprises | embedded in | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | UN Guiding Principles on Business and Human Rights (UNGPs) | embedded in | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | Adverse Impacts (human rights, labour, environment) | identifies and mitigates | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Due Diligence | Process | Six-Step Due Diligence Framework | operationalised through | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| OECD Guidelines for Multinational Enterprises | International Framework | Due Diligence | places at core of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| OECD Guidelines for Multinational Enterprises | International Framework | Dutch National Contact Point (NCP) | implemented nationally by | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| OECD Guidelines for Multinational Enterprises | International Framework | Responsible Business Conduct | addresses areas of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| UN Guiding Principles on Business and Human Rights (UNGPs) | International Framework | Due Diligence | requires as core responsibility | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| UN Guiding Principles on Business and Human Rights (UNGPs) | International Framework | OECD Guidelines for Multinational Enterprises | complementary to | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Dutch National Contact Point (NCP) | National Body | OECD Guidelines for Multinational Enterprises | implements nationally | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Dutch National Contact Point (NCP) | National Body | Six-Step Due Diligence Framework | published and developed | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Dutch National Contact Point (NCP) | National Body | Ministry of Foreign Affairs (Netherlands) | operates under | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Six-Step Due Diligence Framework | Procedural Framework | Step 1: Integrate CSR into Policy and Management | first step of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Six-Step Due Diligence Framework | Procedural Framework | Step 2: Identify and Assess Adverse Impacts | second step of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Step 1: Integrate CSR into Policy and Management | Process Step | CSR Policy | requires development of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Step 1: Integrate CSR into Policy and Management | Process Step | Suppliers and Business Relations | communicates CSR expectations to | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Step 1: Integrate CSR into Policy and Management | Process Step | Employee Training | integral part of | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Step 2: Identify and Assess Adverse Impacts | Process Step | CSR Risk Analysis | conducted through | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| Step 2: Identify and Assess Adverse Impacts | Process Step | Business Activities and Relationships | maps impacts across | reports\2026\due-diligence-in-6-stappen-nl-sep2021.md |
+| DigComp 3.0 | Framework | European Digital Competence Framework | fifth edition of | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Joint Research Centre (JRC) | published by | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | DG Employment, Social Affairs and Inclusion | developed in collaboration with | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Digital Competence | defines and describes | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Artificial Intelligence (AI) | incorporates advances in | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Cybersecurity | incorporates advances in | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Digital Rights | incorporates advances in | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Misinformation | incorporates advances in | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Learning Outcomes | introduces for first time | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Digital Skills Indicator (DSI) | underpins measurement via | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Union of Skills | explicitly referenced in | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | Digital Decade Policy Programme | aligned with | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | AI Continent Action Plan | aligned with | reports\2026\jrc144121_01.md |
+| DigComp 3.0 | Framework | European Strategy for Better Internet for Kids | aligned with | reports\2026\jrc144121_01.md |
+| Digital Competence | Concept | Knowledge, Skills, and Attitudes | defined as combination of | reports\2026\jrc144121_01.md |
+| Digital Competence | Concept | Digital Environments | required to operate in | reports\2026\jrc144121_01.md |
+| Digital Competence | Concept | Competence Areas | organised into | reports\2026\jrc144121_01.md |
+| Digital Competence | Concept | Proficiency Levels | measured through | reports\2026\jrc144121_01.md |
+| Competence Areas | Structural Component | Information and Data Literacy | includes area of | reports\2026\jrc144121_01.md |
+| Competence Areas | Structural Component | Communication and Collaboration | includes area of | reports\2026\jrc144121_01.md |
+| Competence Areas | Structural Component | Digital Content Creation | includes area of | reports\2026\jrc144121_01.md |
+| Competence Areas | Structural Component | Safety | includes area of | reports\2026\jrc144121_01.md |
+| Competence Areas | Structural Component | Problem-Solving | includes area of | reports\2026\jrc144121_01.md |
+| Proficiency Levels | Structural Component | DigComp 3.0 | retained within | reports\2026\jrc144121_01.md |
+| Proficiency Levels | Structural Component | Foundational Level | lower bound of | reports\2026\jrc144121_01.md |
+| Proficiency Levels | Structural Component | Highly Specialised Level | upper bound of | reports\2026\jrc144121_01.md |
+| Learning Outcomes | Structural Component | DigComp 3.0 | new section introduced in | reports\2026\jrc144121_01.md |
+| Learning Outcomes | Structural Component | Digital Competence | provides granular view of | reports\2026\jrc144121_01.md |
+| Digital Skills Indicator (DSI) | Measurement Tool | Digital Skills (EU) | measures within | reports\2026\jrc144121_01.md |
+| Digital Skills Indicator (DSI) | Measurement Tool | Digital Decade Policy Programme | used as part of | reports\2026\jrc144121_01.md |
+| Joint Research Centre (JRC) | Institution | European Commission | part of | reports\2026\jrc144121_01.md |
+| Joint Research Centre (JRC) | Institution | DigComp 3.0 | published | reports\2026\jrc144121_01.md |

@@ -1,66 +1,94 @@
 ---
 title: Concept Map
 content_type: model
-status: published
+generated: true
+date_updated: 2026-06-08
 ---
 
-# Concept Map
+```mermaid
+graph TD
 
-The concept map visualises the high-level relationships between the standards, frameworks, regulations, and reporting actors in the EurSuRA knowledge domain.
+    %% ESG & Sustainability Reporting
+    ESG["ESG\n(Environmental, Social & Governance)"]
+    GRI["Global Reporting Initiative (GRI)\nVoluntary Framework"]
+    ESRS["European Sustainability Reporting Standards (ESRS)\nMandatory Standards"]
+    CSRD["Corporate Sustainability Reporting Directive (CSRD)\nEU Directive 2023"]
+    DMA["Double Materiality Assessment"]
+    DoubleMat["Double Materiality\n(Financial + Impact)"]
+    VSME["Voluntary Sustainability Reporting\nStandards for SMEs (VSME)"]
+    EFRAG["European Financial Reporting\nAdvisory Group (EFRAG)"]
+    ISSB["ISSB"]
+    SASB["SASB"]
+    SFDR["Sustainable Finance\nDisclosure Regulation"]
 
-## Regulatory Layer
+    ESG -->|"assessed via"| GRI
+    ESG -->|"standardised under"| ESRS
+    CSRD -->|"underpins"| ESRS
+    CSRD -->|"requires"| DMA
+    ESRS -->|"requires"| DMA
+    ESRS -->|"applies principle of"| DoubleMat
+    DMA -->|"based on"| DoubleMat
+    CSRD -->|"generates requests toward"| VSME
+    ESRS -->|"complemented by"| VSME
+    EFRAG -->|"develops"| ESRS
+    EFRAG -->|"develops"| VSME
+    GRI -->|"related to"| ISSB
+    GRI -->|"related to"| SASB
+    CSRD -->|"related to"| SFDR
 
-At the top of the hierarchy sit **EU regulations and directives** that create mandatory reporting obligations:
+    %% Due Diligence
+    DD["Due Diligence\n(Gepaste Zorgvuldigheid)"]
+    ICSR["International Corporate\nSocial Responsibility (ICSR)"]
+    OECD["OECD Guidelines for\nMultinational Enterprises"]
+    UNGPs["UN Guiding Principles on\nBusiness and Human Rights"]
+    NCP["Dutch National Contact Point (NCP)"]
+    SixStep["Six-Step Due Diligence Framework"]
+    S1["Step 1: Integrate CSR\ninto Policy & Management"]
+    S2["Step 2: Identify & Assess\nAdverse Impacts"]
+    CSRPolicy["CSR Policy"]
+    SupplyChain["Supply Chain / Value Chain"]
+    HumanRights["Human Rights & Labour Rights"]
+    Environment["Environment"]
 
-- **[[CSRD — Corporate Sustainability Reporting Directive|CSRD]]** (Directive 2022/2464) — the primary EU law mandating sustainability reporting for large companies and, progressively, listed SMEs
-- **[[EU Taxonomy Regulation]]** (Regulation 2020/852) — requires reporting on the proportion of activities that are taxonomy-aligned (eligible and aligned turnover, CapEx, OpEx)
+    DD -->|"is core of"| ICSR
+    DD -->|"embedded in"| OECD
+    DD -->|"embedded in"| UNGPs
+    OECD -->|"implemented by"| NCP
+    NCP -->|"publishes"| SixStep
+    SixStep -->|"starts with"| S1
+    SixStep -->|"continues with"| S2
+    S1 -->|"produces"| CSRPolicy
+    S1 -->|"communicated to"| SupplyChain
+    S2 -->|"maps impacts on"| HumanRights
+    S2 -->|"maps impacts on"| Environment
+    DD -->|"covers"| SupplyChain
 
-These two instruments are closely linked: CSRD requires ESRS disclosures, and ESRS E1–E5 include taxonomy-alignment KPIs.
+    %% DigComp
+    DigComp["DigComp 3.0\nEuropean Digital Competence Framework"]
+    JRC["Joint Research Centre (JRC)\nEuropean Commission"]
+    DGEMPL["DG EMPL"]
+    DigComp30Def["Digital Competence\n(Knowledge, Skills, Attitudes)"]
+    CompAreas["Competence Areas"]
+    ProfLevels["Proficiency Levels"]
+    LearningOut["Learning Outcomes"]
+    DSI["Digital Skills Indicator (DSI)"]
+    DigDecade["Digital Decade Policy Programme"]
+    UnionSkills["Union of Skills"]
+    AI["Artificial Intelligence (AI)"]
+    Cybersecurity["Cybersecurity"]
+    Misinformation["Misinformation"]
 
-## Standards Layer
-
-Regulations delegate the technical content to **standards bodies**:
-
-- **EFRAG** develops the **[[ESRS — European Sustainability Reporting Standards|ESRS]]** under the CSRD mandate — these are mandatory for in-scope companies
-- **EFRAG** also develops the **[[VSME — Voluntary Sustainability Reporting Standard for non-listed SMEs|VSME]]** for non-listed SMEs — voluntary, but interoperable with ESRS
-- **GRI** publishes the **[[GRI — Global Reporting Initiative|GRI Standards]]** — voluntary, globally adopted, interoperable with ESRS
-
-## International Layer
-
-International bodies produce frameworks and standards that feed into the EU system:
-
-- **ISSB** (International Sustainability Standards Board, part of IFRS Foundation) publishes **IFRS S1** and **IFRS S2** — climate and general sustainability disclosures; ESRS E1 aligns with IFRS S2
-- **TCFD** (superseded by ISSB) provides the **four-pillar framework** (Governance / Strategy / Risk Management / Metrics & Targets) embedded in ESRS E1 and [[TCFD — Task Force on Climate-related Financial Disclosures|TCFD]]
-- **WRI / WBCSD** publish the **[[GHG Protocol]]** — the emissions accounting methodology underlying ESRS E1 and TCFD Scope 1/2/3 disclosures
-- **United Nations** sets the **[[UN Sustainable Development Goals|SDGs]]** — 17 goals that provide a common language for linking corporate disclosures to global sustainability outcomes
-
-## Reporting Actor Layer
-
-At the base, **reporting entities** interact with this framework:
-
-- **Large companies** (>250 employees or listed) → mandatory CSRD/ESRS
-- **Listed SMEs** → simplified LSME standard (CSRD phase 3)
-- **Non-listed SMEs** → voluntary VSME; also receive value-chain data requests from large CSRD reporters
-- **Financial institutions** → additional EU Taxonomy and SFDR obligations
-
-## Key Relationships
-
-| From | Relationship | To |
-|---|---|---|
-| CSRD | mandates compliance with | ESRS |
-| CSRD | requires reporting of | EU Taxonomy KPIs |
-| ESRS | is technically aligned with | IFRS S2 (climate) |
-| ESRS | is interoperable with | GRI Standards |
-| ESRS E1 | adopts emissions accounting from | GHG Protocol |
-| ESRS E1 | adopts four-pillar structure from | TCFD |
-| VSME | is a scaled-down version of | ESRS |
-| GRI | is a voluntary complement to | ESRS |
-| SDGs | provide goal-level context for | ESRS / GRI topics |
-| Large company | sends value-chain data request to | SME |
-| SME | responds using | VSME format |
-
-## See Also
-
-- [[Semantic Model]]
-- [[Ontology]]
-- [[Cross-Reference Matrix]]
+    JRC -->|"publishes"| DigComp
+    DGEMPL -->|"collaborates on"| DigComp
+    DigComp -->|"defines"| DigComp30Def
+    DigComp -->|"organised into"| CompAreas
+    DigComp -->|"includes"| ProfLevels
+    DigComp -->|"introduces"| LearningOut
+    DigComp -->|"underpins"| DSI
+    DSI -->|"measures skills within"| DigDecade
+    DigComp -->|"aligns with"| DigDecade
+    DigComp -->|"referenced in"| UnionSkills
+    DigComp -->|"incorporates updates on"| AI
+    DigComp -->|"incorporates updates on"| Cybersecurity
+    DigComp -->|"incorporates updates on"| Misinformation
+```

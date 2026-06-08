@@ -1,69 +1,41 @@
 ---
-title: GHG Protocol Corporate Standard
-summary: Overview of the GHG Protocol Corporate Accounting and Reporting Standard, the leading methodology for greenhouse gas emissions accounting.
+title: GHG Protocol
 content_type: standard
-domain: [GHG]
-status: published
+domain:
+- GHG
+status: draft
+date_added: '2026-06-08'
+date_updated: '2026-06-08'
+source_file: ESG Business Handbook.pdf
+sources:
+- ESG Business Handbook.pdf
+- Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
 ---
 
-# GHG Protocol Corporate Standard
+# Greenhouse Gas Emissions in ESG and Sustainability Reporting
 
-The **GHG Protocol Corporate Accounting and Reporting Standard** (commonly: GHG Protocol) is developed and maintained by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). First published in 2001, it is the most widely used international accounting tool for quantifying and managing greenhouse gas emissions.
+Greenhouse gas (GHG) emissions are identified as a core concern within the environmental pillar of [[ESG]] standards. Business strategies in the environmental dimension typically involve targets to reduce GHG emissions, invest in [[renewable energy]], and promote [[sustainable resource use]].[^1]
 
-## Scope Classification
+## Sector Context and Policy Instruments
 
-The GHG Protocol defines three scopes for categorising emissions:
+The cement manufacturing sector, represented by the Kakanj Cement Plant case study, is explicitly described as a traditionally high-emission sector undergoing [[sustainability transformation]].[^1] The EU Carbon Border Adjustment Mechanism (CBAM) is also discussed as a policy instrument that establishes a carbon price on imports of certain goods, designed to prevent [[carbon leakage]] and incentivise equivalent carbon pricing measures among trading partners.[^1]
 
-| Scope | Definition | Examples |
-|---|---|---|
-| **Scope 1** | Direct GHG emissions from sources owned or controlled by the company | Combustion in owned boilers, vehicles, process emissions |
-| **Scope 2** | Indirect GHG emissions from purchased electricity, steam, heat, or cooling | Electricity purchased from a grid |
-| **Scope 3** | All other indirect emissions in a company's value chain | Business travel, purchased goods, use of sold products, investments |
+## GHG Emissions Under the VSME Framework
 
-Scope 3 is further divided into **15 categories** (upstream and downstream), making it the most complex and typically the largest component of a company's emissions footprint.
+The [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) framework and its practical application address GHG emissions measurement and target-setting in a structured manner accessible to small and medium-sized enterprises.[^2]
 
-## Scope 3 Categories
+The inclusion of Scope 1, 2, and 3 emissions within the VSME framework reflects the standard's alignment with the broader [[European Sustainability Reporting Standards]] (ESRS) topic of climate change and energy.[^2] [[Scope 3 emissions]] are particularly relevant for [[SMEs]] embedded in supply chains, as their upstream and downstream value-chain partners — including raw-material suppliers, manufacturers, distributors, and waste processors — generate emissions data that contribute to the reported impacts of larger [[Corporate Sustainability Reporting Directive]] (CSRD)-obligated entities.[^2] The VSME thus provides SMEs with a structured basis for collecting and communicating the GHG data that supply-chain partners and financial institutions increasingly require.[^2]
 
-**Upstream (Categories 1–8)**
+### Bordvol Case Study
 
-| # | Category |
-|---|---|
-| 1 | Purchased goods and services |
-| 2 | Capital goods |
-| 3 | Fuel- and energy-related activities |
-| 4 | Upstream transportation and distribution |
-| 5 | Waste generated in operations |
-| 6 | Business travel |
-| 7 | Employee commuting |
-| 8 | Upstream leased assets |
-
-**Downstream (Categories 9–15)**
-
-| # | Category |
-|---|---|
-| 9 | Downstream transportation and distribution |
-| 10 | Processing of sold products |
-| 11 | Use of sold products |
-| 12 | End-of-life treatment of sold products |
-| 13 | Downstream leased assets |
-| 14 | Franchises |
-| 15 | Investments |
-
-## Relationship to ESRS E1
-
-[[ESRS — European Sustainability Reporting Standards|ESRS]] E1 (Climate Change) adopts the GHG Protocol scope structure as its emissions accounting framework. Companies reporting under CSRD must disclose Scope 1, 2 (market-based and location-based), and material Scope 3 categories using GHG Protocol-compatible methodology.
-
-## Relationship to [[TCFD — Task Force on Climate-related Financial Disclosures|TCFD]]
-
-The TCFD Metrics & Targets pillar requires disclosure of Scope 1, 2, and 3 emissions in accordance with the GHG Protocol. The GHG Protocol is thus the common quantitative backbone for both TCFD and ESRS E1 climate disclosures.
-
-## Relevance to EurSuRA
-
-For SMEs, the GHG Protocol provides the methodology for calculating and reporting greenhouse gas emissions required by the [[VSME — Voluntary Sustainability Reporting Standard for non-listed SMEs|VSME]] and by supply chain data requests from large CSRD reporters. The **Open Footprint Data Model** (The Open Group standard referenced in EurSuRA) is structured around the GHG Protocol scope taxonomy.
+The Bordvol case study illustrates the practical application of the VSME framework for GHG reporting. Bordvol's sustainability strategy included a dedicated pillar focused on smart choices for lower CO₂ emissions, with CO₂ data sourced via a logistics service provider and energy consumption data gathered per production site.[^2] The organisation's sustainability dashboard incorporated total CO₂ emissions across Scopes 1, 2, and 3 as measurable [[key performance indicators]] (KPIs), and the organisation set a target of [[climate neutrality]] by 2035.[^2]
 
 ## See Also
 
-- [[ESRS — European Sustainability Reporting Standards]]
-- [[TCFD — Task Force on Climate-related Financial Disclosures]]
-- [[VSME — Voluntary Sustainability Reporting Standard for non-listed SMEs]]
-- [[EU Taxonomy Regulation]]
+- [[VSME (Voluntary Sustainability Reporting Standard for SMEs)]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[Carbon Border Adjustment Mechanism (CBAM)]]
+- [[European Sustainability Reporting Standards (ESRS)]]
+
+[^1]: Kakanj Cement Plant case study, ESG standards documentation.
+[^2]: EFRAG, *Webinar VSME — Marlou Duchateau en Esther Roelofsen*, 8 June 2026.
