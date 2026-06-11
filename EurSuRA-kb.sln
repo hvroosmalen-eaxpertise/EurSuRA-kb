@@ -12,47 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EurSuRA-kb", "EurSuRA-kb", 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}"
-	ProjectSection(SolutionItems) = preProject
-		docs\cross-reference-matrix.md = docs\cross-reference-matrix.md
-		docs\glossary.md = docs\glossary.md
-		docs\index.md = docs\index.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "standards", "standards", "{09A43038-D22F-44A7-AB13-9C5E457B9453}"
-	ProjectSection(SolutionItems) = preProject
-		docs\standards\esrs\index.md = docs\standards\esrs\index.md
-		docs\standards\csrd\index.md = docs\standards\csrd\index.md
-		docs\standards\eu-taxonomy\index.md = docs\standards\eu-taxonomy\index.md
-		docs\standards\vsme\index.md = docs\standards\vsme\index.md
-		docs\standards\ghg-protocol\index.md = docs\standards\ghg-protocol\index.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frameworks", "frameworks", "{55DB0FD2-C84E-4C5B-9EFB-D0226D72FBEB}"
-	ProjectSection(SolutionItems) = preProject
-		docs\frameworks\un-sdgs\index.md = docs\frameworks\un-sdgs\index.md
-		docs\frameworks\gri\index.md = docs\frameworks\gri\index.md
-		docs\frameworks\tcfd\index.md = docs\frameworks\tcfd\index.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "models", "models", "{F6618AAE-ECF1-4837-B9A5-9BBD88D5A34E}"
-	ProjectSection(SolutionItems) = preProject
-		docs\models\concept-map.md = docs\models\concept-map.md
-		docs\models\ontology.md = docs\models\ontology.md
-		docs\models\semantic-model.md = docs\models\semantic-model.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{D526CFC1-5992-4C88-8F5F-B1D8554CA586}"
-	ProjectSection(SolutionItems) = preProject
-		docs\reports\2026\6-esg-reporting-frameworks.md = docs\reports\2026\6-esg-reporting-frameworks.md
-		docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md = docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
-		docs\reports\2026\esg-business-handbook.md = docs\reports\2026\esg-business-handbook.md
-		docs\reports\2025\index.md = docs\reports\2025\index.md
-		docs\reports\2026\index.md = docs\reports\2026\index.md
-		docs\reports\2026\jrc144121_01.md = docs\reports\2026\jrc144121_01.md
-		docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md = docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "kb-framework", "kb-framework", "{0F2C9E1B-E859-4817-AA1E-429539CB79D9}"
 	ProjectSection(SolutionItems) = preProject
 		..\kb-framework\README.md = ..\kb-framework\README.md
@@ -91,19 +50,115 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "schemas", "schemas", "{81EE
 		..\kb-framework\schemas\term.yaml = ..\kb-framework\schemas\term.yaml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{E3364E31-74ED-59BC-A458-702C8FF4D647}"
+	ProjectSection(SolutionItems) = preProject
+		docs\index.md = docs\index.md
+		docs\catalog.md = docs\catalog.md
+		docs\cross-reference-matrix.md = docs\cross-reference-matrix.md
+		docs\glossary.md = docs\glossary.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frameworks", "frameworks", "{775BF981-4E23-5F6F-89D8-3D6BA1B020D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gri", "gri", "{6115D0DF-EECA-559E-9A82-2A68FE5F8325}"
+	ProjectSection(SolutionItems) = preProject
+		docs\frameworks\gri\index.md = docs\frameworks\gri\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tcfd", "tcfd", "{501931AF-6D8F-59C3-BE9F-C8626B06CE39}"
+	ProjectSection(SolutionItems) = preProject
+		docs\frameworks\tcfd\index.md = docs\frameworks\tcfd\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "un-sdgs", "un-sdgs", "{F7FE911C-A646-59D0-AC99-F0D693B003D5}"
+	ProjectSection(SolutionItems) = preProject
+		docs\frameworks\un-sdgs\index.md = docs\frameworks\un-sdgs\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "insights", "insights", "{147C1DB0-1482-5BBC-A2E5-E5F1E0EE9981}"
+	ProjectSection(SolutionItems) = preProject
+		docs\insights\index.md = docs\insights\index.md
+		docs\insights\climate-disclosure-across-frameworks.md = docs\insights\climate-disclosure-across-frameworks.md
+		docs\insights\double-materiality-across-regimes.md = docs\insights\double-materiality-across-regimes.md
+		docs\insights\the-sme-reporting-pathway.md = docs\insights\the-sme-reporting-pathway.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "models", "models", "{D017CA97-16BE-50B3-A007-EF89C30B3C20}"
+	ProjectSection(SolutionItems) = preProject
+		docs\models\concept-map.md = docs\models\concept-map.md
+		docs\models\ontology.md = docs\models\ontology.md
+		docs\models\semantic-model.md = docs\models\semantic-model.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{9E8DF812-D56D-53BE-9373-95608F73C1C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2025", "2025", "{F5269B7C-ED29-5329-90B9-F5E44B4CB22E}"
+	ProjectSection(SolutionItems) = preProject
+		docs\reports\2025\index.md = docs\reports\2025\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2026", "2026", "{2D6AB9A8-5844-51FA-80DA-36FA1DE8AAB1}"
+	ProjectSection(SolutionItems) = preProject
+		docs\reports\2026\index.md = docs\reports\2026\index.md
+		docs\reports\2026\6-esg-reporting-frameworks.md = docs\reports\2026\6-esg-reporting-frameworks.md
+		docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md = docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+		docs\reports\2026\esg-business-handbook.md = docs\reports\2026\esg-business-handbook.md
+		docs\reports\2026\green-software-foundation--sci-for-ai-specification.md = docs\reports\2026\green-software-foundation--sci-for-ai-specification.md
+		docs\reports\2026\jrc144121_01.md = docs\reports\2026\jrc144121_01.md
+		docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md = docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "standards", "standards", "{5F0A2697-D330-5CE6-9D0A-9BE32690AABA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csrd", "csrd", "{AB780F06-F178-5B55-9DA3-508C3ADD7DC5}"
+	ProjectSection(SolutionItems) = preProject
+		docs\standards\csrd\index.md = docs\standards\csrd\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "esrs", "esrs", "{271012EF-917F-5FA5-8E42-467F793444C1}"
+	ProjectSection(SolutionItems) = preProject
+		docs\standards\esrs\index.md = docs\standards\esrs\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eu-taxonomy", "eu-taxonomy", "{C940139B-D447-53C4-B437-BE3FC5EEA8E0}"
+	ProjectSection(SolutionItems) = preProject
+		docs\standards\eu-taxonomy\index.md = docs\standards\eu-taxonomy\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ghg-protocol", "ghg-protocol", "{3E333007-9C28-5279-813B-93E7CD968465}"
+	ProjectSection(SolutionItems) = preProject
+		docs\standards\ghg-protocol\index.md = docs\standards\ghg-protocol\index.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vsme", "vsme", "{038C4B6A-C245-5111-AE90-AA117A92CDE2}"
+	ProjectSection(SolutionItems) = preProject
+		docs\standards\vsme\index.md = docs\standards\vsme\index.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{9A6CB60F-0238-4C94-B1D4-B92AB25E06FE} = {DB84D525-C724-4C70-BE68-F4EB6555AE92}
-		{09A43038-D22F-44A7-AB13-9C5E457B9453} = {9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}
-		{55DB0FD2-C84E-4C5B-9EFB-D0226D72FBEB} = {9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}
-		{F6618AAE-ECF1-4837-B9A5-9BBD88D5A34E} = {9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}
-		{D526CFC1-5992-4C88-8F5F-B1D8554CA586} = {9A6CB60F-0238-4C94-B1D4-B92AB25E06FE}
 		{90487C3E-23AD-4D07-A49B-9B6932224780} = {0F2C9E1B-E859-4817-AA1E-429539CB79D9}
 		{9301E7F9-2779-41A8-B40E-E6A2033083C6} = {0F2C9E1B-E859-4817-AA1E-429539CB79D9}
 		{FC1F9314-7950-4E0D-84DD-B4D0AA7DA959} = {0F2C9E1B-E859-4817-AA1E-429539CB79D9}
 		{81EE6BED-491E-48E9-A4A9-E48EFA6FE5D1} = {0F2C9E1B-E859-4817-AA1E-429539CB79D9}
+		{E3364E31-74ED-59BC-A458-702C8FF4D647} = {DB84D525-C724-4C70-BE68-F4EB6555AE92}
+		{775BF981-4E23-5F6F-89D8-3D6BA1B020D5} = {E3364E31-74ED-59BC-A458-702C8FF4D647}
+		{6115D0DF-EECA-559E-9A82-2A68FE5F8325} = {775BF981-4E23-5F6F-89D8-3D6BA1B020D5}
+		{501931AF-6D8F-59C3-BE9F-C8626B06CE39} = {775BF981-4E23-5F6F-89D8-3D6BA1B020D5}
+		{F7FE911C-A646-59D0-AC99-F0D693B003D5} = {775BF981-4E23-5F6F-89D8-3D6BA1B020D5}
+		{147C1DB0-1482-5BBC-A2E5-E5F1E0EE9981} = {E3364E31-74ED-59BC-A458-702C8FF4D647}
+		{D017CA97-16BE-50B3-A007-EF89C30B3C20} = {E3364E31-74ED-59BC-A458-702C8FF4D647}
+		{9E8DF812-D56D-53BE-9373-95608F73C1C2} = {E3364E31-74ED-59BC-A458-702C8FF4D647}
+		{F5269B7C-ED29-5329-90B9-F5E44B4CB22E} = {9E8DF812-D56D-53BE-9373-95608F73C1C2}
+		{2D6AB9A8-5844-51FA-80DA-36FA1DE8AAB1} = {9E8DF812-D56D-53BE-9373-95608F73C1C2}
+		{5F0A2697-D330-5CE6-9D0A-9BE32690AABA} = {E3364E31-74ED-59BC-A458-702C8FF4D647}
+		{AB780F06-F178-5B55-9DA3-508C3ADD7DC5} = {5F0A2697-D330-5CE6-9D0A-9BE32690AABA}
+		{271012EF-917F-5FA5-8E42-467F793444C1} = {5F0A2697-D330-5CE6-9D0A-9BE32690AABA}
+		{C940139B-D447-53C4-B437-BE3FC5EEA8E0} = {5F0A2697-D330-5CE6-9D0A-9BE32690AABA}
+		{3E333007-9C28-5279-813B-93E7CD968465} = {5F0A2697-D330-5CE6-9D0A-9BE32690AABA}
+		{038C4B6A-C245-5111-AE90-AA117A92CDE2} = {5F0A2697-D330-5CE6-9D0A-9BE32690AABA}
 	EndGlobalSection
 EndGlobal
