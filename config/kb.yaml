@@ -18,7 +18,6 @@ domains:
   EU-TAXONOMY: standards/eu-taxonomy/index.md
   VSME: standards/vsme/index.md
   GHG: standards/ghg-protocol/index.md
-  GHG-PROTOCOL: standards/ghg-protocol/index.md
   GRI: frameworks/gri/index.md
   TCFD: frameworks/tcfd/index.md
   SDG: frameworks/un-sdgs/index.md
