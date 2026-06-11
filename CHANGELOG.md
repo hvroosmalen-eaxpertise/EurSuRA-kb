@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-06-11
+
+### Added (ingested)
+- **Green Software Foundation -SCI for AI Specification.md** → `reports\2026\green-software-foundation--sci-for-ai-specification.md` — green-software-foundation--sci-for-ai-specification (domain: —)
+
+---
+
+
 ## 2026-06-08
 
 ### Added (ingested)

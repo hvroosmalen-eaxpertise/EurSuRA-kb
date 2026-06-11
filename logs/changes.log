@@ -9,3 +9,5 @@
 2026-06-08T16:10:50 NOT_PUSHED — committed locally; review the diff then `git push`
 2026-06-11T12:29:27 BUILD_START
 2026-06-11T12:29:59 BUILD_OK
+2026-06-11T12:30:02 COMMITTED: ingest: wiki rebuild 2026-06-11 12:30
+2026-06-11T12:30:02 NOT_PUSHED — committed locally; review the diff then `git push`
