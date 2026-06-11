@@ -2,7 +2,7 @@
 title: Cross-Reference Matrix
 content_type: model
 generated: true
-date_updated: 2026-06-08
+date_updated: 2026-06-11
 ---
 
 # Cross-Reference Matrix
@@ -29,6 +29,7 @@ date_updated: 2026-06-08
 | [Sustainability and ESG Reporting Frameworks](reports/2026/6-esg-reporting-frameworks.md) |  |  |  |
 | [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md) |  |  |  |
 | [ESG Business Handbook](reports/2026/esg-business-handbook.md) |  |  |  |
+| [reports/2026/green-software-foundation--sci-for-ai-specification.md](reports/2026/green-software-foundation--sci-for-ai-specification.md) |  |  |  |
 | [Overview](reports/2026/index.md) |  |  |  |
 | [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md) |  |  |  |
 | [Voluntary Sustainability Reporting for SMEs](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md) |  |  |  |

@@ -2,7 +2,7 @@
 title: Catalog
 content_type: model
 generated: true
-date_updated: 2026-06-08
+date_updated: 2026-06-11
 ---
 
 # Catalog
@@ -25,10 +25,18 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 ## other
 
 - [Glossary](glossary.md)
+- [Home](index.md)
+- [Overview](insights/index.md)
+- [2025](reports/2025/index.md)
+- [Sustainability and ESG Reporting Frameworks](reports/2026/6-esg-reporting-frameworks.md)
+- [ESG Business Handbook](reports/2026/esg-business-handbook.md)
+- [Overview](reports/2026/index.md)
+- [Voluntary Sustainability Reporting for SMEs](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
 
 ## report
 
 - [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
+- [reports/2026/green-software-foundation--sci-for-ai-specification.md](reports/2026/green-software-foundation--sci-for-ai-specification.md)
 - [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
 
 ## standard

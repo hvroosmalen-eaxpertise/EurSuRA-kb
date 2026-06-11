@@ -71,3 +71,7 @@
 2026-06-08T16:05:40 [INFO] BOOTSTRAP_MERGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf -> standards/ghg-protocol/index.md
 2026-06-08T16:10:19 [INFO] BOOTSTRAP_SCAFFOLD 7 stub pages
 2026-06-08T16:10:34 [INFO] BOOTSTRAP_RECONCILE 15 external links recorded
+2026-06-11T12:25:21 [INFO] START Green Software Foundation -SCI for AI Specification.md
+2026-06-11T12:25:21 [INFO] EXTRACTED 15802 chars from Green Software Foundation -SCI for AI Specification.md
+2026-06-11T12:26:02 [INFO] WRITTEN docs\reports\2026\green-software-foundation--sci-for-ai-specification.md
+2026-06-11T12:26:56 [INFO] DONE Green Software Foundation -SCI for AI Specification.md → green-software-foundation--sci-for-ai-specification.md

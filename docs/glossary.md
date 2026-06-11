@@ -38,6 +38,38 @@ title: Glossary
 
 ---
 
+### Agentic AI
+
+**Definition:** A class of AI systems characterised by autonomous decision-making and the orchestration of multi-step workflows, explicitly addressed within the SCI for AI Specification's scope and Operation and Monitoring lifecycle stage for carbon accounting purposes.
+
+**Domain:** General
+
+**Synonyms:** autonomous AI, AI agent systems
+
+**Abbreviation:** none
+
+**Related terms:** [[Generative AI]], [[Operation and Monitoring]], [[Inference]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies & Operation and Monitoring, 2026
+
+---
+
+### AI Lifecycle Stages
+
+**Definition:** The five sequential phases — Inception, Design and Development, Deployment, Operation and Monitoring, and End of Life — into which the SCI for AI Specification divides an AI system's existence for the purpose of measuring and attributing carbon emissions.
+
+**Domain:** General
+
+**Synonyms:** AI system lifecycle, AI lifecycle phases
+
+**Abbreviation:** none
+
+**Related terms:** [[Inception]], [[Design and Development]], [[Deployment]], [[Operation and Monitoring]], [[End of Life]], [[Consumer]], [[Provider]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages, 2026
+
+---
+
 ### Basic Module (VSME)
 
 **Definition:** The foundational disclosure module within the VSME framework, comprising a minimum set of thematic chapters that correspond to major ESRS topic areas and from which SMEs may begin voluntary sustainability reporting.
@@ -102,6 +134,22 @@ title: Glossary
 
 ---
 
+### Carbon Intensity
+
+**Definition:** A rate-based metric expressing the quantity of carbon emissions produced per unit of a defined functional output, used in the SCI framework to enable normalised comparison of the carbon efficiency of software and AI systems.
+
+**Domain:** General
+
+**Synonyms:** carbon emission rate
+
+**Abbreviation:** none
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[Functional Unit]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Background, 2026
+
+---
+
 ### Carbon Leakage
 
 **Definition:** The phenomenon whereby businesses relocate carbon-intensive production to jurisdictions with less stringent climate regulations, thereby undermining the environmental effectiveness of carbon pricing policies.
@@ -163,6 +211,38 @@ title: Glossary
 **Related terms:** [[Task Force on Climate-Related Financial Disclosures]], [[ISSB]], [[IFRS S2]], [[Science-Based Targets]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Task Force on Climate-Related Financial Disclosures, 2026
+
+---
+
+### Consumer
+
+**Definition:** An entity that uses AI services and pays for functional units of AI, whose carbon accounting boundary encompasses all components related to the Operation and Monitoring lifecycle stage.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Provider]], [[Functional Unit]], [[Consumer Boundary]], [[Operation and Monitoring]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Consumer Boundary
+
+**Definition:** The carbon accounting boundary applicable to the Consumer persona, which must include all components related to the Operation and Monitoring lifecycle stage, including API and inference, orchestration, scaling, observability and monitoring, data and feature management, storage and artefacts, user experience and client-side components, and model tool and service connectors.
+
+**Domain:** General
+
+**Synonyms:** consumer system boundary
+
+**Abbreviation:** none
+
+**Related terms:** [[Persona-Based System Boundary]], [[Consumer]], [[Provider Boundary]], [[Operation and Monitoring]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Consumer Boundary, 2026
 
 ---
 
@@ -246,6 +326,54 @@ title: Glossary
 
 ---
 
+### Deployment
+
+**Definition:** The third stage of the AI lifecycle, covering the incorporation of an AI model into larger systems, the design of component interactions, connections with external applications, and pre-deployment integration testing, whose associated carbon emissions must be included in the Provider SCI calculation.
+
+**Domain:** General
+
+**Synonyms:** deployment stage
+
+**Abbreviation:** none
+
+**Related terms:** [[AI Lifecycle Stages]], [[Provider]], [[Operation and Monitoring]], [[Design and Development]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Deployment (Provider), 2026
+
+---
+
+### Design and Development
+
+**Definition:** The second stage of the AI lifecycle, encompassing data collection, preprocessing, synthetic data generation, model selection, feature engineering, distributed training setup, evaluation metric definition, and computational resource optimisation, all of whose associated carbon emissions must be included in the Provider SCI calculation.
+
+**Domain:** General
+
+**Synonyms:** design and development stage
+
+**Abbreviation:** none
+
+**Related terms:** [[AI Lifecycle Stages]], [[Model Training]], [[Provider]], [[Inception]], [[Deployment]], [[Feature Engineering]], [[Distributed Training]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Design and Development (Provider), 2026
+
+---
+
+### Distributed Training
+
+**Definition:** A model training approach in which computational workloads are distributed across multiple processing units or systems to handle large-scale AI models, constituting a component of the Design and Development lifecycle stage whose infrastructure must be included in the Provider SCI calculation.
+
+**Domain:** General
+
+**Synonyms:** distributed training infrastructure
+
+**Abbreviation:** none
+
+**Related terms:** [[Model Training]], [[Design and Development]], [[Provider Boundary]], [[FLOP]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
+
+---
+
 ### Double Materiality
 
 **Definition:** A reporting principle under ESRS that requires organisations to disclose both financial materiality—the effect of sustainability factors on the organisation's financial position—and impact materiality—the organisation's effects on people and the environment.
@@ -291,6 +419,22 @@ title: Glossary
 **Related terms:** [[International Corporate Social Responsibility]], [[OECD Guidelines for Multinational Enterprises]], [[United Nations Guiding Principles on Business and Human Rights]], [[Adverse Impact]], [[Grievance Mechanism]], [[Remediation]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### End of Life
+
+**Definition:** The fifth and final stage of the AI lifecycle, involving the decommissioning of AI systems no longer maintained in runtime environments and the proper handling of associated resources and data, also referred to as the Retirement stage for SCI calculation purposes.
+
+**Domain:** General
+
+**Synonyms:** Retirement, retirement stage, decommissioning
+
+**Abbreviation:** none
+
+**Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Provider]], [[Operation and Monitoring]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Retirement, 2026
 
 ---
 
@@ -422,6 +566,22 @@ title: Glossary
 
 ---
 
+### Feature Engineering
+
+**Definition:** The process of selecting, transforming, and constructing input variables from raw data to improve AI model performance, constituting a component of the Design and Development lifecycle stage whose associated systems must be included in the Provider SCI calculation.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Design and Development]], [[Model Training]], [[Provider]], [[Provider Boundary]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
+
+---
+
 ### Financial Materiality
 
 **Definition:** A dimension of double materiality under ESRS referring to the effect of sustainability-related factors on an organisation's financial position, performance, or cash flows.
@@ -435,6 +595,66 @@ title: Glossary
 **Related terms:** [[Double Materiality]], [[Impact Materiality]], [[ESRS]], [[Materiality (ESRS)]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: European Sustainability Reporting Standards, 2026
+
+---
+
+### FinOps
+
+**Definition:** An operational practice applied within the Operation and Monitoring lifecycle stage of AI systems to manage and optimise cloud and infrastructure financial and resource efficiency, referenced in the SCI for AI Specification as an example of operational practice relevant to carbon accounting.
+
+**Domain:** General
+
+**Synonyms:** financial operations, cloud financial management
+
+**Abbreviation
+
+---
+
+### FLOP (Floating Point Operation)
+
+**Definition:** A basic computational operation used as a standardised measure of computational work in AI systems, serving as a proxy metric for the energy and carbon costs of model training and inference.
+
+**Domain:** General
+
+**Synonyms:** floating point operation
+
+**Abbreviation:** FLOP
+
+**Related terms:** [[Model Training]], [[Inference]], [[Parameter]], [[Functional Unit]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Functional Unit
+
+**Definition:** A quantified performance characteristic of an AI system that serves as the reference unit against which carbon intensity is normalised and calculated.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[Consumer Functional Units]], [[Carbon Intensity]], [[Inference]], [[Token]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Generative AI
+
+**Definition:** A class of AI systems capable of producing novel content outputs — including text, images, video, music, and code — encompassing architectures such as Large Language Models, and explicitly addressed within the scope of the SCI for AI Specification for carbon accounting purposes.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Large Language Model]], [[Agentic AI]], [[Token]], [[Inference]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026
 
 ---
 
@@ -582,6 +802,38 @@ title: Glossary
 
 ---
 
+### Inception
+
+**Definition:** The first stage of the AI lifecycle, involving the definition of the AI problem, assessment of AI suitability, engagement with end-users, and establishment of performance objectives and computational constraints, whose associated systems must be included in the Provider SCI calculation when material.
+
+**Domain:** General
+
+**Synonyms:** inception stage, AI inception phase
+
+**Abbreviation:** none
+
+**Related terms:** [[AI Lifecycle Stages]], [[Provider]], [[Design and Development]], [[Provider Boundary]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Inception (Provider), 2026
+
+---
+
+### Inference
+
+**Definition:** The process of using a trained AI model to make predictions or generate outputs based on input data, constituting the primary operational activity within the Consumer boundary for carbon accounting purposes.
+
+**Domain:** General
+
+**Synonyms:** model inference, AI inference
+
+**Abbreviation:** none
+
+**Related terms:** [[Model Training]], [[Token]], [[Functional Unit]], [[Operation and Monitoring]], [[Consumer]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
 ### International Corporate Social Responsibility
 
 **Definition:** A framework of responsible business conduct standards—anchored in the OECD Guidelines for Multinational Enterprises and the UN Guiding Principles on Business and Human Rights—that requires enterprises to identify and address actual and potential adverse impacts on human rights, labour rights, the environment, and anti-corruption across their value chains.
@@ -627,6 +879,22 @@ title: Glossary
 **Related terms:** [[CSRD]], [[Corporate Sustainability Reporting Directive]], [[ESG (Environmental, Social and Governance)]]
 
 **Source:** ESG Business Handbook.pdf, EU Regulatory Framework – International Sustainability Standards Board, 2026
+
+---
+
+### ISO/IEC 21031:2024
+
+**Definition:** The international standard that codifies the Software Carbon Intensity (SCI) methodology, establishing the normative foundation upon which domain-specific extensions, including the SCI for AI Specification, are built.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[SCI for AI Specification]], [[Carbon Intensity]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Background, 2026
 
 ---
 
@@ -678,6 +946,38 @@ title: Glossary
 
 ---
 
+### Large Language Model
+
+**Definition:** A type of generative AI system based on neural network architectures trained on large text corpora to perform token-based text generation and other natural language tasks, characterised by high parameter counts and significant computational and carbon costs at both training and inference stages.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** LLM
+
+**Related terms:** [[Generative AI]], [[Token]], [[Parameter]], [[Model Training]], [[Inference]], [[Natural Language Processing]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026
+
+---
+
+### Machine Learning
+
+**Definition:** A foundational AI paradigm in which systems learn to perform tasks by identifying patterns in data rather than through explicit programming, encompassing supervised learning, unsupervised learning, reinforcement learning, and deep learning, and covered within the SCI for AI Specification's scope.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** ML
+
+**Related terms:** [[Reinforcement Learning]], [[Model Training]], [[Parameter]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – AI Paradigms, 2026
+
+---
+
 ### Materiality (ESRS)
 
 **Definition:** The threshold principle under ESRS by which an organisation determines which sustainability topics must be disclosed, assessed through the dual lens of financial materiality and impact materiality.
@@ -710,6 +1010,22 @@ title: Glossary
 
 ---
 
+### Model Training
+
+**Definition:** The process of developing an AI model by exposing it to data and optimising its parameters to perform a specific task or set of tasks, representing a computationally intensive lifecycle phase whose carbon emissions must be calculated over the entire training duration including all epochs, steps, parameter updates, intermediate runs, and early stopping phases.
+
+**Domain:** General
+
+**Synonyms:** AI model training, training phase
+
+**Abbreviation:** none
+
+**Related terms:** [[Inference]], [[Parameter]], [[FLOP]], [[Design and Development]], [[Provider Boundary]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions & Design and Development, 2026
+
+---
+
 ### National Contact Point (OECD)
 
 **Definition:** A national body, established under the OECD Guidelines for Multinational Enterprises, that serves as the implementation authority for those Guidelines within its jurisdiction and provides guidance, mediation, and dispute resolution services to enterprises and affected parties.
@@ -723,6 +1039,22 @@ title: Glossary
 **Related terms:** [[OECD Guidelines for Multinational Enterprises]], [[Remediation]], [[Grievance Mechanism]], [[Due Diligence]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### Natural Language Processing
+
+**Definition:** An application-specific AI domain focused on enabling AI systems to understand, interpret, and generate human language, listed within the SCI for AI Specification as an in-scope application domain for carbon intensity measurement.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** NLP
+
+**Related terms:** [[Large Language Model]], [[Token]], [[Generative AI]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – Application-Specific AI Solutions, 2026
 
 ---
 
@@ -774,6 +1106,38 @@ title: Glossary
 
 ---
 
+### Operation and Monitoring
+
+**Definition:** The fourth stage of the AI lifecycle, encompassing model deployment for inference, orchestration of autonomous workflows, integration of model tools and services, performance monitoring, and operational practices across edge devices, data centres, and cloud environments, whose associated carbon emissions must be included in the Consumer SCI calculation.
+
+**Domain:** General
+
+**Synonyms:** operational stage, operation and monitoring stage
+
+**Abbreviation:** none
+
+**Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Inference]], [[Agentic AI]], [[FinOps]], [[Deployment]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Operation and Monitoring (Consumer), 2026
+
+---
+
+### Parameter
+
+**Definition:** An individual, adjustable value that defines a part of an AI model's structure and behaviour, the total count of which characterises model scale and influences computational and carbon costs.
+
+**Domain:** General
+
+**Synonyms:** model parameter, weight
+
+**Abbreviation:** none
+
+**Related terms:** [[Model Training]], [[FLOP]], [[Large Language Model]], [[Functional Unit]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
 ### Paris Agreement
 
 **Definition:** An international treaty adopted in 2015 under the United Nations Framework Convention on Climate Change in which signatory states committed to limiting global average temperature rise, providing a foundational policy reference for European sustainability regulation.
@@ -790,6 +1154,22 @@ title: Glossary
 
 ---
 
+### Persona-Based System Boundary
+
+**Definition:** A carbon accounting boundary definition approach that delimits the scope of SCI calculations according to the role — Consumer or Provider — of the reporting entity, reflecting each persona's distinct sphere of control and agency over an AI system's carbon footprint.
+
+**Domain:** General
+
+**Synonyms:** persona-based boundary, role-based system boundary
+
+**Abbreviation:** none
+
+**Related terms:** [[Consumer Boundary]], [[Provider Boundary]], [[Consumer]], [[Provider]], [[Software Carbon Intensity (SCI)]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Persona-Based System Boundary Definition, 2026
+
+---
+
 ### Principles for Responsible Investment
 
 **Definition:** A framework for investors to incorporate ESG factors into investment decision-making, functioning as a catalyst for sustainable economic transition.
@@ -803,6 +1183,54 @@ title: Glossary
 **Related terms:** [[ESG (Environmental, Social and Governance)]], [[Sustainable Finance Disclosure Regulation]], [[EU Taxonomy Regulation]]
 
 **Source:** ESG Business Handbook.pdf, International Frameworks – Principles for Responsible Investment, 2026
+
+---
+
+### Provider
+
+**Definition:** An entity that develops and delivers AI services, selling functional units of AI, whose carbon accounting boundary encompasses all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Consumer]], [[Functional Unit]], [[Provider Boundary]], [[Model Training]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Provider Boundary
+
+**Definition:** The carbon accounting boundary applicable to the Provider persona, which must include all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages, encompassing training infrastructure, data systems, evaluation frameworks, and system integration.
+
+**Domain:** General
+
+**Synonyms:** provider system boundary
+
+**Abbreviation:** none
+
+**Related terms:** [[Persona-Based System Boundary]], [[Provider]], [[Consumer Boundary]], [[Model Training]], [[Design and Development]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Provider Boundary, 2026
+
+---
+
+### Reinforcement Learning
+
+**Definition:** A machine learning paradigm in which an AI model learns to make sequential decisions by receiving feedback signals from an environment, included within the SCI for AI Specification's scope of covered AI paradigms.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** RL
+
+**Related terms:** [[Model Training]], [[Machine Learning]], [[SCI for AI Specification]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – AI Paradigms, 2026
 
 ---
 
@@ -851,6 +1279,22 @@ title: Glossary
 **Related terms:** [[CSR Risk Analysis]], [[Adverse Impact]], [[Due Diligence]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### SCI for AI Specification
+
+**Definition:** A domain-specific extension of the SCI framework, published by the Green Software Foundation, that provides a standardised methodology for measuring and reporting carbon emissions associated with AI systems throughout their lifecycle, including persona-based system boundaries, lifecycle stages, and functional units applicable to machine learning, generative AI, and agentic AI.
+
+**Domain:** General
+
+**Synonyms:** Software Carbon Intensity for Artificial Intelligence Specification
+
+**Abbreviation:** SCI for AI
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[ISO/IEC 21031:2024]], [[Functional Unit]], [[AI Lifecycle Stages]], [[Consumer]], [[Provider]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Lead, 2026
 
 ---
 
@@ -934,6 +1378,22 @@ title: Glossary
 
 ---
 
+### Software Carbon Intensity (SCI)
+
+**Definition:** A standardised methodology for measuring and reporting the carbon emissions of a software system, expressed as a rate of carbon emissions per chosen functional unit, originally codified in ISO/IEC 21031:2024.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** SCI
+
+**Related terms:** [[Functional Unit]], [[Carbon Intensity]], [[SCI for AI Specification]], [[ISO/IEC 21031:2024]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Lead & Background, 2026
+
+---
+
 ### Sustainability Accounting Standards Board
 
 **Definition:** A standard-setting body that developed industry-specific sustainability accounting standards across 77 industries to enable companies to disclose financially material ESG information relevant to investors, subsequently merged into the ISSB.
@@ -982,6 +1442,22 @@ title: Glossary
 
 ---
 
+### Synthetic Data Generation
+
+**Definition:** The process of artificially producing data for use in AI model training or evaluation, rather than collecting it from real-world sources, constituting a component of both the Design and Development lifecycle stage and the Provider boundary for SCI carbon accounting purposes.
+
+**Domain:** General
+
+**Synonyms:** synthetic data creation
+
+**Abbreviation:** none
+
+**Related terms:** [[Design and Development]], [[Model Training]], [[Provider Boundary]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
+
+---
+
 ### Task Force on Climate-Related Financial Disclosures
 
 **Definition:** An international body launched in 2017 that developed a voluntary framework for consistent, decision-useful disclosure of climate-related financial risks, structured around four core pillars: Governance, Strategy, Risk Management, and Metrics and Targets.
@@ -995,6 +1471,22 @@ title: Glossary
 **Related terms:** [[ISSB]], [[CDP]], [[Climate-Related Financial Risk]], [[Science-Based Targets]], [[ESG]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Task Force on Climate-Related Financial Disclosures, 2026
+
+---
+
+### Token
+
+**Definition:** The atomic unit of text processing in language models, typically representing parts of words or characters, used as a functional unit for measuring the carbon intensity of language model inference.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Inference]], [[Functional Unit]], [[Large Language Model]], [[Generative AI]]
+
+**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
 ---
 
