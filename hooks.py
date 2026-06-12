@@ -82,13 +82,14 @@ MANUAL_ALIASES = {
     "ghg protocol": "standards/ghg-protocol/index.md",
     "esrs 1": "standards/esrs/index.md",
     "esrs e1": "standards/esrs/index.md",
-    "european financial reporting advisory group": "glossary.md#efrag",
-    "european financial reporting advisory group (efrag)": "glossary.md#efrag",
-    "issb": "glossary.md#ifrs-s1-ifrs-s2",
-    "international sustainability standards board": "glossary.md#ifrs-s1-ifrs-s2",
-    "ifrs s1": "glossary.md#ifrs-s1-ifrs-s2",
-    "ifrs s2": "glossary.md#ifrs-s1-ifrs-s2",
-    "ifrs s2 climate-related disclosures": "glossary.md#ifrs-s1-ifrs-s2",
+    "efrag": "glossary.md#european-financial-reporting-advisory-group",
+    "european financial reporting advisory group": "glossary.md#european-financial-reporting-advisory-group",
+    "european financial reporting advisory group (efrag)": "glossary.md#european-financial-reporting-advisory-group",
+    "issb": "glossary.md#ifrs-s1",
+    "international sustainability standards board": "glossary.md#ifrs-s1",
+    "ifrs s1": "glossary.md#ifrs-s1",
+    "ifrs s2": "glossary.md#ifrs-s2",
+    "ifrs s2 climate-related disclosures": "glossary.md#ifrs-s2",
     "scope 1": "glossary.md#scope-1-emissions",
     "scope 2": "glossary.md#scope-2-emissions",
     "scope 3": "glossary.md#scope-3-emissions",
@@ -249,7 +250,9 @@ def on_page_markdown(markdown, page, config, **kwargs):
     markdown = _inject_meta(markdown, page.meta or {})
 
     def replace(match):
-        link_key = match.group(1).strip()
+        # Inside Markdown tables the alias pipe is escaped as ``\|``; strip a
+        # trailing backslash so ``[[Target\|Alias]]`` resolves like ``[[Target|Alias]]``.
+        link_key = match.group(1).strip().rstrip("\\")
         display = (match.group(2) or link_key).strip()
         target = LINK_INDEX.get(_norm(link_key))
         if not target:

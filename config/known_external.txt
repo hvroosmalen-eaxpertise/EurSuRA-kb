@@ -1,13 +1,17 @@
 # Auto-recorded by bootstrap: external concepts referenced by [[wikilinks]]
 # but not (yet) pages or glossary terms. Promote one by adding a page/glossary
 # entry and removing it here.
+ai environmental impact
 carbon border adjustment mechanism (cbam)
 cdp
 circular economy
+consumer functional units
 corporate sustainability due diligence
 corporate sustainability reporting directive (csrd)
 digital competence
 european sustainability reporting standards (esrs)
+green software foundation
+lifecycle assessment
 national contact points (oecd)
 sasb
 supply chain due diligence
