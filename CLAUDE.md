@@ -24,7 +24,7 @@ or `config/synthesis.yaml`.
 - Pipeline (from this directory):
   - `python ../kb-framework/pipeline/ingest.py --kb .`
   - `python ../kb-framework/pipeline/orchestrate.py --kb .`  (ingest inbox → finalise → commit → push)
-  - `python ../kb-framework/pipeline/finalize.py --kb . --no-push`  (finalise only, hold for review)
+  - `python ../kb-framework/pipeline/finalize.py --kb . --no-push`  (finalise only, hold for review; regenerate still makes paid `--model`/`--synthesis` Claude calls — not free)
   - `python ../kb-framework/pipeline/query.py --kb . --catalog|--synthesis|--cross-ref`
   - `python ../kb-framework/pipeline/lint.py --kb . [--deep]`
 - Lint policy is in `config/kb.yaml` (`lint:` block). Pages reachable only via
