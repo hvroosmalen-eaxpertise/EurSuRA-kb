@@ -112,3 +112,4 @@
 2026-06-15T14:17:41 [INFO] WRITTEN docs\reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md
 2026-06-15T14:18:37 [INFO] DONE VSME Standard NL onofficiële vertaling met AI.pdf → vsme-standard-nl-onofficiële-vertaling-met-ai.md
 2026-06-15T14:26:03 [INFO] FINALIZE_RECONCILE 42 external links recorded
+2026-06-15T14:26:29 [INFO] FINALIZE_COMMIT ingest: pipeline run 2026-06-15 14:26

@@ -101,10 +101,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2026", "2026", "{2D6AB9A8-5
 	ProjectSection(SolutionItems) = preProject
 		docs\reports\2026\index.md = docs\reports\2026\index.md
 		docs\reports\2026\6-esg-reporting-frameworks.md = docs\reports\2026\6-esg-reporting-frameworks.md
+		docs\reports\2026\an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md = docs\reports\2026\an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md
+		docs\reports\2026\csi---green-software-foundation.md = docs\reports\2026\csi---green-software-foundation.md
 		docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md = docs\reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
 		docs\reports\2026\esg-business-handbook.md = docs\reports\2026\esg-business-handbook.md
 		docs\reports\2026\green-software-foundation--sci-for-ai-specification.md = docs\reports\2026\green-software-foundation--sci-for-ai-specification.md
 		docs\reports\2026\jrc144121_01.md = docs\reports\2026\jrc144121_01.md
+		docs\reports\2026\oeso-richtlijnen+nederlandse+vertaling.md = docs\reports\2026\oeso-richtlijnen+nederlandse+vertaling.md
+		docs\reports\2026\online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md = docs\reports\2026\online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md
+		docs\reports\2026\q&a-nav-webinair-vsme_marlou-en-esther.md = docs\reports\2026\q&a-nav-webinair-vsme_marlou-en-esther.md
+		docs\reports\2026\sci-for-web-assembly-report.md = docs\reports\2026\sci-for-web-assembly-report.md
+		docs\reports\2026\sdg-csrd-esrs-matrix.md = docs\reports\2026\sdg-csrd-esrs-matrix.md
+		docs\reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md = docs\reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md
 		docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md = docs\reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
 	EndProjectSection
 EndProject

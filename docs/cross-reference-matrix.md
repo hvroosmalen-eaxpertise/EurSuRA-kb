@@ -30,7 +30,6 @@ date_updated: 2026-06-15
 | [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md) |  |  |  |
 | [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md) |  |  |  |
 | [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md) |  |  |  |
-| [reports/2026/esg-audit-checklist.md](reports/2026/esg-audit-checklist.md) |  |  |  |
 | [ESG Business Handbook](reports/2026/esg-business-handbook.md) |  |  |  |
 | [Overview](reports/2026/index.md) |  |  |  |
 | [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md) |  |  |  |

@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-06-15
+
+### Added (ingested)
+- **VSME Standard NL onofficiële vertaling met AI.pdf** → `reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md` — vsme-standard-nl-onofficiële-vertaling-met-ai (domain: —)
+
+- **SDG-CSRD-ESRS matrix.pdf** → `reports\2026\sdg-csrd-esrs-matrix.md` — sdg-csrd-esrs-matrix (domain: —)
+
+- **SCI for Web Assembly Report.pdf** → `reports\2026\sci-for-web-assembly-report.md` — sci-for-web-assembly-report (domain: —)
+
+- **Q&A nav Webinair VSME_Marlou en Esther.pdf** → `reports\2026\q&a-nav-webinair-vsme_marlou-en-esther.md` — q&a-nav-webinair-vsme_marlou-en-esther (domain: —)
+
+- **Online bijeenkomst Grip op EU Duurzaamheidswetgeving deelversie.pdf** → `reports\2026\online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md` — online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie (domain: —)
+
+- **OESO-richtlijnen+Nederlandse+vertaling.pdf** → `reports\2026\oeso-richtlijnen+nederlandse+vertaling.md` — oeso-richtlijnen+nederlandse+vertaling (domain: —)
+
+- **CSI - Green Software Foundation.pdf** → `reports\2026\csi---green-software-foundation.md` — csi---green-software-foundation (domain: —)
+
+- **An-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.pdf** → `reports\2026\an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md` — an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries- (domain: —)
+
+### Removed
+- **esg-audit-checklist** — page dropped; source `ESG audit checklist.pdf` is image-only (24 chars extracted) and the generated page was ungrounded/hallucinated. PDF moved to `pipeline/needs-ocr/` pending OCR. Glossary entries it seeded were retained.
+
+---
+
+
 ## 2026-06-11
 
 ### Added (ingested)

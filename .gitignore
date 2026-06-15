@@ -2,6 +2,7 @@ site/
 pipeline/inbox/
 pipeline/processed/
 pipeline/failed/
+pipeline/needs-ocr/
 __pycache__/
 *.pyc
 .env

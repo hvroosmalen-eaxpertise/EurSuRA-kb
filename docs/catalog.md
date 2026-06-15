@@ -39,7 +39,6 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 - [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md)
 - [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md)
 - [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
-- [reports/2026/esg-audit-checklist.md](reports/2026/esg-audit-checklist.md)
 - [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
 - [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md)
 - [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md)
