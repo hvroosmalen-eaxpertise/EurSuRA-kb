@@ -43,6 +43,14 @@ To rebuild after editing content:
 python -m mkdocs build --config-file mkdocs.yml
 ```
 
+### Diagrams (Mermaid)
+
+The [concept map](docs/models/concept-map.md) and other pages use
+[Mermaid.js](https://mermaid.js.org/) diagrams rendered natively by the Material
+theme. Mermaid is enabled via `pymdownx.superfences` in `mkdocs.yml` — no
+additional setup is required beyond the config change. The theme loads the
+Mermaid runtime automatically when a page contains a ` ```mermaid ` code block.
+
 ## Adding Content
 
 ### Edit an existing page
