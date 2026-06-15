@@ -20,7 +20,10 @@ or `config/synthesis.yaml`.
 
 ## Local mechanics
 - `hooks.py` resolves `[[wikilinks]]` at build time; `mkdocs build --strict`
-  fails on any unresolved link.
+  fails on any unresolved link. It also copies the shared Mermaid toolbar JS from
+  `../kb-framework/assets/javascripts/` into `docs/assets/javascripts/` (gitignored)
+  each build, so ` ```mermaid ` blocks (e.g. `docs/models/concept-map.md`) render
+  via `pymdownx.superfences`.
 - Pipeline (from this directory):
   - `python ../kb-framework/pipeline/ingest.py --kb .`
   - `python ../kb-framework/pipeline/orchestrate.py --kb .`  (ingest inbox → finalise → commit → push)

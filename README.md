@@ -14,7 +14,7 @@ It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](http
 | **Frameworks** | UN SDGs, GRI, TCFD |
 | **Models** | Semantic model, concept map, ontology, cross-reference matrix |
 | **Glossary** | Definitions of all key terms |
-| **Reports** | Ingested sustainability reports (2025) |
+| **Reports** | Ingested source documents, summarised into draft pages (under [2026](docs/reports/2026/index.md)) |
 
 ## Viewing the Wiki
 
@@ -103,6 +103,14 @@ the catalog, runs a warn-only lint, then builds the site and **commits locally**
 (it does not push — you review the merged and synthesised diffs, then `git push`
 yourself). On failure the PDF moves to `pipeline/failed/` and the error is
 recorded in `logs/ingestion.log`.
+
+> **Image-only / scanned PDFs.** Extraction needs a real text layer. A scanned
+> PDF can yield near-zero characters, in which case the enrichment step will
+> *fabricate* a plausible-looking page from the filename rather than fail. After
+> ingesting, check the `EXTRACTED <n> chars` line in `logs/ingestion.log`; if `n`
+> is suspiciously low, OCR the source to real text before relying on the page. By
+> convention such sources are held in `pipeline/needs-ocr/` (gitignored) so they
+> are not silently re-ingested.
 
 ## How ingestion builds knowledge (the three layers)
 
