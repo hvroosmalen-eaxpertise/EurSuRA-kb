@@ -1,8 +1,11 @@
 (function() {
   'use strict';
 
-  // Find the rendered SVG near the toolbar: either inside the preceding
-  // element (<pre> with inner SVG) or as the preceding element itself.
+  var CDNS = [
+    'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js',
+    'https://unpkg.com/mermaid@11/dist/mermaid.min.js',
+  ];
+
   function findSvg(bar) {
     var el = bar.previousElementSibling;
     if (!el) return null;
@@ -10,13 +13,15 @@
     return el.querySelector('svg');
   }
 
-  // Set up download actions once the SVG is available.
   function enableDownloads(bar, svg) {
-    svg = svg || findSvg(bar);
-    if (!svg) return;
+    var svgLink = bar.querySelector('[data-action=svg]');
+    var pngLink = bar.querySelector('[data-action=png]');
+    if (!svgLink || !pngLink) return;
 
-    // SVG download
-    bar.querySelector('[data-action=svg]').onclick = function(e) {
+    svgLink.style.cssText = 'font-size:0.8em;margin-right:14px;';
+    pngLink.style.cssText = 'font-size:0.8em;';
+
+    svgLink.onclick = function(e) {
       e.preventDefault();
       var str = new XMLSerializer().serializeToString(svg.cloneNode(true));
       var blob = new Blob([str], {type: 'image/svg+xml'});
@@ -30,8 +35,7 @@
       URL.revokeObjectURL(url);
     };
 
-    // PNG download
-    bar.querySelector('[data-action=png]').onclick = function(e) {
+    pngLink.onclick = function(e) {
       e.preventDefault();
       var rect = svg.getBoundingClientRect();
       var canvas = document.createElement('canvas');
@@ -58,12 +62,46 @@
     };
   }
 
+  function loadMermaidAndRender(pre, bar, source, cdnIndex) {
+    cdnIndex = cdnIndex || 0;
+    if (cdnIndex >= CDNS.length) {
+      console.warn('mermaid-toolbar: all CDNs failed to load');
+      return;
+    }
+    var s = document.createElement('script');
+    s.src = CDNS[cdnIndex];
+    s.onload = function() {
+      try {
+        mermaid.initialize({ startOnLoad: false });
+        mermaid.render('mmd-' + Date.now(), source).then(function(r) {
+          var wrapper = document.createElement('div');
+          wrapper.innerHTML = r.svg;
+          var svgEl = wrapper.firstElementChild;
+          if (pre.parentNode) {
+            pre.parentNode.replaceChild(wrapper, pre);
+          } else {
+            bar.parentNode.insertBefore(wrapper, bar);
+          }
+          enableDownloads(bar, svgEl);
+        }).catch(function(err) {
+          console.warn('mermaid-toolbar: render failed', err);
+        });
+      } catch (err) {
+        console.warn('mermaid-toolbar: init error', err);
+      }
+    };
+    s.onerror = function() {
+      console.warn('mermaid-toolbar: CDN ' + cdnIndex + ' failed, trying next');
+      loadMermaidAndRender(pre, bar, source, cdnIndex + 1);
+    };
+    document.head.appendChild(s);
+  }
+
   document.querySelectorAll('pre.mermaid').forEach(function(pre) {
     var code = pre.querySelector('code');
     if (!code) return;
     var source = code.textContent;
 
-    // Insert a toolbar with Copy source (always works) + placeholder action links
     var bar = document.createElement('div');
     bar.className = 'mermaid-toolbar';
 
@@ -96,36 +134,19 @@
 
     pre.parentNode.insertBefore(bar, pre.nextSibling);
 
-    // Wait for the rendered SVG (Material theme or our own loader)
+    // Poll for theme-rendered SVG (Material may render asynchronously)
     var attempts = 0;
     var timer = setInterval(function() {
       attempts++;
       var svg = findSvg(bar);
       if (svg) {
         clearInterval(timer);
-        svgLink.style.cssText = 'font-size:0.8em;margin-right:14px;';
-        pngLink.style.cssText = 'font-size:0.8em;';
         enableDownloads(bar, svg);
         return;
       }
-      // After 6s, render Mermaid ourselves
       if (attempts >= 12) {
         clearInterval(timer);
-        var s = document.createElement('script');
-        s.src = 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js';
-        s.onload = function() {
-          mermaid.initialize({ startOnLoad: false });
-          mermaid.render('mmd-' + Date.now(), source).then(function(r) {
-            var wrapper = document.createElement('div');
-            wrapper.innerHTML = r.svg;
-            var svgEl = wrapper.firstElementChild;
-            pre.parentNode.replaceChild(wrapper, pre);
-            svgLink.style.cssText = 'font-size:0.8em;margin-right:14px;';
-            pngLink.style.cssText = 'font-size:0.8em;';
-            enableDownloads(bar, svgEl);
-          });
-        };
-        document.head.appendChild(s);
+        loadMermaidAndRender(pre, bar, source);
       }
     }, 500);
   });
