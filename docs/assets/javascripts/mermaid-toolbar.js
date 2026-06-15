@@ -1,59 +1,67 @@
 (function() {
   'use strict';
 
-  function addToolbar(container, source) {
-    if (container.nextElementSibling && container.nextElementSibling.classList.contains('mermaid-toolbar')) return;
+  var sources = [];
+  document.querySelectorAll('pre.mermaid').forEach(function(pre) {
+    var code = pre.querySelector('code');
+    sources.push(code ? code.textContent : '');
+  });
 
-    var bar = document.createElement('div');
-    bar.className = 'mermaid-toolbar';
+  if (sources.length === 0) return;
 
-    var editor = document.createElement('a');
-    editor.href = '#';
-    editor.textContent = 'View in Mermaid editor';
-    editor.style.cssText = 'font-size:0.8em;margin-right:12px;';
-    editor.onclick = function(e) {
-      e.preventDefault();
-      var encoded = btoa(source);
-      window.open('https://mermaid.live/edit?base64=' + encoded, '_blank');
-    };
-    bar.appendChild(editor);
+  // Mermaid replaces each <pre class="mermaid"> with an <svg> in document
+  // order. Watch for new SVGs and add a toolbar below each one by index.
+  var done = 0;
 
-    var svgBtn = document.createElement('a');
-    svgBtn.href = '#';
-    svgBtn.textContent = 'Download SVG';
-    svgBtn.style.cssText = 'font-size:0.8em;';
-    svgBtn.onclick = function(e) {
-      e.preventDefault();
-      var svg = container.querySelector('svg');
-      if (!svg) return;
-      var clone = svg.cloneNode(true);
-      var serializer = new XMLSerializer();
-      var str = serializer.serializeToString(clone);
-      var blob = new Blob([str], {type: 'image/svg+xml'});
-      var url = URL.createObjectURL(blob);
-      var a = document.createElement('a');
-      a.href = url;
-      a.download = 'concept-map.svg';
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    };
-    bar.appendChild(svgBtn);
+  function tryAdd() {
+    var svgs = document.querySelectorAll('svg');
+    // Find the next un-toolbared Mermaid SVG (new SVGs beyond what we've processed)
+    for (var i = done; i < svgs.length && i < sources.length; i++) {
+      var svg = svgs[i];
+      if (svg.nextElementSibling && svg.nextElementSibling.classList.contains('mermaid-toolbar')) continue;
 
-    container.parentNode.insertBefore(bar, container.nextSibling);
+      var bar = document.createElement('div');
+      bar.className = 'mermaid-toolbar';
+
+      var editor = document.createElement('a');
+      editor.href = '#';
+      editor.textContent = 'View in Mermaid editor';
+      editor.style.cssText = 'font-size:0.8em;margin-right:12px;';
+      editor.onclick = (function(src) {
+        return function(e) {
+          e.preventDefault();
+          window.open('https://mermaid.live/edit?base64=' + btoa(src), '_blank');
+        };
+      })(sources[i]);
+      bar.appendChild(editor);
+
+      var svgBtn = document.createElement('a');
+      svgBtn.href = '#';
+      svgBtn.textContent = 'Download SVG';
+      svgBtn.style.cssText = 'font-size:0.8em;';
+      svgBtn.onclick = (function(s) {
+        return function(e) {
+          e.preventDefault();
+          var str = new XMLSerializer().serializeToString(s.cloneNode(true));
+          var blob = new Blob([str], {type: 'image/svg+xml'});
+          var url = URL.createObjectURL(blob);
+          var a = document.createElement('a');
+          a.href = url;
+          a.download = 'diagram.svg';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(url);
+        };
+      })(svg);
+      bar.appendChild(svgBtn);
+
+      svg.parentNode.insertBefore(bar, svg.nextSibling);
+      done = i + 1;
+    }
   }
 
-  function check() {
-    document.querySelectorAll('pre.mermaid').forEach(function(el) {
-      if (el.querySelector('svg')) {
-        var code = el.querySelector('code');
-        addToolbar(el, code ? code.textContent : '');
-      }
-    });
-  }
-
-  check();
-  var timer = setInterval(check, 800);
+  tryAdd();
+  var timer = setInterval(tryAdd, 500);
   setTimeout(function() { clearInterval(timer); }, 30000);
 })();
