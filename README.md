@@ -46,10 +46,22 @@ python -m mkdocs build --config-file mkdocs.yml
 ### Diagrams (Mermaid)
 
 The [concept map](docs/models/concept-map.md) and other pages use
-[Mermaid.js](https://mermaid.js.org/) diagrams rendered natively by the Material
-theme. Mermaid is enabled via `pymdownx.superfences` in `mkdocs.yml` — no
-additional setup is required beyond the config change. The theme loads the
-Mermaid runtime automatically when a page contains a ` ```mermaid ` code block.
+[Mermaid.js](https://mermaid.js.org/) diagrams. Mermaid is enabled via
+`pymdownx.superfences` in `mkdocs.yml` — no additional setup is required
+beyond the config change.
+
+**Interactive toolbar.** Every rendered diagram includes a toolbar below it
+with three actions:
+
+| Button | Action |
+|--------|--------|
+| **Copy source** | Copies the raw Mermaid code to the clipboard |
+| **Download SVG** | Saves the diagram as a vector `.svg` file |
+| **Open SVG** | Opens the diagram in a new browser tab for full-screen viewing |
+
+The diagram is rendered client-side by loading Mermaid.js from CDN
+(`docs/assets/javascripts/mermaid-toolbar.js`), independent of the theme's
+built-in Mermaid loader.
 
 ## Adding Content
 
