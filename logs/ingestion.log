@@ -75,3 +75,39 @@
 2026-06-11T12:25:21 [INFO] EXTRACTED 15802 chars from Green Software Foundation -SCI for AI Specification.md
 2026-06-11T12:26:02 [INFO] WRITTEN docs\reports\2026\green-software-foundation--sci-for-ai-specification.md
 2026-06-11T12:26:56 [INFO] DONE Green Software Foundation -SCI for AI Specification.md → green-software-foundation--sci-for-ai-specification.md
+2026-06-15T14:04:38 [INFO] START An-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.pdf
+2026-06-15T14:04:40 [INFO] EXTRACTED 144874 chars from An-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.pdf
+2026-06-15T14:05:31 [INFO] WRITTEN docs\reports\2026\an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md
+2026-06-15T14:06:07 [INFO] DONE An-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.pdf → an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md
+2026-06-15T14:06:07 [INFO] START CSI - Green Software Foundation.pdf
+2026-06-15T14:06:08 [INFO] EXTRACTED 19724 chars from CSI - Green Software Foundation.pdf
+2026-06-15T14:06:59 [INFO] WRITTEN docs\reports\2026\csi---green-software-foundation.md
+2026-06-15T14:07:45 [INFO] DONE CSI - Green Software Foundation.pdf → csi---green-software-foundation.md
+2026-06-15T14:07:46 [INFO] START ESG audit checklist.pdf
+2026-06-15T14:07:46 [INFO] EXTRACTED 24 chars from ESG audit checklist.pdf
+2026-06-15T14:08:18 [INFO] WRITTEN docs\reports\2026\esg-audit-checklist.md
+2026-06-15T14:09:03 [INFO] DONE ESG audit checklist.pdf → esg-audit-checklist.md
+2026-06-15T14:09:03 [INFO] START OESO-richtlijnen+Nederlandse+vertaling.pdf
+2026-06-15T14:09:10 [INFO] EXTRACTED 301105 chars from OESO-richtlijnen+Nederlandse+vertaling.pdf
+2026-06-15T14:10:00 [INFO] WRITTEN docs\reports\2026\oeso-richtlijnen+nederlandse+vertaling.md
+2026-06-15T14:10:25 [INFO] DONE OESO-richtlijnen+Nederlandse+vertaling.pdf → oeso-richtlijnen+nederlandse+vertaling.md
+2026-06-15T14:10:25 [INFO] START Online bijeenkomst Grip op EU Duurzaamheidswetgeving deelversie.pdf
+2026-06-15T14:10:26 [INFO] EXTRACTED 21127 chars from Online bijeenkomst Grip op EU Duurzaamheidswetgeving deelversie.pdf
+2026-06-15T14:11:30 [INFO] WRITTEN docs\reports\2026\online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md
+2026-06-15T14:12:15 [INFO] DONE Online bijeenkomst Grip op EU Duurzaamheidswetgeving deelversie.pdf → online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md
+2026-06-15T14:12:15 [INFO] START Q&A nav Webinair VSME_Marlou en Esther.pdf
+2026-06-15T14:12:16 [INFO] EXTRACTED 7272 chars from Q&A nav Webinair VSME_Marlou en Esther.pdf
+2026-06-15T14:12:58 [INFO] WRITTEN docs\reports\2026\q&a-nav-webinair-vsme_marlou-en-esther.md
+2026-06-15T14:13:29 [INFO] DONE Q&A nav Webinair VSME_Marlou en Esther.pdf → q&a-nav-webinair-vsme_marlou-en-esther.md
+2026-06-15T14:13:29 [INFO] START SCI for Web Assembly Report.pdf
+2026-06-15T14:13:30 [INFO] EXTRACTED 63856 chars from SCI for Web Assembly Report.pdf
+2026-06-15T14:14:36 [INFO] WRITTEN docs\reports\2026\sci-for-web-assembly-report.md
+2026-06-15T14:15:14 [INFO] DONE SCI for Web Assembly Report.pdf → sci-for-web-assembly-report.md
+2026-06-15T14:15:14 [INFO] START SDG-CSRD-ESRS matrix.pdf
+2026-06-15T14:15:14 [INFO] EXTRACTED 4504 chars from SDG-CSRD-ESRS matrix.pdf
+2026-06-15T14:15:53 [INFO] WRITTEN docs\reports\2026\sdg-csrd-esrs-matrix.md
+2026-06-15T14:16:39 [INFO] DONE SDG-CSRD-ESRS matrix.pdf → sdg-csrd-esrs-matrix.md
+2026-06-15T14:16:39 [INFO] START VSME Standard NL onofficiële vertaling met AI.pdf
+2026-06-15T14:16:41 [INFO] EXTRACTED 196812 chars from VSME Standard NL onofficiële vertaling met AI.pdf
+2026-06-15T14:17:41 [INFO] WRITTEN docs\reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md
+2026-06-15T14:18:37 [INFO] DONE VSME Standard NL onofficiële vertaling met AI.pdf → vsme-standard-nl-onofficiële-vertaling-met-ai.md

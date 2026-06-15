@@ -6,6 +6,54 @@ title: Glossary
 
 ---
 
+### 2030 Agenda for Sustainable Development
+
+**Definition:** A universal plan of action adopted by all UN member states in 2015 that established the seventeen Sustainable Development Goals as the overarching global framework for sustainable development through to the year 2030.
+
+**Domain:** SDG
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### 3TG Minerals
+
+**Definition:** A collective designation for the four minerals—tin, tantalum, tungsten, and gold—subject to mandatory supply chain due diligence under the Conflict Minerals Regulation due to their association with conflict-affected and high-risk areas.
+
+**Domain:** General
+
+**Synonyms:** conflict minerals
+
+**Abbreviation:** 3TG
+
+**Related terms:** [[Conflict Minerals Regulation (CMR)]], [[Due Diligence]], [[Value Chain]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Action (SCI context)
+
+**Definition:** An explicit outcome taken, or change avoided, depending on quantifiable emissions measured by the SCI specification, generally relating to using less electricity, using electricity more intelligently, or using less hardware.
+
+**Domain:** General
+
+**Synonyms:** software sustainability action
+
+**Abbreviation:** none
+
+**Related terms:** [[Energy Efficiency]], [[Hardware Efficiency]], [[Carbon Awareness]]
+
+**Source:** SCI Specification v1.1.0, Terms and Definitions, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Adverse Impact
 
 **Definition:** A negative effect on human rights, labour rights, or the environment that is caused by, contributed to, or directly linked to an enterprise through its operations, products, services, or business relationships.
@@ -19,6 +67,22 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[CSR Risk Analysis]], [[Remediation]], [[Risk Prioritisation]], [[Business Relationship]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### Adverse Impacts
+
+**Definition:** Negative effects on human rights, the environment, or the climate that arise from a company's own operations or those of its value chain partners, and which companies are required to identify, prevent, mitigate, and remediate under EU due diligence legislation.
+
+**Domain:** General
+
+**Synonyms:** negative impacts, harm
+
+**Abbreviation:** none
+
+**Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Remediation]], [[Value Chain]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
 
 ---
 
@@ -70,9 +134,57 @@ title: Glossary
 
 ---
 
+### AI-Orchestrated Consensus Process
+
+**Definition:** A novel document production methodology employed in the SCI for Web Assembly Report in which participant inputs are synthesised by a large language model to generate candidate content, which is then subjected to iterative review rounds concluding in formal participant positions of Endorsed, Consented, or Objected prior to content merger.
+
+**Domain:** General
+
+**Synonyms:** AI-orchestrated assembly process
+
+**Abbreviation:** none
+
+**Related terms:** [[Large Language Model (LLM)]], [[Endorsed]], [[Consented]], [[Objected]], [[Software Carbon Intensity for Web (SCI for Web)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
+
+---
+
+### Application Programming Interface (API)
+
+**Definition:** A programmatic service interface that, for purposes of the SCI for Web specification, is classified as in-scope when it is accessed primarily through browser-based interfaces representing the primary human interaction mode, and out-of-scope when serving exclusively machine-to-machine programmatic clients.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** API
+
+**Related terms:** [[Browser-Mediated Human Interaction]], [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition — API Classification, 2026-06-15
+
+---
+
+### Backend and Infrastructure Engineer
+
+**Definition:** A technical practitioner within the SCI for Web target persona framework who controls server-side systems generating and delivering content to browsers, encompassing backend developers, infrastructure and systems engineers, and platform and DevOps engineers, whose decisions affect operational emissions from datacentres and infrastructure.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Operational Emissions]], [[Content Delivery Network (CDN)]], [[Continuous Integration and Continuous Deployment (CI/CD)]], [[Software Carbon Intensity for Web (SCI for Web)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
+
+---
+
 ### Basic Module (VSME)
 
-**Definition:** The foundational disclosure module within the VSME framework, comprising a minimum set of thematic chapters that correspond to major ESRS topic areas and from which SMEs may begin voluntary sustainability reporting.
+**Definition:** The mandatory minimum module of the VSME standard, comprising disclosures B1–B11 covering general information and basic environmental, social and governance metrics, intended as the complete approach for micro-enterprises and a prerequisite for application of the Extended Module.
 
 **Domain:** ESRS
 
@@ -80,9 +192,41 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[Extended Module (VSME)]], [[European Sustainability Reporting Standards]]
+**Related terms:** [[Extended Module (VSME)]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[SME]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module, 2026
+
+---
+
+### Biodiversity
+
+**Definition:** The variability among living organisms and the ecosystems of which they form part, addressed in VSME Basic Module disclosure B5 as an environmental metric requiring SMEs to report on their impacts on and dependencies relating to biological diversity.
+
+**Domain:** ESRS
+
+**Synonyms:** Biological diversity
+
+**Abbreviation:** none
+
+**Related terms:** [[Basic Module (VSME)]], [[Sustainability-related information]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B5), 2026
+
+---
+
+### Browser-Mediated Human Interaction
+
+**Definition:** The defining scope criterion for the SCI for Web specification, referring to the condition in which human users primarily access and consume a service's functional value through the rendering capabilities of a web browser, as distinct from programmatic or machine-to-machine access.
+
+**Domain:** General
+
+**Synonyms:** browser-mediated interaction
+
+**Abbreviation:** none
+
+**Related terms:** [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Single-Page Application (SPA)]], [[Application Programming Interface (API)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
 
 ---
 
@@ -102,6 +246,38 @@ title: Glossary
 
 ---
 
+### Carbon (SCI context)
+
+**Definition:** A broad term used within the SCI specification to refer to the impact of all types of greenhouse gas emissions and activities on global warming, expressed in carbon dioxide equivalent (CO₂eq) units.
+
+**Domain:** General
+
+**Synonyms:** greenhouse gas, GHG
+
+**Abbreviation:** CO₂eq
+
+**Related terms:** [[Greenhouse Gas Emissions]], [[Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
+
+**Source:** SCI Specification v1.1.0, Terms and Definitions, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Carbon Awareness
+
+**Definition:** A category of software sustainability actions consisting of time-shifting or region-shifting computation in order to take advantage of lower-carbon or renewable energy sources.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Carbon-Aware]], [[Time-Shifting]], [[Region-Shifting]], [[Energy Efficiency]], [[Hardware Efficiency]]
+
+**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Carbon Border Adjustment Mechanism
 
 **Definition:** An EU mechanism that establishes a carbon price on imports of certain goods from outside the EU, designed to prevent carbon leakage and incentivise trading partners to adopt equivalent carbon pricing measures.
@@ -115,6 +291,22 @@ title: Glossary
 **Related terms:** [[Carbon Leakage]], [[Paris Agreement]], [[Environmental Standards]], [[EU Taxonomy Regulation]]
 
 **Source:** ESG Business Handbook.pdf, EU Regulatory Framework – Carbon Border Adjustment Mechanism, 2026
+
+---
+
+### Carbon Budget
+
+**Definition:** A quantified and declining allocation of permissible greenhouse gas emissions available to a company or economy that constrains activity within planetary boundaries relating to climate change.
+
+**Domain:** General
+
+**Synonyms:** emissions budget, carbon allowance
+
+**Abbreviation:** none
+
+**Related terms:** [[planetary boundaries]], [[net-zero carbon]], [[Sustainable Value Transition]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
 
 ---
 
@@ -134,19 +326,35 @@ title: Glossary
 
 ---
 
-### Carbon Intensity
+### Carbon Footprint
 
-**Definition:** A rate-based metric expressing the quantity of carbon emissions produced per unit of a defined functional output, used in the SCI framework to enable normalised comparison of the carbon efficiency of software and AI systems.
+**Definition:** The total greenhouse gas emissions caused directly and indirectly by an entity, product, or activity, expressed in CO₂eq, representing the broader measure of emissions impact from which the SCI rate is derived for software systems.
 
 **Domain:** General
 
-**Synonyms:** carbon emission rate
+**Synonyms:** GHG footprint
 
 **Abbreviation:** none
 
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[Functional Unit]], [[SCI for AI Specification]]
+**Related terms:** [[Greenhouse Gas Emissions]], [[Software Carbon Intensity]], [[Life Cycle Assessment]]
 
-**Source:** Green Software Foundation – SCI for AI Specification, Background, 2026
+**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Carbon Intensity
+
+**Definition:** A measure of the quantity of greenhouse gas emissions, expressed in carbon dioxide equivalent, produced per unit of a defined output or activity, used as the basis for the SCI rate metric.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Operational Emissions]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background, 2026-06-15
 
 ---
 
@@ -163,6 +371,86 @@ title: Glossary
 **Related terms:** [[Carbon Border Adjustment Mechanism]], [[Greenhouse Gas Emissions]], [[Paris Agreement]]
 
 **Source:** ESG Business Handbook.pdf, EU Regulatory Framework – Carbon Border Adjustment Mechanism, 2026
+
+---
+
+### Carbon-Aware
+
+**Definition:** An attribute of software or hardware that adjusts its behaviour—including consumption of inputs, processing, or production of outputs—in response to the carbon intensity of the energy it consumes.
+
+**Domain:** General
+
+**Synonyms:** carbon-responsive
+
+**Abbreviation:** none
+
+**Related terms:** [[Carbon Intensity]], [[Carbon Awareness]], [[Time-Shifting]], [[Region-Shifting]]
+
+**Source:** SCI Specification v1.1.0, Terms and Definitions, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Cascading Style Sheets (CSS)
+
+**Definition:** A stylesheet language used to describe the presentation of web content whose efficiency is identified in the SCI for Web specification as a factor within the control of frontend developers that influences client-side energy consumption.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** CSS
+
+**Related terms:** [[Frontend Developer]], [[Web Application]], [[Browser-Mediated Human Interaction]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Frontend Developers and Design Practitioners, 2026-06-15
+
+---
+
+### Chain Partners
+
+**Definition:** Supply chain partners of an SME that may request sustainability disclosures, including detailed CO₂ data, thereby driving the adoption of extended VSME reporting modules or supplementary ESRS-aligned disclosures.
+
+**Domain:** CSRD
+
+**Synonyms:** supply chain partners
+
+**Abbreviation:** none
+
+**Related terms:** [[VSME Standard]], [[Extended Module (VSME)]], [[ESRS E1]], [[Small and Medium-sized Enterprises]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
+
+### Circular economy
+
+**Definition:** An economic model aimed at eliminating waste and the continual use of resources, addressed in VSME Basic Module disclosure B7 as part of reporting on resource use, circular economy and waste management by SMEs.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Basic Module (VSME)]], [[Sustainability-related information]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B7), 2026
+
+---
+
+### climate adaptation
+
+**Definition:** A set of measures and plans adopted by a reporting entity to adjust its operations and strategies in response to current or anticipated climate change impacts, identified as the anticipated corporate action under ESRS E1 for SDG 13 (Climate Action) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** climate change adaptation
+
+**Abbreviation:** none
+
+**Related terms:** [[ESRS E1]], [[Corporate Sustainability Reporting Directive]], [[United Nations Sustainable Development Goals]], [[key performance indicators]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
 ---
 
@@ -198,6 +486,38 @@ title: Glossary
 
 ---
 
+### Climate risks
+
+**Definition:** Physical and transition risks arising from climate change that may affect an enterprise's financial position, performance and cash flows, disclosed under VSME Extended Module disclosure C4 as part of climate-related financial information.
+
+**Domain:** TCFD
+
+**Synonyms:** Climate-related risks
+
+**Abbreviation:** none
+
+**Related terms:** [[Greenhouse gas emissions]], [[Extended Module (VSME)]], [[Sustainability-related information]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C4), 2026
+
+---
+
+### Climate Transition Plan
+
+**Definition:** A documented organisational strategy setting out how a reporting entity intends to align its operations and business model with climate-related targets, the existence and credibility of which is subject to verification in an ESG audit.
+
+**Domain:** ESRS
+
+**Synonyms:** transition plan, climate action plan
+
+**Abbreviation:** none
+
+**Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Climate Change Mitigation]]
+
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+
+---
+
 ### Climate-Related Financial Risk
 
 **Definition:** A category of financial risk arising from climate change—including physical risks and transition risks—that organisations are required to identify, assess, and disclose under frameworks such as TCFD and IFRS S2.
@@ -211,6 +531,86 @@ title: Glossary
 **Related terms:** [[Task Force on Climate-Related Financial Disclosures]], [[ISSB]], [[IFRS S2]], [[Science-Based Targets]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Task Force on Climate-Related Financial Disclosures, 2026
+
+---
+
+### Collective bargaining
+
+**Definition:** A process of negotiation between employers and a group of employees aimed at agreements that regulate working conditions, reported under VSME Basic Module disclosure B10 as part of workforce remuneration and labour relations metrics.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Basic Module (VSME)]], [[Human rights policies and processes]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B10), 2026
+
+---
+
+### Comparative information
+
+**Definition:** Sustainability data relating to the preceding reporting period that must be disclosed alongside current-period figures from the second reporting year onwards, enabling users to assess trends in an enterprise's sustainability performance over time.
+
+**Domain:** ESRS
+
+**Synonyms:** Comparative data, prior-year information
+
+**Abbreviation:** none
+
+**Related terms:** [[Sustainability-related information]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
+
+**Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – Comparative information, 2026
+
+---
+
+### Conflict Minerals Regulation (CMR)
+
+**Definition:** An EU regulation that obliges importers to conduct and report due diligence on 3TG minerals—tin, tantalum, tungsten, and gold—in force since 2021.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** CMR
+
+**Related terms:** [[Due Diligence]], [[3TG Minerals]], [[EU Battery Regulation (EUBR)]], [[OECD Six-Step Framework]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Conflicting Requirements
+
+**Definition:** Situations in which MNEs face incompatible legal or regulatory obligations imposed by two or more jurisdictions, which Subscribing Countries commit to cooperate in avoiding or minimising under the OECD Declaration on International Investment and Multinational Enterprises.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Multinational Enterprise]], [[Subscribing Country]], [[OECD Declaration on International Investment and Multinational Enterprises]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Declaration on International Investment and Multinational Enterprises, 2023
+
+---
+
+### Consented
+
+**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating acceptance of proposed content for merger into the draft document without active objection, though without necessarily expressing affirmative support.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Endorsed]], [[Objected]], [[AI-Orchestrated Consensus Process]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
 
 ---
 
@@ -246,6 +646,70 @@ title: Glossary
 
 ---
 
+### Content Delivery Network (CDN)
+
+**Definition:** A geographically distributed network infrastructure layer whose configuration and edge-caching policies are identified in the SCI for Web specification as factors under the control of platform and DevOps engineers that affect the carbon emissions associated with web content delivery.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** CDN
+
+**Related terms:** [[Backend and Infrastructure Engineer]], [[Operational Emissions]], [[Continuous Integration and Continuous Deployment (CI/CD)]], [[Software Carbon Intensity for Web (SCI for Web)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
+
+---
+
+### Continuous Integration and Continuous Deployment (CI/CD)
+
+**Definition:** A software engineering practice encompassing automated build and deployment pipeline processes that, within the SCI for Web specification, is identified as a factor under the control of infrastructure and systems engineers that influences the carbon emissions profile of web application delivery.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** CI/CD
+
+**Related terms:** [[Backend and Infrastructure Engineer]], [[Operational Emissions]], [[Software Carbon Intensity for Web (SCI for Web)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
+
+---
+
+### Corporate Reporting (SVA)
+
+**Definition:** Balanced sustainability disclosure built around standardised core content that enables consistent reporting of organisational externalities and signals value creation or destruction across multiple capitals.
+
+**Domain:** ESRS
+
+**Synonyms:** sustainability disclosure, sustainability reporting
+
+**Abbreviation:** none
+
+**Related terms:** [[externalities]], [[multiple capitals]], [[supply chain reporting]], [[Sustainable Value Architecture]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 4 – Corporate Reporting, 2026
+
+---
+
+### Corporate Responsibility
+
+**Definition:** The obligation of enterprises to act in accordance with applicable laws and internationally recognised standards across social, environmental, human rights, and governance dimensions of their activities and business relationships.
+
+**Domain:** General
+
+**Synonyms:** Corporate Social Responsibility, Responsible Business Conduct
+
+**Abbreviation:** CR
+
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence (Responsible Business Conduct)]], [[Multinational Enterprise]], [[Sustainable Development]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Background, 2023
+
+---
+
 ### Corporate Social Responsibility
 
 **Definition:** Voluntary commitments by businesses to manage their social, environmental, and economic impacts responsibly, representing a precursor stage to the regulated, enforceable ESG obligations that have since emerged.
@@ -259,6 +723,22 @@ title: Glossary
 **Related terms:** [[ESG (Environmental, Social and Governance)]], [[UN Global Compact]], [[Principles for Responsible Investment]]
 
 **Source:** ESG Business Handbook.pdf, Evolution of ESG Standards, 2026
+
+---
+
+### Corporate Social Responsibility (CSR)
+
+**Definition:** An internationally recognised set of norms underpinning the expectation that companies voluntarily integrate social, environmental, and ethical considerations into their business operations and stakeholder relationships, forming the normative foundation for OECD due diligence guidance.
+
+**Domain:** General
+
+**Synonyms:** responsible business conduct
+
+**Abbreviation:** CSR
+
+**Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Stakeholder Engagement]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
 
 ---
 
@@ -278,9 +758,25 @@ title: Glossary
 
 ---
 
+### Corporate Sustainability Due Diligence Directive (CSDDD)
+
+**Definition:** An EU directive requiring companies to integrate due diligence across their full value chains, covering all human rights (including the five fundamental principles and rights at work), negative environmental impacts, and impacts related to human well-being, applicable from July 2029.
+
+**Domain:** CSRD
+
+**Synonyms:** none
+
+**Abbreviation:** CSDDD
+
+**Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Value Chain]], [[Corporate Sustainability Reporting Directive (CSRD)]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
 ### Corporate Sustainability Reporting Directive
 
-**Definition:** A European Union directive (2023) that establishes mandatory sustainability reporting obligations for large undertakings and underpins the European Sustainability Reporting Standards, generating downstream information requests directed at SMEs in their supply chains.
+**Definition:** An EU directive that imposes mandatory sustainability reporting obligations on large undertakings and listed companies in the European Union, establishing the legal framework within which the ESRS apply.
 
 **Domain:** CSRD
 
@@ -288,9 +784,57 @@ title: Glossary
 
 **Abbreviation:** CSRD
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[Double Materiality Assessment]], [[Sustainable Finance Disclosure Regulation]]
+**Related terms:** [[European Sustainability Reporting Standards]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Value chain]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Background – Regulatory context, 2026
+
+---
+
+### Corporate Sustainability Reporting Directive (CSRD)
+
+**Definition:** An EU directive requiring companies to publish annual sustainability information in accordance with the European Sustainability Reporting Standards (ESRS), covering environmental, social (including human rights), and governance matters across the full upstream and downstream value chain, applicable from 2025.
+
+**Domain:** CSRD
+
+**Synonyms:** none
+
+**Abbreviation:** CSRD
+
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[EU Taxonomy Regulation]], [[Value Chain]], [[ESG]], [[Due Diligence]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Corruption and bribery
+
+**Definition:** Criminal conduct involving the abuse of entrusted power for private gain or the offering, giving, receiving or soliciting of an advantage as an inducement for an action that is illegal or a breach of trust, reported under VSME Basic Module disclosure B11 through convictions and fines.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Basic Module (VSME)]], [[Governing body]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B11), 2026
+
+---
+
+### Council Decision on the Guidelines for Multinational Enterprises on Responsible Business Conduct
+
+**Definition:** A formal OECD legal instrument (OECD/LEGAL/0307) adopted at ministerial level that sets out the binding procedural obligations governing the implementation of the OECD Guidelines, including the roles of the Investment Committee and National Contact Points.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[National Contact Point for Responsible Business Conduct]], [[Subscribing Country]], [[OECD Declaration on International Investment and Multinational Enterprises]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Legal Status and Governance, 2023
 
 ---
 
@@ -323,6 +867,22 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[Adverse Impact]], [[Risk Prioritisation]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### Data Collection Plan
+
+**Definition:** A structured document used within VSME implementation that records which sustainability data are collected, their sources, collection frequency, and the responsible parties, enabling consistent repetition of the data collection process across reporting periods.
+
+**Domain:** CSRD
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[VSME Standard]], [[Key Performance Indicators]], [[Material Themes]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
 ---
 
@@ -374,9 +934,9 @@ title: Glossary
 
 ---
 
-### Double Materiality
+### Double materiality
 
-**Definition:** A reporting principle under ESRS that requires organisations to disclose both financial materiality—the effect of sustainability factors on the organisation's financial position—and impact materiality—the organisation's effects on people and the environment.
+**Definition:** The principle, underlying the ESRS framework and reflected in the VSME, that sustainability reporting should cover both the impacts of the enterprise on people and the environment (impact materiality) and the effects of sustainability matters on the enterprise's financial position and performance (financial materiality).
 
 **Domain:** ESRS
 
@@ -384,41 +944,105 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Financial Materiality]], [[Impact Materiality]], [[ESRS]], [[Corporate Sustainability Reporting Directive]], [[Materiality (ESRS)]]
+**Related terms:** [[Sustainability-related information]], [[European Sustainability Reporting Standards]], [[Materiality (ESRS)]]
 
-**Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: European Sustainability Reporting Standards, 2026
+**Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – General requirements, 2026
 
 ---
 
 ### Double Materiality Assessment
 
-**Definition:** An evaluation process required under the ESRS in which an undertaking assesses both the financial effects of sustainability matters on the enterprise (financial materiality) and the enterprise's effects on society and the environment (impact materiality).
+**Definition:** An organisational evaluation that considers both financial materiality—how sustainability issues affect the organisation's financial performance—and impact materiality—how the organisation's activities affect people and the environment—the methodology, stakeholder engagement process, and documentation of which are subject to audit verification under EFRAG-aligned ESG checklists.
 
 **Domain:** ESRS
 
-**Synonyms:** DMA
+**Synonyms:** double materiality analysis
 
 **Abbreviation:** DMA
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]]
+**Related terms:** [[Financial Materiality]], [[Impact Materiality]], [[European Sustainability Reporting Standards]], [[Materiality (ESRS)]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** ESG Audit Checklist, Double Materiality Assessment, 2026
 
 ---
 
 ### Due Diligence
 
-**Definition:** A continuous process through which enterprises identify, cease, prevent, and mitigate adverse impacts on human rights, labour rights, and the environment arising from their own operations, products, services, and business relationships throughout their value chains.
+**Definition:** A continuous process through which companies identify, prevent, limit, stop, and remediate risks to human rights and the environment and climate in their value chains, and account for the actions taken.
 
 **Domain:** General
 
-**Synonyms:** gepaste zorgvuldigheid, appropriate care, ketenverantwoordelijkheid, supply chain responsibility
+**Synonyms:** corporate due diligence, responsible business conduct
 
 **Abbreviation:** none
 
-**Related terms:** [[International Corporate Social Responsibility]], [[OECD Guidelines for Multinational Enterprises]], [[United Nations Guiding Principles on Business and Human Rights]], [[Adverse Impact]], [[Grievance Mechanism]], [[Remediation]]
+**Related terms:** [[OECD Six-Step Framework]], [[Value Chain]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[Adverse Impacts]], [[Remediation]]
 
-**Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+
+---
+
+### Due Diligence (Responsible Business Conduct)
+
+**Definition:** A risk-based process through which enterprises identify, prevent, mitigate, and account for actual and potential adverse impacts on people, the environment, and society connected to their own operations, supply chains, and other business relationships.
+
+**Domain:** General
+
+**Synonyms:** RBC Due Diligence
+
+**Abbreviation:** none
+
+**Related terms:** [[Responsible Business Conduct]], [[Multinational Enterprise]], [[Value Chain]], [[Whistleblower]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, 2023 Updates, 2023
+
+---
+
+### Ecodesign Regulation
+
+**Definition:** An EU regulation establishing sustainability requirements for product design aimed at improving environmental performance across a product's life cycle, identified as one of the legislative instruments relevant to the integrated prioritisation of supply chains under EU sustainability compliance.
+
+**Domain:** General
+
+**Synonyms:** Ecodesign for Sustainable Products Regulation, ESPR
+
+**Abbreviation:** ESPR
+
+**Related terms:** [[Integrated Prioritisation]], [[Packaging and Packaging Waste Regulation (PPWR)]], [[EU Taxonomy Regulation]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
+
+---
+
+### Ecological Economics
+
+**Definition:** An interdisciplinary field that treats the economy as a subsystem of the biosphere, emphasising biophysical limits to growth and the valuation of ecosystem services and natural capital as prerequisites for sustainable economic policy.
+
+**Domain:** General
+
+**Synonyms:** environmental economics (partially overlapping)
+
+**Abbreviation:** none
+
+**Related terms:** [[planetary boundaries]], [[multiple capitals]], [[externalities]], [[Sustainable Value Transition]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Academic Foundations, 2026
+
+---
+
+### Embodied Emissions
+
+**Definition:** The total carbon emitted during the creation and disposal of a hardware device, of which a proportional fraction is allocated to a software application based on the time-share and resource-share of that hardware used by the software.
+
+**Domain:** General
+
+**Synonyms:** embedded carbon, embodied carbon
+
+**Abbreviation:** M
+
+**Related terms:** [[Operational Emissions]], [[Total Embodied Emissions]], [[Time-Share]], [[Resource-Share]], [[Life Cycle Assessment]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
 
 ---
 
@@ -435,6 +1059,86 @@ title: Glossary
 **Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Provider]], [[Operation and Monitoring]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Retirement, 2026
+
+---
+
+### Endorsed
+
+**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating active affirmative support for merging proposed content into the draft document.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Consented]], [[Objected]], [[AI-Orchestrated Consensus Process]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
+
+---
+
+### Energy (SCI context)
+
+**Definition:** The total energy consumed by a software system for a functional unit of work, measured in kilowatt hours (kWh), including all energy consumed by hardware that has been reserved or provisioned, not solely hardware actively in use.
+
+**Domain:** General
+
+**Synonyms:** energy consumption
+
+**Abbreviation:** E
+
+**Related terms:** [[Operational Emissions]], [[Carbon Intensity]], [[Functional Unit]], [[Energy Efficiency]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Energy Efficiency
+
+**Definition:** A category of software sustainability actions consisting of measures taken to reduce the amount of electricity consumed by software in performing a given function, without altering the output of that function.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Hardware Efficiency]], [[Carbon Awareness]], [[Energy]], [[Action (SCI context)]]
+
+**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Enterprise Resource Planning
+
+**Definition:** An integrated organisational management system that may serve as a data source for VSME sustainability reporting, with some providers developing dedicated CSRD or VSME extension modules.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** ERP
+
+**Related terms:** [[VSME Standard]], [[Data Collection Plan]], [[Key Performance Indicators]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
+
+### Enterprise Risk Management
+
+**Definition:** A structured organisational framework for identifying, assessing, and managing risks across all business functions, into which ESG risks should be incorporated as assessed in the governance dimension of an ESG audit checklist.
+
+**Domain:** General
+
+**Synonyms:** ERM, integrated risk management
+
+**Abbreviation:** ERM
+
+**Related terms:** [[Risk Management Integration]], [[ESG Risks]], [[Governance Criteria]]
+
+**Source:** ESG Audit Checklist, Governance Criteria, 2026
 
 ---
 
@@ -470,6 +1174,38 @@ title: Glossary
 
 ---
 
+### Environmental, Social, and Governance (ESG) Auditing
+
+**Definition:** A structured process through which organisations assess and verify their performance against non-financial sustainability criteria spanning environmental, social, and governance dimensions.
+
+**Domain:** General
+
+**Synonyms:** ESG audit, sustainability auditing
+
+**Abbreviation:** ESG auditing
+
+**Related terms:** [[ESG Audit Checklist]], [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Double Materiality Assessment]]
+
+**Source:** ESG Audit Checklist, Background, 2026
+
+---
+
+### ESG
+
+**Definition:** An abbreviation denoting the three pillars—environmental, social (including human rights), and governance—used to categorise sustainability-related matters subject to disclosure under the Corporate Sustainability Reporting Directive and related EU reporting frameworks.
+
+**Domain:** General
+
+**Synonyms:** environmental, social and governance
+
+**Abbreviation:** ESG
+
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[EU Taxonomy Regulation]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
 ### ESG (Environmental, Social and Governance)
 
 **Definition:** A framework for evaluating the sustainability and broader societal impact of businesses across three interconnected pillars — environmental, social, and governance — extending beyond conventional financial performance measures.
@@ -486,9 +1222,297 @@ title: Glossary
 
 ---
 
+### ESG Audit Checklist
+
+**Definition:** A systematic framework used by auditors and reporting entities for evaluating disclosures, controls, and outcomes across environmental, social, and governance dimensions.
+
+**Domain:** General
+
+**Synonyms:** ESG checklist, sustainability audit checklist
+
+**Abbreviation:** none
+
+**Related terms:** [[Environmental, Social, and Governance (ESG) Auditing]], [[Double Materiality Assessment]], [[European Sustainability Reporting Standards]], [[Assurance]]
+
+**Source:** ESG Audit Checklist, Introduction, 2026
+
+---
+
+### ESRS E1
+
+**Definition:** The European Sustainability Reporting Standard addressing climate change, under which reporting entities disclose information on energy consumption, greenhouse gas emissions, and climate-related risks and opportunities, mapped to SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[climate adaptation]], [[Corporate Sustainability Reporting Directive]], [[ESRS E2]], [[ESRS E3]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS E2
+
+**Definition:** The European Sustainability Reporting Standard addressing pollution, under which reporting entities disclose information on pollutant emissions and impacts on food supply chains, mapped to SDG 2 (Zero Hunger) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E1]], [[ESRS E3]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS E3
+
+**Definition:** The European Sustainability Reporting Standard addressing water and marine resources, under which reporting entities disclose information on water consumption, wastewater management, and marine ecosystem impacts, mapped to SDG 6 (Clean Water and Sanitation) and SDG 14 (Life Below Water) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E1]], [[ESRS E5]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS E4
+
+**Definition:** The European Sustainability Reporting Standard addressing material use and circular economy, under which reporting entities disclose information on resource use, innovation, and sustainable infrastructure, mapped to SDG 9 (Industry, Innovation and Infrastructure) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[circular economy]], [[ESRS E6]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS E5
+
+**Definition:** The European Sustainability Reporting Standard addressing biodiversity and ecosystems, under which reporting entities disclose information on impacts to terrestrial and urban ecosystems, mapped to SDG 11 (Sustainable Cities and Communities) and SDG 15 (Life on Land) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E3]], [[ESRS E4]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS E6
+
+**Definition:** The European Sustainability Reporting Standard addressing waste management, under which reporting entities disclose information on waste reduction, recycling, and circular economy practices, mapped to SDG 12 (Responsible Consumption and Production) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[circular economy]], [[ESRS E4]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS G1
+
+**Definition:** The European Sustainability Reporting Standard in the governance series, forming part of the ESRS governance standards (G1–G2) that address corporate governance matters relevant to CSRD disclosures.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS G2]], [[Corporate Sustainability Reporting Directive]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS G2
+
+**Definition:** The European Sustainability Reporting Standard in the governance series, forming part of the ESRS governance standards (G1–G2) that address corporate governance matters relevant to CSRD disclosures.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS G1]], [[Corporate Sustainability Reporting Directive]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S1
+
+**Definition:** The European Sustainability Reporting Standard addressing own workforce, under which reporting entities disclose information on social impact, community engagement, and workforce-related matters, mapped to SDG 1 (No Poverty) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S2]], [[ESRS S3]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S2
+
+**Definition:** The European Sustainability Reporting Standard addressing health and safety, under which reporting entities disclose information on occupational health, employee well-being programmes, and related KPIs such as absenteeism rates, mapped to SDG 3 (Good Health and Well-Being) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S1]], [[ESRS S5]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S3
+
+**Definition:** The European Sustainability Reporting Standard addressing training and development, under which reporting entities disclose information on employee education initiatives, training hours, and institutional partnerships, mapped to SDG 4 (Quality Education) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S1]], [[ESRS S4]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S4
+
+**Definition:** The European Sustainability Reporting Standard addressing diversity and inclusion, under which reporting entities disclose information on gender equality, equal opportunity policies, and related KPIs such as the percentage of women in leadership and the gender pay gap, mapped to SDG 5 (Gender Equality) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[gender pay gap]], [[ESRS S6]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S5
+
+**Definition:** The European Sustainability Reporting Standard addressing working conditions, under which reporting entities disclose information on fair wages, safe working environments, employment growth, and productivity, mapped to SDG 8 (Decent Work and Economic Growth) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S2]], [[ESRS S6]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### ESRS S6
+
+**Definition:** The European Sustainability Reporting Standard addressing equal opportunities, under which reporting entities disclose information on inclusion policies and inequality reduction measures, with KPIs including the Gini coefficient, mapped to SDG 10 (Reduced Inequalities) in the EFRAG alignment matrix.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[Gini coefficient]], [[ESRS S4]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### EU Battery Regulation (EUBR)
+
+**Definition:** An EU regulation establishing due diligence requirements for nickel, cobalt, graphite, lithium, and related chemical compounds, addressing risks in environment, climate, human health, human rights, labour rights and relations, and community life including indigenous peoples, applicable from August 2027.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** EUBR
+
+**Related terms:** [[Due Diligence]], [[Value Chain]], [[OECD Six-Step Framework]], [[Conflict Minerals Regulation (CMR)]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### EU Deforestation Regulation (EUDR)
+
+**Definition:** An EU regulation that prohibits the import of products and their derivatives produced on deforested or forest-degraded land, covering commodities including beef, cocoa, coffee, palm oil, rubber, soya, and wood, in force from December 2026.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** EUDR
+
+**Related terms:** [[Due Diligence]], [[Value Chain]], [[OECD Six-Step Framework]], [[Integrated Prioritisation]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### EU reference benchmarks
+
+**Definition:** Climate-related financial benchmarks established under EU regulation, including the EU Climate Transition Benchmark and the EU Paris-aligned Benchmark, from which enterprises deriving revenues from certain sectors may be excluded, as disclosed under VSME Extended Module disclosure C8.
+
+**Domain:** EU-Taxonomy
+
+**Synonyms:** EU climate benchmarks
+
+**Abbreviation:** none
+
+**Related terms:** [[Extended Module (VSME)]], [[Climate risks]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C8), 2026
+
+---
+
 ### EU Taxonomy Regulation
 
-**Definition:** An EU regulation establishing a classification system for determining which economic activities qualify as environmentally sustainable, providing a common reference for sustainable finance and investment decisions.
+**Definition:** An EU regulation that establishes a classification system for environmentally sustainable economic activities, linked to corporate reporting obligations, applicable since 2025.
 
 **Domain:** EU-Taxonomy
 
@@ -496,15 +1520,15 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Sustainable Finance Disclosure Regulation]], [[CSRD]], [[Environmental Standards]], [[Carbon Border Adjustment Mechanism]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[ESG]]
 
-**Source:** ESG Business Handbook.pdf, EU Regulatory Framework – EU Taxonomy and Sustainable Finance Disclosure Regulation, 2026
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
 
 ---
 
 ### European Financial Reporting Advisory Group
 
-**Definition:** A European private-sector body responsible for developing and publishing sustainability and financial reporting standards, including the ESRS mandated under the CSRD and the voluntary VSME framework for SMEs.
+**Definition:** An independent organisation mandated to serve the European public interest in financial and sustainability reporting by developing European positions on corporate reporting and providing technical advice to the European Commission, including draft European Sustainability Reporting Standards.
 
 **Domain:** ESRS
 
@@ -512,9 +1536,9 @@ title: Glossary
 
 **Abbreviation:** EFRAG
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Background – EFRAG and its mandate, 2026
 
 ---
 
@@ -536,7 +1560,7 @@ title: Glossary
 
 ### European Sustainability Reporting Standards
 
-**Definition:** A set of mandatory sustainability reporting standards adopted under the Corporate Sustainability Reporting Directive that apply to large undertakings and require, among other obligations, a full Double Materiality Assessment.
+**Definition:** Mandatory sustainability reporting standards developed by EFRAG as technical advice to the European Commission under the Corporate Sustainability Reporting Directive, applicable to large undertakings and listed companies in the European Union.
 
 **Domain:** ESRS
 
@@ -544,15 +1568,31 @@ title: Glossary
 
 **Abbreviation:** ESRS
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Double Materiality Assessment]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[European Financial Reporting Advisory Group]]
+**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[European Financial Reporting Advisory Group]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Background – Regulatory context, 2026
+
+---
+
+### European Sustainability Reporting Standards (ESRS)
+
+**Definition:** A set of EU-level standards, developed by EFRAG, that prescribe the content and structure of sustainability information companies must disclose under the Corporate Sustainability Reporting Directive (CSRD).
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** ESRS
+
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[EU Taxonomy Regulation]], [[Materiality (ESRS)]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
 
 ---
 
 ### Extended Module (VSME)
 
-**Definition:** The supplementary disclosure module within the VSME framework that builds upon the basic module by providing additional thematic chapters aligned with ESRS topic areas, intended for SMEs wishing to provide more comprehensive sustainability disclosures.
+**Definition:** The supplementary module of the VSME standard, comprising disclosures C1–C9, which builds on the Basic Module and provides additional environmental, social and governance information likely to be requested by banks, investors and business customers.
 
 **Domain:** ESRS
 
@@ -560,9 +1600,41 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[Basic Module (VSME)]], [[European Sustainability Reporting Standards]]
+**Related terms:** [[Basic Module (VSME)]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Value chain]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module, 2026
+
+---
+
+### eXtensible Business Reporting Language
+
+**Definition:** A structured digital tagging language used to encode sustainability and financial reports in a machine-readable format, applicable to VSME reporting through EFRAG's published Excel-based tool.
+
+**Domain:** CSRD
+
+**Synonyms:** none
+
+**Abbreviation:** XBRL
+
+**Related terms:** [[VSME Standard]], [[EFRAG]], [[European Sustainability Reporting Standards]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
+
+### Externalities
+
+**Definition:** Social and environmental costs or benefits generated by corporate activity that are not reflected in market prices and are therefore borne by or accrued to third parties or society at large.
+
+**Domain:** General
+
+**Synonyms:** external costs, external effects, unpriced impacts
+
+**Abbreviation:** none
+
+**Related terms:** [[multiple capitals]], [[taxation and pricing of externalities]], [[corporate reporting]], [[societal value creation]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 4 – Corporate Reporting; Component 8 – Taxation, 2026
 
 ---
 
@@ -582,19 +1654,35 @@ title: Glossary
 
 ---
 
-### Financial Materiality
+### Fiduciary Duty (sustainability context)
 
-**Definition:** A dimension of double materiality under ESRS referring to the effect of sustainability-related factors on an organisation's financial position, performance, or cash flows.
+**Definition:** A legal and ethical obligation of corporate directors and institutional investors to act in the long-term interests of beneficiaries, interpreted in this context as encompassing the delivery of long-term sustainable value creation rather than being limited to maximising short-term financial returns.
 
-**Domain:** ESRS
+**Domain:** General
 
-**Synonyms:** none
+**Synonyms:** fiduciary responsibility, fiduciary obligation
 
 **Abbreviation:** none
 
-**Related terms:** [[Double Materiality]], [[Impact Materiality]], [[ESRS]], [[Materiality (ESRS)]]
+**Related terms:** [[Corporate Law]], [[Sustainable Value Architecture]], [[societal value creation]]
 
-**Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: European Sustainability Reporting Standards, 2026
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 3 – Corporate Law, 2026
+
+---
+
+### Financial Materiality
+
+**Definition:** The dimension of double materiality that addresses how sustainability issues affect a reporting organisation's financial performance, condition, or prospects.
+
+**Domain:** ESRS
+
+**Synonyms:** outside-in materiality
+
+**Abbreviation:** none
+
+**Related terms:** [[Double Materiality Assessment]], [[Impact Materiality]]
+
+**Source:** ESG Audit Checklist, Double Materiality Assessment, 2026
 
 ---
 
@@ -626,9 +1714,41 @@ title: Glossary
 
 ---
 
-### Functional Unit
+### Forced Labour Regulation (FLR)
 
-**Definition:** A quantified performance characteristic of an AI system that serves as the reference unit against which carbon intensity is normalised and calculated.
+**Definition:** An EU regulation that prohibits the import, sale, and export of products made with forced or compulsory labour, encompassing upstream supply chain relationships, applicable from December 2027.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** FLR
+
+**Related terms:** [[Due Diligence]], [[Value Chain]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[OECD Six-Step Framework]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Freedom of Association
+
+**Definition:** A labour right entitling workers to form and join trade unions and to engage in collective bargaining, the disclosure and performance of which is verified under the own-workforce category of an ESG audit checklist.
+
+**Domain:** General
+
+**Synonyms:** collective bargaining rights
+
+**Abbreviation:** none
+
+**Related terms:** [[Own Workforce]], [[Working Conditions]]
+
+**Source:** ESG Audit Checklist, Social Criteria, 2026
+
+---
+
+### Frontend Developer
+
+**Definition:** A technical practitioner within the SCI for Web target persona framework whose responsibilities—including JavaScript bundle optimisation, CSS efficiency, framework selection, asset optimisation, and client-side caching—directly affect energy consumed on end-user devices during browser-mediated interactions.
 
 **Domain:** General
 
@@ -636,9 +1756,73 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[Consumer Functional Units]], [[Carbon Intensity]], [[Inference]], [[Token]]
+**Related terms:** [[Browser-Mediated Human Interaction]], [[Single-Page Application (SPA)]], [[Web Application]], [[Cascading Style Sheets (CSS)]]
 
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Frontend Developers and Design Practitioners, 2026-06-15
+
+---
+
+### Functional Equivalence
+
+**Definition:** The principle that the processes and outcomes of National Contact Points across different Subscribing Countries should be comparable and consistent, ensuring equal access to and effectiveness of the non-judicial grievance mechanism provided by the OECD Guidelines.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[National Contact Point for Responsible Business Conduct]], [[Subscribing Country]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Implementation Mechanism, 2023
+
+---
+
+### Functional Unit
+
+**Definition:** The chosen unit of measure that describes how a software application scales, used as the denominator in the SCI score to express carbon emissions as a rate (e.g., per additional user, per API call, or per ML training run).
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** R
+
+**Related terms:** [[Software Carbon Intensity]], [[Software Boundary]], [[Operational Emissions]], [[Embodied Emissions]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Gender diversity ratio
+
+**Definition:** The proportional representation of each gender within the governing body of an enterprise, reported under VSME Extended Module disclosure C9 as a governance metric reflecting board-level gender balance.
+
+**Domain:** ESRS
+
+**Synonyms:** Gender balance ratio
+
+**Abbreviation:** none
+
+**Related terms:** [[Extended Module (VSME)]], [[Governing body]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C9), 2026
+
+---
+
+### gender pay gap
+
+**Definition:** A key performance indicator measuring the percentage difference between the average or median remuneration of male and female employees within a reporting entity, used under ESRS S4 to assess progress toward gender equality in the workplace.
+
+**Domain:** ESRS
+
+**Synonyms:** pay gap
+
+**Abbreviation:** none
+
+**Related terms:** [[ESRS S4]], [[key performance indicators]], [[United Nations Sustainable Development Goals]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
 ---
 
@@ -674,19 +1858,51 @@ title: Glossary
 
 ---
 
+### Gini coefficient
+
+**Definition:** A statistical measure of income or wealth inequality within a population, used as a key performance indicator under ESRS S6 to assess a reporting entity's contribution to the reduction of inequalities in the context of SDG 10.
+
+**Domain:** ESRS
+
+**Synonyms:** Gini index
+
+**Abbreviation:** none
+
+**Related terms:** [[ESRS S6]], [[key performance indicators]], [[United Nations Sustainable Development Goals]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### Global and National Accounts and Statistics (sustainability)
+
+**Definition:** Macroeconomic accounting frameworks that incorporate true prices, product information, and supply-chain data to produce a comprehensive picture of state and trend information relative to planetary boundaries and social conditions.
+
+**Domain:** General
+
+**Synonyms:** natural capital accounting, integrated national accounts, environmental-economic accounting
+
+**Abbreviation:** none
+
+**Related terms:** [[externalities]], [[taxation and pricing of externalities]], [[planetary boundaries]], [[Sustainable Value Architecture]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 7 – Global and National Accounts and Statistics, 2026
+
+---
+
 ### Global Reporting Initiative
 
-**Definition:** An independent international organisation that provides the most widely adopted voluntary sustainability reporting framework, enabling organisations to disclose their economic, environmental, and social impacts on people and the planet.
+**Definition:** An independent international standard-setting organisation that provides a widely used framework for sustainability reporting, referenced as a related instrument alongside ESRS in the ESG audit context.
 
 **Domain:** GRI
 
-**Synonyms:** GRI Standards
+**Synonyms:** GRI framework
 
 **Abbreviation:** GRI
 
-**Related terms:** [[ESG]], [[Double Materiality]], [[Materiality (ESRS)]], [[ISSB]], [[SASB]]
+**Related terms:** [[European Sustainability Reporting Standards]], [[International Sustainability Standards Board]]
 
-**Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Global Reporting Initiative, 2026
+**Source:** ESG Audit Checklist, See Also, 2026
 
 ---
 
@@ -706,19 +1922,51 @@ title: Glossary
 
 ---
 
-### Greenhouse Gas Emissions
+### Governing body
 
-**Definition:** Emissions of gases — including carbon dioxide, methane, and nitrous oxide — that trap heat in the atmosphere, the reduction of which is a primary target of environmental ESG standards and international climate agreements.
+**Definition:** The highest administrative, management or supervisory body of an enterprise responsible for oversight, strategy and accountability, including its composition and diversity characteristics as reportable under the VSME Extended Module.
 
-**Domain:** General
+**Domain:** ESRS
+
+**Synonyms:** Board of directors, supervisory board
+
+**Abbreviation:** none
+
+**Related terms:** [[Gender diversity ratio]], [[Extended Module (VSME)]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C9), 2026
+
+---
+
+### Greenhouse gas emissions
+
+**Definition:** Emissions of gases that trap heat in the atmosphere, reported under the VSME standard as a key environmental metric within disclosure B3, encompassing energy consumption and associated GHG emissions of the reporting enterprise.
+
+**Domain:** ESRS
 
 **Synonyms:** GHG emissions
 
 **Abbreviation:** GHG
 
-**Related terms:** [[Environmental Standards]], [[Paris Agreement]], [[Carbon Border Adjustment Mechanism]], [[Carbon Leakage]]
+**Related terms:** [[Scope 3 GHG emissions]], [[Basic Module (VSME)]], [[Climate risks]]
 
-**Source:** ESG Business Handbook.pdf, Background – Definition and Scope, 2026
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B3), 2026
+
+---
+
+### Greenhouse Gas Emissions (GHG Emissions)
+
+**Definition:** Emissions of gases that contribute to global warming, produced by software systems through energy consumption during hardware operation and through the manufacture and disposal of hardware, expressed in carbon dioxide equivalent units.
+
+**Domain:** General
+
+**Synonyms:** carbon emissions
+
+**Abbreviation:** GHG
+
+**Related terms:** [[Carbon]], [[Operational Emissions]], [[Embodied Emissions]], [[Carbon Intensity]]
+
+**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
 
 ---
 
@@ -751,6 +1999,70 @@ title: Glossary
 **Related terms:** [[Remediation]], [[Adverse Impact]], [[Due Diligence]], [[National Contact Point (OECD)]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### Hardware Efficiency
+
+**Definition:** A category of software sustainability actions consisting of measures taken to reduce the number of physical resources required by software to perform a given function, without altering the output of that function.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Energy Efficiency]], [[Carbon Awareness]], [[Embodied Emissions]], [[Action (SCI context)]]
+
+**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Human Rights Due Diligence
+
+**Definition:** A structured organisational process for identifying, preventing, mitigating, and accounting for adverse human rights impacts across supply chains and business relationships, applied to suppliers and subcontractors in the social dimension of an ESG audit.
+
+**Domain:** General
+
+**Synonyms:** HRDD
+
+**Abbreviation:** HRDD
+
+**Related terms:** [[Workers in the Value Chain]], [[Affected Communities]], [[Due Diligence]]
+
+**Source:** ESG Audit Checklist, Social Criteria, 2026
+
+---
+
+### Human rights policies and processes
+
+**Definition:** Formal commitments and operational procedures adopted by an enterprise to prevent, mitigate and remediate adverse human rights impacts across its own workforce and value chain, disclosed under VSME Extended Module disclosure C6.
+
+**Domain:** ESRS
+
+**Synonyms:** Human rights due diligence
+
+**Abbreviation:** none
+
+**Related terms:** [[Extended Module (VSME)]], [[Serious adverse human rights incidents]], [[Value chain]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C6), 2026
+
+---
+
+### Hypertext Transfer Protocol (HTTP)
+
+**Definition:** An application-layer protocol for distributed hypermedia information systems that, together with its encrypted variant HTTPS, constitutes the delivery mechanism criterion defining the scope of the SCI for Web specification.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** HTTP
+
+**Related terms:** [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Browser-Mediated Human Interaction]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
 
 ---
 
@@ -788,17 +2100,17 @@ title: Glossary
 
 ### Impact Materiality
 
-**Definition:** A dimension of double materiality under ESRS referring to the significance of an organisation's actual or potential effects on people and the environment, irrespective of financial consequences to the organisation itself.
+**Definition:** The dimension of double materiality that addresses how a reporting organisation's activities, products, or services affect people and the environment, whether actual or potential, positive or negative.
 
 **Domain:** ESRS
 
-**Synonyms:** none
+**Synonyms:** inside-out materiality
 
 **Abbreviation:** none
 
-**Related terms:** [[Double Materiality]], [[Financial Materiality]], [[ESRS]], [[Materiality (ESRS)]]
+**Related terms:** [[Double Materiality Assessment]], [[Financial Materiality]]
 
-**Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: European Sustainability Reporting Standards, 2026
+**Source:** ESG Audit Checklist, Double Materiality Assessment, 2026
 
 ---
 
@@ -831,6 +2143,22 @@ title: Glossary
 **Related terms:** [[Model Training]], [[Token]], [[Functional Unit]], [[Operation and Monitoring]], [[Consumer]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Integrated Prioritisation
+
+**Definition:** A phase within the integrated EU sustainability compliance methodology in which a company systematically identifies and ranks supply chains for further due diligence investigation by applying sequential assessments of regulatory scope, customer requirements, dependency and materiality, known high risks, and existing risk management.
+
+**Domain:** General
+
+**Synonyms:** integrated scoping
+
+**Abbreviation:** none
+
+**Related terms:** [[Due Diligence]], [[Value Chain]], [[Materiality (ESRS)]], [[OECD Six-Step Framework]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
 
 ---
 
@@ -868,7 +2196,7 @@ title: Glossary
 
 ### International Sustainability Standards Board
 
-**Definition:** A standard-setting body established under the IFRS Foundation that develops globally consistent sustainability disclosure standards intended to complement financial reporting frameworks.
+**Definition:** An international body that develops global baseline sustainability disclosure standards, referenced as a related standard-setting institution in the ESG audit framework.
 
 **Domain:** General
 
@@ -876,9 +2204,9 @@ title: Glossary
 
 **Abbreviation:** ISSB
 
-**Related terms:** [[CSRD]], [[Corporate Sustainability Reporting Directive]], [[ESG (Environmental, Social and Governance)]]
+**Related terms:** [[Global Reporting Initiative]], [[European Sustainability Reporting Standards]]
 
-**Source:** ESG Business Handbook.pdf, EU Regulatory Framework – International Sustainability Standards Board, 2026
+**Source:** ESG Audit Checklist, See Also, 2026
 
 ---
 
@@ -930,6 +2258,22 @@ title: Glossary
 
 ---
 
+### key performance indicators
+
+**Definition:** Quantitative or qualitative metrics used within sustainability reporting to measure a reporting entity's performance against specific sustainability objectives or targets as required or recommended under CSRD, ESRS, or SDG frameworks.
+
+**Domain:** ESRS
+
+**Synonyms:** performance indicators
+
+**Abbreviation:** KPIs
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[SDG–CSRD–ESRS Alignment Matrix]], [[gender pay gap]], [[Gini coefficient]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
 ### Key Performance Indicators (ESG)
 
 **Definition:** Quantitative or qualitative metrics defined by a business to measure progress toward its ESG goals, used to structure sustainability strategy and support disclosure to stakeholders.
@@ -943,6 +2287,22 @@ title: Glossary
 **Related terms:** [[Materiality Assessment]], [[ESG (Environmental, Social and Governance)]], [[Reporting Frameworks]]
 
 **Source:** ESG Business Handbook.pdf, Getting Started with ESG, 2026
+
+---
+
+### Kunming-Montreal Global Biodiversity Framework
+
+**Definition:** An international framework establishing biodiversity-related targets against which organisations' biodiversity and ecosystem impact assessments may be evaluated in an ESG audit context.
+
+**Domain:** General
+
+**Synonyms:** GBF, Global Biodiversity Framework
+
+**Abbreviation:** GBF
+
+**Related terms:** [[Biodiversity and Ecosystems]], [[Impact Assessment]]
+
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
 
 ---
 
@@ -962,6 +2322,54 @@ title: Glossary
 
 ---
 
+### Large Language Model (LLM)
+
+**Definition:** An artificial-intelligence system used within the SCI for Web Assembly Report production process to synthesise participant responses and generate candidate section content for iterative review, functioning as an intermediary in the AI-orchestrated consensus process.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** LLM
+
+**Related terms:** [[AI-Orchestrated Consensus Process]], [[Endorsed]], [[Consented]], [[Objected]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
+
+---
+
+### Life Cycle Assessment
+
+**Definition:** A methodology for quantifying the environmental impacts associated with all stages of a product's life—including manufacture, use, and disposal—used in the SCI specification to determine the total embodied emissions of hardware components.
+
+**Domain:** General
+
+**Synonyms:** lifecycle analysis
+
+**Abbreviation:** LCA
+
+**Related terms:** [[Total Embodied Emissions]], [[Embodied Emissions]], [[Carbon Footprint]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Limited Assurance
+
+**Definition:** An assurance engagement level under which a practitioner expresses a conclusion that no material misstatements have come to attention, representing a lower level of scrutiny than reasonable assurance, mandated for sustainability statements under the initial phase of the CSRD framework.
+
+**Domain:** CSRD
+
+**Synonyms:** negative assurance
+
+**Abbreviation:** none
+
+**Related terms:** [[Reasonable Assurance]], [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
+
+**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+
+---
+
 ### Machine Learning
 
 **Definition:** A foundational AI paradigm in which systems learn to perform tasks by identifying patterns in data rather than through explicit programming, encompassing supervised learning, unsupervised learning, reinforcement learning, and deep learning, and covered within the SCI for AI Specification's scope.
@@ -978,9 +2386,57 @@ title: Glossary
 
 ---
 
+### Marginal Emissions Grid Intensity
+
+**Definition:** The carbon intensity of the electricity grid calculated on the basis of the short-run or long-run marginal generating unit, used as one of the permissible location-based approaches for determining the carbon intensity value (I) in the SCI equation.
+
+**Domain:** General
+
+**Synonyms:** marginal grid intensity
+
+**Abbreviation:** none
+
+**Related terms:** [[Region-Specific Carbon Intensity]], [[Carbon Intensity]], [[Operational Emissions]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Market-Based Measures
+
+**Definition:** Instruments such as renewable energy certificates or carbon credits that allow organisations to claim reductions in reported emissions through purchases or offsets rather than through direct reductions, explicitly excluded from the SCI calculation methodology.
+
+**Domain:** General
+
+**Synonyms:** market-based instruments
+
+**Abbreviation:** none
+
+**Related terms:** [[Region-Specific Carbon Intensity]], [[Carbon Intensity]], [[Neutralisation]], [[Carbon Offsets]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Material Themes
+
+**Definition:** Sustainability topics identified as significant to an organisation's reporting under the VSME standard, determined through an initial assessment process to prioritise disclosure efforts.
+
+**Domain:** CSRD
+
+**Synonyms:** material topics
+
+**Abbreviation:** none
+
+**Related terms:** [[VSME Standard]], [[Basic Module (VSME)]], [[Key Performance Indicators]], [[Data Collection Plan]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
+
 ### Materiality (ESRS)
 
-**Definition:** The threshold principle under ESRS by which an organisation determines which sustainability topics must be disclosed, assessed through the dual lens of financial materiality and impact materiality.
+**Definition:** The threshold criterion under the ESRS framework whereby a sustainability matter is considered material, and therefore subject to disclosure, if it meets the conditions of impact materiality, financial materiality, or both, as assessed through a due process by the reporting undertaking.
 
 **Domain:** ESRS
 
@@ -988,9 +2444,9 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Double Materiality]], [[Financial Materiality]], [[Impact Materiality]], [[ESRS]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[Double materiality]], [[European Sustainability Reporting Standards]], [[Sustainability-related information]]
 
-**Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: European Sustainability Reporting Standards, 2026
+**Source:** Voluntary SME Standard (VSME), Relationship to other frameworks, 2026
 
 ---
 
@@ -1010,6 +2466,22 @@ title: Glossary
 
 ---
 
+### Micro-enterprise
+
+**Definition:** An enterprise that does not exceed two of the following three thresholds as defined in Article 3 of Directive 2013/34/EU: balance sheet total of €450,000, net turnover of €900,000, and average number of ten employees during the financial year.
+
+**Domain:** CSRD
+
+**Synonyms:** Micro-entity
+
+**Abbreviation:** none
+
+**Related terms:** [[SME]], [[Basic Module (VSME)]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
+
+**Source:** Voluntary SME Standard (VSME), Background – Size thresholds, 2026
+
+---
+
 ### Model Training
 
 **Definition:** The process of developing an AI model by exposing it to data and optimising its parameters to perform a specific task or set of tasks, representing a computationally intensive lifecycle phase whose carbon emissions must be calculated over the entire training duration including all epochs, steps, parameter updates, intermediate runs, and early stopping phases.
@@ -1023,6 +2495,38 @@ title: Glossary
 **Related terms:** [[Inference]], [[Parameter]], [[FLOP]], [[Design and Development]], [[Provider Boundary]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions & Design and Development, 2026
+
+---
+
+### Multinational Enterprise
+
+**Definition:** A business entity that operates across two or more countries, including both parent companies and local entities, that is addressed by government-backed recommendations on responsible business conduct.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** MNE
+
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[National Contact Point]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Chapter I, 2023
+
+---
+
+### Multiple Capitals
+
+**Definition:** The range of asset types—financial, manufactured, natural, human, social, and intellectual—whose combined state determines long-run societal welfare.
+
+**Domain:** General
+
+**Synonyms:** multiple capital framework, multi-capital approach
+
+**Abbreviation:** none
+
+**Related terms:** [[Sustainable Value Transition]], [[externalities]], [[planetary boundaries]], [[societal value creation]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Background, 2026
 
 ---
 
@@ -1042,6 +2546,38 @@ title: Glossary
 
 ---
 
+### National Contact Point for Responsible Business Conduct
+
+**Definition:** A body established by each Subscribing Country government to promote awareness of and compliance with the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, and to handle specific instances submitted under those Guidelines.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** NCP
+
+**Related terms:** [[Responsible Business Conduct]], [[Multinational Enterprise]], [[Functional Equivalence]], [[Subscribing Country]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Implementation Mechanism, 2023
+
+---
+
+### National Treatment
+
+**Definition:** A commitment by Subscribing Countries to accord enterprises operating on their territory and owned or controlled by nationals of another Subscribing Country treatment no less favourable than that accorded to domestic enterprises in like situations, consistent with international law.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Subscribing Country]], [[Multinational Enterprise]], [[OECD Declaration on International Investment and Multinational Enterprises]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Declaration on International Investment and Multinational Enterprises, 2023
+
+---
+
 ### Natural Language Processing
 
 **Definition:** An application-specific AI domain focused on enabling AI systems to understand, interpret, and generate human language, listed within the SCI for AI Specification as an in-scope application domain for carbon intensity measurement.
@@ -1058,19 +2594,83 @@ title: Glossary
 
 ---
 
+### Net-Zero Carbon
+
+**Definition:** A state in which an organisation's greenhouse gas emissions are reduced as far as possible along a defined trajectory and any residual emissions are balanced by equivalent removals, consistent with limiting global warming to agreed temperature thresholds.
+
+**Domain:** General
+
+**Synonyms:** net zero emissions, carbon neutrality (distinguished by trajectory requirement)
+
+**Abbreviation:** none
+
+**Related terms:** [[carbon budget]], [[planetary boundaries]], [[transition pathway]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Background – Relationship to the climate response, 2026
+
+---
+
+### Neutralisation
+
+**Definition:** The practice of compensating for residual greenhouse gas emissions by funding or acquiring carbon removal or avoidance offsets, explicitly excluded from the SCI calculation to ensure the score reflects only direct emissions reductions.
+
+**Domain:** General
+
+**Synonyms:** carbon offsetting, avoidance offset
+
+**Abbreviation:** none
+
+**Related terms:** [[Market-Based Measures]], [[Carbon Offsets]], [[Science-Based Target]], [[Software Carbon Intensity]]
+
+**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Non-Financial Reporting Directive
 
-**Definition:** The predecessor EU directive to the CSRD that established earlier, narrower mandatory sustainability disclosure requirements for qualifying companies.
+**Definition:** A predecessor European Union directive to the CSRD that established earlier non-financial disclosure obligations for large public-interest entities, referenced as a related instrument in the ESG audit framework.
 
 **Domain:** CSRD
 
-**Synonyms:** none
+**Synonyms:** NFRD
 
 **Abbreviation:** NFRD
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[ESG (Environmental, Social and Governance)]]
+**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
 
-**Source:** ESG Business Handbook.pdf, EU Regulatory Framework – Corporate Sustainability Reporting Directive, 2026
+**Source:** ESG Audit Checklist, See Also, 2026
+
+---
+
+### Objected
+
+**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating opposition to merging proposed content into the draft document, with the effect of blocking merger unless the objection is resolved.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Endorsed]], [[Consented]], [[AI-Orchestrated Consensus Process]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
+
+---
+
+### OECD Declaration on International Investment and Multinational Enterprises
+
+**Definition:** A multilateral policy commitment adopted in 1976 and periodically revised, through which Subscribing Countries endorse the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct and related instruments on national treatment, conflicting requirements, and investment incentives.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Subscribing Country]], [[Multinational Enterprise]], [[National Treatment]], [[Responsible Business Conduct]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Background, 2023
 
 ---
 
@@ -1087,6 +2687,38 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[International Corporate Social Responsibility]], [[United Nations Guiding Principles on Business and Human Rights]], [[National Contact Point (OECD)]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### OECD Six-Step Framework
+
+**Definition:** A structured six-step due diligence process defined in the OECD Due Diligence Guidance for Responsible Business Conduct, comprising policy embedding, impact identification and assessment, impact cessation and mitigation, implementation tracking, communication, and remediation, which serves as the shared compliance basis across multiple EU sustainability directives and regulations.
+
+**Domain:** General
+
+**Synonyms:** OECD due diligence framework, six-step due diligence process
+
+**Abbreviation:** none
+
+**Related terms:** [[Due Diligence]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[Adverse Impacts]], [[Remediation]], [[Stakeholder Engagement]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+
+---
+
+### Omnibus Proposal
+
+**Definition:** A European Commission regulatory initiative aimed at simplifying the European Sustainability Reporting Standards, which may indirectly narrow the gap between the ESRS and the VSME standard and create pressure for future adjustments to the VSME framework.
+
+**Domain:** CSRD
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[VSME Standard]], [[Corporate Sustainability Reporting Directive]], [[EFRAG]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
 ---
 
@@ -1119,6 +2751,38 @@ title: Glossary
 **Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Inference]], [[Agentic AI]], [[FinOps]], [[Deployment]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Operation and Monitoring (Consumer), 2026
+
+---
+
+### Operational Emissions
+
+**Definition:** Greenhouse gas emissions arising from the active running of server-side systems, datacentres, and infrastructure that generate and deliver content to browsers, as distinct from embodied or supply-chain emissions.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[Carbon Intensity]], [[Backend and Infrastructure Engineer]], [[Content Delivery Network (CDN)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
+
+---
+
+### Packaging and Packaging Waste Regulation (PPWR)
+
+**Definition:** An EU regulation governing the sustainability requirements for packaging and packaging waste, identified as one of the legislative instruments within whose scope products and materials may fall during the integrated prioritisation phase of EU sustainability compliance.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** PPWR
+
+**Related terms:** [[Integrated Prioritisation]], [[EU Deforestation Regulation (EUDR)]], [[Ecodesign Regulation]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
 
 ---
 
@@ -1170,6 +2834,22 @@ title: Glossary
 
 ---
 
+### Planetary Boundaries
+
+**Definition:** Quantitative ecological thresholds within which human activity must remain to maintain Earth-system stability and avoid irreversible environmental change.
+
+**Domain:** General
+
+**Synonyms:** ecological limits, earth system boundaries
+
+**Abbreviation:** none
+
+**Related terms:** [[social boundaries]], [[multiple capitals]], [[Sustainable Value Transition]], [[carbon budget]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Academic Foundations, 2026
+
+---
+
 ### Principles for Responsible Investment
 
 **Definition:** A framework for investors to incorporate ESG factors into investment decision-making, functioning as a catalyst for sustainable economic transition.
@@ -1183,6 +2863,22 @@ title: Glossary
 **Related terms:** [[ESG (Environmental, Social and Governance)]], [[Sustainable Finance Disclosure Regulation]], [[EU Taxonomy Regulation]]
 
 **Source:** ESG Business Handbook.pdf, International Frameworks – Principles for Responsible Investment, 2026
+
+---
+
+### Product Information (sustainability)
+
+**Definition:** Transparent, comparable, and verifiable product-level social and environmental impact data made available to consumers and investors as a necessary condition for informed consumption and investment decisions.
+
+**Domain:** General
+
+**Synonyms:** product-level sustainability information, product sustainability disclosure
+
+**Abbreviation:** none
+
+**Related terms:** [[supply chain reporting]], [[externalities]], [[corporate reporting]], [[Sustainable Value Architecture]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 5 – Product Information, 2026
 
 ---
 
@@ -1218,6 +2914,54 @@ title: Glossary
 
 ---
 
+### Reasonable Assurance
+
+**Definition:** An assurance engagement level under which a practitioner expresses a positive opinion that a subject matter is free from material misstatement, representing a higher level of scrutiny than limited assurance, toward which the CSRD framework provides for a phased transition.
+
+**Domain:** CSRD
+
+**Synonyms:** positive assurance
+
+**Abbreviation:** none
+
+**Related terms:** [[Limited Assurance]], [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
+
+**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+
+---
+
+### Region-Shifting
+
+**Definition:** A carbon awareness action whereby computation is relocated to a geographic region where the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
+
+**Domain:** General
+
+**Synonyms:** geographic shifting, spatial shifting
+
+**Abbreviation:** none
+
+**Related terms:** [[Carbon Awareness]], [[Carbon-Aware]], [[Time-Shifting]], [[Region-Specific Carbon Intensity]]
+
+**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Region-Specific Carbon Intensity
+
+**Definition:** A measure of how much CO₂eq is emitted per kilowatt hour of electricity consumed in a given geographic region, expressed in gCO₂eq/kWh, determined using location-based grid intensity and explicitly excluding market-based measures such as renewable energy certificates.
+
+**Domain:** General
+
+**Synonyms:** grid carbon intensity, location-based intensity
+
+**Abbreviation:** I
+
+**Related terms:** [[Carbon Intensity]], [[Operational Emissions]], [[Marginal Emissions Grid Intensity]], [[Market-Based Measures]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Reinforcement Learning
 
 **Definition:** A machine learning paradigm in which an AI model learns to make sequential decisions by receiving feedback signals from an environment, included within the SCI for AI Specification's scope of covered AI paradigms.
@@ -1236,17 +2980,17 @@ title: Glossary
 
 ### Remediation
 
-**Definition:** The process by which an enterprise that has caused or contributed to adverse impacts provides or cooperates in access to remedy for affected parties, including through grievance mechanisms or official mechanisms such as the National Contact Point.
+**Definition:** The process by which a company provides for or cooperates in addressing adverse impacts it has caused or contributed to, as required under the OECD Six-Step Framework and EU due diligence legislation.
 
 **Domain:** General
 
-**Synonyms:** remedy, access to remedy
+**Synonyms:** remedy, redress
 
 **Abbreviation:** none
 
-**Related terms:** [[Grievance Mechanism]], [[Adverse Impact]], [[National Contact Point (OECD)]], [[Due Diligence]]
+**Related terms:** [[Adverse Impacts]], [[Due Diligence]], [[OECD Six-Step Framework]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
 
-**Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
 
 ---
 
@@ -1263,6 +3007,38 @@ title: Glossary
 **Related terms:** [[CSRD]], [[GRI]], [[TCFD]], [[ISSB]], [[Materiality Assessment]]
 
 **Source:** ESG Business Handbook.pdf, Getting Started with ESG – Reporting Frameworks, 2026
+
+---
+
+### Resource-Share
+
+**Definition:** The proportion of a hardware device's total available resources that are reserved for use by a given software application, used as a factor in allocating total embodied emissions to that application.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** RS
+
+**Related terms:** [[Embodied Emissions]], [[Total Embodied Emissions]], [[Time-Share]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Responsible Business Conduct
+
+**Definition:** A set of standards and expectations for enterprises to act in accordance with applicable laws and internationally recognised principles covering social, environmental, governance, and human rights dimensions of business operations.
+
+**Domain:** General
+
+**Synonyms:** Corporate Responsibility, Corporate Social Responsibility
+
+**Abbreviation:** RBC
+
+**Related terms:** [[Due Diligence]], [[Multinational Enterprise]], [[Sustainable Development]], [[National Contact Point]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Foreword, 2023
 
 ---
 
@@ -1298,6 +3074,22 @@ title: Glossary
 
 ---
 
+### Science-Based Target
+
+**Definition:** A climate target aligned with the levels of decarbonisation required to meet the goals of the Paris Agreement, focused on the elimination of emissions rather than their neutralisation through offsets, referenced in the SCI specification as a framework with which the SCI is designed to be compatible.
+
+**Domain:** General
+
+**Synonyms:** science-based target framework
+
+**Abbreviation:** SBT
+
+**Related terms:** [[Carbon Offsets]], [[Neutralisation]], [[Market-Based Measures]]
+
+**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Science-Based Targets
 
 **Definition:** Greenhouse gas emission reduction targets defined in accordance with the level of decarbonisation required to meet the goals of the Paris Agreement, against which organisations' climate commitments and disclosures—including those submitted via CDP—can be assessed.
@@ -1316,39 +3108,119 @@ title: Glossary
 
 ### Scope 1 Emissions
 
-**Definition:** Direct greenhouse gas emissions from sources owned or controlled by the reporting organisation, constituting one of three emission scopes used in corporate carbon accounting and required as a key performance indicator under the VSME framework.
+**Definition:** Direct greenhouse gas emissions from sources that are owned or controlled by a reporting organisation.
 
 **Domain:** General
 
-**Synonyms:** none
+**Synonyms:** direct emissions
 
 **Abbreviation:** none
 
-**Related terms:** [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]]
+**Related terms:** [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Climate Transition Plan]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
 
 ---
 
 ### Scope 2 Emissions
 
-**Definition:** Indirect greenhouse gas emissions from the generation of purchased energy consumed by the reporting organisation, constituting one of three emission scopes used in corporate carbon accounting and required as a key performance indicator under the VSME framework.
+**Definition:** Indirect greenhouse gas emissions attributable to the generation of purchased energy consumed by a reporting organisation.
 
 **Domain:** General
 
-**Synonyms:** none
+**Synonyms:** indirect emissions from purchased energy
 
 **Abbreviation:** none
 
-**Related terms:** [[Scope 1 Emissions]], [[Scope 3 Emissions]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]]
+**Related terms:** [[Scope 1 Emissions]], [[Scope 3 Emissions]], [[Climate Transition Plan]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
 
 ---
 
 ### Scope 3 Emissions
 
-**Definition:** All indirect greenhouse gas emissions occurring in the value chain of the reporting organisation — both upstream and downstream — that are not covered by Scope 2, constituting one of three emission scopes used in corporate carbon accounting and required as a key performance indicator under the VSME framework.
+**Definition:** Indirect greenhouse gas emissions that occur across a reporting organisation's value chain, excluding those covered under Scope 2.
+
+**Domain:** General
+
+**Synonyms:** value-chain emissions
+
+**Abbreviation:** none
+
+**Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Climate Transition Plan]]
+
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+
+---
+
+### Scope 3 GHG emissions
+
+**Definition:** Indirect greenhouse gas emissions occurring in the value chain of a reporting enterprise, both upstream and downstream, that are not covered by Scope 1 or Scope 2 emissions, and which the VSME standard addresses in its guidance as an optional consideration for completeness of climate-related disclosures.
+
+**Domain:** ESRS
+
+**Synonyms:** Indirect value chain emissions
+
+**Abbreviation:** none
+
+**Related terms:** [[Greenhouse gas emissions]], [[Value chain]], [[Basic Module (VSME)]]
+
+**Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – Qualitative characteristics, 2026
+
+---
+
+### SDG–CSRD–ESRS Alignment Matrix
+
+**Definition:** A mapping framework developed by EFRAG that cross-references the seventeen United Nations Sustainable Development Goals with the reporting requirements of the Corporate Sustainability Reporting Directive and the corresponding European Sustainability Reporting Standards, identifying for each SDG the relevant ESRS topic, anticipated corporate impact, recommended actions, and suggested indicators and KPIs.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[European Financial Reporting Advisory Group]], [[key performance indicators]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### Serious adverse human rights incidents
+
+**Definition:** Incidents of severe violation of internationally recognised human rights that have occurred in connection with an enterprise's own operations or value chain, subject to disclosure under VSME Extended Module disclosure C7.
+
+**Domain:** ESRS
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Human rights policies and processes]], [[Extended Module (VSME)]], [[Value chain]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C7), 2026
+
+---
+
+### Shareholder Value Creation
+
+**Definition:** A corporate governance orientation that prioritises the maximisation of financial returns to equity shareholders, identified in this context as the prevailing but insufficient paradigm that excludes social and ecological value considerations.
+
+**Domain:** General
+
+**Synonyms:** shareholder primacy, shareholder capitalism
+
+**Abbreviation:** none
+
+**Related terms:** [[societal value creation]], [[fiduciary duty]], [[multiple capitals]], [[Sustainable Value Transition]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Background, 2026
+
+---
+
+### Single Market Programme
+
+**Definition:** An EU funding programme supporting the functioning of the internal market, under which EFRAG receives financial support from the European Union, with participation also from EEA–EFTA countries and Kosovo.
 
 **Domain:** General
 
@@ -1356,9 +3228,73 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Value Chain]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]]
+**Related terms:** [[European Financial Reporting Advisory Group]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** Voluntary SME Standard (VSME), Background – EFRAG and its mandate, 2026
+
+---
+
+### Single-Page Application (SPA)
+
+**Definition:** A browser-based web application architectural pattern in which content and functionality are rendered and updated dynamically within a single HTML page through client-side execution, falling within the scope of the SCI for Web specification.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** SPA
+
+**Related terms:** [[Web Application]], [[Browser-Mediated Human Interaction]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Frontend Developer]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
+
+---
+
+### Small and Medium-sized Enterprises
+
+**Definition:** Organisations classified by size criteria as smaller enterprises that generally fall outside the mandatory scope of the Corporate Sustainability Reporting Directive and constitute the primary target group for the VSME standard.
+
+**Domain:** CSRD
+
+**Synonyms:** SMEs
+
+**Abbreviation:** SMEs
+
+**Related terms:** [[VSME Standard]], [[Corporate Sustainability Reporting Directive]], [[Basic Module (VSME)]], [[Extended Module (VSME)]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
+
+### SME
+
+**Definition:** An enterprise classified as micro, small or medium-sized on the basis of balance sheet total, net turnover and average number of employees, as defined in Article 3 of Directive 2013/34/EU, qualifying for a category by not exceeding two of the three applicable thresholds.
+
+**Domain:** CSRD
+
+**Synonyms:** Small and medium-sized enterprise
+
+**Abbreviation:** SME
+
+**Related terms:** [[Micro-enterprise]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Corporate Sustainability Reporting Directive]]
+
+**Source:** Voluntary SME Standard (VSME), Background – Size thresholds, 2026
+
+---
+
+### Social Boundaries
+
+**Definition:** Minimum thresholds of human welfare and equity that economic activity must meet or exceed in order to satisfy societal requirements for a just and inclusive society.
+
+**Domain:** General
+
+**Synonyms:** social limits, social thresholds
+
+**Abbreviation:** none
+
+**Related terms:** [[planetary boundaries]], [[Sustainable Value Transition]], [[societal value creation]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
 
 ---
 
@@ -1378,9 +3314,41 @@ title: Glossary
 
 ---
 
+### Societal Value Creation
+
+**Definition:** The generation of positive outcomes across environmental, social, and economic dimensions for stakeholders beyond shareholders, measured and managed with the same rigour as financial value.
+
+**Domain:** General
+
+**Synonyms:** sustainable stakeholder value, stakeholder value creation
+
+**Abbreviation:** none
+
+**Related terms:** [[multiple capitals]], [[externalities]], [[Sustainable Value Transition]], [[social boundaries]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
+
+---
+
+### Software Boundary
+
+**Definition:** The defined set of software components included within the scope of an SCI calculation, established in the first step of the SCI calculation procedure to determine which system elements contribute to the reported score.
+
+**Domain:** General
+
+**Synonyms:** system boundary
+
+**Abbreviation:** none
+
+**Related terms:** [[Functional Unit]], [[Software Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Software Carbon Intensity (SCI)
 
-**Definition:** A standardised methodology for measuring and reporting the carbon emissions of a software system, expressed as a rate of carbon emissions per chosen functional unit, originally codified in ISO/IEC 21031:2024.
+**Definition:** A methodology developed by the Green Software Foundation for quantifying the carbon emissions associated with software systems, expressed as a rate of carbon per unit of functional value delivered.
 
 **Domain:** General
 
@@ -1388,9 +3356,89 @@ title: Glossary
 
 **Abbreviation:** SCI
 
-**Related terms:** [[Functional Unit]], [[Carbon Intensity]], [[SCI for AI Specification]], [[ISO/IEC 21031:2024]]
+**Related terms:** [[Software Carbon Intensity for Web (SCI for Web)]], [[Carbon Intensity]], [[Functional Unit]]
 
-**Source:** Green Software Foundation – SCI for AI Specification, Lead & Background, 2026
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background, 2026-06-15
+
+---
+
+### Software Carbon Intensity for Web (SCI for Web)
+
+**Definition:** A domain-specific extension of the SCI specification developed by the Green Software Foundation that establishes requirements for measuring the carbon intensity of browser-based web applications spanning both server-side infrastructure and client-side browser execution environments.
+
+**Domain:** General
+
+**Synonyms:** SCI for Web specification
+
+**Abbreviation:** SCI for Web
+
+**Related terms:** [[Software Carbon Intensity (SCI)]], [[Browser-Mediated Human Interaction]], [[Web Application]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background, 2026-06-15
+
+---
+
+### Stakeholder Engagement
+
+**Definition:** A required characteristic of due diligence under the OECD Due Diligence Guidance, involving the systematic identification and consultation of affected parties—including workers, communities, and vulnerable groups—throughout the due diligence process.
+
+**Domain:** General
+
+**Synonyms:** stakeholder consultation, stakeholder dialogue
+
+**Abbreviation:** none
+
+**Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
+
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+
+---
+
+### Subscribing Country
+
+**Definition:** A state that has formally adhered to the OECD Declaration on International Investment and Multinational Enterprises and thereby commits to promoting the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct within its territory.
+
+**Domain:** General
+
+**Synonyms:** Adhering Country
+
+**Abbreviation:** none
+
+**Related terms:** [[National Contact Point for Responsible Business Conduct]], [[Multinational Enterprise]], [[National Treatment]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Scope and Subscribing Countries, 2023
+
+---
+
+### Substances of Concern
+
+**Definition:** Chemical or biological substances identified in pollution disclosures as posing risks to human health or the environment, the reporting of which is an audit item under the pollution category of an ESG checklist.
+
+**Domain:** ESRS
+
+**Synonyms:** hazardous substances
+
+**Abbreviation:** none
+
+**Related terms:** [[Pollution]], [[Environmental Criteria]]
+
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+
+---
+
+### Supply Chain Reporting
+
+**Definition:** The interoperable disclosure of product-level social and environmental impact information across supply-chain participants, enabling collation of complete pictures of sustainable impact and value by supply-chain parties and third parties.
+
+**Domain:** ESRS
+
+**Synonyms:** supply chain transparency, value chain reporting
+
+**Abbreviation:** none
+
+**Related terms:** [[corporate reporting]], [[product information]], [[externalities]], [[Sustainable Value Architecture]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 6 – Supply Chain Reporting, 2026
 
 ---
 
@@ -1407,6 +3455,70 @@ title: Glossary
 **Related terms:** [[ISSB]], [[Financial Materiality]], [[ESG]], [[Task Force on Climate-Related Financial Disclosures]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Sustainability Accounting Standards Board, 2026
+
+---
+
+### sustainability impacts, risks, and opportunities
+
+**Definition:** The material effects that a reporting entity has on sustainability matters (impacts) and the sustainability-related factors that may affect the entity's financial performance (risks and opportunities), constituting the core subject matter of disclosures required under the Corporate Sustainability Reporting Directive.
+
+**Domain:** CSRD
+
+**Synonyms:** IROs
+
+**Abbreviation:** IROs
+
+**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[key performance indicators]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### Sustainability Statement
+
+**Definition:** A disclosure document in which a reporting organisation presents its sustainability-related information in accordance with applicable standards such as the ESRS, subject to mandatory assurance requirements under the CSRD.
+
+**Domain:** CSRD
+
+**Synonyms:** sustainability report, non-financial statement
+
+**Abbreviation:** none
+
+**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[Limited Assurance]], [[Reasonable Assurance]]
+
+**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+
+---
+
+### Sustainability-related information
+
+**Definition:** Information describing how an enterprise's activities affect, or are likely to affect, people or the environment, and how environmental and social matters affect, or are likely to affect, the enterprise's financial position, performance and cash flows across short, medium and long time horizons.
+
+**Domain:** ESRS
+
+**Synonyms:** Sustainability information
+
+**Abbreviation:** none
+
+**Related terms:** [[Voluntary Standard for Small and Medium-sized Enterprises]], [[European Sustainability Reporting Standards]], [[Double materiality]]
+
+**Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – General requirements, 2026
+
+---
+
+### Sustainable Development
+
+**Definition:** A mode of development that meets the needs of the present without compromising the ability of future generations to meet their own needs, as promoted through government-backed multilateral instruments applied to enterprise conduct.
+
+**Domain:** SDG
+
+**Synonyms:** none
+
+**Abbreviation:** none
+
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Sustainable Development Goals]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Foreword, 2023
 
 ---
 
@@ -1442,6 +3554,38 @@ title: Glossary
 
 ---
 
+### Sustainable Value Architecture
+
+**Definition:** The set of institutional structures and mechanisms needed to support a Sustainable Value Transition, comprising nine interdependent components spanning corporate governance, law, reporting, product information, supply-chain transparency, macroeconomic accounts, fiscal policy, and education.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** SVA
+
+**Related terms:** [[Sustainable Value Transition]], [[multiple capitals]], [[corporate reporting]], [[externalities]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Lead, 2026
+
+---
+
+### Sustainable Value Transition
+
+**Definition:** A fundamental reorientation of the way value is defined, planned, and rewarded, aligning corporate and economic activity with ecological and social limits.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** SVT
+
+**Related terms:** [[Sustainable Value Architecture]], [[multiple capitals]], [[planetary boundaries]], [[social boundaries]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Lead, 2026
+
+---
+
 ### Synthetic Data Generation
 
 **Definition:** The process of artificially producing data for use in AI model training or evaluation, rather than collecting it from real-world sources, constituting a component of both the Design and Development lifecycle stage and the Provider boundary for SCI carbon accounting purposes.
@@ -1474,6 +3618,54 @@ title: Glossary
 
 ---
 
+### Taxation and Pricing of Externalities
+
+**Definition:** A fiscal mechanism that internalises social and environmental costs by shifting the tax base away from labour and towards materials, taxing negative externalities at source, and removing incentives for environmentally and socially harmful activity.
+
+**Domain:** General
+
+**Synonyms:** externality pricing, Pigouvian taxation, carbon pricing (as a subset)
+
+**Abbreviation:** none
+
+**Related terms:** [[externalities]], [[Sustainable Value Architecture]], [[global and national accounts]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 8 – Taxation and the Pricing of Externalities, 2026
+
+---
+
+### Time-Share
+
+**Definition:** The proportion of a hardware device's total lifespan that is reserved for use by a given software application, used as a factor in allocating total embodied emissions to that application.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** TS
+
+**Related terms:** [[Embodied Emissions]], [[Total Embodied Emissions]], [[Resource-Share]], [[Time Reserved]], [[Expected Lifespan]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Time-Shifting
+
+**Definition:** A carbon awareness action whereby computation is scheduled to coincide with periods when the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
+
+**Domain:** General
+
+**Synonyms:** temporal shifting
+
+**Abbreviation:** none
+
+**Related terms:** [[Carbon Awareness]], [[Carbon-Aware]], [[Region-Shifting]], [[Region-Specific Carbon Intensity]]
+
+**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
+
 ### Token
 
 **Definition:** The atomic unit of text processing in language models, typically representing parts of words or characters, used as a functional unit for measuring the carbon intensity of language model inference.
@@ -1487,6 +3679,70 @@ title: Glossary
 **Related terms:** [[Inference]], [[Functional Unit]], [[Large Language Model]], [[Generative AI]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
+
+---
+
+### Total Embodied Emissions
+
+**Definition:** The sum of Life Cycle Assessment (LCA) emissions for all hardware components associated with a software system, used as the basis for calculating the embodied emissions (M) attributable to a software application.
+
+**Domain:** General
+
+**Synonyms:** none
+
+**Abbreviation:** TE
+
+**Related terms:** [[Embodied Emissions]], [[Life Cycle Assessment]], [[Hardware Efficiency]]
+
+**Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
+
+### Transition Management
+
+**Definition:** A governance approach that steers complex socio-technical systems towards sustainable configurations through long-term goal-setting, experimentation, and multi-actor learning processes.
+
+**Domain:** General
+
+**Synonyms:** systems transition, sustainability transition management
+
+**Abbreviation:** none
+
+**Related terms:** [[Sustainable Value Transition]], [[transition pathway]], [[Sustainable Value Architecture]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Academic Foundations, 2026
+
+---
+
+### Transition Pathway
+
+**Definition:** A defined, time-bound sequence of actions and milestones through which a company or economic system progressively realigns its activities with social and planetary boundaries, including phase-out strategies for harmful activities.
+
+**Domain:** General
+
+**Synonyms:** transition trajectory, decarbonisation pathway
+
+**Abbreviation:** none
+
+**Related terms:** [[Sustainable Value Transition]], [[carbon budget]], [[planetary boundaries]], [[net-zero carbon]]
+
+**Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
+
+---
+
+### Transition to a more sustainable economy
+
+**Definition:** The process by which an enterprise shifts its business practices, strategies and operations to reduce negative sustainability impacts and align with the objectives of a low-carbon, resource-efficient and socially inclusive economy, reported under VSME disclosures B2 and C2.
+
+**Domain:** ESRS
+
+**Synonyms:** Sustainability transition, green transition
+
+**Abbreviation:** none
+
+**Related terms:** [[Basic Module (VSME)]], [[Extended Module (VSME)]], [[Climate risks]]
+
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B2) and Extended Module (C2), 2026
 
 ---
 
@@ -1554,19 +3810,83 @@ title: Glossary
 
 ---
 
-### Value Chain
+### United Nations Sustainable Development Goals
 
-**Definition:** The full sequence of upstream and downstream actors — including raw-material suppliers, manufacturers, distributors, end-users, and waste processors — whose activities are connected to an enterprise's products or services and whose sustainability impacts and data are relevant to the enterprise's sustainability disclosures.
+**Definition:** A set of seventeen interlinked global goals adopted by all UN member states in 2015 as part of the 2030 Agenda for Sustainable Development, constituting a universal framework for sustainable development action.
 
-**Domain:** ESRS
+**Domain:** SDG
 
-**Synonyms:** supply chain
+**Synonyms:** Sustainable Development Goals, Global Goals
+
+**Abbreviation:** SDGs
+
+**Related terms:** [[2030 Agenda for Sustainable Development]], [[SDG–CSRD–ESRS Alignment Matrix]], [[Corporate Sustainability Reporting Directive]]
+
+**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### Upstream Supply Chain
+
+**Definition:** The portion of a value chain that encompasses suppliers, raw material extractors, and other entities providing inputs to a company prior to its own operations, subject to specific scope provisions under the Forced Labour Regulation and other EU due diligence instruments.
+
+**Domain:** General
+
+**Synonyms:** upstream value chain
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]]
+**Related terms:** [[Value Chain]], [[Due Diligence]], [[Forced Labour Regulation (FLR)]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
 
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Value chain
+
+**Definition:** The full sequence of activities, resources and relationships through which an undertaking and its business partners create products or services, used in the context of sustainability reporting to identify indirect sustainability data requests flowing from large CSRD-subject undertakings to their SME suppliers and partners.
+
+**Domain:** ESRS
+
+**Synonyms:** Supply chain
+
+**Abbreviation:** none
+
+**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Scope 3 GHG emissions]]
+
+**Source:** Voluntary SME Standard (VSME), Background – Regulatory context, 2026
+
+---
+
+### Voluntary Standard for Small and Medium-sized Enterprises
+
+**Definition:** A voluntary sustainability reporting standard developed by EFRAG to enable non-listed micro, small and medium-sized enterprises to disclose sustainability-related information in a manner proportionate to their capacity and resources.
+
+**Domain:** ESRS
+
+**Synonyms:** Voluntary SME Standard
+
+**Abbreviation:** VSME
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Basic Module (VSME)]], [[Extended Module (VSME)]], [[SME]]
+
+**Source:** Voluntary SME Standard (VSME), Introduction, 2026
+
+---
+
+### Voluntary Sustainability Reporting for Small and Medium-sized Enterprises (VSME) Standard
+
+**Definition:** A voluntary sustainability reporting framework developed under the auspices of EFRAG, designed specifically to enable small and medium-sized enterprises to report on sustainability matters in a structured manner outside the scope of mandatory CSRD obligations.
+
+**Domain:** CSRD
+
+**Synonyms:** VSME standard, VSME framework
+
+**Abbreviation:** VSME
+
+**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Small and Medium-sized Enterprises]], [[EFRAG]], [[Basic Module (VSME)]], [[Extended Module (VSME)]]
+
+**Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
 ---
 
@@ -1583,6 +3903,70 @@ title: Glossary
 **Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Double Materiality Assessment]], [[European Financial Reporting Advisory Group]]
 
 **Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
+
+---
+
+### Water-Stressed Areas
+
+**Definition:** Geographic locations where water availability is limited or under significant competing demand, requiring particular audit attention in the review of water consumption, withdrawal, and recycling disclosures.
+
+**Domain:** ESRS
+
+**Synonyms:** water-scarce areas, water-scarce regions
+
+**Abbreviation:** none
+
+**Related terms:** [[Water and Marine Resources]]
+
+**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+
+---
+
+### Web Application
+
+**Definition:** A software application that delivers functional value to human users primarily through browser-based interfaces accessed via HTTP or HTTPS, where content rendering and execution occur within web browser environments and interfaces are designed for direct human interaction rather than exclusively machine-to-machine communication.
+
+**Domain:** General
+
+**Synonyms:** browser-based application
+
+**Abbreviation:** none
+
+**Related terms:** [[Browser-Mediated Human Interaction]], [[Single-Page Application (SPA)]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Hypertext Transfer Protocol (HTTP)]]
+
+**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
+
+---
+
+### Whistleblower
+
+**Definition:** An individual who raises concerns about actual or potential misconduct by an enterprise, and who is afforded enhanced protection under the 2023 OECD Guidelines for Multinational Enterprises on Responsible Business Conduct as a person at risk.
+
+**Domain:** General
+
+**Synonyms:** Person Raising Concerns
+
+**Abbreviation:** none
+
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence (Responsible Business Conduct)]], [[Multinational Enterprise]]
+
+**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, 2023 Updates, 2023
+
+---
+
+### Whistleblower Mechanism
+
+**Definition:** A formal channel through which employees or other stakeholders can report suspected misconduct, including violations of anti-corruption and anti-bribery policies, the existence of which is reviewed under the business conduct category of an ESG audit checklist.
+
+**Domain:** General
+
+**Synonyms:** speak-up mechanism, reporting channel
+
+**Abbreviation:** none
+
+**Related terms:** [[Business Conduct]], [[Anti-Corruption Policy]]
+
+**Source:** ESG Audit Checklist, Governance Criteria, 2026
 
 ---
 

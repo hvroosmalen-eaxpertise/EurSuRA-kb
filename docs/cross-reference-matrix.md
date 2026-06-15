@@ -2,7 +2,7 @@
 title: Cross-Reference Matrix
 content_type: model
 generated: true
-date_updated: 2026-06-11
+date_updated: 2026-06-15
 ---
 
 # Cross-Reference Matrix
@@ -27,11 +27,19 @@ date_updated: 2026-06-11
 | [VSME](standards/vsme/index.md) | VSME |  |  |
 | [2025](reports/2025/index.md) |  |  |  |
 | [Sustainability and ESG Reporting Frameworks](reports/2026/6-esg-reporting-frameworks.md) |  |  |  |
+| [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md) |  |  |  |
+| [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md) |  |  |  |
 | [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md) |  |  |  |
+| [reports/2026/esg-audit-checklist.md](reports/2026/esg-audit-checklist.md) |  |  |  |
 | [ESG Business Handbook](reports/2026/esg-business-handbook.md) |  |  |  |
-| [reports/2026/green-software-foundation--sci-for-ai-specification.md](reports/2026/green-software-foundation--sci-for-ai-specification.md) |  |  |  |
 | [Overview](reports/2026/index.md) |  |  |  |
 | [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md) |  |  |  |
+| [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md) |  |  |  |
+| [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md) |  |  |  |
+| [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md) |  |  |  |
+| [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md) |  |  |  |
+| [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md) |  |  |  |
+| [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md) |  |  |  |
 | [Voluntary Sustainability Reporting for SMEs](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md) |  |  |  |
 | [GRI](frameworks/gri/index.md) | GRI |  |  |
 | [TCFD](frameworks/tcfd/index.md) | TCFD |  |  |
