@@ -3,6 +3,12 @@
 ## 2026-06-15
 
 ### Added (ingested)
+- **Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf** → `reports\2026\webinar-vsme---marlou-duchateau-en-esther-roelofsen.md` — webinar-vsme---marlou-duchateau-en-esther-roelofsen (domain: —)
+
+- **ESG Business Handbook.pdf** → `reports\2026\esg-business-handbook.md` — esg-business-handbook (domain: —)
+
+- **6 ESG Reporting frameworks.pdf** → `reports\2026\6-esg-reporting-frameworks.md` — 6-esg-reporting-frameworks (domain: —)
+
 - **VSME Standard NL onofficiële vertaling met AI.pdf** → `reports\2026\vsme-standard-nl-onofficiële-vertaling-met-ai.md` — vsme-standard-nl-onofficiële-vertaling-met-ai (domain: —)
 
 - **SDG-CSRD-ESRS matrix.pdf** → `reports\2026\sdg-csrd-esrs-matrix.md` — sdg-csrd-esrs-matrix (domain: —)
