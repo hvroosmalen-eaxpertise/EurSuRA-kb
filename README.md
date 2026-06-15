@@ -60,8 +60,10 @@ with three actions:
 | **Open SVG** | Opens the diagram in a new browser tab for full-screen viewing |
 
 The diagram is rendered client-side by loading Mermaid.js from CDN
-(`docs/assets/javascripts/mermaid-toolbar.js`), independent of the theme's
-built-in Mermaid loader.
+(canonical source at
+[`kb-framework/assets/javascripts/mermaid-toolbar.js`](../kb-framework/assets/javascripts/mermaid-toolbar.js)),
+independent of the theme's built-in Mermaid loader. The file is copied to
+`docs/assets/javascripts/` by `hooks.py` on every build.
 
 ## Adding Content
 

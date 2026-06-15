@@ -9,3 +9,4 @@ __pycache__/
 .vs/
 graphify-out/
 logs/
+docs/assets/javascripts/mermaid-toolbar.js

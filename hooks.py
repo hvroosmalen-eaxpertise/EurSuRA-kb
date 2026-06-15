@@ -190,6 +190,14 @@ def _load_known_external(docs_dir):
 def on_config(config, **kwargs):
     """Build the wikilink index once, before any page is rendered."""
     docs_dir = config["docs_dir"]
+
+    # Copy shared assets from kb-framework so they are available at build time.
+    fw_dir = Path(docs_dir).parent / ".." / "kb-framework"
+    local = Path(docs_dir) / "assets" / "javascripts" / "mermaid-toolbar.js"
+    source = fw_dir / "assets" / "javascripts" / "mermaid-toolbar.js"
+    if source.exists():
+        local.parent.mkdir(parents=True, exist_ok=True)
+        local.write_bytes(source.read_bytes())
     LINK_INDEX.clear()
     # Priority order (first wins): manual aliases, page titles, glossary terms, slugs.
     for key, target in MANUAL_ALIASES.items():
