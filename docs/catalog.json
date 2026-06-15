@@ -794,14 +794,25 @@
     "generated": true,
     "url": "insights/climate-disclosure-across-frameworks/",
     "wikilinks": [
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
+      "Double materiality",
       "EU Taxonomy Regulation",
       "European Sustainability Reporting Standards",
-      "TCFD",
+      "European Sustainability Reporting Standards (ESRS)",
+      "Greenhouse Gas Protocol (GHG Protocol)",
+      "Scope 3 emissions",
+      "Sustainable Finance Disclosure Regulation (SFDR)",
+      "Task Force on Climate-Related Financial Disclosures (TCFD)",
       "Voluntary Sustainability Reporting Standard for SMEs",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)",
+      "climate neutrality",
+      "double materiality",
       "esrs",
       "eu-taxonomy",
+      "financial materiality",
       "ghg-protocol",
+      "impact materiality",
       "tcfd"
     ]
   },
@@ -821,9 +832,10 @@
       "Global Reporting Initiative",
       "Impact materiality",
       "Voluntary Sustainability Reporting Standard for SMEs",
-      "circular economy",
-      "gri",
-      "small and medium-sized enterprises"
+      "csrd",
+      "double materiality",
+      "esrs",
+      "gri"
     ]
   },
   {
@@ -841,8 +853,6 @@
       "Voluntary Sustainability Reporting Standard for SMEs",
       "csrd",
       "esrs",
-      "financial materiality",
-      "impact materiality",
       "vsme"
     ]
   }

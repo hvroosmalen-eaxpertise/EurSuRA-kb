@@ -8,88 +8,99 @@ date_updated: 2026-06-15
 
 # Climate Disclosure Across Frameworks
 
-Small and medium-sized enterprises (SMEs) operating in or supplying into the EU face an increasingly structured set of climate disclosure obligations and expectations drawn from four interlocking regimes: the [[European Sustainability Reporting Standards]] (ESRS), the Task Force on Climate-Related Financial Disclosures ([[TCFD]]), the Greenhouse Gas (GHG) Protocol's emissions-accounting conventions, and the [[EU Taxonomy Regulation]]. While no single framework applies uniformly to all SMEs, the regimes share substantial conceptual ground, and disclosures prepared under one often satisfy, or structurally feed into, another.
+Small and medium-sized enterprises (SMEs) operating in or supplying to the EU face an increasingly interlocking set of climate disclosure obligations and expectations drawn from at least four major regimes: the [[European Sustainability Reporting Standards]] (ESRS), the Task Force on Climate-Related Financial Disclosures (TCFD), the Greenhouse Gas (GHG) Protocol, and the EU Taxonomy Regulation. While each framework has its own logic and audience, they share a common core — measuring and communicating climate-related risks, emissions, and sustainable activities — and understanding where they converge helps an SME avoid duplicating effort and produce disclosures that satisfy multiple audiences at once.
 
 ---
 
-## Overview of the Four Frameworks
+## The Four Frameworks at a Glance
 
-### ESRS and the VSME Standard
+| Framework | Origin | Primary Audience | Mandatory for SMEs? | Core Climate Ask |
+|---|---|---|---|---|
+| [[European Sustainability Reporting Standards]] (ESRS) | EU / EFRAG, 2023 | Large and listed EU companies; SMEs via VSME | Not directly; VSME is the proportionate counterpart | [[Double Materiality Assessment]]; Scope 1, 2, 3 emissions; climate strategy |
+| TCFD | Financial Stability Board, 2017 | Investors, lenders, insurers; listed companies in UK, Japan, NZ | No, but underpins ISSB and CDP | Governance, Strategy, Risk Management, Metrics & Targets |
+| GHG Protocol | Multi-stakeholder standard body | Any organisation measuring emissions | No | Scope 1, 2, 3 classification and measurement |
+| EU Taxonomy Regulation | EU | Financial market participants; large companies; SMEs indirectly | No direct obligation; required by investors and lenders | Classification of economic activities as environmentally sustainable |
 
-The [[European Sustainability Reporting Standards]] were published in 2023 under the EU's Corporate Sustainability Reporting Directive (CSRD) and became mandatory for large and listed EU companies from January 2024 [[esrs]]. SMEs are not directly subject to CSRD, but the [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) was developed as a proportionate counterpart, with its modules mapped directly to ESRS topic areas [[esrs]]. ESRS requires a [[Double Materiality Assessment]] (DMA), evaluating both **financial materiality** (sustainability factors affecting the company's financial position) and **impact materiality** (the company's effects on society and the environment) [[esrs]]. This dual lens is a distinguishing feature of the EU regime.
+---
+
+## What Each Framework Requires on Climate
+
+### ESRS and the VSME Pathway for SMEs
+
+The ESRS requires large and listed companies subject to the Corporate Sustainability Reporting Directive (CSRD) to report on climate change and energy under topic area E1 [[esrs]]. Because those large entities must account for their entire value chain, their SME suppliers are increasingly asked to provide equivalent data. The [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) was designed precisely as a proportionate counterpart: its basic and extended modules map directly to ESRS topic areas, with ESRS chapter E1 corresponding to VSME chapters B2, C2, B3, C3, and C4 [[esrs]].
+
+The defining requirement of ESRS-aligned reporting is [[double materiality]]: disclosing both the financial effects of climate change on the organisation ([[financial materiality]]) and the organisation's own effects on the climate ([[impact materiality]]) [[esrs]]. This dual lens distinguishes ESRS from single-materiality standards such as TCFD.
 
 ### TCFD
 
-The [[TCFD]] framework, launched in 2017, organises climate-related financial disclosures around four pillars: **Governance**, **Strategy**, **Risk Management**, and **Metrics and Targets** [[tcfd]]. It is mandatory for listed companies in several jurisdictions, including the United Kingdom, Japan, and New Zealand, and subsequently formed the foundational basis for the International Sustainability Standards Board (ISSB) standards [[tcfd]]. TCFD applies a **single-materiality** lens, focusing on how climate risks and opportunities affect the enterprise's financial position.
+TCFD structures climate disclosure around four pillars — Governance, Strategy, Risk Management, and Metrics and Targets — and is mandatory for listed companies in the United Kingdom, Japan, and New Zealand [[tcfd]]. TCFD is explicitly single-materiality: it focuses on climate risks and opportunities that are financially material to the organisation, not on the organisation's outward impact on the climate. TCFD subsequently served as the foundational basis for the International Sustainability Standards Board (ISSB) standards, and its recommendations also underpin the methodology used by the Carbon Disclosure Project (CDP) [[tcfd]]. An SME reporting to a UK-listed customer or seeking investment from a TCFD-aligned fund will therefore encounter its four pillars in that context.
 
 ### GHG Protocol
 
-The GHG Protocol provides the widely adopted methodology for measuring and categorising corporate GHG emissions across **Scope 1** (direct emissions), **Scope 2** (purchased energy), and **Scope 3** (value-chain emissions) [[ghg-protocol]]. For SMEs embedded in supply chains, Scope 3 is particularly significant: their upstream and downstream emissions data contribute to the reported impacts of larger CSRD-obligated entities, making structured GHG reporting a practical supply-chain expectation rather than merely a regulatory one [[ghg-protocol]].
+The GHG Protocol provides the measurement methodology that almost every other framework relies upon. Scope 1 (direct emissions), Scope 2 (purchased energy), and Scope 3 (value-chain emissions) are the categories used consistently across ESRS/VSME, TCFD metrics, and EU Taxonomy eligibility assessments [[ghg-protocol]]. For SMEs embedded in supply chains, [[Scope 3 emissions]] are particularly significant: upstream and downstream value-chain partners generate emissions data that contribute to the reported impacts of larger CSRD-obligated entities, and the VSME provides SMEs with a structured basis for collecting and communicating that GHG data [[ghg-protocol]]. The Bordvol case study illustrates this in practice: the company sourced CO₂ data via a logistics service provider and gathered energy consumption data per production site, incorporating total CO₂ emissions across Scopes 1, 2, and 3 as measurable key performance indicators (KPIs) and setting a target of [[climate neutrality]] by 2035 [[ghg-protocol]].
 
-### EU Taxonomy
+### EU Taxonomy Regulation
 
-The [[EU Taxonomy Regulation]] establishes a classification system for environmentally sustainable economic activities and forms a core pillar of the EU sustainable finance architecture [[eu-taxonomy]]. It sits alongside the Sustainable Finance Disclosure Regulation (SFDR), which requires financial market participants to disclose how sustainability risks are integrated into investment decisions [[eu-taxonomy]]. For SMEs, the Taxonomy is listed among the primary reference frameworks to consider when structuring ESG strategies and reporting, particularly when seeking green finance [[eu-taxonomy]].
-
----
-
-## Cross-Framework Comparison
-
-| Dimension | ESRS / VSME | TCFD | GHG Protocol | EU Taxonomy |
-|---|---|---|---|---|
-| **Primary audience** | EU companies (CSRD); SMEs via VSME | Listed companies in TCFD-mandatory jurisdictions | All organisations measuring emissions | Financial market participants; businesses seeking sustainable finance |
-| **Materiality approach** | Double materiality (financial + impact) [[esrs]] | Single materiality (financial) [[tcfd]] | Not a materiality framework; measurement standard | Activity-based classification; financial orientation [[eu-taxonomy]] |
-| **Climate pillar structure** | E1 (climate change and energy) within 10 ESG topics [[esrs]] | Four pillars: Governance, Strategy, Risk Management, Metrics & Targets [[tcfd]] | Scope 1, 2, 3 emissions taxonomy [[ghg-protocol]] | Do No Significant Harm (DNSH) criteria; Technical Screening Criteria [[eu-taxonomy]] |
-| **SME pathway** | VSME standard, mapped to ESRS [[esrs]] | No dedicated SME pathway; principles-based | Methodology applies at any scale [[ghg-protocol]] | SMEs relevant as suppliers to Taxonomy-reporting entities [[eu-taxonomy]] |
-| **Mandatory or voluntary for SMEs** | Voluntary (VSME) [[esrs]] | Voluntary for SMEs; mandatory only in certain listed-company jurisdictions [[tcfd]] | Voluntary methodology [[ghg-protocol]] | Indirectly required through supply-chain and finance relationships [[eu-taxonomy]] |
-| **Relationship to other regimes** | VSME mapped to ESRS; ESRS E1 requires Scope 1, 2, 3 data [[esrs]] [[ghg-protocol]] | Basis for ISSB; underpins CDP methodology [[tcfd]] | Supplies emissions data used across ESRS, TCFD, Taxonomy [[ghg-protocol]] | Complements SFDR; referenced within ESRS [[eu-taxonomy]] |
+The EU Taxonomy Regulation establishes a classification system for environmentally sustainable economic activities and sits at the heart of the EU sustainable finance architecture, alongside the Sustainable Finance Disclosure Regulation (SFDR) [[eu-taxonomy]]. Where ESRS and TCFD ask *how* a company manages climate risk and impact, the EU Taxonomy asks *whether* specific activities qualify as environmentally sustainable. Financial market participants — investors, banks, insurers — use Taxonomy alignment to direct capital toward sustainable outcomes, which means that SMEs seeking sustainable finance or reporting to investors may need to demonstrate Taxonomy alignment even without a direct regulatory obligation [[eu-taxonomy]].
 
 ---
 
 ## Where the Frameworks Overlap
 
-### Emissions Measurement as the Common Foundation
+### Shared Emissions Categories
 
-GHG Protocol Scope 1, 2, and 3 emissions accounting sits beneath all four frameworks. The VSME (and by extension ESRS topic E1) explicitly incorporates Scope 1, 2, and 3 emissions, reflecting alignment with the broader ESRS climate-and-energy topic area [[ghg-protocol]] [[esrs]]. TCFD's Metrics and Targets pillar similarly calls for GHG emissions data, typically structured using GHG Protocol conventions [[tcfd]]. The EU Taxonomy's Technical Screening Criteria for climate change mitigation and adaptation also rely on GHG emissions thresholds derived from the same accounting conventions [[eu-taxonomy]]. An SME that measures its emissions according to GHG Protocol methodology therefore produces data that is usable across all three other regimes.
+The most substantial overlap is the use of Scope 1, 2, and 3 categories drawn from the GHG Protocol across all four regimes [[ghg-protocol]]. An SME that measures its emissions according to GHG Protocol conventions will be producing the raw material needed for:
 
-### Climate Risk and Governance Language
+- VSME/ESRS E1 climate reporting [[esrs]];
+- TCFD Metrics and Targets disclosures [[tcfd]];
+- Demonstrating substantial contribution to climate change mitigation under the EU Taxonomy [[eu-taxonomy]].
 
-TCFD's four-pillar structure—Governance, Strategy, Risk Management, Metrics and Targets—maps closely onto the climate-related disclosures required under ESRS E1. Both frameworks require organisations to describe how governance bodies oversee climate-related matters and how climate risks and opportunities are integrated into strategy and risk processes [[tcfd]] [[esrs]]. The VSME's extended module (Module C) addresses these topics for SMEs in a proportionate form, ensuring that an SME completing the VSME produces information intelligible to CSRD-obligated value-chain partners operating under ESRS [[esrs]].
+This means GHG measurement is the single most transferable investment an SME can make in its disclosure infrastructure.
 
-### Supply-Chain Interdependencies
+### Single vs. Double Materiality
 
-A key practical overlap concerns Scope 3 emissions and value-chain data. Large CSRD-obligated entities must disclose their Scope 3 emissions under ESRS E1, which requires them to collect emissions data from SME suppliers [[ghg-protocol]] [[esrs]]. The EU Taxonomy similarly creates downstream pressure on SMEs, as larger entities must demonstrate the Taxonomy-alignment of their activities, including the activities of key suppliers [[eu-taxonomy]]. TCFD-aligned reporters in jurisdictions where TCFD is mandatory face equivalent supply-chain data demands [[tcfd]]. The VSME is explicitly designed to provide SMEs with a structured basis for collecting and communicating the GHG data that supply-chain partners and financial institutions increasingly require [[ghg-protocol]].
+TCFD and the EU Taxonomy both apply a single-materiality lens focused on financial risks and sustainable finance classification respectively [[tcfd]] [[eu-taxonomy]]. ESRS, by contrast, mandates a full [[Double Materiality Assessment]] covering both financial and impact dimensions [[esrs]]. An SME preparing a VSME disclosure that includes a materiality assessment will therefore produce richer information than TCFD alone requires, but the financial-materiality half of that assessment directly satisfies the TCFD's investor-facing logic.
 
-### Sustainable Finance and Capital Access
+### Governance and Strategy Narratives
 
-The EU Taxonomy and SFDR together direct capital allocation toward environmentally sustainable activities [[eu-taxonomy]]. An SME seeking green loans or sustainable supply-chain financing will typically need to demonstrate at least partial Taxonomy-alignment and provide climate disclosures consistent with what lenders and investors require under SFDR. These lender requirements in practice align with the metrics and targets language of TCFD and the emissions data structured under GHG Protocol [[tcfd]] [[ghg-protocol]] [[eu-taxonomy]].
+TCFD's pillars of Governance and Strategy — describing board oversight of climate risks and the resilience of the organisation's strategy under different climate scenarios — find their ESRS counterparts in the governance and strategy sections of ESRS E1 and the broader CSRD reporting architecture [[tcfd]] [[esrs]]. SMEs completing the VSME extended module on climate will be producing narrative content that covers substantially the same ground as a TCFD Governance and Strategy disclosure.
 
----
+### EU Taxonomy as a Complementary Layer
 
-## Practical Disclosure Pathway for an SME
-
-For an SME operating in the EU supply chain, a pragmatic sequencing of disclosure activity might proceed as follows:
-
-1. **Measure GHG emissions** using GHG Protocol Scope 1, 2, and 3 methodology. This produces the quantitative foundation for all subsequent disclosures [[ghg-protocol]]. The Bordvol case study illustrates this approach: total CO₂ emissions across Scopes 1, 2, and 3 were incorporated as key performance indicators (KPIs) with a target of climate neutrality by 2035 [[ghg-protocol]].
-
-2. **Report under the VSME standard**, using the basic module (Module B) as a minimum and the extended module (Module C) where supply-chain partners or financiers request more detail. VSME chapters B2, C2, B3, C3, and C4 correspond directly to ESRS topic E1 on climate change and energy [[esrs]], ensuring the output is readable by CSRD-obligated customers.
-
-3. **Structure climate-risk disclosures** using TCFD's four-pillar language (Governance, Strategy, Risk Management, Metrics and Targets), which is consistent with ESRS E1 requirements and is recognised by financial institutions globally [[tcfd]].
-
-4. **Assess EU Taxonomy alignment** for any activities that may qualify as environmentally sustainable, both to support green finance applications and to provide the data that Taxonomy-reporting customers or investors may require [[eu-taxonomy]].
+Where ESRS/VSME and TCFD address *how* an organisation discloses climate-related information, the EU Taxonomy addresses *what counts* as a sustainable activity for investment and lending purposes [[eu-taxonomy]]. An SME that has already quantified its Scope 1 and 2 emissions (for VSME or TCFD purposes) will have the operational data needed to begin a Taxonomy screening — specifically the Do No Significant Harm (DNSH) assessment — for its core activities.
 
 ---
 
-## Key Divergences to Note
+## Practical Sequencing for an SME
 
-Despite their overlaps, the frameworks diverge on two important dimensions. First, **materiality scope**: ESRS requires a full Double Materiality Assessment considering both the company's impact on the environment and the environment's impact on the company [[esrs]], whereas TCFD focuses solely on the financial materiality of climate risk to the enterprise [[tcfd]], and the EU Taxonomy is an activity-classification system rather than a materiality framework [[eu-taxonomy]]. An SME producing a VSME disclosure therefore goes beyond what TCFD alone would require in terms of impact reporting.
+Given the overlaps above, a practical SME disclosure pathway might proceed as follows:
 
-Second, **regulatory status**: TCFD is mandatory only for listed companies in specific jurisdictions and the VSME remains voluntary, whereas the EU Taxonomy creates indirect compliance pressure through finance and supply-chain relationships rather than direct SME obligations [[tcfd]] [[esrs]] [[eu-taxonomy]].
+1. **Measure emissions** using GHG Protocol categories (Scopes 1, 2, and 3), since this data feeds every subsequent framework [[ghg-protocol]].
+2. **Apply the VSME framework** to structure the climate narrative, as its modules map directly to ESRS E1 and produce information intelligible to large CSRD-obligated supply-chain partners [[esrs]].
+3. **Map VSME outputs to TCFD pillars** — the Governance and Strategy sections of the VSME extended module cover substantially the same ground as TCFD Governance and Strategy, while the Metrics and Targets pillar is satisfied by the Scope 1/2/3 data already produced [[tcfd]].
+4. **Screen for EU Taxonomy alignment** using the emissions and activity data already compiled, particularly if the SME is seeking sustainable finance or responding to investor questionnaires [[eu-taxonomy]].
+
+---
+
+## Key Differences to Bear in Mind
+
+| Dimension | ESRS / VSME | TCFD | GHG Protocol | EU Taxonomy |
+|---|---|---|---|---|
+| Materiality approach | [[Double materiality]] (financial + impact) | Single (financial) | Not applicable (measurement standard) | Single (environmental classification) |
+| Scope | Full ESG; climate is one topic | Climate only | GHG emissions only | Environmental activities; climate is one of six objectives |
+| Regulatory status for SMEs | VSME voluntary; ESRS indirect via value chain | Voluntary for SMEs | Voluntary | Indirect via investor/lender requirements |
+| Primary output | Sustainability report | Climate-focused investor disclosure | Emissions inventory | Activity alignment statement |
+| Underpins | CSRD reporting chain | ISSB, CDP | ESRS, TCFD, Taxonomy | SFDR, green bond standards |
 
 ---
 
 ## See Also
 
-- [[esrs|European Sustainability Reporting Standards (ESRS)]]
-- [[tcfd|Task Force on Climate-Related Financial Disclosures (TCFD)]]
-- [[ghg-protocol|Greenhouse Gas Emissions in ESG and Sustainability Reporting]]
-- [[eu-taxonomy|EU Taxonomy Regulation]]
+- [[European Sustainability Reporting Standards (ESRS)]]
+- [[Task Force on Climate-Related Financial Disclosures (TCFD)]]
+- [[Greenhouse Gas Protocol (GHG Protocol)]]
+- [[EU Taxonomy Regulation]]
+- [[Voluntary Sustainability Reporting Standard for SMEs (VSME)]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[Double Materiality Assessment]]
+- [[Sustainable Finance Disclosure Regulation (SFDR)]]

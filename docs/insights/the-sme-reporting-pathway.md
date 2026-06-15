@@ -8,106 +8,126 @@ date_updated: 2026-06-15
 
 # The SME Reporting Pathway: When VSME Applies Versus Full ESRS/CSRD
 
-Small and medium-sized enterprises (SMEs) in the EU are not directly bound by the [[Corporate Sustainability Reporting Directive]] (CSRD) or the mandatory [[European Sustainability Reporting Standards]] (ESRS), yet they face growing pressure to report on sustainability through supply-chain relationships with large companies that are. The [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME), published in 2024 by the European Financial Reporting Advisory Group (EFRAG), was developed precisely to bridge this gap — offering a proportionate, voluntary framework that speaks the same structural language as the mandatory regime without imposing its full burden.
+Small and medium-sized enterprises (SMEs) in or connected to the European Union face a two-tier sustainability reporting landscape: a mandatory regime under the [[Corporate Sustainability Reporting Directive]] (CSRD) that applies directly only to large and listed companies, and a voluntary regime under the [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) designed specifically for SMEs. Although SMEs are not legally compelled to report, the CSRD creates powerful indirect pressure through supply-chain relationships, making the VSME the practical pathway for most small businesses seeking to respond. Understanding when each regime applies, and how they relate structurally, is essential for any SME navigating this terrain.
 
 ---
 
-## Who Must Report Under Which Regime?
+## Who Is Directly Obligated Under the CSRD?
 
-The CSRD made sustainability reporting mandatory for large and listed companies operating in the EU from January 2024 [[csrd]]. SMEs are explicitly outside the direct scope of this obligation. However, the CSRD does not leave SMEs unaffected: large CSRD-obligated companies require sustainability data from their supply chains, meaning SMEs acting as raw-material suppliers, semi-finished-goods producers, manufacturers, or distributors face indirect pressure to disclose sustainability information [[csrd]].
+The [[Corporate Sustainability Reporting Directive]] made sustainability reporting mandatory for large and listed companies operating in the EU from January 2024 [[csrd]]. Its predecessor, the Non-Financial Reporting Directive (NFRD), covered a narrower set of entities; the CSRD significantly expanded that scope [[csrd]]. Crucially, the CSRD does **not** directly obligate SMEs [[csrd]].
 
-This distinction between direct obligation and indirect pressure is the central fork in the SME reporting pathway:
-
-| Criterion | ESRS / CSRD (Mandatory) | VSME (Voluntary) |
-|---|---|---|
-| Legal basis | CSRD (EU regulatory instrument, 2023) | EFRAG standard (2024), no legal mandate |
-| Who it applies to | Large and listed EU companies | SMEs, on a voluntary basis |
-| Compliance required? | Yes, from January 2024 | No |
-| Primary driver | Regulatory obligation | Supply-chain demand, access to capital, stakeholder engagement |
-| Materiality process | Full Double Materiality Assessment (DMA) | Simplified version of the DMA |
-
-[[esrs]] [[vsme]] [[csrd]]
+The mandatory reporting framework that CSRD-obligated companies must follow is the [[European Sustainability Reporting Standards]] (ESRS), published in 2023 [[esrs]]. ESRS requires a full [[Double Materiality Assessment]] (DMA), under which companies disclose both **financial materiality** (the effect of sustainability factors on the organisation's financial position) and **impact materiality** (the organisation's effects on people and the environment) [[esrs]].
 
 ---
 
-## The Voluntary Regime: What the VSME Is and Is Not
+## The Indirect Pressure on SMEs
 
-The VSME is a scaled-down, proportionate alternative to the ESRS, organised into a **basic module** and an **extended module**, each comprising thematic chapters [[vsme]]. Critically, it does not require legal compliance — but disclosures produced under it are considered relevant for supply-chain transparency, access to capital, and stakeholder engagement [[vsme]].
+Despite their exemption from direct CSRD obligations, SMEs are not insulated from the regime's effects. Large CSRD-obligated companies must report on their entire value chains, which generates downstream information demands on their suppliers and distributors [[csrd]]. SMEs acting as raw-material suppliers, semi-finished-goods producers, manufacturers, or distributors therefore face indirect pressure to produce sustainability data [[csrd]].
 
-Where the ESRS demands a full [[Double Materiality Assessment]] — evaluating both the financial effects of sustainability factors on the enterprise ([[financial materiality]]) and the enterprise's effects on people and the environment ([[impact materiality]]) — the VSME refers to a simplified version of that process, making it accessible to smaller organisations without dedicated sustainability functions [[vsme]] [[esrs]].
+This dynamic is illustrated by the fictionalised SME Bordvol, a tableware and crockery retailer that had begun CSRD preparation before its direct obligations were revised. Bordvol subsequently evaluated whether to continue voluntary reporting under the VSME [[csrd]]. The Bordvol case demonstrates how the line between voluntary and mandatory can shift for an individual SME depending on its position in the value chain and the expectations of its trading partners.
+
+The CSRD's reach also extends beyond EU borders: businesses in countries such as Bosnia and Herzegovina, operating outside the EU, face indirect pressure through supply-chain relationships with EU-based partners [[csrd]].
+
+---
+
+## The VSME: A Proportionate Voluntary Alternative
+
+The [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) was published in 2024 by the European Financial Reporting Advisory Group (EFRAG) specifically to address the gap created by this indirect pressure [[vsme]]. It provides a scaled-down, proportionate alternative to the full ESRS that does not carry the force of legal obligation [[vsme]].
+
+The VSME is structured into two modules:
+
+- **Basic module** – a lighter-touch set of disclosures suitable for SMEs at earlier stages of sustainability maturity.
+- **Extended module** – a more detailed set of disclosures for SMEs that wish or need to provide more comprehensive information [[vsme]].
+
+Where the ESRS mandates a full DMA, the VSME refers to a **simplified version** of that process, making it more accessible to organisations without dedicated sustainability functions [[vsme]].
 
 ---
 
 ## Structural Alignment: How VSME Maps to ESRS
 
-The VSME was deliberately designed so that its topic chapters correspond directly to the major ESRS topic areas [[esrs]]. This structural alignment means that an SME reporting under the VSME produces information that is intelligible and useful to large CSRD-obligated undertakings in their value chains [[esrs]].
+A key design feature of the VSME is that its chapters are mapped directly to the corresponding ESRS topic areas [[esrs]]. This alignment ensures that information produced by an SME under the VSME is intelligible and useful to large CSRD-obligated undertakings in their value chains [[esrs]].
 
-Both frameworks cover the same thematic universe [[esrs]] [[vsme]]:
+The table below illustrates the thematic correspondence between the two frameworks:
 
-| Sustainability Topic | ESRS Chapter | VSME Module Chapters |
+| ESRS Topic Area | ESRS Chapter | Corresponding VSME Chapters |
 |---|---|---|
 | Climate change and energy | E1 | B2, C2, B3, C3, C4 |
-| Pollution | E2 | Corresponding VSME chapters |
-| Water use | E3 | Corresponding VSME chapters |
-| Biodiversity and ecosystems | E4 | Corresponding VSME chapters |
-| Resource use and circular economy | E5 | Corresponding VSME chapters |
 | Own workforce | S1 | B2, C2, B8, B9, B10, C5, C6, C7, C9 |
-| Workers in the value chain | S2 | Corresponding VSME chapters |
-| Affected communities | S3 | Corresponding VSME chapters |
-| Consumers and end-users | S4 | Corresponding VSME chapters |
-| Business conduct | G1 | Corresponding VSME chapters |
+| Pollution | E2 | Mapped in extended module |
+| Water use and marine resources | E3 | Mapped in extended module |
+| Biodiversity and ecosystems | E4 | Mapped in extended module |
+| Resource use and circular economy | E5 | Mapped in extended module |
+| Workers in the value chain | S2 | Mapped in extended module |
+| Affected communities | S3 | Mapped in extended module |
+| Consumers and end-users | S4 | Mapped in extended module |
+| Business conduct | G1 | Mapped in extended module |
 
-[[esrs]]
+Sources: [[esrs]], [[vsme]]
 
-This mapping is not incidental. It reflects the policy rationale that SME disclosures under the VSME should serve as usable inputs for large companies preparing their own mandatory ESRS reports, creating a practical interoperability between the voluntary and mandatory regimes [[esrs]] [[csrd]].
-
----
-
-## The Indirect Pressure Mechanism: Why Voluntary Isn't Always Optional in Practice
-
-The CSRD's extraterritorial and supply-chain effects mean that "voluntary" reporting can become effectively necessary for SMEs wishing to retain commercial relationships. Large CSRD-obligated companies require sustainability data from their value chains, and SMEs that cannot provide it risk losing contracts or facing unfavourable financing terms [[csrd]].
-
-The CSRD's reach also extends beyond EU borders: businesses in countries such as Bosnia and Herzegovina, despite operating outside the EU, face indirect pressure from CSRD requirements through supply-chain relationships with EU-based partners [[csrd]].
-
-The fictionalised case study of **Bordvol**, a tableware and crockery retailer used to illustrate the VSME in practice, captures this dynamic directly: Bordvol had commenced CSRD preparation before its direct obligations were revised, and subsequently evaluated whether to continue voluntary reporting under the VSME [[csrd]] [[vsme]]. This scenario — an SME that initially anticipated mandatory obligations and then recalibrated toward the voluntary standard — illustrates how the boundary between the two regimes can shift as regulatory scope evolves.
+Both frameworks cover the same ten thematic areas—climate change and energy, pollution, water use, biodiversity, resource use and circular economy, own workforce, workers in the value chain, affected communities, consumers and end-users, and business conduct—ensuring conceptual coherence across the mandatory and voluntary regimes [[esrs]] [[vsme]].
 
 ---
 
-## How an SME Navigates the Pathway in Practice
+## Applying the VSME in Practice
 
-For an SME choosing to report under the VSME, the CSRD Collectief advises establishing an internal working group with management approval, studying the EFRAG standard directly, and applying a six-step roadmap while engaging suppliers and customers where possible [[vsme]]. The roadmap was demonstrated through the Bordvol case study, in which the SME:
+The CSRD Collectief advises SMEs adopting the VSME to follow a structured approach [[vsme]]:
 
-1. Identified four material sustainability themes using a simplified materiality process
-2. Developed a three-pillar strategy (fair materials, smart choices for lower CO₂ emissions, and good employment practices)
-3. Conducted baseline measurements
-4. Formulated policies, actions, targets, and KPIs — including 100% traceability of sourced goods and climate neutrality by 2035
-5. Selected appropriate communication formats, including website publications, organisational statements, and annual sustainability reports [[vsme]]
+1. Establish an internal working group with management approval.
+2. Study the EFRAG standard directly.
+3. Apply the six-step roadmap while engaging suppliers and customers where possible.
+4. Treat the standard as a shared language for communicating concrete sustainability progress [[vsme]].
 
-Beyond regulatory compliance, a structured sustainability strategy is identified as generating value through customer retention, personnel attraction, improved access to capital, and integration of previously fragmented sustainability initiatives [[vsme]].
+The Bordvol case study demonstrates this roadmap in action. Using six steps, Bordvol identified four material sustainability themes, developed a strategy with three pillars (fair materials, smart choices for lower CO₂ emissions, and good employment practices), conducted baseline measurements, and formulated policies, actions, targets, and key performance indicators (KPIs)—including 100% traceability of sourced goods and climate neutrality by 2035 [[vsme]]. Communication formats appropriate for SMEs include website publications, organisational statements, and annual sustainability reports [[vsme]].
 
 ---
 
-## Where the Two Regimes Overlap and Where They Diverge
+## Why Report Voluntarily? Business Case Beyond Compliance
 
-The voluntary and mandatory regimes share the same thematic scope, the same underlying logic of materiality, and the same ESG (environmental, social, and governance) vocabulary. Their divergence is one of depth, obligation, and organisational capacity:
+Although the VSME carries no legal obligation, structured sustainability reporting under it is identified as generating tangible business value [[vsme]]:
 
-| Dimension | ESRS / CSRD | VSME |
+- **Customer retention** – demonstrating sustainability credentials to value-chain partners and end customers.
+- **Personnel attraction** – appealing to workers who prioritise employer sustainability practices.
+- **Access to capital** – responding to investor and lender demand for sustainability disclosures.
+- **Integration of fragmented initiatives** – consolidating previously disparate sustainability activities into a coherent strategy [[vsme]].
+
+These incentives reflect the broader regulatory architecture in which the CSRD sits, including the European Green Deal (2021), the Sustainable Finance Disclosure Regulation (SFDR, 2021), the Paris Agreement (2015), and the UN Sustainable Development Goals (SDGs, 2015) [[csrd]].
+
+---
+
+## Decision Framework: Which Regime Applies?
+
+The following summarises when each regime is relevant for an SME:
+
+| Situation | Applicable Regime | Legal Obligation? |
 |---|---|---|
-| Obligation | Legally mandatory | Voluntary |
-| Materiality process | Full Double Materiality Assessment | Simplified materiality process |
-| Intended user | Large and listed EU undertakings | SMEs |
-| Structural design | Comprehensive, sector-specific standards | Basic and extended modules |
-| Role in value chain | Requires data from supply-chain SMEs | Provides that data in a usable format |
-| Regulatory context | Part of EU Green Deal / SFDR architecture | Developed by EFRAG as a proportionate complement |
+| SME is a large or listed company (misclassified) | CSRD / ESRS | Yes |
+| SME supplies to a CSRD-obligated company | VSME (indirect pressure) | No, but practically expected |
+| SME seeks capital from sustainability-conscious lenders or investors | VSME (voluntary) | No |
+| SME operates entirely outside EU value chains | Neither | No |
+| SME wishes to benchmark against full ESRS | VSME extended module | No |
 
-[[esrs]] [[vsme]] [[csrd]]
+Sources: [[csrd]], [[vsme]], [[esrs]]
 
-The VSME functions, in effect, as the SME's on-ramp to the mandatory reporting infrastructure — not legally equivalent to ESRS compliance, but structured to make SME disclosures legible within the CSRD ecosystem [[esrs]] [[csrd]].
+---
+
+## Key Differences and Overlaps at a Glance
+
+| Dimension | ESRS (mandatory, large companies) | VSME (voluntary, SMEs) |
+|---|---|---|
+| Legal basis | CSRD (EU law, from January 2024) | EFRAG standard (voluntary, 2024) |
+| Obligated entities | Large and listed EU companies | SMEs (no obligation) |
+| Materiality assessment | Full Double Materiality Assessment | Simplified materiality process |
+| Structure | Full set of thematic standards | Basic module + extended module |
+| Topic coverage | 10 thematic areas | Same 10 thematic areas (scaled) |
+| Primary purpose | Regulatory compliance | Supply-chain transparency, stakeholder engagement, capital access |
+| Interoperability | Reference standard | Mapped directly to ESRS chapters |
+
+Sources: [[esrs]], [[vsme]], [[csrd]]
 
 ---
 
 ## See Also
 
-- [[vsme]] — Voluntary Sustainability Reporting Standards for SMEs
-- [[esrs]] — European Sustainability Reporting Standards
-- [[csrd]] — Corporate Sustainability Reporting Directive
+- [[vsme]] – Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises
+- [[esrs]] – European Sustainability Reporting Standards
+- [[csrd]] – Corporate Sustainability Reporting Directive
