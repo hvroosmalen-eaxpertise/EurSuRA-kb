@@ -13,6 +13,28 @@
     return el.querySelector('svg');
   }
 
+  function svgToPng(svg, callback) {
+    var rect = svg.getBoundingClientRect();
+    var canvas = document.createElement('canvas');
+    canvas.width = rect.width * 2;
+    canvas.height = rect.height * 2;
+    var ctx = canvas.getContext('2d');
+    ctx.scale(2, 2);
+    var img = new Image();
+    var svgData = new XMLSerializer().serializeToString(svg.cloneNode(true));
+    // Strip foreignObject (not supported on canvas) and replace with plain text
+    svgData = svgData.replace(/<foreignObject[^>]*>[\s\S]*?<\/foreignObject>/gi, '');
+    img.onload = function() {
+      ctx.drawImage(img, 0, 0);
+      canvas.toBlob(callback, 'image/png');
+    };
+    img.onerror = function() {
+      // Fallback: return SVG as fallback
+      callback(null);
+    };
+    img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgData)));
+  }
+
   function enableDownloads(bar, svg) {
     var svgLink = bar.querySelector('[data-action=svg]');
     var pngLink = bar.querySelector('[data-action=png]');
@@ -37,43 +59,42 @@
 
     pngLink.onclick = function(e) {
       e.preventDefault();
-      var rect = svg.getBoundingClientRect();
-      var canvas = document.createElement('canvas');
-      canvas.width = rect.width * 2;
-      canvas.height = rect.height * 2;
-      var ctx = canvas.getContext('2d');
-      ctx.scale(2, 2);
-      var img = new Image();
-      var svgData = new XMLSerializer().serializeToString(svg.cloneNode(true));
-      img.onload = function() {
-        ctx.drawImage(img, 0, 0);
-        canvas.toBlob(function(blob) {
-          var url = URL.createObjectURL(blob);
-          var a = document.createElement('a');
-          a.href = url;
-          a.download = 'concept-map.png';
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-          URL.revokeObjectURL(url);
-        }, 'image/png');
-      };
-      img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgData)));
+      svgToPng(svg, function(blob) {
+        if (!blob) {
+          // Fallback: download as SVG instead and explain
+          alert('PNG export unavailable — downloading SVG instead. Open the SVG in a browser and save as PNG from there.');
+          svgLink.onclick(e);
+          return;
+        }
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = 'concept-map.png';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      });
     };
   }
 
   function loadMermaidAndRender(pre, bar, source, cdnIndex) {
+    // Guard: if an SVG already appeared (Material theme rendered), do nothing.
+    if (findSvg(bar)) return;
+
     cdnIndex = cdnIndex || 0;
-    if (cdnIndex >= CDNS.length) {
-      console.warn('mermaid-toolbar: all CDNs failed to load');
-      return;
-    }
+    if (cdnIndex >= CDNS.length) return;
+
     var s = document.createElement('script');
     s.src = CDNS[cdnIndex];
     s.onload = function() {
+      // Guard again: theme might have rendered while CDN was loading
+      if (findSvg(bar)) return;
       try {
         mermaid.initialize({ startOnLoad: false });
         mermaid.render('mmd-' + Date.now(), source).then(function(r) {
+          // Guard: someone else rendered in the meantime
+          if (findSvg(bar)) return;
           var wrapper = document.createElement('div');
           wrapper.innerHTML = r.svg;
           var svgEl = wrapper.firstElementChild;
@@ -83,15 +104,12 @@
             bar.parentNode.insertBefore(wrapper, bar);
           }
           enableDownloads(bar, svgEl);
-        }).catch(function(err) {
-          console.warn('mermaid-toolbar: render failed', err);
         });
       } catch (err) {
-        console.warn('mermaid-toolbar: init error', err);
+        console.warn('mermaid-toolbar: render error', err);
       }
     };
     s.onerror = function() {
-      console.warn('mermaid-toolbar: CDN ' + cdnIndex + ' failed, trying next');
       loadMermaidAndRender(pre, bar, source, cdnIndex + 1);
     };
     document.head.appendChild(s);
@@ -134,7 +152,7 @@
 
     pre.parentNode.insertBefore(bar, pre.nextSibling);
 
-    // Poll for theme-rendered SVG (Material may render asynchronously)
+    // Poll for theme-rendered SVG; fall back to our own renderer later.
     var attempts = 0;
     var timer = setInterval(function() {
       attempts++;
