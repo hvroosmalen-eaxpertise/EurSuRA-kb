@@ -2,93 +2,98 @@
 title: Concept Map
 content_type: model
 generated: true
-date_updated: 2026-06-08
+date_updated: 2026-06-15
 ---
 
 ```mermaid
 graph TD
 
-    %% ESG & Sustainability Reporting
-    ESG["ESG\n(Environmental, Social & Governance)"]
-    GRI["Global Reporting Initiative (GRI)\nVoluntary Framework"]
-    ESRS["European Sustainability Reporting Standards (ESRS)\nMandatory Standards"]
-    CSRD["Corporate Sustainability Reporting Directive (CSRD)\nEU Directive 2023"]
-    DMA["Double Materiality Assessment"]
-    DoubleMat["Double Materiality\n(Financial + Impact)"]
-    VSME["Voluntary Sustainability Reporting\nStandards for SMEs (VSME)"]
-    EFRAG["European Financial Reporting\nAdvisory Group (EFRAG)"]
-    ISSB["ISSB"]
-    SASB["SASB"]
-    SFDR["Sustainable Finance\nDisclosure Regulation"]
+    %% Core Sustainability Reporting Frameworks
+    CSRD["CSRD\n(Corporate Sustainability\nReporting Directive)"]
+    ESRS["ESRS\n(European Sustainability\nReporting Standards)"]
+    VSME["VSME\n(Voluntary SME Standard)"]
+    GRI["GRI\n(Global Reporting Initiative)"]
+    TCFD["TCFD\n(Task Force on Climate-Related\nFinancial Disclosures)"]
+    GHG["GHG Protocol\n(Scope 1/2/3)"]
+    EUTax["EU Taxonomy"]
+    SDGs["UN SDGs\n(2030 Agenda)"]
 
-    ESG -->|"assessed via"| GRI
-    ESG -->|"standardised under"| ESRS
-    CSRD -->|"underpins"| ESRS
-    CSRD -->|"requires"| DMA
+    %% Key Concepts
+    DMA["Double Materiality\nAssessment (DMA)"]
+    FinMat["Financial Materiality"]
+    ImpMat["Impact Materiality"]
+    ClimDisc["Climate Disclosure"]
+    Scope3["Scope 3 Emissions"]
+    SME["SMEs\n(Small & Medium Enterprises)"]
+    SupplyChain["Value Chain /\nSupply Chain"]
+    DueDiligence["Due Diligence\n(OECD 6-Step Framework)"]
+    AdverseImpact["Adverse Impacts\n(Human Rights / Environment)"]
+    Stakeholders["Affected Stakeholders"]
+    EFRAG["EFRAG"]
+    OECD["OECD Guidelines"]
+    UNGPs["UN Guiding Principles\non Business & Human Rights"]
+
+    %% SCI / AI / Digital
+    SCI["Software Carbon\nIntensity (SCI)"]
+    SCI_AI["SCI for AI\nSpecification"]
+    ISO21031["ISO/IEC 21031:2024"]
+    GreenSoftware["Green Software\nFoundation"]
+    AIParadigms["AI Paradigms\n(ML, Generative, Agentic)"]
+    CarbonEmissions["Carbon Emissions\nMeasurement"]
+    DigComp["DigComp 3.0\n(Digital Competence\nFramework)"]
+    JRC["Joint Research Centre\n(European Commission)"]
+    DigitalSkills["Digital Skills\nIndicator (DSI)"]
+
+    %% CSRD/ESRS relationships
+    CSRD -->|"mandates use of"| ESRS
+    CSRD -->|"indirectly pressures"| SME
     ESRS -->|"requires"| DMA
-    ESRS -->|"applies principle of"| DoubleMat
-    DMA -->|"based on"| DoubleMat
-    CSRD -->|"generates requests toward"| VSME
-    ESRS -->|"complemented by"| VSME
-    EFRAG -->|"develops"| ESRS
-    EFRAG -->|"develops"| VSME
-    GRI -->|"related to"| ISSB
-    GRI -->|"related to"| SASB
-    CSRD -->|"related to"| SFDR
+    DMA -->|"comprises"| FinMat
+    DMA -->|"comprises"| ImpMat
+    EFRAG -->|"developed"| VSME
+    VSME -->|"mirrors logic of"| ESRS
+    VSME -->|"designed for"| SME
+    SME -->|"use to respond to\nvalue chain requests"| VSME
+
+    %% Climate Disclosure
+    ClimDisc -->|"addressed by"| TCFD
+    ClimDisc -->|"addressed by"| ESRS
+    ClimDisc -->|"addressed by"| GHG
+    ClimDisc -->|"addressed by"| EUTax
+    TCFD -->|"four pillars underpin"| ESRS
+    GHG -->|"measures"| Scope3
+    Scope3 -->|"required from SMEs by"| SupplyChain
+    EUTax -->|"alignment data\nrequired from"| SME
+
+    %% Double Materiality
+    ImpMat -->|"mirrors impact focus of"| GRI
+    DMA -->|"distinguishes ESRS from\nsingle-materiality standards"| GRI
+
+    %% SDGs
+    SDGs -->|"mapped to"| ESRS
+    SDGs -->|"mapped to"| CSRD
+
+    %% Supply Chain / Value Chain
+    CSRD -->|"creates data demands\nthrough"| SupplyChain
+    SupplyChain -->|"exposes SMEs to"| AdverseImpact
 
     %% Due Diligence
-    DD["Due Diligence\n(Gepaste Zorgvuldigheid)"]
-    ICSR["International Corporate\nSocial Responsibility (ICSR)"]
-    OECD["OECD Guidelines for\nMultinational Enterprises"]
-    UNGPs["UN Guiding Principles on\nBusiness and Human Rights"]
-    NCP["Dutch National Contact Point (NCP)"]
-    SixStep["Six-Step Due Diligence Framework"]
-    S1["Step 1: Integrate CSR\ninto Policy & Management"]
-    S2["Step 2: Identify & Assess\nAdverse Impacts"]
-    CSRPolicy["CSR Policy"]
-    SupplyChain["Supply Chain / Value Chain"]
-    HumanRights["Human Rights & Labour Rights"]
-    Environment["Environment"]
+    DueDiligence -->|"operationalises"| OECD
+    DueDiligence -->|"operationalises"| UNGPs
+    DueDiligence -->|"identifies & mitigates"| AdverseImpact
+    AdverseImpact -->|"affects"| Stakeholders
+    AdverseImpact -->|"arises in"| SupplyChain
 
-    DD -->|"is core of"| ICSR
-    DD -->|"embedded in"| OECD
-    DD -->|"embedded in"| UNGPs
-    OECD -->|"implemented by"| NCP
-    NCP -->|"publishes"| SixStep
-    SixStep -->|"starts with"| S1
-    SixStep -->|"continues with"| S2
-    S1 -->|"produces"| CSRPolicy
-    S1 -->|"communicated to"| SupplyChain
-    S2 -->|"maps impacts on"| HumanRights
-    S2 -->|"maps impacts on"| Environment
-    DD -->|"covers"| SupplyChain
+    %% SCI / AI
+    GreenSoftware -->|"published"| SCI_AI
+    SCI_AI -->|"extends"| SCI
+    SCI -->|"codified as"| ISO21031
+    SCI_AI -->|"covers"| AIParadigms
+    SCI_AI -->|"measures"| CarbonEmissions
+    CarbonEmissions -->|"feeds into"| ClimDisc
 
     %% DigComp
-    DigComp["DigComp 3.0\nEuropean Digital Competence Framework"]
-    JRC["Joint Research Centre (JRC)\nEuropean Commission"]
-    DGEMPL["DG EMPL"]
-    DigComp30Def["Digital Competence\n(Knowledge, Skills, Attitudes)"]
-    CompAreas["Competence Areas"]
-    ProfLevels["Proficiency Levels"]
-    LearningOut["Learning Outcomes"]
-    DSI["Digital Skills Indicator (DSI)"]
-    DigDecade["Digital Decade Policy Programme"]
-    UnionSkills["Union of Skills"]
-    AI["Artificial Intelligence (AI)"]
-    Cybersecurity["Cybersecurity"]
-    Misinformation["Misinformation"]
-
-    JRC -->|"publishes"| DigComp
-    DGEMPL -->|"collaborates on"| DigComp
-    DigComp -->|"defines"| DigComp30Def
-    DigComp -->|"organised into"| CompAreas
-    DigComp -->|"includes"| ProfLevels
-    DigComp -->|"introduces"| LearningOut
-    DigComp -->|"underpins"| DSI
-    DSI -->|"measures skills within"| DigDecade
-    DigComp -->|"aligns with"| DigDecade
-    DigComp -->|"referenced in"| UnionSkills
-    DigComp -->|"incorporates updates on"| AI
-    DigComp -->|"incorporates updates on"| Cybersecurity
-    DigComp -->|"incorporates updates on"| Misinformation
+    JRC -->|"published"| DigComp
+    DigComp -->|"underpins"| DigitalSkills
+    DigComp -->|"addresses"| AIParadigms
 ```
