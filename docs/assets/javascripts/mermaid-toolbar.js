@@ -1,8 +1,12 @@
 (function() {
   'use strict';
 
-  // Add a toolbar after every Mermaid <pre>. When Mermaid.js later replaces
-  // the <pre> with an <svg>, the toolbar survives as the next sibling.
+  // Unicode-safe base64 encode for Mermaid source (which may contain
+  // em-dashes, smart quotes, etc. that btoa() cannot handle directly).
+  function base64(str) {
+    return btoa(unescape(encodeURIComponent(str)));
+  }
+
   document.querySelectorAll('pre.mermaid').forEach(function(pre) {
     var code = pre.querySelector('code');
     if (!code) return;
@@ -17,7 +21,7 @@
     editor.style.cssText = 'font-size:0.8em;margin-right:12px;';
     editor.onclick = function(e) {
       e.preventDefault();
-      window.open('https://mermaid.live/edit?base64=' + encodeURIComponent(btoa(source)), '_blank');
+      window.open('https://mermaid.live/edit?base64=' + base64(source), '_blank');
     };
     bar.appendChild(editor);
 
@@ -27,16 +31,17 @@
     svgBtn.style.cssText = 'font-size:0.8em;';
     svgBtn.onclick = function(e) {
       e.preventDefault();
-      // The <pre> is gone (replaced by <svg>), but our toolbar is the
-      // next sibling, so the previous sibling of the toolbar is the SVG.
       var svg = bar.previousElementSibling;
-      if (!svg || svg.tagName !== 'SVG') return;
+      if (!svg || svg.tagName !== 'SVG') {
+        alert('Diagram not yet rendered — please wait a moment and try again.');
+        return;
+      }
       var str = new XMLSerializer().serializeToString(svg.cloneNode(true));
       var blob = new Blob([str], {type: 'image/svg+xml'});
       var url = URL.createObjectURL(blob);
       var a = document.createElement('a');
       a.href = url;
-      a.download = 'diagram.svg';
+      a.download = 'concept-map.svg';
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
