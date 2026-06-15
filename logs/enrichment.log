@@ -52,3 +52,12 @@
 2026-06-15T14:17:41 [INFO] STYLE_APPLIED VSME Standard NL onofficiële vertaling met AI.pdf
 2026-06-15T14:17:41 [INFO] TAGGED VSME Standard NL onofficiële vertaling met AI.pdf → domain=None
 2026-06-15T14:18:37 [INFO] GLOSSARY_UPSERT 27 entries
+2026-06-15T15:50:12 [INFO] STYLE_APPLIED 6 ESG Reporting frameworks.pdf
+2026-06-15T15:50:12 [INFO] TAGGED 6 ESG Reporting frameworks.pdf → domain=None
+2026-06-15T15:50:57 [INFO] GLOSSARY_UPSERT 22 entries
+2026-06-15T15:51:40 [INFO] STYLE_APPLIED ESG Business Handbook.pdf
+2026-06-15T15:51:40 [INFO] TAGGED ESG Business Handbook.pdf → domain=None
+2026-06-15T15:52:29 [INFO] GLOSSARY_UPSERT 26 entries
+2026-06-15T15:53:25 [INFO] STYLE_APPLIED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+2026-06-15T15:53:25 [INFO] TAGGED Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf → domain=None
+2026-06-15T15:54:08 [INFO] GLOSSARY_UPSERT 20 entries
