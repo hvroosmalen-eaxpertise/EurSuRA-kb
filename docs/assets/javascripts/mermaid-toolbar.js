@@ -6,42 +6,32 @@
     'https://unpkg.com/mermaid@11/dist/mermaid.min.js',
   ];
 
-  function svgToPng(svg, callback) {
-    var rect = svg.getBoundingClientRect();
-    var canvas = document.createElement('canvas');
-    canvas.width = rect.width * 2;
-    canvas.height = rect.height * 2;
-    var ctx = canvas.getContext('2d');
-    ctx.scale(2, 2);
-    var img = new Image();
-    var svgData = new XMLSerializer().serializeToString(svg.cloneNode(true));
-    svgData = svgData.replace(/<foreignObject[^>]*>[\s\S]*?<\/foreignObject>/gi, '');
-    img.onload = function() {
-      ctx.drawImage(img, 0, 0);
-      canvas.toBlob(callback, 'image/png');
-    };
-    img.onerror = function() { callback(null); };
-    img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgData)));
+  function svgUrl(svg) {
+    var str = new XMLSerializer().serializeToString(svg.cloneNode(true));
+    var blob = new Blob([str], {type: 'image/svg+xml'});
+    return URL.createObjectURL(blob);
   }
 
   function enableDownloads(bar, svg) {
-    var svgLink = bar.querySelector('[data-action=svg]');
-    if (!svgLink) return;
-    svgLink.style.cssText = 'font-size:0.8em;';
-
-    svgLink.onclick = function(e) {
-      e.preventDefault();
-      var str = new XMLSerializer().serializeToString(svg.cloneNode(true));
-      var blob = new Blob([str], {type: 'image/svg+xml'});
-      var url = URL.createObjectURL(blob);
-      var a = document.createElement('a');
-      a.href = url;
-      a.download = 'concept-map.svg';
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    };
+    [['svg', 'Download SVG'], ['open', 'Open SVG']].forEach(function(pair, idx) {
+      var link = bar.querySelector('[data-action=' + pair[0] + ']');
+      if (!link) return;
+      link.style.cssText = 'font-size:0.8em;' + (idx === 0 ? 'margin-right:14px;' : '') + 'color:inherit;cursor:pointer;';
+      link.onclick = function(e) {
+        e.preventDefault();
+        var url = svgUrl(svg);
+        if (pair[0] === 'open') {
+          window.open(url, '_blank');
+        } else {
+          var a = document.createElement('a');
+          a.href = url;
+          a.download = 'concept-map.svg';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        }
+      };
+    });
   }
 
   function renderSelf(pre, bar, source, cdnIndex) {
@@ -100,12 +90,14 @@
     };
     bar.appendChild(copyBtn);
 
-    var svgLink = document.createElement('a');
-    svgLink.href = '#';
-    svgLink.textContent = 'Download SVG';
-    svgLink.setAttribute('data-action', 'svg');
-    svgLink.style.cssText = 'font-size:0.8em;color:#888;cursor:default;';
-    bar.appendChild(svgLink);
+    [['svg', 'Download SVG'], ['open', 'Open SVG']].forEach(function(pair, idx) {
+      var link = document.createElement('a');
+      link.href = '#';
+      link.textContent = pair[1];
+      link.setAttribute('data-action', pair[0]);
+      link.style.cssText = 'font-size:0.8em;' + (idx === 0 ? 'margin-right:14px;' : '') + 'color:#888;cursor:default;';
+      bar.appendChild(link);
+    });
 
     pre.parentNode.insertBefore(bar, pre.nextSibling);
 
