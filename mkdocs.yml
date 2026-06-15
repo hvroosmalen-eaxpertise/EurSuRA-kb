@@ -29,6 +29,8 @@ plugins:
     enable_creation_date: false
 hooks:
 - hooks.py
+extra_javascript:
+- assets/javascripts/mermaid-toolbar.js
 markdown_extensions:
 - tables
 - toc:
