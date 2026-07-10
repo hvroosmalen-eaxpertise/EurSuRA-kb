@@ -13,8 +13,8 @@ enrich:
     ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192, temperature: 0.1 }
   tasks:
     tagger:   ollama
-    rewrite:  claude    # local qwen3:8b drifts off-topic on real reports (issue #14); revisit
-    merge:    claude
+    rewrite:  ollama    # viable on good input; readability guard blocks garbage upfront (#14)
+    merge:    claude    # merge-not-overwrite stays on Claude — the risky step
     glossary: ollama
 
 lint:
