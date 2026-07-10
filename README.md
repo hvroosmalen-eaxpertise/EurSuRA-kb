@@ -88,21 +88,35 @@ All content lives in `docs/`. Each page is a Markdown file with a YAML frontmatt
 
 ### Ingest a PDF source document
 
-Drop the PDF into `pipeline/inbox/` and run the ingestion script from the shared
-framework (see `framework_path` in `config/kb.yaml`), pointing it at this KB:
+Drop the PDF into `pipeline/inbox/` and run the everyday pipeline loop from the
+shared framework (see `framework_path` in `config/kb.yaml`), pointing it at this KB:
 
 ```bash
-python ../kb-framework/pipeline/ingest.py --kb .
+python ../kb-framework/pipeline/orchestrate.py --kb .
 ```
 
 The pipeline calls the Claude API for enrichment, so copy `.env.example` to
 `.env` and set `ANTHROPIC_API_KEY` first.
 
-On success the pipeline runs the three-layer flow described below, regenerates
-the catalog, runs a warn-only lint, then builds the site and **commits locally**
-(it does not push — you review the merged and synthesised diffs, then `git push`
-yourself). On failure the PDF moves to `pipeline/failed/` and the error is
-recorded in `logs/ingestion.log`.
+`orchestrate.py` ingests every source in `pipeline/inbox/` (or a single `--file`),
+runs the three-layer flow described below, regenerates the catalog, then **finalises**:
+the **lint gate** and the **strict build** are hard gates, so a failure aborts before
+anything is committed. On a clean run it commits **and pushes** by default. On failure
+the offending PDF moves to `pipeline/failed/` and the error is recorded in
+`logs/ingestion.log`. Useful flags:
+
+| Flag | Effect |
+|------|--------|
+| `--no-push` | Commit locally but hold for review (no push) |
+| `--no-commit` | Regenerate and gate, but leave the working tree uncommitted |
+| `--deep` | Add the LLM contradiction check to the lint gate |
+| `--no-lint` / `--no-strict` | Skip the respective gate |
+
+> **Review-first alternatives.** To enrich without committing or pushing, run the
+> ingest step alone (`python ../kb-framework/pipeline/ingest.py --kb .`) — it commits
+> locally but never pushes. To finalise **without** ingesting anything new (e.g. after
+> hand-edits), run the finalise stage directly:
+> `python ../kb-framework/pipeline/finalize.py --kb . --no-push`.
 
 > **Image-only / scanned PDFs.** Extraction needs a real text layer. A scanned
 > PDF can yield near-zero characters, in which case the enrichment step will
