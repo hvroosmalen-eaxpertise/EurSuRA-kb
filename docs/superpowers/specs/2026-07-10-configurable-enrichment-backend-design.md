@@ -3,6 +3,7 @@ title: Configurable per-task enrichment backend
 issue: 14
 date: 2026-07-10
 status: approved
+orphan_ok: true
 ---
 
 # Configurable per-task enrichment backend
@@ -28,7 +29,7 @@ prose and the 30b model does not fit.
 
 The sub-tasks do not degrade equally on a local 8b model. Tagger, rewrite, and
 glossary are forgiving; **domain-merge** (merge-not-overwrite reasoning over an
-existing page, including `[[wikilink]]` integrity) is the risky one and stays
+existing page, including wikilink integrity) is the risky one and stays
 on Claude.
 
 ## Scope
