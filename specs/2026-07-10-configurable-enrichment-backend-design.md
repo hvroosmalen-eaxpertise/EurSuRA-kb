@@ -3,7 +3,6 @@ title: Configurable per-task enrichment backend
 issue: 14
 date: 2026-07-10
 status: approved
-orphan_ok: true
 ---
 
 # Configurable per-task enrichment backend
