@@ -4,6 +4,19 @@ framework_path: ../kb-framework
 default_source_body: EFRAG
 mkdocs_config: mkdocs.yml
 
+# Per-task enrichment backend. Tagger/rewrite/glossary run locally on Ollama
+# (free); the risky merge-not-overwrite step stays on Claude. A KB with no
+# `enrich:` block defaults to all-Claude, so this is opt-in. See issue #14.
+enrich:
+  backends:
+    claude: { model: claude-sonnet-4-6 }
+    ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192, temperature: 0.1 }
+  tasks:
+    tagger:   ollama
+    rewrite:  claude    # local qwen3:8b drifts off-topic on real reports (issue #14); revisit
+    merge:    claude
+    glossary: ollama
+
 lint:
   hard_fail: [ORPHAN, STALE]      # kinds that fail CI; XREF and CONTRADICTION are advisory
   ignore_terms:                   # glossary terms too common to require wikilinking
