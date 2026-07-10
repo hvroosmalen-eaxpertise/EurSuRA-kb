@@ -95,8 +95,10 @@ shared framework (see `framework_path` in `config/kb.yaml`), pointing it at this
 python ../kb-framework/pipeline/orchestrate.py --kb .
 ```
 
-The pipeline calls the Claude API for enrichment, so copy `.env.example` to
-`.env` and set `ANTHROPIC_API_KEY` first.
+This KB runs most enrichment locally on Ollama (`qwen3:8b`) and keeps only the
+domain **merge** on the Claude API — see the `enrich:` block in `config/kb.yaml`.
+So you need both a running Ollama daemon *and* an `ANTHROPIC_API_KEY`: copy
+`.env.example` to `.env` and set the key first.
 
 `orchestrate.py` ingests every source in `pipeline/inbox/` (or a single `--file`),
 runs the three-layer flow described below, regenerates the catalog, then **finalises**:
@@ -118,13 +120,14 @@ the offending PDF moves to `pipeline/failed/` and the error is recorded in
 > hand-edits), run the finalise stage directly:
 > `python ../kb-framework/pipeline/finalize.py --kb . --no-push`.
 
-> **Image-only / scanned PDFs.** Extraction needs a real text layer. A scanned
-> PDF can yield near-zero characters, in which case the enrichment step will
-> *fabricate* a plausible-looking page from the filename rather than fail. After
-> ingesting, check the `EXTRACTED <n> chars` line in `logs/ingestion.log`; if `n`
-> is suspiciously low, OCR the source to real text before relying on the page. By
-> convention such sources are held in `pipeline/needs-ocr/` (gitignored) so they
-> are not silently re-ingested.
+> **Unreadable PDFs.** Extraction needs a real text layer. Two kinds fail it: a
+> scanned/image-only PDF (near-zero characters) and a broken-font PDF (high char
+> count but mojibake, from a broken ToUnicode map — no text extractor can recover
+> it). Both would otherwise be *hallucinated* over. A readability guard now catches
+> both right after extraction and fails the source loud to `pipeline/failed/` with
+> a `needs OCR` note in `logs/ingestion.log`, so nothing garbled reaches the KB.
+> OCR the source to real text (by convention, stage such sources in
+> `pipeline/needs-ocr/`, gitignored) before relying on a page.
 
 ## How ingestion builds knowledge (the three layers)
 
