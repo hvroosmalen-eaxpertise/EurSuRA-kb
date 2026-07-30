@@ -10,7 +10,7 @@ mkdocs_config: mkdocs.yml
 enrich:
   backends:
     claude: { model: claude-sonnet-4-6 }
-    ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192, temperature: 0.1 }
+    ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192, temperature: 0.1, timeout: 1200 }
   tasks:
     tagger:   ollama
     rewrite:  ollama    # viable on good input; readability guard blocks garbage upfront (#14)

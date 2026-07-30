@@ -74,14 +74,39 @@ DEFAULT_ENRICH = {
 }
 ```
 
+### Configurable timeout (added 2026-07-29)
+
+The Ollama backend HTTP request timeout was **600s** (hardcoded). On machines
+without GPU acceleration, `qwen3:8b` can take >10 min to respond — especially
+for large PDFs (e.g. 1.5M chars extracted). The timeout is now:
+
+- Configurable per-KB via `enrich.backends.ollama.timeout` in `config/kb.yaml`
+- Default **1200s** (20 min) in code
+- Set to **1200s** (20 min) for EurSuRA-kb
+
+PDFs exceeding 500K extracted characters produce a `LARGE_SOURCE` warning at
+ingestion time so operators know why processing is slow.
+
+**Rationale:** Hardcoding 600s made large-PDF ingestion reliably fail on the
+available hardware. Making it configurable avoids code changes when the
+right value depends on hardware, model size, and document length.
+
+**Calibration (2026-07-30):** benchmarked a near-ceiling enrichment call
+(input at ~70% of `num_ctx=8192`, ~22K chars) against `qwen3:8b` on the GPU:
+cold 145s, warm 166s — model load is negligible (5.2GB fits the 6GB VRAM),
+generation dominates. The old 600s timeouts were pre-GPU-fix (iGPU, ~3–4×
+slower). 1200s = ~7× the measured worst case and 2× the historical 600s
+failure point: generous enough never to false-fail a legitimate call, bounded
+enough to fail a genuinely hung request in 20 min.
+
 ## Components (in `ingest.py`)
 
 1. `load_enrich_config(kb)` — read the `enrich:` block, deep-merge over
    `DEFAULT_ENRICH`. Missing block/keys resolve to `claude`.
-2. `call_ollama(system_prompt, user_content, model, host, num_ctx)` — POST
-   `{host}/api/chat` with `stream=false` and `options.num_ctx`; return
-   `message.content`. Unreachable host, non-200, or model-not-found →
-   `RuntimeError`.
+2. `call_ollama(system_prompt, user_content, model, host, num_ctx, timeout, temperature)` — POST
+   `{host}/api/chat` with `stream=false`, `options.num_ctx`, and configurable HTTP
+   `timeout` (default 1200s); return `message.content`. Unreachable host, non-200,
+   or model-not-found → `RuntimeError`.
 3. `enrich_call(task, system_prompt, user_content, cfg, label)` — dispatcher:
    `tasks[task]` → backend name → model, routes to `call_claude` or
    `call_ollama`. Unknown backend name → `RuntimeError`.
