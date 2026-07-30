@@ -2,119 +2,117 @@
 title: Concept Map
 content_type: model
 generated: true
-date_updated: 2026-06-15
+date_updated: 2026-07-29
 ---
 
 ```mermaid
 graph TD
 
     %% Core Knowledge Base
-    KB["EurSuRA Knowledge Base"]:::kb
-    KB -->|"covers"| SME["Small & Medium Enterprises (SMEs)"]
-    KB -->|"organises"| Standards["EU Standards"]
-    KB -->|"organises"| Frameworks["Reporting Frameworks"]
-    KB -->|"produces"| Insights["Cross-Domain Insights"]
-    KB -->|"maintains"| Glossary["Glossary"]
+    KB["EurSuRA Knowledge Base\n(EU Sustainability Reporting for SMEs)"]
 
     %% Standards
-    Standards --> CSRD["CSRD\n(Corporate Sustainability\nReporting Directive)"]
-    Standards --> ESRS["ESRS\n(European Sustainability\nReporting Standards)"]
-    Standards --> VSME["VSME\n(Voluntary SME Standard)"]
-    Standards --> EUT["EU Taxonomy"]
-    Standards --> GHG["GHG Protocol"]
+    CSRD["CSRD\n(Corporate Sustainability Reporting Directive)"]
+    ESRS["ESRS\n(European Sustainability Reporting Standards)"]
+    VSME["VSME\n(Voluntary SME Standard)"]
+    EUTAX["EU Taxonomy Regulation"]
+    GHG["GHG Protocol"]
 
     %% Frameworks
-    Frameworks --> GRI["GRI\n(Global Reporting Initiative)"]
-    Frameworks --> TCFD["TCFD"]
-    Frameworks --> SDGs["UN SDGs"]
+    GRI["GRI\n(Global Reporting Initiative)"]
+    TCFD["TCFD"]
+    SDGs["UN SDGs\n(2030 Agenda)"]
 
-    %% CSRD → ESRS relationship
-    CSRD -->|"mandates"| ESRS
-    CSRD -->|"obliges"| LargeCompanies["Large & Listed EU Companies"]
-    CSRD -->|"excludes directly, pressures indirectly"| SME
+    %% Key Concepts
+    DMA["Double Materiality Assessment"]
+    FM["Financial Materiality"]
+    IM["Impact Materiality"]
+    DD["Due Diligence\n(OECD 6-Step Framework)"]
+    AI_SCI["SCI for AI\n(Software Carbon Intensity)"]
+    DigComp["DigComp 3.0\n(Digital Competence Framework)"]
+    SME["SMEs\n(Small & Medium Enterprises)"]
+    VC["Value Chain"]
+    AI["Adverse Impacts"]
+    SC1["Scope 1/2/3 Emissions"]
+    EFRAG["EFRAG"]
 
-    %% VSME relationship
-    EFRAG["EFRAG"] -->|"published"| VSME
-    VSME -->|"proportionate alternative to"| ESRS
-    VSME -->|"voluntary for"| SME
-    VSME -->|"maps to"| ESRS
+    %% Insights / Synthesis
+    CDI["Insight: Climate Disclosure\nAcross Frameworks"]
+    DMI["Insight: Double Materiality\nAcross Regimes"]
+    SMEP["Insight: SME Reporting Pathway"]
 
-    %% Materiality
-    ESRS -->|"requires"| DMA["Double Materiality\nAssessment (DMA)"]
-    DMA -->|"includes"| FM["Financial Materiality\n(sustainability → enterprise)"]
-    DMA -->|"includes"| IM["Impact Materiality\n(enterprise → society/environment)"]
-    VSME -->|"simplified version of"| DMA
-    TCFD -->|"applies"| SingleMat["Single Materiality\n(financial focus only)"]
-    GRI -->|"focuses on"| IM
+    %% Knowledge Base contains everything
+    KB -->|"covers standards"| CSRD
+    KB -->|"covers standards"| ESRS
+    KB -->|"covers standards"| VSME
+    KB -->|"covers standards"| EUTAX
+    KB -->|"covers standards"| GHG
+    KB -->|"covers frameworks"| GRI
+    KB -->|"covers frameworks"| TCFD
+    KB -->|"covers frameworks"| SDGs
+    KB -->|"synthesises into"| CDI
+    KB -->|"synthesises into"| DMI
+    KB -->|"synthesises into"| SMEP
+
+    %% CSRD → ESRS
+    CSRD -->|"mandates use of"| ESRS
+    CSRD -->|"applies to large/listed"| SME
+    CSRD -->|"requires reporting on"| VC
+
+    %% ESRS → concepts
+    ESRS -->|"requires"| DMA
+    ESRS -->|"operationalises"| FM
+    ESRS -->|"operationalises"| IM
+    DMA -->|"comprises"| FM
+    DMA -->|"comprises"| IM
+
+    %% VSME
+    EFRAG -->|"published"| VSME
+    VSME -->|"proportionate counterpart to"| ESRS
+    VSME -->|"designed for"| SME
+    SME -->|"faces supply-chain pressure from"| CSRD
 
     %% GHG Protocol
-    GHG -->|"defines"| Scope1["Scope 1\n(direct emissions)"]
-    GHG -->|"defines"| Scope2["Scope 2\n(purchased energy)"]
-    GHG -->|"defines"| Scope3["Scope 3\n(value-chain emissions)"]
-    Scope3 -->|"relevant for SMEs via"| SupplyChain["Supply Chain\nTransparency"]
-    SupplyChain -->|"drives demand on"| SME
-
-    %% EU Taxonomy
-    EUT -->|"classifies"| SustainableActivities["Environmentally Sustainable\nEconomic Activities"]
-    EUT -->|"part of"| SFDR["Sustainable Finance\nDisclosure Regulation (SFDR)"]
+    GHG -->|"measures"| SC1
+    SC1 -->|"underpins emissions in"| ESRS
+    SC1 -->|"underpins emissions in"| TCFD
 
     %% TCFD
-    TCFD -->|"organises around"| Governance["Governance"]
-    TCFD -->|"organises around"| Strategy["Strategy"]
-    TCFD -->|"organises around"| RiskMgmt["Risk Management"]
-    TCFD -->|"organises around"| MetricsTargets["Metrics & Targets"]
-    TCFD -->|"foundational basis for"| ISSB["ISSB Standards"]
+    TCFD -->|"focuses on"| FM
+    TCFD -->|"four pillars: Governance, Strategy,\nRisk Mgmt, Metrics & Targets"| CDI
 
     %% GRI
-    GRI -->|"guides"| ImpactDisclosure["Impact Disclosure"]
-    GRI -->|"serves"| MultiStakeholder["Multi-Stakeholder\nAccountability"]
-    GRI -->|"interoperable with"| ESRS
+    GRI -->|"focuses primarily on"| IM
+    GRI -->|"voluntary, multi-stakeholder"| DMI
+
+    %% EU Taxonomy
+    EUTAX -->|"classifies sustainable activities\nrelevant to"| SME
+    EUTAX -->|"feeds into"| CDI
 
     %% Due Diligence
-    DueDiligence["Due Diligence\n(OECD Six-Step Framework)"]
-    OECDGuidelines["OECD Guidelines for\nMultinational Enterprises"] -->|"embeds"| DueDiligence
-    UNGPs["UN Guiding Principles\non Business & Human Rights"] -->|"complements"| DueDiligence
-    DueDiligence -->|"identifies & mitigates"| AdverseImpacts["Adverse Impacts\n(human rights, environment)"]
-    DueDiligence -->|"spans"| ValueChain["Value Chain"]
-    ValueChain -->|"includes"| SME
+    DD -->|"identifies & mitigates"| AI
+    DD -->|"covers"| VC
+    AI -->|"arise from"| VC
 
     %% SCI for AI
-    SCI["Software Carbon Intensity (SCI)\nISO/IEC 21031:2024"] -->|"extended by"| SCIforAI["SCI for AI Specification"]
-    SCIforAI -->|"published by"| GSF["Green Software Foundation"]
-    SCIforAI -->|"measures"| CarbonEmissionsAI["Carbon Emissions\nof AI Systems"]
-    SCIforAI -->|"covers lifecycle"| AILifecycle["AI Lifecycle\n(training → retirement)"]
+    AI_SCI -->|"extends SCI to"| SC1
+    AI_SCI -->|"measures carbon intensity of"| SC1
 
     %% DigComp
-    DigComp["DigComp 3.0\n(Digital Competence Framework)"]
-    JRC["EU Joint Research Centre (JRC)"] -->|"published"| DigComp
-    DigComp -->|"describes"| DigitalCompetence["Digital Competence\n(knowledge, skills, attitudes)"]
-    DigComp -->|"underpins"| DSI["Digital Skills Indicator (DSI)"]
-    DigComp -->|"aligns with"| DigitalDecade["Digital Decade\nPolicy Programme"]
+    DigComp -->|"published by"| KB
 
-    %% Insights linking back
-    Insights --> ClimateInsight["Climate Disclosure\nAcross Frameworks"]
-    Insights --> MatInsight["Double Materiality\nAcross Regimes"]
-    Insights --> SMEInsight["The SME Reporting Pathway"]
-    ClimateInsight -->|"synthesises"| ESRS
-    ClimateInsight -->|"synthesises"| TCFD
-    ClimateInsight -->|"synthesises"| GHG
-    ClimateInsight -->|"synthesises"| EUT
-    MatInsight -->|"synthesises"| CSRD
-    MatInsight -->|"synthesises"| GRI
-    SMEInsight -->|"synthesises"| VSME
-    SMEInsight -->|"synthesises"| CSRD
+    %% SDGs
+    SDGs -->|"mapped to"| CSRD
+    SDGs -->|"mapped to"| ESRS
 
-    %% Styles
-    classDef kb fill:#4a90d9,color:#fff,stroke:#2c6fad
-    classDef standard fill:#2ecc71,color:#fff,stroke:#27ae60
-    classDef framework fill:#9b59b6,color:#fff,stroke:#7d3c98
-    classDef concept fill:#f39c12,color:#fff,stroke:#d68910
-    classDef insight fill:#1abc9c,color:#fff,stroke:#17a589
-    classDef report fill:#e74c3c,color:#fff,stroke:#c0392b
-
-    class Standards,CSRD,ESRS,VSME,EUT,GHG standard
-    class Frameworks,GRI,TCFD,SDGs framework
-    class DMA,FM,IM,SingleMat,DueDiligence,AdverseImpacts,ValueChain,SupplyChain,SustainableActivities concept
-    class Insights,ClimateInsight,MatInsight,SMEInsight insight
-    class SCI,SCIforAI,DigComp,CarbonEmissionsAI report
+    %% Insight connections
+    CDI -->|"compares"| ESRS
+    CDI -->|"compares"| TCFD
+    CDI -->|"compares"| GHG
+    CDI -->|"compares"| EUTAX
+    DMI -->|"compares"| CSRD
+    DMI -->|"compares"| GRI
+    SMEP -->|"guides"| SME
+    SMEP -->|"references"| VSME
+    SMEP -->|"references"| CSRD
 ```

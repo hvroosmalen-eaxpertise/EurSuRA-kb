@@ -127,3 +127,41 @@
 2026-06-15T15:54:08 [INFO] DONE Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf → webinar-vsme---marlou-duchateau-en-esther-roelofsen.md
 2026-06-15T16:01:49 [INFO] FINALIZE_RECONCILE 10 external links recorded
 2026-06-15T16:02:17 [INFO] FINALIZE_COMMIT ingest: pipeline run 2026-06-15 16:02
+2026-07-29T15:25:48 [INFO] START _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf
+2026-07-29T15:26:08 [INFO] EXTRACTED 1524141 chars from _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf
+2026-07-29T15:27:45 [INFO] START _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf
+2026-07-29T15:29:01 [INFO] EXTRACTED 1524141 chars from _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf
+2026-07-29T15:39:02 [ERROR] FAILED _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf: timed out
+2026-07-29T15:39:02 [INFO] START Corporate_Sustainability_Management_Towa.pdf
+2026-07-29T15:39:04 [INFO] EXTRACTED 66618 chars from Corporate_Sustainability_Management_Towa.pdf
+2026-07-29T15:39:04 [ERROR] FAILED Corporate_Sustainability_Management_Towa.pdf: unreadable extraction from Corporate_Sustainability_Management_Towa.pdf (66618 chars, likely a broken font encoding or image-only PDF) — needs OCR
+2026-07-29T15:39:04 [INFO] START EFRAG Final Assessment Report web.pdf
+2026-07-29T15:39:24 [INFO] EXTRACTED 221264 chars from EFRAG Final Assessment Report web.pdf
+2026-07-29T15:39:52 [INFO] WRITTEN docs\reports\2026\_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md
+2026-07-29T15:49:52 [INFO] START Corporate_Sustainability_Management_Towa.pdf
+2026-07-29T15:49:52 [INFO] START EFRAG Final Assessment Report web.pdf
+2026-07-29T15:50:02 [INFO] EXTRACTED 221264 chars from EFRAG Final Assessment Report web.pdf
+2026-07-29T15:50:29 [INFO] WRITTEN docs\reports\2026\efrag-final-assessment-report-web.md
+2026-07-29T15:55:18 [INFO] DONE EFRAG Final Assessment Report web.pdf → efrag-final-assessment-report-web.md
+2026-07-29T15:55:18 [INFO] START Strategic Sustainability Communication.pdf
+2026-07-29T15:55:20 [INFO] EXTRACTED 76787 chars from Strategic Sustainability Communication.pdf
+2026-07-29T15:55:51 [INFO] WRITTEN docs\reports\2026\efrag-final-assessment-report-web.md
+2026-07-29T16:03:00 [INFO] START Strategic Sustainability Communication.pdf
+2026-07-29T16:03:02 [INFO] EXTRACTED 76787 chars from Strategic Sustainability Communication.pdf
+2026-07-29T16:03:49 [INFO] WRITTEN docs\reports\2026\strategic-sustainability-communication.md
+2026-07-29T16:12:07 [INFO] DONE Strategic Sustainability Communication.pdf → strategic-sustainability-communication.md
+2026-07-29T16:12:07 [INFO] START Strategic_Management_for_Sustainability.pdf
+2026-07-29T16:12:08 [INFO] EXTRACTED 97500 chars from Strategic_Management_for_Sustainability.pdf
+2026-07-29T16:13:00 [INFO] WRITTEN docs\reports\2026\strategic-sustainability-communication.md
+2026-07-29T16:23:00 [INFO] START Strategic_Management_for_Sustainability.pdf
+2026-07-29T16:23:02 [INFO] EXTRACTED 97500 chars from Strategic_Management_for_Sustainability.pdf
+2026-07-29T16:23:55 [INFO] WRITTEN docs\reports\2026\strategic_management_for_sustainability.md
+2026-07-29T16:32:20 [INFO] DONE Strategic_Management_for_Sustainability.pdf → strategic_management_for_sustainability.md
+2026-07-29T16:32:21 [INFO] START VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
+2026-07-29T16:32:25 [INFO] EXTRACTED 75894 chars from VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
+2026-07-29T16:33:16 [INFO] WRITTEN docs\reports\2026\strategic_management_for_sustainability.md
+2026-07-29T16:41:35 [INFO] START VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
+2026-07-29T16:41:38 [INFO] EXTRACTED 75894 chars from VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
+2026-07-29T16:42:34 [INFO] WRITTEN docs\reports\2026\vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md
+2026-07-29T16:50:18 [INFO] DONE VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf → vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md
+2026-07-29T16:51:18 [INFO] WRITTEN docs\reports\2026\vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md

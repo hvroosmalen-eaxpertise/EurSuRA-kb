@@ -2,121 +2,134 @@
 title: Ontology
 content_type: model
 generated: true
-date_updated: 2026-06-15
+date_updated: 2026-07-29
 ---
 
 # Ontology: EU Sustainability Reporting Knowledge Base
 
-- **KnowledgeArtifact** (any structured document or resource in the knowledge base)
-  - **Standard** (a normative or voluntary ruleset for sustainability reporting)
-    - **MandatoryStandard** (legally binding reporting standard)
-      - CSRD — Corporate Sustainability Reporting Directive (EU regulatory instrument mandating sustainability reporting for large and listed companies from January 2024)
-        - Instance: CSRD (standards/csrd/index.md)
-      - ESRS — European Sustainability Reporting Standards (operational standards published under CSRD in 2023, mandatory for large/listed EU companies)
-        - Instance: ESRS (standards/esrs/index.md)
-      - EU Taxonomy Regulation (classification system for environmentally sustainable economic activities; core pillar of EU sustainable finance architecture)
-        - Instance: EU Taxonomy (standards/eu-taxonomy/index.md)
-    - **VoluntaryStandard** (standard with no legal mandate, adopted on an opt-in basis)
-      - VSME — Voluntary Sustainability Reporting Standard for SMEs (proportionate counterpart to ESRS, published by EFRAG in 2024, organised into basic and extended modules)
-        - Instance: VSME (standards/vsme/index.md)
-      - GHG Protocol (methodology for measuring and categorising corporate GHG emissions across Scope 1, Scope 2, and Scope 3)
-        - Instance: GHG Protocol (standards/ghg-protocol/index.md)
-      - SCI — Software Carbon Intensity Specification (ISO/IEC 21031:2024; methodology for quantifying operational carbon intensity of software systems)
-        - **SCI for AI Specification** (extension of SCI to AI systems, covering lifecycle stages from inception to end of life, published by Green Software Foundation)
-          - Instance: SCI for AI Specification (reports/2026/green-software-foundation--sci-for-ai-specification.md)
+- **SustainabilityReportingEntity** (any organisation subject to or engaging with sustainability reporting obligations)
+  - **LargeOrListedCompany** (EU company mandated under CSRD from January 2024)
+    - Instance examples: CSRD-obligated EU enterprises, listed firms
+  - **SmallAndMediumEnterprise (SME)** (organisation not directly captured by CSRD but facing indirect supply-chain pressure)
+    - Instance examples: Bordvol (fictionalised tableware/crockery retailer), SME raw-material suppliers, semi-finished-goods producers
+  - **MultinationalEnterprise** (enterprise operating across borders, subject to OECD Guidelines)
+    - Instance examples: enterprises covered by Dutch NCP guidance
 
-  - **Framework** (a guidance structure for reporting or responsible conduct, not a legally binding standard)
-    - **DisclosureFramework** (organises how information is reported to stakeholders)
-      - GRI — Global Reporting Initiative (most widely adopted sustainability reporting framework; first published 1997; primary orientation is impact disclosure for multi-stakeholder accountability)
-        - Instance: GRI (frameworks/gri/index.md)
-      - TCFD — Task Force on Climate-Related Financial Disclosures (launched 2017; organises climate-related disclosures around Governance, Strategy, Risk Management, and Metrics and Targets; single-materiality lens)
-        - Instance: TCFD (frameworks/tcfd/index.md)
-      - ISSB Standards (built on TCFD as foundational basis; not further elaborated in source articles)
-    - **DevelopmentFramework** (organises goals or responsible conduct across sectors)
-      - UN SDGs — United Nations Sustainable Development Goals (seventeen goals established under the 2030 Agenda for Sustainable Development, adopted by all UN member states in 2015)
-        - Instance: UN SDGs (frameworks/un-sdgs/index.md)
-      - OECD Guidelines for Multinational Enterprises (government-backed recommendations for responsible business conduct; last revised 2011; areas include human rights, employment, environment, anti-corruption)
-        - **OECD Six-Step Due Diligence Framework** (operationalises due diligence as six sequential and iterative steps)
-          - Step 1: Integrate CSR into Policy and Management Systems
-          - Step 2: Identify and Assess Actual and Potential Adverse Impacts
-          - Step 3: Cease, Prevent, or Mitigate Adverse Impacts (implied by framework structure)
-          - Step 4: Track Implementation and Results (implied by framework structure)
-          - Step 5: Communicate (implied by framework structure)
-          - Step 6: Remediate (implied by framework structure)
-          - Instance: Due Diligence in 6 Stappen (reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
-      - UNGPs — United Nations Guiding Principles on Business and Human Rights (endorsed by UN Human Rights Council in 2011; articulates duties of states and responsibilities of businesses regarding human rights)
-    - **DigitalCompetenceFramework** (describes knowledge, skills, and attitudes for digital competence)
-      - DigComp 3.0 — European Digital Competence Framework v3.0 (fifth edition, published 2025 by European Commission JRC; technology-neutral; includes competence areas, proficiency levels, and learning outcomes)
-        - Instance: DigComp 3.0 (reports/2026/jrc144121_01.md)
+---
 
-  - **ReportingConcept** (an analytical principle or method used within standards and frameworks)
-    - **MaterialityAssessment** (process of determining which sustainability topics are significant enough to disclose)
-      - **DoubleMaterialityAssessment** (evaluates both financial materiality and impact materiality; mandatory under CSRD/ESRS)
-        - **FinancialMateriality** (sustainability factors affecting the organisation's financial position, performance, and prospects)
-        - **ImpactMateriality** (the organisation's own effects on people and the environment)
-      - **SimplifiedMaterialityAssessment** (scaled-down version of the DMA, used under VSME for smaller organisations)
-      - **SingleMaterialityAssessment** (assesses only how sustainability risks affect the enterprise financially; used by TCFD)
-    - **EmissionsAccounting** (systematic measurement and categorisation of GHG emissions)
-      - Scope 1 Emissions (direct emissions from own operations)
-      - Scope 2 Emissions (indirect emissions from purchased energy)
-      - Scope 3 Emissions (value-chain emissions, upstream and downstream)
-      - **SoftwareCarbonIntensity** (carbon emissions of a software system normalised against a chosen functional unit)
-        - **FunctionalUnit** (the unit against which SCI emissions are normalised; defined per AI paradigm or application)
-        - **CarbonAwareness** (using electricity more intelligently based on carbon intensity signals)
-        - **EnergyEfficiency** (using less electricity to perform equivalent software tasks)
-        - **HardwareEfficiency** (using less hardware to perform equivalent software tasks)
-    - **DueDiligence** (continuous process to identify, cease, prevent, mitigate, and remediate adverse impacts on human rights, labour rights, and the environment)
-      - **AdverseImpact** (negative effect on human rights, labour rights, or the environment caused by or linked to an enterprise)
-      - **Remediation** (corrective action taken to address adverse impacts)
-      - **CSRRiskAnalysis** (mapping of business activities and relationships with respect to actual or potential adverse impacts)
+- **RegulatoryInstrument** (binding or recommended legal act establishing sustainability obligations)
+  - **EUDirective** (legally binding EU legislative act)
+    - **CorporateSustainabilityReportingDirective (CSRD)** (EU directive mandating sustainability reporting for large and listed companies from January 2024)
+      - Instance examples: CSRD mandatory disclosure regime
+    - **EUTaxonomyRegulation** (EU regulation classifying environmentally sustainable economic activities)
+      - Instance examples: classification of activities as environmentally sustainable
+  - **InternationalGuidelines** (government-backed intergovernmental recommendations)
+    - **OECDGuidelinesForMultinationalEnterprises** (2011 OECD recommendations on responsible business conduct covering human rights, labour, environment, anti-corruption)
+      - Instance examples: Dutch NCP Six-Step Due Diligence Framework
+    - **UNGuidingPrinciplesOnBusinessAndHumanRights (UNGPs)** (UN Human Rights Council 2011 framework on state duties and business responsibilities)
+      - Instance examples: UNGPs endorsed 2011
+  - **UNAgenda** (universal plan of action adopted by UN member states)
+    - **2030AgendaForSustainableDevelopment** (UN 2015 plan establishing the 17 SDGs as the global framework for sustainable development through 2030)
+      - Instance examples: SDG-CSRD-ESRS matrix
 
-  - **OrganisationalScope** (classification of entities subject to or targeted by reporting obligations)
-    - **LargeCompany** (directly obligated under CSRD/ESRS from January 2024)
-    - **ListedCompany** (directly obligated under CSRD/ESRS; also subject to TCFD in several jurisdictions)
-    - **SME — Small and Medium-Sized Enterprise** (not directly subject to CSRD; faces indirect pressure via supply-chain relationships; may adopt VSME voluntarily)
-      - Instance: SME Reporting Pathway (insights/the-sme-reporting-pathway.md)
-    - **MultinationalEnterprise** (primary addressee of OECD Guidelines and UNGP due diligence obligations)
+---
 
-  - **ThematicDomain** (a substantive sustainability topic addressed across multiple standards)
-    - **ClimateDisclosure** (reporting on climate-related risks, opportunities, emissions, and targets)
-      - Instance: Climate Disclosure Across Frameworks (insights/climate-disclosure-across-frameworks.md)
-    - **DoubleMaterilaity** (disclosure principle requiring both financial and impact dimensions)
-      - Instance: Double Materiality Across Regimes (insights/double-materiality-across-regimes.md)
-    - **SupplyChainResponsibility** (enterprise accountability for impacts throughout the value chain)
-      - **ValueChain** (full chain of upstream and downstream business relationships)
-      - **3TG Minerals / Conflict Minerals** (tin, tantalum, tungsten, gold subject to mandatory supply chain due diligence under the Conflict Minerals Regulation)
-    - **DigitalSustainability** (intersection of digital technology and sustainability objectives)
-      - **AIParadigm** (category of AI approach within SCI for AI scope)
-        - MachineLearning (supervised, unsupervised, reinforcement, deep learning)
-        - SymbolicAI (classical AI)
-        - ProbabilisticAndBayesianAI
-        - EvolutionaryAlgorithms
-        - FuzzyLogic
-        - HybridAI
-      - **AIApplicationDomain** (specific use-case category within SCI for AI scope)
-        - PredictiveAnalytics
-        - PrescriptiveAnalytics
-        - ComputerVision
-        - NaturalLanguageProcessing
-        - SpeechRecognition
-      - **EmergingAITechnology** (next-generation AI forms explicitly addressed by SCI for AI)
-        - GenerativeAI (text, image, video, music, code generation; includes Large Language Models)
-        - AgenticAI (autonomous decision-making AI)
-    - **DigitalCompetence** (knowledge, skills, and attitudes needed to operate effectively in digital environments; defined in DigComp 3.0)
-      - InformationAndDataLiteracy
-      - CommunicationAndCollaboration
-      - DigitalContentCreation
-      - Safety
-      - ProblemSolving
+- **ReportingStandard** (structured technical standard or specification defining how to measure and disclose sustainability information)
+  - **EuropeanSustainabilityReportingStandards (ESRS)** (EU standards published 2023 operationalising CSRD; require double materiality assessment)
+    - **ESRSTopicE1** (climate change and energy topic within ESRS)
+      - Instance examples: VSME chapters B2, C2, B3, C3, C4 mapped to E1
+  - **VoluntarySustainabilityReportingStandardForSMEs (VSME)** (proportionate voluntary standard published by EFRAG 2024, mapped to ESRS topics)
+    - **VSMEBasicModule** (core disclosures covering main sustainability themes; entry point for SMEs)
+      - Instance examples: SMEs new to reporting
+    - **VSMEExtendedModule** (additional depth for more advanced SME reporters)
+      - Instance examples: SMEs with more advanced reporting capacity
+  - **GHGProtocol** (technical standard for greenhouse gas emissions accounting underpinning other frameworks)
+    - **Scope1Emissions** (direct emissions from owned or controlled sources)
+    - **Scope2Emissions** (indirect emissions from purchased energy)
+    - **Scope3Emissions** (all other indirect value-chain emissions)
+  - **SoftwareCarbonIntensitySpecification (SCI)** (ISO/IEC 21031:2024 methodology quantifying operational carbon intensity of software systems)
+    - **SCIforAISpecification** (Green Software Foundation extension of SCI to AI systems across lifecycle stages)
+      - Instance examples: ML, generative AI, agentic AI carbon accounting
+  - **ConflictMineralsRegulation (CMR)** (mandatory supply chain due diligence regulation for 3TG minerals)
+    - Instance examples: tin, tantalum, tungsten, gold (3TG)
 
-  - **KnowledgeBaseArtifact** (meta-level artefact describing or navigating the knowledge base itself)
-    - Catalog (index of every page grouped by type; machine-readable as catalog.json)
-    - CrossReferenceMatrix (maps articles to domain, SDG, and topics)
-    - Glossary (definitions of all key terms, cross-linked across domains)
-    - SynthesisInsight (cross-domain analysis page combining multiple standards around a practical question)
-      - Instance: Climate Disclosure Across Frameworks
-      - Instance: Double Materiality Across Regimes
-      - Instance: The SME Reporting Pathway
-    - SemanticModel (generated; named concepts and relationships)
-    - ConceptMap (generated; Mermaid graph of main concepts)
-    - Ontology (generated; OWL-like class hierarchy — this document)
+---
+
+- **ReportingFramework** (voluntary or market-driven framework structuring sustainability disclosure)
+  - **GlobalReportingInitiative (GRI)** (voluntary framework first published 1997, 2021 edition; focuses primarily on impact materiality across economic, environmental, social themes)
+    - Instance examples: broad multi-stakeholder accountability reporting
+  - **TaskForceOnClimateRelatedFinancialDisclosures (TCFD)** (market/regulatory framework launched 2017 structuring climate disclosure around four pillars)
+    - **TCFDPillar_Governance** (disclosure of board and management oversight of climate risks)
+    - **TCFDPillar_Strategy** (disclosure of climate risks and opportunities and their strategic implications)
+    - **TCFDPillar_RiskManagement** (disclosure of processes for identifying and managing climate risks)
+    - **TCFDPillar_MetricsAndTargets** (disclosure of metrics and targets used to assess climate-related risks and opportunities)
+      - Instance examples: mandatory for listed firms in UK, Japan, New Zealand
+  - **UNSustainableDevelopmentGoals (SDGs)** (17 goals established under the 2030 Agenda providing overarching global framework for sustainable development)
+    - Instance examples: SDG-CSRD-ESRS alignment matrix
+
+---
+
+- **MaterialityFramework** (conceptual structure for determining what sustainability information is significant enough to disclose)
+  - **DoubleMateriality** (requirement to assess both financial materiality and impact materiality)
+    - **FinancialMateriality** (effect of sustainability matters on an organisation's financial position, performance, and cash flows)
+      - Instance examples: ESRS required lens, TCFD primary orientation
+    - **ImpactMateriality** (organisation's positive or negative effects on people and the environment)
+      - Instance examples: ESRS required lens, GRI primary orientation
+  - **DoubleMaterialityAssessment (DMA)** (formal process under ESRS/CSRD by which organisations assess both materiality dimensions)
+    - Instance examples: required for large companies under CSRD/ESRS
+
+---
+
+- **DueDiligenceProcess** (continuous process for identifying, ceasing, preventing, and mitigating adverse impacts on human rights, labour rights, and the environment)
+  - **OECDSixStepFramework** (operationalisation of due diligence published by Dutch NCP)
+    - **Step1_IntegrateCSRPolicy** (develop, endorse, publish, and embed a CSR policy based on OECD Guidelines)
+    - **Step2_IdentifyAdverseImpacts** (conduct CSR risk analysis mapping activities and relationships)
+    - **Step3_CeasePreventMitigate** (act on identified impacts)
+    - **Step4_MonitorImplementation** (track effectiveness of due diligence measures)
+    - **Step5_Communicate** (report externally on due diligence)
+    - **Step6_Remediate** (provide remedy where adverse impacts have occurred)
+      - Instance examples: Dutch NCP guidance, September 2021
+  - **AdverseImpact** (negative effect on human rights, labour rights, or the environment caused by or linked to an enterprise)
+    - Instance examples: negative human rights impacts, environmental harm in value chains
+  - **Remediation** (corrective action taken to address adverse impacts that have occurred)
+
+---
+
+- **SupplyChainConcept** (concept relating to the network of entities involved in producing and delivering a product or service)
+  - **ValueChain** (full upstream and downstream chain of activities, relationships, and entities associated with an organisation's operations)
+    - Instance examples: SME suppliers to CSRD-obligated large companies
+  - **BusinessRelationship** (commercial or contractual relationship through which adverse impacts may be linked to an enterprise)
+  - **3TGMinerals** (tin, tantalum, tungsten, gold; subject to mandatory supply chain due diligence under CMR)
+    - Instance examples: conflict minerals in high-risk areas
+
+---
+
+- **SupportingOrganisation** (body providing standards, guidance, or oversight in the sustainability reporting ecosystem)
+  - **EFRAG** (European Financial Reporting Advisory Group; published VSME 2024, developed ESRS)
+    - Instance examples: VSME publisher, ESRS technical developer
+  - **GreenSoftwareFoundation** (publisher of SCI and SCI for AI specifications)
+    - Instance examples: SCI v1.1.0, SCI for AI Specification
+  - **DutchNationalContactPoint (NCP)** (Netherlands implementation body for OECD Guidelines; published six-step due diligence framework)
+    - Instance examples: Dutch NCP, Ministry of Foreign Affairs
+  - **EuropeanCommissionJRC** (Joint Research Centre; publisher of DigComp digital competence framework)
+    - Instance examples: DigComp 3.0, published 2025
+
+---
+
+- **DigitalCompetenceFramework** (framework describing knowledge, skills, and attitudes for digital competence)
+  - **DigComp3.0** (fifth edition of the European Digital Competence Framework, published 2025 by EC JRC)
+    - **DigCompCompetenceArea** (thematic grouping of digital competences within DigComp)
+      - Instance examples: information and data literacy, communication and collaboration, digital content creation, safety, problem-solving
+    - **DigCompProficiencyLevel** (gradation of digital competence from foundational to highly specialised)
+    - **DigCompLearningOutcomes** (new section in DigComp 3.0 providing granular, consistent interpretation of competences)
+      - Instance examples: Digital Skills Indicator (DSI) for EU Digital Decade Policy Programme
+
+---
+
+- **AISystemConcept** (concept relating to artificial intelligence systems and their carbon accounting)
+  - **AIParadigm** (foundational approach or methodology underlying an AI system)
+    - Instance examples: Machine Learning, Symbolic AI, Probabilistic/Bayesian AI, Evolutionary Algorithms, Fuzzy Logic, Hybrid AI
+  - **GenerativeAI** (AI systems producing text, image, video, music, or code outputs)
+    - Instance examples: Large Language Models (LLMs), image generation, agentic AI
+  - **SciAction** (explicit outcome or change avoided, dependent on quantifiable emissions under the SCI specification)
+    - Instance examples: using less electricity, using electricity more intelligently, using less hardware

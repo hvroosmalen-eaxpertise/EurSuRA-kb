@@ -166,6 +166,17 @@ title: Glossary
 
 ---
 
+### Auditing
+
+**Definition:** The process of examining and verifying the accuracy, completeness, and reliability of information or processes.  
+**Domain:** General  
+**Synonyms:** Verification, Review  
+**Abbreviation:** none  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
 ### Backend and Infrastructure Engineer
 
 **Definition:** A technical practitioner within the SCI for Web target persona framework who controls server-side systems generating and delivering content to browsers, encompassing backend developers, infrastructure and systems engineers, and platform and DevOps engineers, whose decisions affect operational emissions from datacentres and infrastructure.
@@ -275,6 +286,17 @@ title: Glossary
 **Related terms:** [[Adverse Impact]], [[Due Diligence]], [[Value Chain]], [[Ketenverantwoordelijkheid]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
+
+### Capital Market Union
+
+**Definition:** A framework aimed at creating a more integrated and efficient capital market within the European Union to enhance access to financing and investment.  
+**Domain:** General  
+**Synonyms:** CMU  
+**Abbreviation:** CMU  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -598,6 +620,22 @@ title: Glossary
 
 ---
 
+### Co-Creation of Narratives
+
+**Definition:** The collaborative development of shared stories or frameworks that support sustainability objectives and societal transformation.  
+
+**Domain:** General  
+
+**Synonyms:** Narrative Co-Creation  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Sustainability  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
+
+---
+
 ### Collective bargaining
 
 **Definition:** A process of negotiation between employers and a group of employees aimed at agreements that regulate working conditions, reported under VSME Basic Module disclosure B10 as part of workforce remuneration and labour relations metrics.
@@ -627,6 +665,17 @@ title: Glossary
 **Related terms:** [[Sustainability-related information]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
 
 **Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – Comparative information, 2026
+
+---
+
+### Confidentiality
+
+**Definition:** The assurance that information provided by SMEs is protected and not disclosed without consent.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[SMEs]], [[Voluntary Template]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -792,17 +841,17 @@ title: Glossary
 
 ### Corporate Social Responsibility (CSR)
 
-**Definition:** An internationally recognised set of norms underpinning the expectation that companies voluntarily integrate social, environmental, and ethical considerations into their business operations and stakeholder relationships, forming the normative foundation for OECD due diligence guidance.
+**Definition:** A concept that encompasses the role of business in addressing global challenges through ethical, social, and environmental practices.  
 
-**Domain:** General
+**Domain:** General  
 
-**Synonyms:** responsible business conduct
+**Synonyms:** Corporate Responsibility, Business Responsibility  
 
-**Abbreviation:** CSR
+**Abbreviation:** CSR  
 
-**Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Stakeholder Engagement]]
+**Related terms:** Strategic Sustainability Communication, Sustainability Management, Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)  
 
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+**Source:** Strategic Sustainability Communication, section 2.2, 2026
 
 ---
 
@@ -856,17 +905,12 @@ title: Glossary
 
 ### Corporate Sustainability Reporting Directive (CSRD)
 
-**Definition:** An EU directive requiring companies to publish annual sustainability information in accordance with the European Sustainability Reporting Standards (ESRS), covering environmental, social (including human rights), and governance matters across the full upstream and downstream value chain, applicable from 2025.
-
-**Domain:** CSRD
-
-**Synonyms:** none
-
-**Abbreviation:** CSRD
-
-**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[EU Taxonomy Regulation]], [[Value Chain]], [[ESG]], [[Due Diligence]]
-
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+**Definition:** A directive that sets out the requirements for sustainability reporting by large companies in the EU, distinct from the VSME standard.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** CSRD  
+**Related terms:** VSME, EFRAG, SME, XBRL  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -966,6 +1010,17 @@ title: Glossary
 
 ---
 
+### Data Migration Tool
+
+**Definition:** A tool that enables the automatic migration of data from previous versions of the VSME Digital Template to the latest version.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** VSME Digital Template, VSME XBRL Taxonomy, EFRAG, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
+
 ### Deployment
 
 **Definition:** The third stage of the AI lifecycle, covering the incorporation of an AI model into larger systems, the design of component interactions, connections with external applications, and pre-deployment integration testing, whose associated carbon emissions must be included in the Provider SCI calculation.
@@ -995,6 +1050,17 @@ title: Glossary
 **Related terms:** [[AI Lifecycle Stages]], [[Model Training]], [[Provider]], [[Inception]], [[Deployment]], [[Feature Engineering]], [[Distributed Training]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Design and Development (Provider), 2026
+
+---
+
+### Digital Template to XBRL Converter
+
+**Definition:** A tool that allows users to convert data from the VSME Digital Template into XBRL format, with customization features for personalized reports.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** VSME Digital Template, VSME XBRL Taxonomy, XBRL, EFRAG  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -1107,6 +1173,17 @@ title: Glossary
 **Related terms:** [[planetary boundaries]], [[multiple capitals]], [[externalities]], [[Sustainable Value Transition]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Academic Foundations, 2026
+
+---
+
+### EFRAG
+
+**Definition:** The European Financial Reporting Advisory Group, an organization that develops sustainability reporting standards and tools for SMEs.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** EFRAG  
+**Related terms:** VSME, CSRD, XBRL, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -1299,6 +1376,22 @@ title: Glossary
 **Related terms:** [[ESG Audit Checklist]], [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Double Materiality Assessment]]
 
 **Source:** ESG Audit Checklist, Background, 2026
+
+---
+
+### Environmental, Social, and Governance (ESG) Criteria
+
+**Definition:** A framework used to evaluate the sustainability and ethical impact of an organization, encompassing environmental, social, and governance factors.  
+
+**Domain:** General  
+
+**Synonyms:** ESG Standards, ESG Metrics  
+
+**Abbreviation:** ESG  
+
+**Related terms:** Strategic Sustainability Communication, Corporate Social Responsibility (CSR), Sustainability Management, Sustainable Development Goals (SDGs)  
+
+**Source:** Strategic Sustainability Communication, section 2.2, 2026
 
 ---
 
@@ -1734,6 +1827,28 @@ title: Glossary
 
 ---
 
+### European Single Access Point
+
+**Definition:** A platform designed to streamline access to EU financial services.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** ESAP  
+**Related terms:** [[Voluntary Template]], [[SMEs]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
+### European Single Access Point (ESAP)
+
+**Definition:** A centralized platform aimed at improving access to financing for SMEs by hosting voluntary reporting templates and other relevant information.  
+**Domain:** General  
+**Synonyms:** ESAP, European Single Access Point  
+**Abbreviation:** ESAP  
+**Related terms:** Voluntary Template (SMEs), Small and Medium-Sized Enterprises  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
 ### European Sustainability Reporting Standards
 
 **Definition:** The mandatory technical standards underpinning CSRD reporting, adopted in 2023, that specify detailed disclosure requirements for large EU undertakings across environmental, social, and governance topics.
@@ -1862,6 +1977,17 @@ title: Glossary
 
 ---
 
+### Financial Reporting
+
+**Definition:** The process of recording, summarizing, and reporting an organization's financial activities.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[Sustainability Reporting]], [[European Single Access Point]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
 ### FinOps
 
 **Definition:** An operational practice applied within the Operation and Monitoring lifecycle stage of AI systems to manage and optimise cloud and infrastructure financial and resource efficiency, referenced in the SCI for AI Specification as an example of operational practice relevant to carbon accounting.
@@ -1903,6 +2029,22 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[Value Chain]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[OECD Six-Step Framework]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
+
+### Formative Communication
+
+**Definition:** Communication processes at the boundaries of organizations that reconfigure understandings of sustainability and its role in guiding organizational behavior.  
+
+**Domain:** General  
+
+**Synonyms:** Boundary Communication  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Sustainability  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
 
 ---
 
@@ -2242,6 +2384,17 @@ title: Glossary
 
 ---
 
+### Harmonisation
+
+**Definition:** The process of aligning standards, practices, or data formats to ensure consistency and comparability across different jurisdictions or entities.  
+**Domain:** General  
+**Synonyms:** Standardization, Alignment  
+**Abbreviation:** none  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
 ### Human Rights Due Diligence
 
 **Definition:** A structured organisational process for identifying, preventing, mitigating, and accounting for adverse human rights impacts across supply chains and business relationships, applied to suppliers and subcontractors in the social dimension of an ESG audit.
@@ -2370,6 +2523,22 @@ title: Glossary
 
 ---
 
+### Industrial Organization Economic Theory (IO)
+
+**Definition:** A theoretical framework that focuses on the structure of industries and the behavior of firms within competitive markets.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** IO  
+
+**Related terms:** Strategic Management for Sustainability, Resource-Based View (RBV), Natural Resource-Based View (NRBV)  
+
+**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
+
+---
+
 ### Inference
 
 **Definition:** The process of using a trained AI model to make predictions or generate outputs based on input data, constituting the primary operational activity within the Consumer boundary for carbon accounting purposes.
@@ -2386,6 +2555,22 @@ title: Glossary
 
 ---
 
+### Institutional Collaboration
+
+**Definition:** The cooperative engagement between organizations, industry networks, and think tanks to advance sustainability initiatives and knowledge exchange.  
+
+**Domain:** General  
+
+**Synonyms:** Collaborative Engagement  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Corporate Social Responsibility (CSR), Sustainability Management  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
+
+---
+
 ### Integrated Prioritisation
 
 **Definition:** A phase within the integrated EU sustainability compliance methodology in which a company systematically identifies and ranks supply chains for further due diligence investigation by applying sequential assessments of regulatory scope, customer requirements, dependency and materiality, known high risks, and existing risk management.
@@ -2399,6 +2584,17 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[Value Chain]], [[Materiality (ESRS)]], [[OECD Six-Step Framework]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
+
+---
+
+### Internal Market
+
+**Definition:** A single market within the European Union that allows the free movement of goods, services, capital, and people.  
+**Domain:** General  
+**Synonyms:** Single Market  
+**Abbreviation:** none  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -2786,6 +2982,17 @@ title: Glossary
 
 ---
 
+### MIT License
+
+**Definition:** An open-source license under which EFRAG releases its materials, allowing stakeholders to enhance and integrate them into commercial solutions.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** MIT  
+**Related terms:** VSME Digital Template, VSME XBRL Taxonomy, EFRAG, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
+
 ### Model Training
 
 **Definition:** The process of developing an AI model by exposing it to data and optimising its parameters to perform a specific task or set of tasks, representing a computationally intensive lifecycle phase whose carbon emissions must be calculated over the entire training duration including all epochs, steps, parameter updates, intermediate runs, and early stopping phases.
@@ -2895,6 +3102,38 @@ title: Glossary
 **Related terms:** [[Large Language Model]], [[Token]], [[Generative AI]], [[SCI for AI Specification]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Scope – Application-Specific AI Solutions, 2026
+
+---
+
+### Natural Resource-Based View
+
+**Definition:** A theoretical perspective emphasizing the role of natural resources in shaping organizational performance and competitive advantage, and the environmental costs of resource extraction.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** NRBV  
+
+**Related terms:** Resource-Based View, Triple Bottom Line, Strategic Management for Sustainability  
+
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
+
+---
+
+### Natural Resource-Based View (NRBV)
+
+**Definition:** A theoretical framework that emphasizes the role of natural resources in creating competitive advantage and fostering sustainable value creation.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** NRBV  
+
+**Related terms:** Strategic Management for Sustainability, Resource-Based View (RBV), Sustainable Development Goals (SDGs)  
+
+**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
 
 ---
 
@@ -3234,6 +3473,28 @@ title: Glossary
 
 ---
 
+### Qualitative Information
+
+**Definition:** Non-numerical data that provides descriptive insights into a company's operations or performance.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[Quantitative Information]], [[Voluntary Template]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
+### Quantitative Information
+
+**Definition:** Data that can be measured and expressed in numerical terms.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[Qualitative Information]], [[Voluntary Template]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
 ### Reasonable Assurance
 
 **Definition:** An assurance engagement level under which a practitioner expresses a positive opinion that a subject matter is free from material misstatement, representing a higher level of scrutiny than limited assurance, toward which the CSRD framework provides for a phased transition.
@@ -3327,6 +3588,38 @@ title: Glossary
 **Related terms:** [[CSRD]], [[GRI]], [[TCFD]], [[ISSB]], [[Materiality Assessment]]
 
 **Source:** ESG Business Handbook.pdf, Getting Started with ESG – Reporting Frameworks, 2026
+
+---
+
+### Resource-Based View
+
+**Definition:** A theoretical framework focusing on internal organizational capabilities and their role in achieving competitive advantage.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** RBV  
+
+**Related terms:** Natural Resource-Based View, Strategic Management for Sustainability, Triple Bottom Line  
+
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
+
+---
+
+### Resource-Based View (RBV)
+
+**Definition:** A theoretical framework that emphasizes the role of internal resources and capabilities in achieving competitive advantage.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** RBV  
+
+**Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Industrial Organization Economic Theory (IO)  
+
+**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
 
 ---
 
@@ -3620,17 +3913,23 @@ title: Glossary
 
 ### Small and Medium-Sized Enterprises
 
-**Definition:** Organisations generally falling below the size thresholds that trigger mandatory CSRD reporting obligations, which may nonetheless be subject to indirect sustainability disclosure requests from value chain partners and are the primary addressees of the VSME standard.
+**Definition:** Businesses that are classified based on the number of employees and/or annual turnover.  
+**Domain:** General  
+**Synonyms:** SMEs  
+**Abbreviation:** none  
+**Related terms:** [[Voluntary Template]], [[European Single Access Point]]  
+**Source:** EFR. Final Assessment Report, 2026-07-29
 
-**Domain:** CSRD
+---
 
-**Synonyms:** SMEs
+### Small and Medium-Sized Enterprises (SMEs)
 
-**Abbreviation:** SME
-
-**Related terms:** [[VSME]], [[CSRD]], [[Value Chain]]
-
-**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+**Definition:** Businesses that are classified as small or medium in size, typically based on criteria such as employee count, annual revenue, and turnover.  
+**Domain:** General  
+**Synonyms:** SMEs, Small and Medium Enterprises  
+**Abbreviation:** SMEs  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -3647,6 +3946,17 @@ title: Glossary
 **Related terms:** [[Micro-enterprise]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Corporate Sustainability Reporting Directive]]
 
 **Source:** Voluntary SME Standard (VSME), Background – Size thresholds, 2026
+
+---
+
+### SME (Small and Medium-sized Enterprises)
+
+**Definition:** Businesses with fewer than 250 employees, targeted by the VSME standard to simplify sustainability reporting.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** SME  
+**Related terms:** VSME, EFRAG, CSRD, XBRL  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -3746,6 +4056,33 @@ title: Glossary
 
 ---
 
+### Stakeholder
+
+**Definition:** An individual or organization with an interest in or affected by a particular issue, such as SME financing and reporting.  
+**Domain:** General  
+**Synonyms:** Interested Party, Participant  
+**Abbreviation:** none  
+**Related terms:** Voluntary Template (SMEs), European Single Access Point  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
+### Stakeholder Communication
+
+**Definition:** The process of engaging with stakeholders to exchange information, manage expectations, and build relationships that support sustainability objectives.  
+
+**Domain:** General  
+
+**Synonyms:** Stakeholder Engagement  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Corporate Social Responsibility (CSR), Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
+
+---
+
 ### Stakeholder Engagement
 
 **Definition:** A required characteristic of due diligence under the OECD Due Diligence Guidance, involving the systematic identification and consultation of affected parties—including workers, communities, and vulnerable groups—throughout the due diligence process.
@@ -3759,6 +4096,38 @@ title: Glossary
 **Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+
+---
+
+### Strategic Management for Sustainability
+
+**Definition:** A theoretical framework that integrates organizational resources and capabilities with sustainability dimensions to support sustainable strategy development, emphasizing long-term value appropriation by stakeholders.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Natural Resource-Based View, Triple Bottom Line, Resource-Based View, Sustainable Development Goals, Value Creation  
+
+**Source:** Strategic Management for Sustainability, Section 1, 2026-07-29
+
+---
+
+### Strategic Sustainability Communication
+
+**Definition:** The purposeful use of communication to support sustainability objectives, whether through the transmission of information or the co-creation of shared narratives.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Corporate Social Responsibility (CSR), Sustainability Management, Stakeholder Communication, Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
 
 ---
 
@@ -3826,6 +4195,22 @@ title: Glossary
 
 ---
 
+### Sustainability
+
+**Definition:** A normative principle that shapes communication and organizational practices, guiding behavior toward ecological and societal imperatives.  
+
+**Domain:** General  
+
+**Synonyms:** Sustainable development  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG) Criteria  
+
+**Source:** Strategic Sustainability Communication, section 2.3, 2026
+
+---
+
 ### Sustainability Accounting Standards Board
 
 **Definition:** A standard-setting body that developed industry-specific sustainability accounting standards across 77 industries to enable companies to disclose financially material ESG information relevant to investors, subsequently merged into the ISSB.
@@ -3855,6 +4240,33 @@ title: Glossary
 **Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[key performance indicators]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
+
+### Sustainability Management
+
+**Definition:** The integration of sustainability principles into organizational strategies and operations to achieve long-term ecological and societal goals.  
+
+**Domain:** General  
+
+**Synonyms:** Sustainable Management  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Sustainability Communication, Corporate Social Responsibility (CSR), Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)  
+
+**Source:** Strategic Sustainability Communication, section 2.2, 2026
+
+---
+
+### Sustainability Reporting
+
+**Definition:** The disclosure of information related to an organization's environmental, social, and governance (ESG) performance.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[Financial Reporting]], [[European Single Access Point]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -3938,6 +4350,22 @@ title: Glossary
 
 ---
 
+### Sustainable Development Goals (SDGs)
+
+**Definition:** A unified framework centered on 17 global goals aimed at addressing global challenges, including poverty, inequality, climate change, and environmental degradation.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** SDGs  
+
+**Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Triple Bottom Line (TBL)  
+
+**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
+
+---
+
 ### Sustainable Finance
 
 **Definition:** A framework of financial instruments, regulatory requirements, and market practices that integrate ESG considerations into investment and lending decisions to support the transition to a sustainable economy.
@@ -4015,6 +4443,22 @@ title: Glossary
 **Related terms:** [[Design and Development]], [[Model Training]], [[Provider Boundary]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
+
+---
+
+### Systems Theory
+
+**Definition:** An interdisciplinary framework that views an organization as part of a larger set of interrelated components, so that sustainability challenges are understood and addressed through their interdependencies rather than in isolation. It underpins the systems approach to sustainability management.
+
+**Domain:** General
+
+**Synonyms:** systems thinking
+
+**Abbreviation:** none
+
+**Related terms:** [[Sustainability Management]], [[Stakeholder Theory]], [[Corporate Social Responsibility (CSR)]]
+
+**Source:** _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf, 2026-07-29
 
 ---
 
@@ -4178,6 +4622,38 @@ title: Glossary
 
 ---
 
+### Triple Bottom Line
+
+**Definition:** A framework advocating for the balanced integration of environmental, social, and economic goals in organizational decision-making.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** TBL  
+
+**Related terms:** Strategic Management for Sustainability, Resource-Based View, Sustainable Development Goals  
+
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
+
+---
+
+### Triple Bottom Line (TBL)
+
+**Definition:** A framework that integrates economic, environmental, and social dimensions of performance to evaluate organizational sustainability.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** TBL  
+
+**Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Resource-Based View (RBV)  
+
+**Source:** Strategic_Management_for_Sustainability.pdf, Section 3, 2026-07-29
+
+---
+
 ### UN Global Compact
 
 **Definition:** A voluntary corporate sustainability initiative that aligns business strategies and operations with universal principles on human rights, labour, environment, and anti-corruption.
@@ -4290,6 +4766,22 @@ title: Glossary
 
 ---
 
+### Value Creation
+
+**Definition:** The process through which an organization generates value for the enterprise and fosters value appropriation by customers, viewed through economic, social, and sustainable perspectives.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategic Management for Sustainability, Triple Bottom Line, Sustainable Development Goals  
+
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
+
+---
+
 ### Voluntary Standard for Small and Medium-sized Enterprises
 
 **Definition:** A voluntary sustainability reporting standard developed by EFRAG to enable non-listed micro, small and medium-sized enterprises to disclose sustainability-related information in a manner proportionate to their capacity and resources.
@@ -4322,6 +4814,17 @@ title: Glossary
 
 ---
 
+### Voluntary Sustainability Reporting Standard for non-listed SMEs (VSME)
+
+**Definition:** A standard developed by EFRAG to address the market's need for a common reference point for SMEs to respond to sustainability data requests from business partners.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** VSME  
+**Related terms:** EFRAG, CSRD, SME, VSME Digital Template, VSME XBRL Taxonomy  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
+
 ### Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises
 
 **Definition:** A structured, voluntary sustainability reporting framework published by EFRAG in 2024, designed to enable small and medium-sized enterprises to disclose sustainability performance using standardised modules aligned with the European Sustainability Reporting Standards.
@@ -4335,6 +4838,50 @@ title: Glossary
 **Related terms:** [[ESRS]], [[CSRD]], [[EFRAG]], [[Double Materiality Assessment]], [[Small and Medium-Sized Enterprises]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+
+---
+
+### Voluntary Template
+
+**Definition:** A proposed reporting framework for SMEs to provide information to facilitate financing, not mandated by regulation.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** [[European Single Access Point]], [[SMEs]]  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
+### Voluntary Template (SMEs)
+
+**Definition:** A proposed reporting framework designed to facilitate SME financing by providing quantitative and qualitative information about SMEs in a structured format.  
+**Domain:** General  
+**Synonyms:** SME Reporting Template, Voluntary SME Reporting Framework  
+**Abbreviation:** none  
+**Related terms:** European Single Access Point, Small and Medium-Sized Enterprises  
+**Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
+
+### VSME Digital Template
+
+**Definition:** A tool developed by the EFRAG Secretariat to enable user-friendly data entry for SMEs, including auto-calculation of totals, validations, and consistency checks.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** VSME XBRL Taxonomy, XBRL, EFRAG, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
+
+### VSME XBRL Taxonomy
+
+**Definition:** A data model provided by EFRAG to digitize VSME disclosures, allowing reporting in various technical formats such as Inline XBRL, XBRL-XML, XBRL-JSON, and XBRL-CSV.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** none  
+**Related terms:** VSME Digital Template, XBRL, EFRAG, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -4399,6 +4946,17 @@ title: Glossary
 **Related terms:** [[Business Conduct]], [[Anti-Corruption Policy]]
 
 **Source:** ESG Audit Checklist, Governance Criteria, 2026
+
+---
+
+### XBRL (eXtensible Business Reporting Language)
+
+**Definition:** A standardized format for digital business reporting, used to structure and exchange financial and non-financial data.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** XBRL  
+**Related terms:** VSME XBRL Taxonomy, VSME Digital Template, EFRAG, SME  
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 

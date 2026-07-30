@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-07-29
+
+### Added (ingested)
+- **VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf** → `reports\2026\vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md` — vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026 (domain: —)
+
+- **Strategic_Management_for_Sustainability.pdf** → `reports\2026\strategic_management_for_sustainability.md` — strategic_management_for_sustainability (domain: —)
+
+- **Strategic Sustainability Communication.pdf** → `reports\2026\strategic-sustainability-communication.md` — strategic-sustainability-communication (domain: —)
+
+- **EFRAG Final Assessment Report web.pdf** → `reports\2026\efrag-final-assessment-report-web.md` — efrag-final-assessment-report-web (domain: —)
+
+- **_OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf** → `reports\2026\_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md` — sustainability-management-a-systems-approach (domain: —)
+
+---
+
+
 ## 2026-06-15
 
 ### Added (ingested)
