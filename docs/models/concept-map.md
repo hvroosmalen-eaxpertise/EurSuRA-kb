@@ -2,117 +2,100 @@
 title: Concept Map
 content_type: model
 generated: true
-date_updated: 2026-07-29
+date_updated: 2026-07-30
 ---
 
 ```mermaid
 graph TD
 
-    %% Core Knowledge Base
-    KB["EurSuRA Knowledge Base\n(EU Sustainability Reporting for SMEs)"]
+%% Core EU Regulatory Layer
+CSRD["CSRD\n(Corporate Sustainability\nReporting Directive)"]
+ESRS["ESRS\n(European Sustainability\nReporting Standards)"]
+VSME["VSME\n(Voluntary SME Standard)"]
+EUT["EU Taxonomy\nRegulation"]
+GHG["GHG Protocol"]
 
-    %% Standards
-    CSRD["CSRD\n(Corporate Sustainability Reporting Directive)"]
-    ESRS["ESRS\n(European Sustainability Reporting Standards)"]
-    VSME["VSME\n(Voluntary SME Standard)"]
-    EUTAX["EU Taxonomy Regulation"]
-    GHG["GHG Protocol"]
+%% Frameworks
+GRI["GRI\n(Global Reporting Initiative)"]
+TCFD["TCFD"]
+SDG["UN SDGs\n(2030 Agenda)"]
 
-    %% Frameworks
-    GRI["GRI\n(Global Reporting Initiative)"]
-    TCFD["TCFD"]
-    SDGs["UN SDGs\n(2030 Agenda)"]
+%% Key Concepts
+DMA["Double Materiality\nAssessment (DMA)"]
+FM["Financial Materiality"]
+IM["Impact Materiality"]
+SC["Supply Chain\nPressure"]
+DD["Due Diligence\n(OECD 6-Step)"]
+AI_ESG["Adverse Impacts\n(Human Rights / Environment)"]
+VC["Value Chain"]
 
-    %% Key Concepts
-    DMA["Double Materiality Assessment"]
-    FM["Financial Materiality"]
-    IM["Impact Materiality"]
-    DD["Due Diligence\n(OECD 6-Step Framework)"]
-    AI_SCI["SCI for AI\n(Software Carbon Intensity)"]
-    DigComp["DigComp 3.0\n(Digital Competence Framework)"]
-    SME["SMEs\n(Small & Medium Enterprises)"]
-    VC["Value Chain"]
-    AI["Adverse Impacts"]
-    SC1["Scope 1/2/3 Emissions"]
-    EFRAG["EFRAG"]
+%% Green Software
+SCI["SCI\n(Software Carbon Intensity)"]
+SCI_AI["SCI for AI\nSpecification"]
+ISO21031["ISO/IEC 21031:2024"]
 
-    %% Insights / Synthesis
-    CDI["Insight: Climate Disclosure\nAcross Frameworks"]
-    DMI["Insight: Double Materiality\nAcross Regimes"]
-    SMEP["Insight: SME Reporting Pathway"]
+%% Digital Skills
+DigComp["DigComp 3.0\n(EU Digital Competence\nFramework)"]
 
-    %% Knowledge Base contains everything
-    KB -->|"covers standards"| CSRD
-    KB -->|"covers standards"| ESRS
-    KB -->|"covers standards"| VSME
-    KB -->|"covers standards"| EUTAX
-    KB -->|"covers standards"| GHG
-    KB -->|"covers frameworks"| GRI
-    KB -->|"covers frameworks"| TCFD
-    KB -->|"covers frameworks"| SDGs
-    KB -->|"synthesises into"| CDI
-    KB -->|"synthesises into"| DMI
-    KB -->|"synthesises into"| SMEP
+%% SMEs
+SME["SMEs\n(Small & Medium Enterprises)"]
 
-    %% CSRD → ESRS
-    CSRD -->|"mandates use of"| ESRS
-    CSRD -->|"applies to large/listed"| SME
-    CSRD -->|"requires reporting on"| VC
+%% Knowledge Base Structure
+KB["EurSuRA\nKnowledge Base"]
+Insights["Insights Layer"]
+Glossary["Glossary"]
+CRM["Cross-Reference Matrix"]
 
-    %% ESRS → concepts
-    ESRS -->|"requires"| DMA
-    ESRS -->|"operationalises"| FM
-    ESRS -->|"operationalises"| IM
-    DMA -->|"comprises"| FM
-    DMA -->|"comprises"| IM
+%% --- Relationships ---
 
-    %% VSME
-    EFRAG -->|"published"| VSME
-    VSME -->|"proportionate counterpart to"| ESRS
-    VSME -->|"designed for"| SME
-    SME -->|"faces supply-chain pressure from"| CSRD
+%% Regulatory backbone
+CSRD -->|"mandates use of"| ESRS
+CSRD -->|"drives indirect demand for"| SC
+SC -->|"creates pressure on"| SME
+SME -->|"voluntary on-ramp via"| VSME
+VSME -->|"structurally aligned with"| ESRS
+ESRS -->|"requires"| DMA
+DMA -->|"includes"| FM
+DMA -->|"includes"| IM
 
-    %% GHG Protocol
-    GHG -->|"measures"| SC1
-    SC1 -->|"underpins emissions in"| ESRS
-    SC1 -->|"underpins emissions in"| TCFD
+%% Framework alignment
+ESRS -->|"maps to"| GRI
+ESRS -->|"maps to"| TCFD
+ESRS -->|"maps to"| SDG
+ESRS -->|"references"| EUT
+GRI -->|"covers"| IM
+TCFD -->|"covers"| FM
+GHG -->|"measures emissions for"| ESRS
+GHG -->|"measures emissions for"| VSME
 
-    %% TCFD
-    TCFD -->|"focuses on"| FM
-    TCFD -->|"four pillars: Governance, Strategy,\nRisk Mgmt, Metrics & Targets"| CDI
+%% Due diligence
+DD -->|"identifies"| AI_ESG
+AI_ESG -->|"arises across"| VC
+VC -->|"includes"| SME
+DD -->|"basis: OECD Guidelines +\nUNGPs"| AI_ESG
 
-    %% GRI
-    GRI -->|"focuses primarily on"| IM
-    GRI -->|"voluntary, multi-stakeholder"| DMI
+%% Green software
+SCI -->|"formalised as"| ISO21031
+SCI_AI -->|"extends"| SCI
+SCI_AI -->|"covers lifecycle of"| SCI_AI
 
-    %% EU Taxonomy
-    EUTAX -->|"classifies sustainable activities\nrelevant to"| SME
-    EUTAX -->|"feeds into"| CDI
+%% Knowledge base
+KB -->|"contains"| ESRS
+KB -->|"contains"| CSRD
+KB -->|"contains"| VSME
+KB -->|"contains"| EUT
+KB -->|"contains"| GHG
+KB -->|"contains"| GRI
+KB -->|"contains"| TCFD
+KB -->|"contains"| SDG
+KB -->|"synthesises via"| Insights
+KB -->|"defines terms in"| Glossary
+KB -->|"cross-maps via"| CRM
+Insights -->|"covers"| DMA
+Insights -->|"covers"| SC
+Insights -->|"covers"| FM
 
-    %% Due Diligence
-    DD -->|"identifies & mitigates"| AI
-    DD -->|"covers"| VC
-    AI -->|"arise from"| VC
-
-    %% SCI for AI
-    AI_SCI -->|"extends SCI to"| SC1
-    AI_SCI -->|"measures carbon intensity of"| SC1
-
-    %% DigComp
-    DigComp -->|"published by"| KB
-
-    %% SDGs
-    SDGs -->|"mapped to"| CSRD
-    SDGs -->|"mapped to"| ESRS
-
-    %% Insight connections
-    CDI -->|"compares"| ESRS
-    CDI -->|"compares"| TCFD
-    CDI -->|"compares"| GHG
-    CDI -->|"compares"| EUTAX
-    DMI -->|"compares"| CSRD
-    DMI -->|"compares"| GRI
-    SMEP -->|"guides"| SME
-    SMEP -->|"references"| VSME
-    SMEP -->|"references"| CSRD
+%% DigComp (tangential)
+DigComp -->|"published by"| JRC["EU Joint Research\nCommission (JRC)"]
+DigComp -->|"supports"| DSI["Digital Skills\nIndicator (EU)"]
 ```

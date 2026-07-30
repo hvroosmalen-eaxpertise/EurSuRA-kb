@@ -3,82 +3,90 @@ title: Double Materiality Across Regimes
 content_type: synthesis
 generated: true
 sources: [csrd, esrs, gri]
-date_updated: 2026-07-29
+date_updated: 2026-07-30
 ---
 
 # Double Materiality Across Regimes
 
-Double materiality is the organising principle that requires organisations to assess and disclose both how sustainability matters affect the organisation financially and how the organisation's activities affect society and the environment. Within the European Union (EU), this concept is legally mandated under the [[Corporate Sustainability Reporting Directive]] (CSRD) and operationalised through the [[European Sustainability Reporting Standards]] (ESRS); under the [[Global Reporting Initiative]] (GRI), a structurally similar logic has long underpinned voluntary impact disclosure for multi-stakeholder accountability. Understanding how each regime defines, scopes, and operationalises double materiality allows organisations—particularly those navigating multiple frameworks simultaneously—to identify areas of alignment and divergence.
+Double materiality is the principle that organisations must assess and disclose both the financial effects of sustainability factors on themselves and their own effects on people and the environment. This concept is a mandatory cornerstone of the European Union's [[Corporate Sustainability Reporting Directive]] (CSRD) and its accompanying [[European Sustainability Reporting Standards]] (ESRS), while the [[Global Reporting Initiative]] (GRI) framework has long emphasised impact-oriented disclosure for voluntary, multi-stakeholder accountability. Understanding how each regime defines and operationalises double materiality is essential for organisations navigating overlapping or complementary reporting obligations.
 
 ---
 
 ## Defining Double Materiality
 
-### The CSRD/ESRS Regime
+### The CSRD/ESRS Definition
 
-Under the [[CSRD]], double materiality is a regulatory requirement. Companies subject to the directive must disclose:
+Under the CSRD, adopted in 2023, organisations are required to report on two distinct but related dimensions of materiality [[csrd]]:
 
-1. **[[Financial materiality]]** — the effect of sustainability factors on the organisation's financial position, performance, and cash flows; and
-2. **[[Impact materiality]]** — the organisation's own effects on people and the environment.
+- **Financial materiality** ([[financial materiality]]): the effect of sustainability factors on the organisation's financial position, performance, and prospects.
+- **Impact materiality** ([[impact materiality]]): the organisation's own effects on people and the environment.
 
-[[ESRS]] codifies this dual requirement operationally. Reporting entities must conduct a formal [[Double Materiality Assessment]] (DMA), evaluating both lenses across all material sustainability topics before determining what to disclose [[esrs]]. The DMA is therefore a mandatory procedural step, not a discretionary exercise.
+The [[European Sustainability Reporting Standards]] (ESRS) embed this dual lens structurally. ESRS defines [[double materiality]] as the requirement to evaluate and disclose both dimensions, and treats their combination as the defining feature that distinguishes ESRS from single-materiality standards [[esrs]]. This is not a voluntary choice: for organisations in scope of the CSRD, reporting under both dimensions is a legal obligation from January 2024 [[csrd]].
 
-### The GRI Framework
+### The GRI Approach
 
-The [[GRI]] Standards 2021 edition are grounded in the concept that organisations should disclose how their activities impact people and the planet across economic, environmental, and social themes [[gri]]. This is structurally equivalent to the "impact materiality" limb of double materiality. GRI is designed for broad stakeholder accountability and is considered most appropriate for organisations seeking wide impact disclosure [[gri]]. While GRI does not impose the financial-materiality limb as a formal requirement in the same regulatory sense as ESRS, its design logic—centred on outward impacts—overlaps substantially with that limb of the ESRS/CSRD framework.
+The [[Global Reporting Initiative]] (GRI), first published in 1997 and currently operating under the GRI Standards 2021 edition, is the most widely adopted sustainability reporting framework in the world [[gri]]. GRI focuses primarily on how an organisation's activities impact people and the planet across economic, environmental, and social themes, and is designed for broad stakeholder accountability [[gri]]. Although GRI's orientation is predominantly impact-facing—aligned with what ESRS would term impact materiality—it is considered interoperable or complementary with other frameworks, including those with a financial materiality dimension [[gri]].
+
+---
+
+## Operationalisation: How Each Regime Puts Double Materiality Into Practice
+
+### The Double Materiality Assessment Under ESRS
+
+ESRS-reporting entities must conduct a formal [[Double Materiality Assessment]] (DMA), a structured process that evaluates:
+
+1. The financial effects of sustainability matters on the enterprise (financial materiality lens); and
+2. The enterprise's effects on society and the environment (impact materiality lens) [[esrs]].
+
+This assessment gates the entire ESRS disclosure process: topics are reported on only where they are material under one or both lenses, meaning the DMA shapes the scope and content of the full sustainability report.
+
+### GRI: Impact Disclosure as the Primary Lens
+
+GRI's framework is oriented around reporting on impacts on people and the planet, which corresponds most closely to the impact materiality dimension of the ESRS double materiality construct [[gri]]. GRI adoption is voluntary, and the framework is designed to be used by organisations across sectors and geographies seeking accountability to a broad set of stakeholders [[gri]]. Because GRI does not mandate a parallel financial materiality assessment in the same way ESRS does, it occupies a different position on the materiality spectrum—broad impact disclosure rather than the dual-lens regime required by EU law.
 
 ---
 
 ## Comparative Overview
 
+The table below summarises how the two regimes approach the key dimensions of double materiality.
+
 | Dimension | CSRD/ESRS | GRI |
 |---|---|---|
-| Legal status | Mandatory (EU large/listed companies from Jan 2024) | Voluntary |
-| Financial materiality required? | Yes — explicit regulatory requirement | Not a formal requirement |
-| Impact materiality required? | Yes — explicit regulatory requirement | Yes — core design logic |
-| Formal DMA process mandated? | Yes | No equivalent mandatory process |
-| Primary audience | EU regulators, investors, value-chain partners | Broad multi-stakeholder audiences |
-| Interoperability | Mapped to VSME; broader EU regulatory architecture | Designed to be interoperable with other frameworks |
+| **Legal status** | Mandatory for qualifying EU companies from January 2024 [[csrd]] | Voluntary [[gri]] |
+| **Financial materiality** | Explicitly required; sustainability factors' effects on the enterprise [[esrs]] | Not a primary structural requirement |
+| **Impact materiality** | Explicitly required; enterprise's effects on people and the environment [[esrs]] | Primary orientation; impacts on people and the planet [[gri]] |
+| **Formal assessment process** | Mandatory Double Materiality Assessment (DMA) [[esrs]] | Materiality process guided by standards; no equivalent mandatory DMA |
+| **Stakeholder orientation** | Investors and affected stakeholders; integrated disclosure [[esrs]] | Multi-stakeholder, broad accountability [[gri]] |
+| **Interoperability** | ESRS structurally aligned with VSME; acknowledgement of complementary frameworks [[esrs]] | Designed to be interoperable or complementary with other frameworks [[gri]] |
+| **Thematic scope** | Full ESG scope: climate, pollution, water, biodiversity, workforce, communities, business conduct, etc. [[esrs]] | Economic, environmental, and social themes [[gri]] |
 
 ---
 
-## Scope of Thematic Coverage
+## Where the Regimes Overlap
 
-The [[ESRS]] specifies the topics across which double materiality must be assessed, including climate change and energy, pollution, water use and marine resources, biodiversity and ecosystems, resource use and [[circular economy]], own workforce, workers in the value chain, affected communities, consumers and end-users, and business conduct [[esrs]]. This breadth reflects the full [[ESG]] (Environmental, Social, and Governance) scope mandated by the [[CSRD]] [[csrd]].
+The impact materiality dimension of ESRS shares substantial conceptual common ground with GRI's foundational orientation. Both require organisations to identify and disclose how their activities affect people and the environment, making GRI-aligned reporting a meaningful—if not legally sufficient—input into an ESRS impact materiality assessment. GRI's explicit positioning as interoperable and complementary with other frameworks [[gri]] reinforces this potential for alignment.
 
-The [[GRI]] framework similarly spans economic, environmental, and social themes, covering impact disclosure across sectors and geographies [[gri]]. The thematic overlap between the two regimes is substantial, which is why GRI is considered complementary and interoperable with other frameworks [[gri]].
-
----
-
-## Operationalisation: How Each Regime Translates the Concept into Practice
-
-### CSRD/ESRS: Mandatory Assessment and Structured Disclosure
-
-The [[CSRD]] converts the double materiality principle into an enforceable legal obligation. The [[ESRS]] then provides the technical architecture: companies must conduct a [[Double Materiality Assessment]] that systematically evaluates sustainability matters from both the financial and impact perspectives before reporting [[esrs]]. The standards structure this through topic-specific chapters (e.g., E1 for climate change, S1 for own workforce), giving reporting entities a defined map of what must be assessed [[esrs]].
-
-The mandatory nature of this process has downstream consequences. Even small and medium-sized enterprises (SMEs) that are not directly obligated by the [[CSRD]] face indirect pressure, because large CSRD-obligated companies require sustainability data from their supply chains [[csrd]]. This demand drove the development of the [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) by the European Financial Reporting Advisory Group (EFRAG), whose basic and extended module chapters are mapped directly to ESRS topic areas to ensure alignment [[esrs]].
-
-### GRI: Voluntary but Structurally Aligned
-
-The [[GRI]] framework operationalises impact-focused materiality through voluntary adoption, relying on organisations' commitment to stakeholder accountability rather than regulatory compulsion [[gri]]. Because GRI is designed to be interoperable and complementary with other frameworks, organisations already reporting under GRI have a foundation that aligns with the impact materiality limb of ESRS, even if they have not yet conducted a formal DMA [[gri]].
+The CSRD, for its part, situates double materiality reporting within the EU's broader regulatory architecture, including the European Green Deal, the Sustainable Finance Disclosure Regulation (SFDR), the Paris Agreement, and the United Nations (UN) Sustainable Development Goals (SDGs) [[csrd]]—many of which also underpin GRI's conceptual foundations.
 
 ---
 
-## Where the Regimes Overlap and Diverge
+## Operationalisation Challenges and Downstream Effects
 
-**Overlap:** Both regimes require organisations to look outward—assessing and disclosing impacts on people and the environment. This shared "impact materiality" logic means that robust GRI reporting provides meaningful groundwork for the impact side of an ESRS-mandated DMA [[gri]] [[esrs]].
+### Supply Chains and SMEs
 
-**Divergence — financial materiality:** The [[CSRD]]/[[ESRS]] regime explicitly and legally requires organisations to also assess how sustainability factors affect the organisation itself (financial materiality), making the assessment genuinely "double" in a formal sense [[csrd]] [[esrs]]. The [[GRI]] framework does not impose this as a formal requirement, though it does not preclude it [[gri]].
+The CSRD's mandatory double materiality requirement creates significant downstream information demands. Large CSRD-obligated companies require sustainability data from their supply chains, indirectly pressuring small and medium-sized enterprises (SMEs)—whether raw-material suppliers, semi-finished-goods producers, manufacturers, or distributors—to disclose sustainability information [[csrd]]. This dynamic drove the European Financial Reporting Advisory Group's (EFRAG's) development of the [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) in 2024, a proportionate counterpart to the ESRS whose modules map directly to ESRS topic areas [[esrs]].
 
-**Divergence — procedural formality:** Under ESRS, the DMA is a mandatory, structured process whose outputs determine the scope of mandatory disclosures [[esrs]]. GRI offers no equivalent mandatory procedural step; materiality under GRI is guided by the framework's principles but left more to organisational judgment [[gri]].
+GRI, being voluntary and globally applicable, does not create equivalent mandatory downstream pressures, though its widespread adoption means that GRI-reporting suppliers may already be producing impact disclosures that are partially responsive to ESRS impact materiality requirements.
 
-**Divergence — jurisdictional reach:** The [[CSRD]] applies directly to companies operating within the EU, though its influence extends extraterritorially through supply chain relationships [[csrd]]. GRI is a global voluntary standard with no jurisdictional boundary, used by organisations across sectors and geographies [[gri]].
+### Extraterritorial Reach
+
+While CSRD applies directly to EU-operating companies, its double materiality requirements extend de facto beyond EU borders through supply chain relationships [[csrd]]. Businesses in countries such as Bosnia and Herzegovina face indirect pressure to meet CSRD-aligned disclosure expectations despite having no direct legal obligation [[csrd]]. GRI, by contrast, is adopted voluntarily across sectors and geographies as a tool for stakeholder accountability [[gri]], meaning non-EU organisations may find GRI a pragmatic entry point toward meeting the impact materiality dimension of CSRD expectations.
 
 ---
 
-## Practical Implications for Multi-Framework Reporters
+## Summary
 
-Organisations that report under both GRI and ESRS can leverage the structural overlap between the two regimes' impact-materiality logic, but must supplement GRI-based practices with the formal DMA process and financial-materiality analysis that the [[CSRD]]/[[ESRS]] regime requires [[esrs]] [[gri]]. The interoperability of GRI with other frameworks [[gri]], combined with ESRS's structured topic map [[esrs]], creates a viable path for organisations seeking to satisfy both voluntary stakeholder accountability and mandatory EU regulatory obligations through a single integrated reporting effort.
+Double materiality under CSRD/ESRS is a legally mandated, dual-lens framework requiring a formal Double Materiality Assessment covering both financial effects on the enterprise and the enterprise's effects on society and the environment [[esrs]]. GRI, while not formally structured around the financial materiality dimension, is the world's most widely adopted impact-disclosure framework and is conceptually aligned with the impact materiality component of ESRS [[gri]]. The two regimes are not mutually exclusive: GRI's interoperability orientation [[gri]] and ESRS's acknowledgement of complementary standards [[esrs]] create meaningful space for organisations to use GRI-informed impact reporting as a foundation upon which the additional financial materiality layer required by EU law can be built.
 
 ---
 
@@ -87,3 +95,5 @@ Organisations that report under both GRI and ESRS can leverage the structural ov
 - [[Corporate Sustainability Reporting Directive]]
 - [[European Sustainability Reporting Standards]]
 - [[Global Reporting Initiative]]
+- [[Double Materiality Assessment]]
+- [[Voluntary Sustainability Reporting Standard for SMEs]]

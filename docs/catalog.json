@@ -56,6 +56,7 @@
       "Continuous Integration and Continuous Deployment (CI/CD)",
       "Corporate Law",
       "Corporate Social Responsibility",
+      "Corporate Social Responsibility (CSR)",
       "Corporate Sustainability Due Diligence Directive",
       "Corporate Sustainability Due Diligence Directive (CSDDD)",
       "Corporate Sustainability Reporting Directive",
@@ -106,6 +107,7 @@
       "Environmental, Social, and Governance (ESG) Auditing",
       "European Financial Reporting Advisory Group",
       "European Green Deal",
+      "European Single Access Point",
       "European Sustainability Reporting Standards",
       "European Sustainability Reporting Standards (ESRS)",
       "Expected Lifespan",
@@ -114,6 +116,7 @@
       "Feature Engineering",
       "FinOps",
       "Financial Materiality",
+      "Financial Reporting",
       "Forced Labour Regulation (FLR)",
       "Frontend Developer",
       "Functional Equivalence",
@@ -189,6 +192,8 @@
       "Principles for Responsible Investment",
       "Provider",
       "Provider Boundary",
+      "Qualitative Information",
+      "Quantitative Information",
       "Reasonable Assurance",
       "Region-Shifting",
       "Region-Specific Carbon Intensity",
@@ -206,6 +211,7 @@
       "SDG–CSRD–ESRS Alignment Matrix",
       "SFDR",
       "SME",
+      "SMEs",
       "Science-Based Target",
       "Science-Based Targets",
       "Science-Based Targets Initiative (SBTi)",
@@ -222,8 +228,10 @@
       "Software Carbon Intensity (SCI)",
       "Software Carbon Intensity for Web (SCI for Web)",
       "Stakeholder Engagement",
+      "Stakeholder Theory",
       "Subscribing Country",
       "Supply Chain Due Diligence",
+      "Sustainability Management",
       "Sustainability Reporting",
       "Sustainability Statement",
       "Sustainability-related information",
@@ -251,6 +259,7 @@
       "Value chain",
       "Voluntary Standard for Small and Medium-sized Enterprises",
       "Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises",
+      "Voluntary Template",
       "Water and Marine Resources",
       "Web Application",
       "Whistleblower",
@@ -441,6 +450,24 @@
     ]
   },
   {
+    "title": "reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira/",
+    "wikilinks": [
+      "Circular Economy",
+      "Corporate Social Responsibility (CSR)",
+      "Environmental, Social, and Governance (ESG)",
+      "Greenwashing",
+      "Stakeholder Theory",
+      "Sustainable Development Goals (SDGs)",
+      "Systems Theory"
+    ]
+  },
+  {
     "title": "reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md",
     "summary": "",
     "content_type": "report",
@@ -502,6 +529,21 @@
       "gepaste zorgvuldigheid",
       "international corporate social responsibility",
       "ketenverantwoordelijkheid"
+    ]
+  },
+  {
+    "title": "reports/2026/efrag-final-assessment-report-web.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/efrag-final-assessment-report-web/",
+    "wikilinks": [
+      "European Single Access Point",
+      "Financial Reporting",
+      "Small and Medium-Sized Enterprises",
+      "Sustainability Reporting"
     ]
   },
   {
@@ -646,6 +688,42 @@
       "gender pay gap",
       "key performance indicators"
     ]
+  },
+  {
+    "title": "reports/2026/strategic-sustainability-communication.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/strategic-sustainability-communication/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/strategic_management_for_sustainability.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/strategic_management_for_sustainability/",
+    "wikilinks": [
+      "Natural Resource-Based View",
+      "Resource-Based View",
+      "Sustainable Development Goals",
+      "Triple Bottom Line",
+      "Value Creation"
+    ]
+  },
+  {
+    "title": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026/",
+    "wikilinks": []
   },
   {
     "title": "reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md",
@@ -794,19 +872,10 @@
     "generated": true,
     "url": "insights/climate-disclosure-across-frameworks/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
       "Double materiality",
-      "EU Taxonomy Regulation",
       "European Sustainability Reporting Standards",
-      "European Sustainability Reporting Standards (ESRS)",
-      "Greenhouse Gas Protocol (GHG Protocol)",
-      "Scope 3 emissions",
-      "Sustainable Finance Disclosure Regulation (SFDR)",
-      "Task Force on Climate-Related Financial Disclosures (TCFD)",
       "Voluntary Sustainability Reporting Standard for SMEs",
-      "Voluntary Sustainability Reporting Standard for SMEs (VSME)",
-      "climate neutrality",
       "double materiality",
       "esrs",
       "eu-taxonomy",
@@ -828,14 +897,14 @@
       "Corporate Sustainability Reporting Directive",
       "Double Materiality Assessment",
       "European Sustainability Reporting Standards",
-      "Financial materiality",
       "Global Reporting Initiative",
-      "Impact materiality",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "csrd",
       "double materiality",
       "esrs",
-      "gri"
+      "financial materiality",
+      "gri",
+      "impact materiality"
     ]
   },
   {
@@ -847,12 +916,15 @@
     "generated": true,
     "url": "insights/the-sme-reporting-pathway/",
     "wikilinks": [
+      "CSRD",
       "Corporate Sustainability Reporting Directive",
       "Double Materiality Assessment",
-      "European Sustainability Reporting Standards",
+      "ESRS",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "csrd",
       "esrs",
+      "financial materiality",
+      "impact materiality",
       "vsme"
     ]
   }

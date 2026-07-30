@@ -2,134 +2,159 @@
 title: Ontology
 content_type: model
 generated: true
-date_updated: 2026-07-29
+date_updated: 2026-07-30
 ---
 
 # Ontology: EU Sustainability Reporting Knowledge Base
 
-- **SustainabilityReportingEntity** (any organisation subject to or engaging with sustainability reporting obligations)
-  - **LargeOrListedCompany** (EU company mandated under CSRD from January 2024)
-    - Instance examples: CSRD-obligated EU enterprises, listed firms
-  - **SmallAndMediumEnterprise (SME)** (organisation not directly captured by CSRD but facing indirect supply-chain pressure)
-    - Instance examples: Bordvol (fictionalised tableware/crockery retailer), SME raw-material suppliers, semi-finished-goods producers
-  - **MultinationalEnterprise** (enterprise operating across borders, subject to OECD Guidelines)
-    - Instance examples: enterprises covered by Dutch NCP guidance
+- **ReportingEntity** (any organisation subject to or engaging with sustainability reporting obligations)
+  - **LargeUndertaking** (EU company meeting size thresholds subject to mandatory CSRD obligations)
+    - Instance examples: CSRD-obligated companies from January 2024
+  - **SmallAndMediumEnterprise** (organisation below large-undertaking thresholds; not directly obligated under CSRD)
+    - Instance examples: Bordvol (fictionalised SME evaluating VSME adoption)
+  - **MultinationalEnterprise** (enterprise operating across borders subject to OECD Guidelines)
+    - Instance examples: enterprises subject to Dutch NCP guidance
 
 ---
 
-- **RegulatoryInstrument** (binding or recommended legal act establishing sustainability obligations)
-  - **EUDirective** (legally binding EU legislative act)
-    - **CorporateSustainabilityReportingDirective (CSRD)** (EU directive mandating sustainability reporting for large and listed companies from January 2024)
-      - Instance examples: CSRD mandatory disclosure regime
-    - **EUTaxonomyRegulation** (EU regulation classifying environmentally sustainable economic activities)
-      - Instance examples: classification of activities as environmentally sustainable
-  - **InternationalGuidelines** (government-backed intergovernmental recommendations)
-    - **OECDGuidelinesForMultinationalEnterprises** (2011 OECD recommendations on responsible business conduct covering human rights, labour, environment, anti-corruption)
-      - Instance examples: Dutch NCP Six-Step Due Diligence Framework
-    - **UNGuidingPrinciplesOnBusinessAndHumanRights (UNGPs)** (UN Human Rights Council 2011 framework on state duties and business responsibilities)
-      - Instance examples: UNGPs endorsed 2011
-  - **UNAgenda** (universal plan of action adopted by UN member states)
-    - **2030AgendaForSustainableDevelopment** (UN 2015 plan establishing the 17 SDGs as the global framework for sustainable development through 2030)
-      - Instance examples: SDG-CSRD-ESRS matrix
+- **RegulatoryInstrument** (a legally binding rule, directive, or regulation enacted by a competent authority)
+  - **EUDirective** (EU legislative act requiring member-state transposition)
+    - **CorporateSustainabilityReportingDirective** (EU directive mandating sustainability reporting for large and listed companies from January 2024)
+      - Instance examples: CSRD (2023), source: Climate Disclosure Across Frameworks; The SME Reporting Pathway; Double Materiality Across Regimes
+  - **EURegulation** (directly applicable EU legislative act)
+    - **EUTaxonomyRegulation** (EU regulation classifying environmentally sustainable economic activities; part of Sustainable Finance architecture)
+      - Instance examples: EU Taxonomy, source: Climate Disclosure Across Frameworks
+    - **ConflictMineralsRegulation** (EU regulation mandating supply-chain due diligence for 3TG minerals)
+      - Instance examples: CMR, source: Glossary
+    - **SustainableFinanceDisclosureRegulation** (EU regulation requiring financial-product sustainability disclosures)
+      - Instance examples: SFDR, source: Climate Disclosure Across Frameworks
 
 ---
 
-- **ReportingStandard** (structured technical standard or specification defining how to measure and disclose sustainability information)
-  - **EuropeanSustainabilityReportingStandards (ESRS)** (EU standards published 2023 operationalising CSRD; require double materiality assessment)
-    - **ESRSTopicE1** (climate change and energy topic within ESRS)
-      - Instance examples: VSME chapters B2, C2, B3, C3, C4 mapped to E1
-  - **VoluntarySustainabilityReportingStandardForSMEs (VSME)** (proportionate voluntary standard published by EFRAG 2024, mapped to ESRS topics)
-    - **VSMEBasicModule** (core disclosures covering main sustainability themes; entry point for SMEs)
-      - Instance examples: SMEs new to reporting
-    - **VSMEExtendedModule** (additional depth for more advanced SME reporters)
-      - Instance examples: SMEs with more advanced reporting capacity
-  - **GHGProtocol** (technical standard for greenhouse gas emissions accounting underpinning other frameworks)
-    - **Scope1Emissions** (direct emissions from owned or controlled sources)
-    - **Scope2Emissions** (indirect emissions from purchased energy)
-    - **Scope3Emissions** (all other indirect value-chain emissions)
-  - **SoftwareCarbonIntensitySpecification (SCI)** (ISO/IEC 21031:2024 methodology quantifying operational carbon intensity of software systems)
-    - **SCIforAISpecification** (Green Software Foundation extension of SCI to AI systems across lifecycle stages)
-      - Instance examples: ML, generative AI, agentic AI carbon accounting
-  - **ConflictMineralsRegulation (CMR)** (mandatory supply chain due diligence regulation for 3TG minerals)
-    - Instance examples: tin, tantalum, tungsten, gold (3TG)
+- **ReportingStandard** (a normative document specifying what and how organisations must or should disclose)
+  - **MandatoryStandard** (standard with regulatory enforcement mechanism)
+    - **EuropeanSustainabilityReportingStandards** (standards developed by EFRAG under CSRD; mandatory for large undertakings; operationalise double materiality)
+      - Instance examples: ESRS (2023), ESRS E1 (climate change and energy), source: Climate Disclosure Across Frameworks; The SME Reporting Pathway; Double Materiality Across Regimes
+  - **VoluntaryStandard** (standard with no regulatory enforcement mechanism)
+    - **VoluntarySustainabilityReportingStandardForSMEs** (EFRAG standard providing proportionate, ESRS-aligned sustainability reporting for SMEs; published 2024)
+      - Instance examples: VSME Basic Module, VSME Extended Module, VSME chapters B2/C2/B3/C3/C4, source: Climate Disclosure Across Frameworks; The SME Reporting Pathway
+    - **GHGProtocol** (WRI/WBCSD voluntary methodology standard for measuring Scope 1, 2, and 3 emissions)
+      - Instance examples: GHG Protocol, source: Climate Disclosure Across Frameworks
+    - **SoftwareCarbonIntensitySpecification** (Green Software Foundation / ISO IEC 21031:2024 methodology for measuring carbon intensity of software systems)
+      - Instance examples: SCI v1.1.0; SCI for AI Specification, source: reports\2026\green-software-foundation--sci-for-ai-specification.md; Glossary
 
 ---
 
-- **ReportingFramework** (voluntary or market-driven framework structuring sustainability disclosure)
-  - **GlobalReportingInitiative (GRI)** (voluntary framework first published 1997, 2021 edition; focuses primarily on impact materiality across economic, environmental, social themes)
-    - Instance examples: broad multi-stakeholder accountability reporting
-  - **TaskForceOnClimateRelatedFinancialDisclosures (TCFD)** (market/regulatory framework launched 2017 structuring climate disclosure around four pillars)
-    - **TCFDPillar_Governance** (disclosure of board and management oversight of climate risks)
-    - **TCFDPillar_Strategy** (disclosure of climate risks and opportunities and their strategic implications)
-    - **TCFDPillar_RiskManagement** (disclosure of processes for identifying and managing climate risks)
-    - **TCFDPillar_MetricsAndTargets** (disclosure of metrics and targets used to assess climate-related risks and opportunities)
-      - Instance examples: mandatory for listed firms in UK, Japan, New Zealand
-  - **UNSustainableDevelopmentGoals (SDGs)** (17 goals established under the 2030 Agenda providing overarching global framework for sustainable development)
-    - Instance examples: SDG-CSRD-ESRS alignment matrix
+- **ReportingFramework** (a structured set of principles and guidance for sustainability disclosure, typically voluntary)
+  - **TCFD** (Task Force on Climate-Related Financial Disclosures; voluntary for SMEs; focuses on climate-related financial risk under four pillars)
+    - Instance examples: TCFD (Financial Stability Board, 2017), source: Climate Disclosure Across Frameworks
+  - **GlobalReportingInitiative** (multi-stakeholder voluntary framework centred on outward impact disclosure for broad stakeholder accountability)
+    - Instance examples: GRI Standards 2021 edition, source: Double Materiality Across Regimes
+  - **UNSustainableDevelopmentGoals** (seventeen goals constituting the overarching global framework for sustainable development through 2030)
+    - Instance examples: 2030 Agenda for Sustainable Development (adopted 2015), source: Glossary
+  - **OECDGuidelinesForMultinationalEnterprises** (government-backed recommendations for responsible business conduct covering human rights, employment, environment, anti-corruption; last revised 2011)
+    - Instance examples: OECD Guidelines (2011), source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+  - **UNGuidingPrinciplesOnBusinessAndHumanRights** (UN framework articulating state duties and business responsibilities regarding human rights; endorsed 2011)
+    - Instance examples: UNGPs (2011), source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
 
 ---
 
-- **MaterialityFramework** (conceptual structure for determining what sustainability information is significant enough to disclose)
+- **MaterialityFramework** (a conceptual and procedural approach for determining what sustainability topics are significant enough to disclose)
   - **DoubleMateriality** (requirement to assess both financial materiality and impact materiality)
-    - **FinancialMateriality** (effect of sustainability matters on an organisation's financial position, performance, and cash flows)
-      - Instance examples: ESRS required lens, TCFD primary orientation
-    - **ImpactMateriality** (organisation's positive or negative effects on people and the environment)
-      - Instance examples: ESRS required lens, GRI primary orientation
-  - **DoubleMaterialityAssessment (DMA)** (formal process under ESRS/CSRD by which organisations assess both materiality dimensions)
-    - Instance examples: required for large companies under CSRD/ESRS
+    - Instance examples: CSRD/ESRS double materiality requirement, source: Double Materiality Across Regimes; Climate Disclosure Across Frameworks
+    - **FinancialMateriality** (assessment of how sustainability factors affect the organisation's own financial position, performance, and cash flows)
+      - Instance examples: ESRS financial materiality limb, source: Double Materiality Across Regimes
+    - **ImpactMateriality** (assessment of how the organisation's activities affect people and the environment)
+      - Instance examples: ESRS impact materiality limb; GRI impact logic, source: Double Materiality Across Regimes
+  - **DoubleMaterialityAssessment** (mandatory formal procedural step under ESRS/CSRD evaluating both materiality lenses across all material sustainability topics before determining disclosures)
+    - Instance examples: DMA process, source: Climate Disclosure Across Frameworks; Double Materiality Across Regimes; The SME Reporting Pathway
+  - **SimplifiedMaterialityProcess** (proportionate materiality process applicable to SMEs under VSME, not requiring a full DMA)
+    - Instance examples: VSME materiality process, source: The SME Reporting Pathway
 
 ---
 
-- **DueDiligenceProcess** (continuous process for identifying, ceasing, preventing, and mitigating adverse impacts on human rights, labour rights, and the environment)
-  - **OECDSixStepFramework** (operationalisation of due diligence published by Dutch NCP)
-    - **Step1_IntegrateCSRPolicy** (develop, endorse, publish, and embed a CSR policy based on OECD Guidelines)
-    - **Step2_IdentifyAdverseImpacts** (conduct CSR risk analysis mapping activities and relationships)
-    - **Step3_CeasePreventMitigate** (act on identified impacts)
-    - **Step4_MonitorImplementation** (track effectiveness of due diligence measures)
-    - **Step5_Communicate** (report externally on due diligence)
-    - **Step6_Remediate** (provide remedy where adverse impacts have occurred)
-      - Instance examples: Dutch NCP guidance, September 2021
-  - **AdverseImpact** (negative effect on human rights, labour rights, or the environment caused by or linked to an enterprise)
-    - Instance examples: negative human rights impacts, environmental harm in value chains
-  - **Remediation** (corrective action taken to address adverse impacts that have occurred)
+- **DueDiligenceProcess** (a continuous process through which enterprises identify, cease, prevent, and mitigate adverse impacts on human rights, labour rights, and the environment)
+  - **OECDSixStepFramework** (operationalisation of due diligence into six sequential and iterative steps published by the Dutch NCP)
+    - Instance examples: Due Diligence in 6 Stappen (Dutch NCP, September 2021), source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+    - **Step1_IntegrateCSRPolicy** (develop, endorse, publish and embed a CSR policy into management systems and communicate to suppliers)
+      - Instance examples: CSR policy integration step, source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+    - **Step2_IdentifyAndAssessAdverseImpacts** (conduct CSR risk analysis mapping business activities and relationships for actual or potential adverse impacts)
+      - Instance examples: CSR risk analysis step, source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+  - **InternationalCorporateSocialResponsibility** (overarching concept of responsible enterprise behaviour embedding due diligence obligations)
+    - Instance examples: ICSR, source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
 
 ---
 
-- **SupplyChainConcept** (concept relating to the network of entities involved in producing and delivering a product or service)
-  - **ValueChain** (full upstream and downstream chain of activities, relationships, and entities associated with an organisation's operations)
-    - Instance examples: SME suppliers to CSRD-obligated large companies
-  - **BusinessRelationship** (commercial or contractual relationship through which adverse impacts may be linked to an enterprise)
-  - **3TGMinerals** (tin, tantalum, tungsten, gold; subject to mandatory supply chain due diligence under CMR)
-    - Instance examples: conflict minerals in high-risk areas
+- **AdverseImpact** (a negative effect on human rights, labour rights, or the environment caused by, contributed to, or linked to an enterprise)
+  - **HumanRightsImpact** (adverse impact specifically affecting human rights or labour rights)
+    - Instance examples: impacts identified under UNGPs/OECD Guidelines, source: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md; Glossary
+  - **EnvironmentalImpact** (adverse impact on the natural environment)
+    - Instance examples: impacts identified under ESRS, OECD Guidelines, source: Glossary; Double Materiality Across Regimes
 
 ---
 
-- **SupportingOrganisation** (body providing standards, guidance, or oversight in the sustainability reporting ecosystem)
-  - **EFRAG** (European Financial Reporting Advisory Group; published VSME 2024, developed ESRS)
-    - Instance examples: VSME publisher, ESRS technical developer
-  - **GreenSoftwareFoundation** (publisher of SCI and SCI for AI specifications)
-    - Instance examples: SCI v1.1.0, SCI for AI Specification
-  - **DutchNationalContactPoint (NCP)** (Netherlands implementation body for OECD Guidelines; published six-step due diligence framework)
-    - Instance examples: Dutch NCP, Ministry of Foreign Affairs
-  - **EuropeanCommissionJRC** (Joint Research Centre; publisher of DigComp digital competence framework)
-    - Instance examples: DigComp 3.0, published 2025
+- **EmissionsMeasurementConcept** (a concept, unit, or method used to quantify greenhouse gas or carbon emissions)
+  - **GHGScope** (categorisation of emissions by source proximity to the reporting entity)
+    - **Scope1Emissions** (direct emissions from owned or controlled sources)
+      - Instance examples: GHG Protocol Scope 1, source: Climate Disclosure Across Frameworks
+    - **Scope2Emissions** (indirect emissions from purchased energy)
+      - Instance examples: GHG Protocol Scope 2, source: Climate Disclosure Across Frameworks
+    - **Scope3Emissions** (all other indirect value-chain emissions)
+      - Instance examples: GHG Protocol Scope 3, source: Climate Disclosure Across Frameworks
+  - **SoftwareCarbonIntensity** (metric normalising software-related carbon emissions against a functional unit, codified in ISO/IEC 21031:2024)
+    - Instance examples: SCI score, source: reports\2026\green-software-foundation--sci-for-ai-specification.md
+    - **FunctionalUnit** (chosen denominator against which SCI emissions are normalised)
+      - Instance examples: functional unit as defined in ISO/IEC 21031:2024, source: reports\2026\green-software-foundation--sci-for-ai-specification.md
+  - **CarbonAwareness** (practice of adjusting software energy use based on the carbon intensity of the electricity grid)
+    - Instance examples: carbon awareness action (SCI context), source: Glossary
+  - **EnergyEfficiency** (reducing the amount of energy consumed to perform a unit of work)
+    - Instance examples: software energy efficiency action (SCI context), source: Glossary
+  - **HardwareEfficiency** (reducing embodied and operational hardware resource consumption)
+    - Instance examples: hardware efficiency action (SCI context), source: Glossary
 
 ---
 
-- **DigitalCompetenceFramework** (framework describing knowledge, skills, and attitudes for digital competence)
-  - **DigComp3.0** (fifth edition of the European Digital Competence Framework, published 2025 by EC JRC)
-    - **DigCompCompetenceArea** (thematic grouping of digital competences within DigComp)
-      - Instance examples: information and data literacy, communication and collaboration, digital content creation, safety, problem-solving
-    - **DigCompProficiencyLevel** (gradation of digital competence from foundational to highly specialised)
-    - **DigCompLearningOutcomes** (new section in DigComp 3.0 providing granular, consistent interpretation of competences)
-      - Instance examples: Digital Skills Indicator (DSI) for EU Digital Decade Policy Programme
+- **AISystem** (a computational system applying machine learning, symbolic, probabilistic, or hybrid techniques to perform tasks)
+  - **MachineLearningSystem** (AI system learning patterns from data, including supervised, unsupervised, reinforcement, and deep learning)
+    - Instance examples: ML models addressed in SCI for AI Specification, source: reports\2026\green-software-foundation--sci-for-ai-specification.md
+  - **GenerativeAISystem** (AI system producing novel content such as text, images, video, music, or code)
+    - Instance examples: LLMs, image generators (SCI for AI Specification scope), source: reports\2026\green-software-foundation--sci-for-ai-specification.md
+  - **AgenticAISystem** (AI system characterised by autonomous decision-making)
+    - Instance examples: agentic AI (SCI for AI Specification scope), source: reports\2026\green-software-foundation--sci-for-ai-specification.md
+  - **SymbolicAI** (classical rule-based AI system)
+    - Instance examples: symbolic AI (SCI for AI Specification scope), source: reports\2026\green-software-foundation--sci-for-ai-specification.md
 
 ---
 
-- **AISystemConcept** (concept relating to artificial intelligence systems and their carbon accounting)
-  - **AIParadigm** (foundational approach or methodology underlying an AI system)
-    - Instance examples: Machine Learning, Symbolic AI, Probabilistic/Bayesian AI, Evolutionary Algorithms, Fuzzy Logic, Hybrid AI
-  - **GenerativeAI** (AI systems producing text, image, video, music, or code outputs)
-    - Instance examples: Large Language Models (LLMs), image generation, agentic AI
-  - **SciAction** (explicit outcome or change avoided, dependent on quantifiable emissions under the SCI specification)
-    - Instance examples: using less electricity, using electricity more intelligently, using less hardware
+- **DigitalCompetenceFramework** (a reference framework describing knowledge, skills, and attitudes required for digital competence)
+  - **DigComp** (European Digital Competence Framework published by the European Commission JRC)
+    - **DigComp3_0** (fifth edition published 2025; incorporates AI, cybersecurity, digital rights, misinformation; introduces learning outcomes approach)
+      - Instance examples: DigComp 3.0 (JRC/DG EMPL, 2025), source: reports\2026\jrc144121_01.md
+      - **CompetenceArea** (thematic grouping of individual digital competences within DigComp)
+        - Instance examples: Information and Data Literacy; Communication and Collaboration; Digital Content Creation; Safety; Problem-Solving, source: reports\2026\jrc144121_01.md
+      - **ProficiencyLevel** (structured gradation of digital competence from foundational to highly specialised)
+        - Instance examples: DigComp proficiency levels, source: reports\2026\jrc144121_01.md
+      - **LearningOutcome** (structured statement of what a learner knows, understands, and can do; introduced in DigComp 3.0)
+        - Instance examples: DigComp 3.0 learning outcomes section, source: reports\2026\jrc144121_01.md
+
+---
+
+- **SupplyChainConcept** (a concept relating to the network of upstream and downstream business relationships of an enterprise)
+  - **ValueChain** (full upstream and downstream network of business relationships through which an enterprise's products or services pass)
+    - Instance examples: ESRS value chain; OECD due diligence value chain, source: Glossary; reports\2026\due-diligence-in-6-stappen-nl-sep2021.md
+  - **3TGMinerals** (tin, tantalum, tungsten, and gold subject to mandatory supply-chain due diligence under the Conflict Minerals Regulation)
+    - Instance examples: conflict minerals (CMR), source: Glossary
+  - **AffectedStakeholders** (individuals or groups such as workers or local communities who bear risks from enterprise activities)
+    - Instance examples: affected stakeholders as defined in Glossary, source: Glossary
+
+---
+
+- **KnowledgeBaseArtifact** (a structured document or model produced within or ingested into the EurSuRA knowledge base)
+  - **SynthesisPage** (cross-domain insight page combining multiple standards around a practical reporting question; regenerated automatically)
+    - Instance examples: Climate Disclosure Across Frameworks; Double Materiality Across Regimes; The SME Reporting Pathway, source: Insights
+  - **GeneratedModel** (machine-generated structured representation of knowledge base content)
+    - Instance examples: Semantic Model; Concept Map; Ontology; Cross-Reference Matrix, source: Catalog
+  - **ReportPage** (auto-generated draft summary of an ingested source document)
+    - Instance examples: reports\2026\due-diligence-in-6-stappen-nl-sep2021.md; reports\2026\green-software-foundation--sci-for-ai-specification.md; reports\2026\jrc144121_01.md, source: Reports — 2026
+  - **Glossary** (centralised collection of defined terms linked across all knowledge base domains)
+    - Instance examples: EurSuRA Glossary, source: Glossary; Home

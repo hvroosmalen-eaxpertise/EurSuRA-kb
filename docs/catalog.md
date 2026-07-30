@@ -2,7 +2,7 @@
 title: Catalog
 content_type: model
 generated: true
-date_updated: 2026-06-15
+date_updated: 2026-07-30
 ---
 
 # Catalog
@@ -34,9 +34,11 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 ## report
 
 - [reports/2026/6-esg-reporting-frameworks.md](reports/2026/6-esg-reporting-frameworks.md)
+- [reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md](reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md)
 - [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md)
 - [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md)
 - [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
+- [reports/2026/efrag-final-assessment-report-web.md](reports/2026/efrag-final-assessment-report-web.md)
 - [reports/2026/esg-business-handbook.md](reports/2026/esg-business-handbook.md)
 - [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
 - [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md)
@@ -44,6 +46,9 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 - [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md)
 - [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md)
 - [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md)
+- [reports/2026/strategic-sustainability-communication.md](reports/2026/strategic-sustainability-communication.md)
+- [reports/2026/strategic_management_for_sustainability.md](reports/2026/strategic_management_for_sustainability.md)
+- [reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md](reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md)
 - [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md)
 - [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
 
