@@ -16,32 +16,58 @@ It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](http
 | **Glossary** | Definitions of all key terms |
 | **Reports** | Ingested source documents, summarised into draft pages (under [2026](docs/reports/2026/index.md)) |
 
-## Viewing the Wiki
+## Running the Wiki
 
-### Live site (GitHub Pages)
+There are two different commands and they are easy to confuse:
 
-The wiki is published automatically on every push to `master` at
-**<https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/>**. A machine-readable
-catalog of every page is served at
-[`/catalog.json`](https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/catalog.json).
+| Command | What it does | Keeps running? |
+|---|---|---|
+| `mkdocs serve` | Starts a local web **server** you browse | **Yes** — the service, leave it open |
+| `mkdocs build` | Compiles the static site into `site/` once | **No** — it finishes and exits |
 
-### Locally (development server)
+First-time setup — install the site dependencies once:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Start the wiki (live server)
+
+This is the command that **runs the wiki as a service**:
 
 ```bash
 python -m mkdocs serve --config-file mkdocs.yml
 ```
 
-Then open **http://127.0.0.1:8000** in your browser. The server reloads automatically when you edit any markdown file.
+It stays running and holds the terminal — open **http://127.0.0.1:8000** in your
+browser, and it live-reloads whenever you edit a page. Press **Ctrl+C** to stop it.
 
-### Built site
+To reach it from other devices on your network (phone, another PC), bind all
+interfaces and browse to `http://<this-machine-ip>:8000`:
 
-A pre-built version of the site is in the `site/` directory. Open `site/index.html` directly in a browser, or deploy the `site/` folder to any static hosting service (GitHub Pages, Azure Static Web Apps, etc.).
+```bash
+python -m mkdocs serve --config-file mkdocs.yml -a 0.0.0.0:8000
+```
 
-To rebuild after editing content:
+### Build the static site (compile once)
 
 ```bash
 python -m mkdocs build --config-file mkdocs.yml
 ```
+
+Unlike `serve`, this is a **one-shot build**: it renders the whole site into the
+`site/` directory and exits. The command returning to the prompt (e.g.
+`Documentation built in 32s`) means **success, not a crash** — there is no server
+to keep running. Open `site/index.html` directly, or deploy the `site/` folder to
+any static host (GitHub Pages, Azure Static Web Apps, etc.).
+
+### Live site (GitHub Pages)
+
+You usually don't need to run anything locally: the wiki is published
+automatically on every push to `master` at
+**<https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/>**. A machine-readable
+catalog of every page is served at
+[`/catalog.json`](https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/catalog.json).
 
 ### Diagrams (Mermaid)
 
