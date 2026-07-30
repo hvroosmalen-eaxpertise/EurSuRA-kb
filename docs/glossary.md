@@ -4516,7 +4516,7 @@ title: Glossary
 
 **Definition:** A standard developed by EFRAG to address the market's need for a common reference point for SMEs to respond to sustainability data requests from business partners.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -4564,7 +4564,7 @@ title: Glossary
 
 **Definition:** A tool developed by the EFRAG Secretariat to enable user-friendly data entry for SMEs, including auto-calculation of totals, validations, and consistency checks.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -4580,7 +4580,7 @@ title: Glossary
 
 **Definition:** A data model provided by EFRAG to digitize VSME disclosures, allowing reporting in various technical formats such as Inline XBRL, XBRL-XML, XBRL-JSON, and XBRL-CSV.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
