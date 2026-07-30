@@ -14,7 +14,7 @@ source_files:
 
 # European Sustainability Reporting Standards (ESRS)
 
-The European Sustainability Reporting Standards (ESRS) were developed under the European Union's Corporate Sustainability Reporting Directive (CSRD) and published in 2023, becoming mandatory for large and listed companies operating in the EU from January 2024.[^1] ESRS covers the full [[ESG]] scope, encompassing social, governance, and climate themes. A defining feature of ESRS is the requirement for [[double materiality]] reporting, under which companies must disclose both [[financial materiality]]—the effect of sustainability factors on the organisation's financial position—and [[impact materiality]]—the organisation's effects on people and the environment.[^1] ESRS applies specifically to organisations subject to EU regulatory requirements under the CSRD.
+The European Sustainability Reporting Standards (ESRS) were developed under the European Union's Corporate Sustainability Reporting Directive (CSRD) and published in 2023, becoming mandatory for large and listed companies operating in the EU from January 2024.[^1] ESRS covers the full [[ESG (Environmental, Social, and Governance)]] scope, encompassing social, governance, and climate themes. A defining feature of ESRS is the requirement for [[double materiality]] reporting, under which companies must disclose both [[financial materiality]]—the effect of sustainability factors on the organisation's financial position—and [[impact materiality]]—the organisation's effects on people and the environment.[^1] ESRS applies specifically to organisations subject to EU regulatory requirements under the CSRD.
 
 ## Thematic Coverage
 
@@ -41,7 +41,7 @@ The [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) was develope
 
 ## See Also
 
-- [[Corporate Sustainability Reporting Directive]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
 - [[Voluntary Sustainability Reporting Standard for SMEs]]
 - [[Double Materiality Assessment]]
 

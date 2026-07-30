@@ -139,8 +139,8 @@ The standard includes three appendices:[^33]
 
 ## See Also
 
-- [[European Sustainability Reporting Standards]]
-- [[Corporate Sustainability Reporting Directive]]
+- [[European Sustainability Reporting Standards (ESRS)]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
 - [[European Financial Reporting Advisory Group]]
 - [[Small and medium-sized enterprises]]
 - [[Greenhouse gas emissions reporting]]

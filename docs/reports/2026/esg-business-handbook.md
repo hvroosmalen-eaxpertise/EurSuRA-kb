@@ -93,8 +93,8 @@ The handbook presents case studies based on past winners of the UNDP SDG Busines
 
 ## See Also
 
-- [[Corporate Social Responsibility]]
-- [[Sustainable Development Goals]]
+- [[Corporate Social Responsibility (CSR)]]
+- [[Sustainable Development Goals (SDGs)]]
 - [[EU Corporate Sustainability Reporting Directive]]
 - [[Paris Agreement]]
 - [[Carbon Border Adjustment Mechanism]]

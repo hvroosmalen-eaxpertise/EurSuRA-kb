@@ -86,9 +86,9 @@ In response to the European Commission's Omnibus proposal — a regulatory initi
 
 ## See Also
 
-- [[Corporate Sustainability Reporting Directive]]
-- [[European Sustainability Reporting Standards]]
-- [[EFRAG]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[European Sustainability Reporting Standards (ESRS)]]
+- [[EFRAG (European Financial Reporting Advisory Group)]]
 - [[Small and Medium-sized Enterprises]]
 - [[XBRL]]
 - [[Key Performance Indicators]]

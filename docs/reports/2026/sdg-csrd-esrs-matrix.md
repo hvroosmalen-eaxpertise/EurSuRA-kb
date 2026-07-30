@@ -8,13 +8,13 @@ source_file: SDG-CSRD-ESRS matrix.pdf
 
 # SDG–CSRD–ESRS Alignment Matrix
 
-The **SDG–CSRD–ESRS Alignment Matrix** is a mapping framework developed by the [[European Financial Reporting Advisory Group]] (EFRAG) that cross-references the seventeen [[United Nations Sustainable Development Goals]] (SDGs) with the reporting requirements of the [[Corporate Sustainability Reporting Directive]] (CSRD) and the corresponding [[European Sustainability Reporting Standards]] (ESRS).[^1] The matrix identifies, for each SDG, the relevant ESRS topic, the anticipated corporate impact, recommended actions, and suggested indicators and [[key performance indicators]] (KPIs).[^1] The document was designated for internal use only at the time of its drafting.[^1]
+The **SDG–CSRD–ESRS Alignment Matrix** is a mapping framework developed by the [[European Financial Reporting Advisory Group]] (EFRAG) that cross-references the seventeen [[United Nations Sustainable Development Goals]] (SDGs) with the reporting requirements of the [[Corporate Sustainability Reporting Directive (CSRD)]] (CSRD) and the corresponding [[European Sustainability Reporting Standards (ESRS)]] (ESRS).[^1] The matrix identifies, for each SDG, the relevant ESRS topic, the anticipated corporate impact, recommended actions, and suggested indicators and [[Key Performance Indicators (ESG)]] (KPIs).[^1] The document was designated for internal use only at the time of its drafting.[^1]
 
 ---
 
 ## Background
 
-The [[Corporate Sustainability Reporting Directive]] is a European Union legislative instrument that requires large and listed companies to disclose information on their sustainability impacts, risks, and opportunities.[^1] The [[European Sustainability Reporting Standards]], developed by EFRAG, provide the technical standards underpinning CSRD disclosures, covering environmental, social, and governance (ESG) topics across a series of numbered standards.[^1] The [[United Nations Sustainable Development Goals]] constitute a set of seventeen interlinked global goals adopted by all UN member states in 2015 as part of the [[2030 Agenda for Sustainable Development]].[^1] The matrix seeks to operationalise the relationship between these three frameworks, enabling organisations to align their mandatory CSRD/ESRS reporting with voluntary SDG commitments.[^1]
+The [[Corporate Sustainability Reporting Directive (CSRD)]] is a European Union legislative instrument that requires large and listed companies to disclose information on their sustainability impacts, risks, and opportunities.[^1] The [[European Sustainability Reporting Standards (ESRS)]], developed by EFRAG, provide the technical standards underpinning CSRD disclosures, covering environmental, social, and governance (ESG) topics across a series of numbered standards.[^1] The [[United Nations Sustainable Development Goals]] constitute a set of seventeen interlinked global goals adopted by all UN member states in 2015 as part of the [[2030 Agenda for Sustainable Development]].[^1] The matrix seeks to operationalise the relationship between these three frameworks, enabling organisations to align their mandatory CSRD/ESRS reporting with voluntary SDG commitments.[^1]
 
 ---
 
@@ -98,8 +98,8 @@ SDG 17 is mapped to cooperation and partnerships requirements, corresponding to 
 
 ## See Also
 
-- [[European Sustainability Reporting Standards]]
-- [[Corporate Sustainability Reporting Directive]]
+- [[European Sustainability Reporting Standards (ESRS)]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
 - [[European Financial Reporting Advisory Group]]
 - [[United Nations Sustainable Development Goals]]
 - [[2030 Agenda for Sustainable Development]]

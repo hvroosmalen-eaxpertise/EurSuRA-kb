@@ -15,7 +15,7 @@ source_files:
 
 # Corporate Sustainability Reporting Directive
 
-The Corporate Sustainability Reporting Directive (CSRD) is the European Union (EU) regulatory instrument adopted in 2023 under which the [[European Sustainability Reporting Standards]] (ESRS) were developed. The CSRD made [[sustainability reporting]] mandatory for large and listed companies operating in the EU from January 2024.[^1] It established the requirement for [[double materiality]] reporting, compelling organisations to disclose both the financial effects of sustainability factors on their business and the impacts of their activities on people and the environment.[^1] The CSRD represents a significant expansion of mandatory sustainability disclosure obligations within the EU regulatory framework, and forms a central element of the EU's broader approach to [[ESG]] regulation.[^2]
+The Corporate Sustainability Reporting Directive (CSRD) is the European Union (EU) regulatory instrument adopted in 2023 under which the [[European Sustainability Reporting Standards (ESRS)]] (ESRS) were developed. The CSRD made [[sustainability reporting]] mandatory for large and listed companies operating in the EU from January 2024.[^1] It established the requirement for [[double materiality]] reporting, compelling organisations to disclose both the financial effects of sustainability factors on their business and the impacts of their activities on people and the environment.[^1] The CSRD represents a significant expansion of mandatory sustainability disclosure obligations within the EU regulatory framework, and forms a central element of the EU's broader approach to [[ESG (Environmental, Social, and Governance)]] regulation.[^2]
 
 The CSRD sits within a broader European regulatory architecture that includes the European Green Deal (2021) and the Sustainable Finance Disclosure Regulation (SFDR, 2021), and is itself part of a longer policy trajectory initiated by the Paris Agreement (2015) and the United Nations (UN) Sustainable Development Goals (SDGs, 2015).[^3]
 
@@ -31,10 +31,10 @@ Although the CSRD applies directly to companies operating within the EU, its inf
 
 ## See Also
 
-- [[European Sustainability Reporting Standards]]
+- [[European Sustainability Reporting Standards (ESRS)]]
 - [[Double Materiality]]
 - [[Non-Financial Reporting Directive]]
-- [[ESG]]
+- [[ESG (Environmental, Social, and Governance)]]
 - [[Voluntary Sustainability Reporting Standard for SMEs]]
 
 [^1]: EFRAG, *ESG Business Handbook* (2026).

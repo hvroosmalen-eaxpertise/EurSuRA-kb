@@ -8,7 +8,7 @@ date_updated: 2026-07-30
 
 # The SME Reporting Pathway: When VSME Applies Versus Full ESRS/CSRD
 
-Small and medium-sized enterprises (SMEs) operating in or alongside the EU market face a dual landscape: the mandatory [[Corporate Sustainability Reporting Directive]] (CSRD) regime, which directly obliges large and listed companies, and the voluntary [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) framework, which offers SMEs a proportionate, structured alternative. Although SMEs are not directly compelled by the CSRD, they face significant indirect pressure from it through supply-chain relationships, making the choice of reporting pathway a practical strategic decision rather than a purely academic one. Understanding when each regime applies, how they relate structurally, and what the transition between them looks like is essential for any SME navigating sustainability disclosure.
+Small and medium-sized enterprises (SMEs) operating in or alongside the EU market face a dual landscape: the mandatory [[Corporate Sustainability Reporting Directive (CSRD)]] (CSRD) regime, which directly obliges large and listed companies, and the voluntary [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME) framework, which offers SMEs a proportionate, structured alternative. Although SMEs are not directly compelled by the CSRD, they face significant indirect pressure from it through supply-chain relationships, making the choice of reporting pathway a practical strategic decision rather than a purely academic one. Understanding when each regime applies, how they relate structurally, and what the transition between them looks like is essential for any SME navigating sustainability disclosure.
 
 ---
 

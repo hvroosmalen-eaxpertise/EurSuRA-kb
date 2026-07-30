@@ -16,7 +16,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -54,35 +54,19 @@ title: Glossary
 
 ---
 
-### Adverse Impact
-
-**Definition:** A negative effect on human rights, labour rights, or the environment that is caused by, contributed to, or directly linked to an enterprise through its operations, products, services, or business relationships.
-
-**Domain:** General
-
-**Synonyms:** negative impact, harmful impact
-
-**Abbreviation:** none
-
-**Related terms:** [[Due Diligence]], [[CSR Risk Analysis]], [[Remediation]], [[Risk Prioritisation]], [[Business Relationship]]
-
-**Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
-
----
-
 ### Adverse Impacts
 
 **Definition:** Negative effects on human rights, the environment, or the climate that arise from a company's own operations or those of its value chain partners, and which companies are required to identify, prevent, mitigate, and remediate under EU due diligence legislation.
 
 **Domain:** General
 
-**Synonyms:** negative impacts, harm
+**Synonyms:** negative impact, harmful impact, negative impacts, harm
 
 **Abbreviation:** none
 
 **Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Remediation]], [[Value Chain]]
 
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
+**Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021 · EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
 
 ---
 
@@ -96,7 +80,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Adverse Impact]], [[CSR Risk Analysis]], [[Grievance Mechanism]], [[Due Diligence]]
+**Related terms:** [[Adverse Impacts]], [[CSR Risk Analysis]], [[Grievance Mechanism]], [[Due Diligence]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -208,7 +192,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[VSME]], [[Key Performance Indicators (VSME)]], [[Material Topic]]
+**Related terms:** [[VSME]], [[Key Performance Indicators (ESG)]], [[Material Topic]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
 
@@ -288,7 +272,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Adverse Impact]], [[Due Diligence]], [[Value Chain]], [[Ketenverantwoordelijkheid]]
+**Related terms:** [[Adverse Impacts]], [[Due Diligence]], [[Value Chain]], [[Ketenverantwoordelijkheid]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -320,7 +304,7 @@ title: Glossary
 
 **Abbreviation:** CO₂eq
 
-**Related terms:** [[Greenhouse Gas Emissions]], [[Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
+**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
 
 **Source:** SCI Specification v1.1.0, Terms and Definitions, Green Software Foundation / EFRAG, 2026
 
@@ -352,7 +336,7 @@ title: Glossary
 
 **Abbreviation:** CBAM
 
-**Related terms:** [[Carbon Leakage]], [[Paris Agreement]], [[Greenhouse Gas Emissions]], [[EU Taxonomy]]
+**Related terms:** [[Carbon Leakage]], [[Paris Agreement]], [[Greenhouse Gas Emissions (GHG Emissions)]], [[EU Taxonomy]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -384,7 +368,7 @@ title: Glossary
 
 **Abbreviation:** CDP
 
-**Related terms:** [[Task Force on Climate-Related Financial Disclosures]], [[Science-Based Targets]], [[Greenwashing]], [[ESG]]
+**Related terms:** [[Task Force on Climate-Related Financial Disclosures]], [[Science-Based Targets]], [[Greenwashing]], [[ESG (Environmental, Social, and Governance)]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Carbon Disclosure Project, 2026
 
@@ -400,7 +384,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse Gas Emissions]], [[Software Carbon Intensity]], [[Life Cycle Assessment]]
+**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Software Carbon Intensity]], [[Life Cycle Assessment]]
 
 **Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
 
@@ -432,7 +416,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Carbon Border Adjustment Mechanism]], [[Greenhouse Gas Emissions]], [[Paris Agreement]]
+**Related terms:** [[Carbon Border Adjustment Mechanism]], [[Greenhouse Gas Emissions (GHG Emissions)]], [[Paris Agreement]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -502,22 +486,6 @@ title: Glossary
 
 ---
 
-### Circular economy
-
-**Definition:** An economic model aimed at eliminating waste and the continual use of resources, addressed in VSME Basic Module disclosure B7 as part of reporting on resource use, circular economy and waste management by SMEs.
-
-**Domain:** ESRS
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Basic Module (VSME)]], [[Sustainability-related information]]
-
-**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B7), 2026
-
----
-
 ### Circular Economy (VSME)
 
 **Definition:** A sustainability topic addressed within the VSME standard, corresponding to ESRS chapter E5, that concerns the reduction of resource consumption, waste generation, and the extension of product and material lifecycles through reuse, repair, and recycling.
@@ -530,7 +498,7 @@ title: Glossary
 
 **Related terms:** [[VSME]], [[ESRS]], [[Material Topic]]
 
-**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+**Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B7), 2026 · Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
 
 ---
 
@@ -544,7 +512,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[ESRS E1]], [[Corporate Sustainability Reporting Directive]], [[United Nations Sustainable Development Goals]], [[key performance indicators]]
+**Related terms:** [[ESRS E1]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[United Nations Sustainable Development Goals]], [[Key Performance Indicators (ESG)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -560,7 +528,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse Gas Emissions]], [[Paris Agreement]], [[Environmental Standards]], [[Carbon Border Adjustment Mechanism]]
+**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Paris Agreement]], [[Environmental Standards]], [[Carbon Border Adjustment Mechanism]]
 
 **Source:** ESG Business Handbook.pdf, Background – Definition and Scope, 2026
 
@@ -688,7 +656,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[SMEs]], [[Voluntary Template]]
+**Related terms:** [[SMEs]], [[Voluntary Template (SMEs)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
 
@@ -832,57 +800,25 @@ title: Glossary
 
 **Abbreviation:** CR
 
-**Related terms:** [[Responsible Business Conduct]], [[Due Diligence (Responsible Business Conduct)]], [[Multinational Enterprise]], [[Sustainable Development]]
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Multinational Enterprise]], [[Sustainable Development]]
 
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Background, 2023
 
 ---
 
-### Corporate Social Responsibility
+### Corporate Social Responsibility (CSR)
 
 **Definition:** A voluntary business framework through which companies integrate social and environmental concerns into their operations and stakeholder interactions, characterised in the ESG context as a precursor to the regulated obligations now established under ESG standards.
 
 **Domain:** General
 
-**Synonyms:** CSR, corporate responsibility, corporate citizenship
-
-**Abbreviation:** CSR
-
-**Related terms:** [[Environmental, Social and Governance Standards]], [[UN Global Compact]], [[Sustainable Development Goals]]
-
-**Source:** ESG Business Handbook, Section: Evolution of ESG Standards, EFRAG, 2026-06-15
-
----
-
-### Corporate Social Responsibility (CSR)
-
-**Definition:** A concept that encompasses the role of business in addressing global challenges through ethical, social, and environmental practices.
-
-**Domain:** General
-
-**Synonyms:** Corporate Responsibility, Business Responsibility
+**Synonyms:** CSR, corporate responsibility, corporate citizenship, Corporate Responsibility, Business Responsibility
 
 **Abbreviation:** CSR
 
 **Related terms:** Strategic Sustainability Communication, Sustainability Management, Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)
 
-**Source:** Strategic Sustainability Communication, section 2.2, 2026
-
----
-
-### Corporate Sustainability Due Diligence Directive
-
-**Definition:** An EU directive requiring companies to identify, prevent, mitigate, and account for adverse human rights and environmental impacts in their own operations and across their supply chains.
-
-**Domain:** CSRD
-
-**Synonyms:** CSDDD, CS3D
-
-**Abbreviation:** CSDDD
-
-**Related terms:** [[UN Guiding Principles on Business and Human Rights]], [[Social Standards]], [[Corporate Sustainability Reporting Directive]], [[Supply Chain Due Diligence]]
-
-**Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
+**Source:** ESG Business Handbook, Section: Evolution of ESG Standards, EFRAG, 2026-06-15 · Strategic Sustainability Communication, section 2.2, 2026
 
 ---
 
@@ -892,17 +828,17 @@ title: Glossary
 
 **Domain:** CSRD
 
-**Synonyms:** none
+**Synonyms:** CSDDD, CS3D
 
 **Abbreviation:** CSDDD
 
 **Related terms:** [[Due Diligence]], [[OECD Six-Step Framework]], [[Value Chain]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+**Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15 · EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
 
 ---
 
-### Corporate Sustainability Reporting Directive
+### Corporate Sustainability Reporting Directive (CSRD)
 
 **Definition:** A European Union directive adopted in 2023 that extends mandatory sustainability reporting obligations to a broad range of large EU undertakings, requiring disclosure in accordance with the ESRS.
 
@@ -912,25 +848,9 @@ title: Glossary
 
 **Abbreviation:** CSRD
 
-**Related terms:** [[ESRS]], [[VSME]], [[SFDR]], [[Double Materiality Assessment]]
-
-**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
-
----
-
-### Corporate Sustainability Reporting Directive (CSRD)
-
-**Definition:** A directive that sets out the requirements for sustainability reporting by large companies in the EU, distinct from the VSME standard.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** CSRD
-
 **Related terms:** VSME, EFRAG, SME, XBRL
 
-**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15 · VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -992,7 +912,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Due Diligence]], [[Adverse Impact]], [[Risk Prioritisation]], [[Affected Stakeholders]]
+**Related terms:** [[Due Diligence]], [[Adverse Impacts]], [[Risk Prioritisation]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -1144,33 +1064,17 @@ title: Glossary
 
 ### Due Diligence
 
-**Definition:** A continuous process through which companies identify, prevent, limit, stop, and remediate risks to human rights and the environment and climate in their value chains, and account for the actions taken.
+**Definition:** A risk-based process through which enterprises identify, prevent, mitigate, and account for actual and potential adverse impacts on people, the environment, and society connected to their own operations, supply chains, and other business relationships.
 
 **Domain:** General
 
-**Synonyms:** corporate due diligence, responsible business conduct
+**Synonyms:** corporate due diligence, responsible business conduct, RBC Due Diligence
 
 **Abbreviation:** none
 
 **Related terms:** [[OECD Six-Step Framework]], [[Value Chain]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[Adverse Impacts]], [[Remediation]]
 
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026
-
----
-
-### Due Diligence (Responsible Business Conduct)
-
-**Definition:** A risk-based process through which enterprises identify, prevent, mitigate, and account for actual and potential adverse impacts on people, the environment, and society connected to their own operations, supply chains, and other business relationships.
-
-**Domain:** General
-
-**Synonyms:** RBC Due Diligence
-
-**Abbreviation:** none
-
-**Related terms:** [[Responsible Business Conduct]], [[Multinational Enterprise]], [[Value Chain]], [[Whistleblower]]
-
-**Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, 2023 Updates, 2023
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Common Structure of EU Sustainability Obligations, 2026 · OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, 2023 Updates, 2023
 
 ---
 
@@ -1206,22 +1110,6 @@ title: Glossary
 
 ---
 
-### EFRAG
-
-**Definition:** The European Financial Reporting Advisory Group, an organization that develops sustainability reporting standards and tools for SMEs.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** EFRAG
-
-**Related terms:** VSME, CSRD, XBRL, SME
-
-**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
-
----
-
 ### EFRAG (European Financial Reporting Advisory Group)
 
 **Definition:** A European advisory body responsible for developing and advising on financial and sustainability reporting standards within the EU, including the development of the European Sustainability Reporting Standards (ESRS) under the CSRD.
@@ -1234,7 +1122,7 @@ title: Glossary
 
 **Related terms:** [[ESRS]], [[CSRD]], [[Double Materiality]], [[ISSB (International Sustainability Standards Board)]]
 
-**Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
 ---
 
@@ -1360,7 +1248,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse Gas Emissions]], [[Climate Change]], [[Renewable Energy]], [[Biodiversity Loss]]
+**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Climate Change]], [[Renewable Energy]], [[Biodiversity Loss]]
 
 **Source:** ESG Business Handbook, Section: Environmental Standards, EFRAG, 2026-06-15
 
@@ -1376,7 +1264,7 @@ title: Glossary
 
 **Abbreviation:** ESG
 
-**Related terms:** [[Corporate Social Responsibility]], [[Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive]], [[EU Taxonomy]], [[Materiality Assessment]]
+**Related terms:** [[Corporate Social Responsibility (CSR)]], [[Sustainable Development Goals (SDGs)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[EU Taxonomy]], [[Materiality Assessment]]
 
 **Source:** ESG Business Handbook, Section: ESG Standards: Definition and Components, EFRAG, 2026-06-15
 
@@ -1408,7 +1296,7 @@ title: Glossary
 
 **Abbreviation:** ESG auditing
 
-**Related terms:** [[ESG Audit Checklist]], [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Double Materiality Assessment]]
+**Related terms:** [[ESG Audit Checklist]], [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Double Materiality Assessment]]
 
 **Source:** ESG Audit Checklist, Background, 2026
 
@@ -1430,51 +1318,19 @@ title: Glossary
 
 ---
 
-### ESG
+### ESG (Environmental, Social, and Governance)
 
 **Definition:** An abbreviation denoting the three pillars—environmental, social (including human rights), and governance—used to categorise sustainability-related matters subject to disclosure under the Corporate Sustainability Reporting Directive and related EU reporting frameworks.
 
 **Domain:** General
 
-**Synonyms:** environmental, social and governance
-
-**Abbreviation:** ESG
-
-**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[EU Taxonomy Regulation]]
-
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
-
----
-
-### ESG (Environmental, Social and Governance)
-
-**Definition:** A framework for evaluating the sustainability and broader societal impact of businesses across three interconnected pillars — environmental, social, and governance — extending beyond conventional financial performance measures.
-
-**Domain:** General
-
-**Synonyms:** Environmental, Social and Governance
-
-**Abbreviation:** ESG
-
-**Related terms:** [[Corporate Social Responsibility]], [[Materiality Assessment]], [[Sustainable Development Goals]], [[CSRD]], [[GRI]]
-
-**Source:** ESG Business Handbook.pdf, Background – Definition and Scope, 2026
-
----
-
-### ESG (Environmental, Social, and Governance)
-
-**Definition:** A structured set of criteria encompassing environmental stewardship, social responsibility, and governance practices used to evaluate and disclose an organisation's non-financial performance to investors, regulators, and other stakeholders.
-
-**Domain:** General
-
-**Synonyms:** Environmental, Social, and Governance
+**Synonyms:** environmental, social and governance, Environmental, Social and Governance, Social, and Governance
 
 **Abbreviation:** ESG
 
 **Related terms:** [[Sustainability Reporting]], [[GRI]], [[ESRS]], [[TCFD]], [[SASB]], [[ISSB]], [[CDP]], [[Materiality (sustainability reporting)]]
 
-**Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026 · ESG Business Handbook.pdf, Background – Definition and Scope, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
 ---
 
@@ -1488,7 +1344,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Environmental, Social, and Governance (ESG) Auditing]], [[Double Materiality Assessment]], [[European Sustainability Reporting Standards]], [[Assurance]]
+**Related terms:** [[Environmental, Social, and Governance (ESG) Auditing]], [[Double Materiality Assessment]], [[European Sustainability Reporting Standards (ESRS)]], [[Assurance]]
 
 **Source:** ESG Audit Checklist, Introduction, 2026
 
@@ -1520,7 +1376,7 @@ title: Glossary
 
 **Abbreviation:** ESRS
 
-**Related terms:** [[CSRD]], [[Double Materiality]], [[Financial Materiality]], [[Impact Materiality]], [[ESG]], [[ISSB]]
+**Related terms:** [[CSRD]], [[Double Materiality]], [[Financial Materiality]], [[Impact Materiality]], [[ESG (Environmental, Social, and Governance)]], [[ISSB]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
@@ -1536,7 +1392,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[climate adaptation]], [[Corporate Sustainability Reporting Directive]], [[ESRS E2]], [[ESRS E3]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[climate adaptation]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[ESRS E2]], [[ESRS E3]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1552,7 +1408,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E1]], [[ESRS E3]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS E1]], [[ESRS E3]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1568,7 +1424,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E1]], [[ESRS E5]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS E1]], [[ESRS E5]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1584,7 +1440,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[circular economy]], [[ESRS E6]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[circular economy]], [[ESRS E6]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1600,7 +1456,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS E3]], [[ESRS E4]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS E3]], [[ESRS E4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1616,7 +1472,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[circular economy]], [[ESRS E4]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[circular economy]], [[ESRS E4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1632,7 +1488,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS G2]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS G2]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1648,7 +1504,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS G1]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS G1]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1664,7 +1520,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S2]], [[ESRS S3]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S2]], [[ESRS S3]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1680,7 +1536,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S1]], [[ESRS S5]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S1]], [[ESRS S5]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1696,7 +1552,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S1]], [[ESRS S4]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S1]], [[ESRS S4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1712,7 +1568,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[gender pay gap]], [[ESRS S6]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[gender pay gap]], [[ESRS S6]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1728,7 +1584,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[ESRS S2]], [[ESRS S6]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S2]], [[ESRS S6]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1744,7 +1600,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Gini coefficient]], [[ESRS S4]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Gini coefficient]], [[ESRS S4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -1808,7 +1664,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Sustainable Finance Disclosure Regulation]], [[Sustainable Finance]], [[Corporate Sustainability Reporting Directive]], [[Carbon Leakage]]
+**Related terms:** [[Sustainable Finance Disclosure Regulation]], [[Sustainable Finance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Carbon Leakage]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -1824,7 +1680,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[ESG]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[ESG (Environmental, Social, and Governance)]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
 
@@ -1862,22 +1718,6 @@ title: Glossary
 
 ---
 
-### European Single Access Point
-
-**Definition:** A platform designed to streamline access to EU financial services.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** ESAP
-
-**Related terms:** [[Voluntary Template]], [[SMEs]]
-
-**Source:** EFRAG Final Assessment Report, 2026-07-29
-
----
-
 ### European Single Access Point (ESAP)
 
 **Definition:** A centralized platform aimed at improving access to financing for SMEs by hosting voluntary reporting templates and other relevant information.
@@ -1894,22 +1734,6 @@ title: Glossary
 
 ---
 
-### European Sustainability Reporting Standards
-
-**Definition:** The mandatory technical standards underpinning CSRD reporting, adopted in 2023, that specify detailed disclosure requirements for large EU undertakings across environmental, social, and governance topics.
-
-**Domain:** ESRS
-
-**Synonyms:** none
-
-**Abbreviation:** ESRS
-
-**Related terms:** [[CSRD]], [[VSME]], [[EFRAG]], [[Double Materiality Assessment]]
-
-**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
-
----
-
 ### European Sustainability Reporting Standards (ESRS)
 
 **Definition:** A set of EU-level standards, developed by EFRAG, that prescribe the content and structure of sustainability information companies must disclose under the Corporate Sustainability Reporting Directive (CSRD).
@@ -1920,9 +1744,9 @@ title: Glossary
 
 **Abbreviation:** ESRS
 
-**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[EU Taxonomy Regulation]], [[Materiality (ESRS)]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[EU Taxonomy Regulation]], [[Materiality (sustainability reporting)]]
 
-**Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15 · EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
 
 ---
 
@@ -1952,7 +1776,7 @@ title: Glossary
 
 **Abbreviation:** XBRL
 
-**Related terms:** [[VSME Standard]], [[EFRAG]], [[European Sustainability Reporting Standards]]
+**Related terms:** [[VSME Standard]], [[EFRAG (European Financial Reporting Advisory Group)]], [[European Sustainability Reporting Standards (ESRS)]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
@@ -2032,7 +1856,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Sustainability Reporting]], [[European Single Access Point]]
+**Related terms:** [[Sustainability Reporting]], [[European Single Access Point (ESAP)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
 
@@ -2170,7 +1994,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Materiality Assessment]], [[Environmental, Social and Governance Standards]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** [[Materiality Assessment]], [[Environmental, Social and Governance Standards]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
 **Source:** ESG Business Handbook, Section: ESG Standards in Bosnia and Herzegovina, EFRAG, 2026-06-15
 
@@ -2202,7 +2026,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[ESRS S4]], [[key performance indicators]], [[United Nations Sustainable Development Goals]]
+**Related terms:** [[ESRS S4]], [[Key Performance Indicators (ESG)]], [[United Nations Sustainable Development Goals]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -2218,7 +2042,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Large Language Model]], [[Agentic AI]], [[Token]], [[Inference]], [[SCI for AI Specification]]
+**Related terms:** [[Large Language Model (LLM)]], [[Agentic AI]], [[Token]], [[Inference]], [[SCI for AI Specification]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026
 
@@ -2250,7 +2074,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[ESRS S6]], [[key performance indicators]], [[United Nations Sustainable Development Goals]]
+**Related terms:** [[ESRS S6]], [[Key Performance Indicators (ESG)]], [[United Nations Sustainable Development Goals]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -2282,7 +2106,7 @@ title: Glossary
 
 **Abbreviation:** GRI
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[International Sustainability Standards Board]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[International Sustainability Standards Board]]
 
 **Source:** ESG Audit Checklist, See Also, 2026
 
@@ -2298,7 +2122,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Social Responsibility]], [[Corporate Sustainability Reporting Directive]], [[Materiality Assessment]]
+**Related terms:** [[Corporate Social Responsibility (CSR)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Materiality Assessment]]
 
 **Source:** ESG Business Handbook, Section: Governance Standards, EFRAG, 2026-06-15
 
@@ -2320,7 +2144,7 @@ title: Glossary
 
 ---
 
-### Greenhouse Gas Emissions
+### Greenhouse Gas Emissions (GHG Emissions)
 
 **Definition:** Emissions of gases—including carbon dioxide, methane, and nitrous oxide—that trap heat in the atmosphere and contribute to climate change, constituting a primary metric for assessing a business's environmental impact under ESG and climate-related frameworks.
 
@@ -2330,25 +2154,9 @@ title: Glossary
 
 **Abbreviation:** GHG
 
-**Related terms:** [[Paris Agreement]], [[Carbon Border Adjustment Mechanism]], [[Environmental Standards]], [[Carbon Leakage]]
-
-**Source:** ESG Business Handbook, Section: Environmental Standards, EFRAG, 2026-06-15
-
----
-
-### Greenhouse Gas Emissions (GHG Emissions)
-
-**Definition:** Emissions of gases that contribute to global warming, produced by software systems through energy consumption during hardware operation and through the manufacture and disposal of hardware, expressed in carbon dioxide equivalent units.
-
-**Domain:** General
-
-**Synonyms:** carbon emissions
-
-**Abbreviation:** GHG
-
 **Related terms:** [[Carbon]], [[Operational Emissions]], [[Embodied Emissions]], [[Carbon Intensity]]
 
-**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
+**Source:** ESG Business Handbook, Section: Environmental Standards, EFRAG, 2026-06-15 · SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
 
 ---
 
@@ -2378,7 +2186,7 @@ title: Glossary
 
 **Abbreviation:** GRI
 
-**Related terms:** [[ESG]], [[ESRS]], [[ISSB]], [[Materiality (sustainability reporting)]], [[Double Materiality]], [[GRI Standards 2021]]
+**Related terms:** [[ESG (Environmental, Social, and Governance)]], [[ESRS]], [[ISSB]], [[Materiality (sustainability reporting)]], [[Double Materiality]], [[GRI Standards 2021]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
@@ -2410,7 +2218,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Remediation]], [[Adverse Impact]], [[Due Diligence]], [[National Contact Point (OECD)]], [[Affected Stakeholders]]
+**Related terms:** [[Remediation]], [[Adverse Impacts]], [[Due Diligence]], [[National Contact Point (OECD)]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -2634,7 +2442,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Due Diligence]], [[Value Chain]], [[Materiality (ESRS)]], [[OECD Six-Step Framework]]
+**Related terms:** [[Due Diligence]], [[Value Chain]], [[Materiality (sustainability reporting)]], [[OECD Six-Step Framework]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
 
@@ -2698,7 +2506,7 @@ title: Glossary
 
 **Abbreviation:** ISSB
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[Sustainable Finance Disclosure Regulation]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[Sustainable Finance Disclosure Regulation]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -2730,7 +2538,7 @@ title: Glossary
 
 **Abbreviation:** ISSB
 
-**Related terms:** [[IFRS S1]], [[IFRS S2]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[SASB (Sustainability Accounting Standards Board)]], [[IFRS Foundation]], [[ESG]]
+**Related terms:** [[IFRS S1]], [[IFRS S2]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[SASB (Sustainability Accounting Standards Board)]], [[IFRS Foundation]], [[ESG (Environmental, Social, and Governance)]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
@@ -2752,67 +2560,19 @@ title: Glossary
 
 ---
 
-### Key Performance Indicator (Sustainability)
-
-**Definition:** A quantitative or qualitative metric used within a sustainability reporting framework to measure and track an organisation's performance against defined sustainability targets and strategic pillars over time.
-
-**Domain:** General
-
-**Synonyms:** sustainability indicator
-
-**Abbreviation:** KPI
-
-**Related terms:** [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[Double Materiality Assessment]], [[European Sustainability Reporting Standards]]
-
-**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
-
----
-
-### key performance indicators
+### Key Performance Indicators (ESG)
 
 **Definition:** Quantitative or qualitative metrics used within sustainability reporting to measure a reporting entity's performance against specific sustainability objectives or targets as required or recommended under CSRD, ESRS, or SDG frameworks.
 
 **Domain:** ESRS
 
-**Synonyms:** performance indicators
+**Synonyms:** sustainability indicator, performance indicators, KPIs
 
-**Abbreviation:** KPIs
+**Abbreviation:** KPI
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[SDG–CSRD–ESRS Alignment Matrix]], [[gender pay gap]], [[Gini coefficient]]
+**Related terms:** [[Materiality Assessment]], [[ESG (Environmental, Social, and Governance)]], [[Reporting Frameworks]]
 
-**Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
-
----
-
-### Key Performance Indicators (ESG)
-
-**Definition:** Quantitative or qualitative metrics defined by a business to measure progress toward its ESG goals, used to structure sustainability strategy and support disclosure to stakeholders.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** KPIs
-
-**Related terms:** [[Materiality Assessment]], [[ESG (Environmental, Social and Governance)]], [[Reporting Frameworks]]
-
-**Source:** ESG Business Handbook.pdf, Getting Started with ESG, 2026
-
----
-
-### Key Performance Indicators (VSME)
-
-**Definition:** Quantitative metrics defined for each material sustainability topic under the VSME framework, used to track progress against targets and record performance in a management dashboard across successive reporting cycles.
-
-**Domain:** ESRS
-
-**Synonyms:** KPIs
-
-**Abbreviation:** KPIs
-
-**Related terms:** [[VSME]], [[Material Topic]], [[Baseline Measurement]]
-
-**Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+**Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08 · SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15 · ESG Business Handbook.pdf, Getting Started with ESG, 2026 · Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
 
 ---
 
@@ -2832,7 +2592,7 @@ title: Glossary
 
 ---
 
-### Large Language Model
+### Large Language Model (LLM)
 
 **Definition:** A type of generative AI system based on neural network architectures trained on large text corpora to perform token-based text generation and other natural language tasks, characterised by high parameter counts and significant computational and carbon costs at both training and inference stages.
 
@@ -2842,25 +2602,9 @@ title: Glossary
 
 **Abbreviation:** LLM
 
-**Related terms:** [[Generative AI]], [[Token]], [[Parameter]], [[Model Training]], [[Inference]], [[Natural Language Processing]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026
-
----
-
-### Large Language Model (LLM)
-
-**Definition:** An artificial-intelligence system used within the SCI for Web Assembly Report production process to synthesise participant responses and generate candidate section content for iterative review, functioning as an intermediary in the AI-orchestrated consensus process.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** LLM
-
 **Related terms:** [[AI-Orchestrated Consensus Process]], [[Endorsed]], [[Consented]], [[Objected]]
 
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
+**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026 · SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
 
 ---
 
@@ -2890,7 +2634,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Reasonable Assurance]], [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
+**Related terms:** [[Reasonable Assurance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
 **Source:** ESG Audit Checklist, Assurance and Verification, 2026
 
@@ -2976,27 +2720,11 @@ title: Glossary
 
 ---
 
-### Materiality (ESRS)
+### Materiality (sustainability reporting)
 
 **Definition:** The threshold criterion under the ESRS framework whereby a sustainability matter is considered material, and therefore subject to disclosure, if it meets the conditions of impact materiality, financial materiality, or both, as assessed through a due process by the reporting undertaking.
 
 **Domain:** ESRS
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Double materiality]], [[European Sustainability Reporting Standards]], [[Sustainability-related information]]
-
-**Source:** Voluntary SME Standard (VSME), Relationship to other frameworks, 2026
-
----
-
-### Materiality (sustainability reporting)
-
-**Definition:** The principle determining which sustainability topics are sufficiently significant—based on their financial effects on the organisation or their impacts on people and the environment—to warrant disclosure in a sustainability report.
-
-**Domain:** General
 
 **Synonyms:** material ESG data, material sustainability information
 
@@ -3004,7 +2732,7 @@ title: Glossary
 
 **Related terms:** [[Double Materiality]], [[Financial Materiality]], [[Impact Materiality]], [[ESRS]], [[GRI (Global Reporting Initiative)]], [[SASB (Sustainability Accounting Standards Board)]]
 
-**Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+**Source:** Voluntary SME Standard (VSME), Relationship to other frameworks, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
 ---
 
@@ -3018,7 +2746,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[ESG Investing]], [[Gap Analysis]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[ESG Investing]], [[Gap Analysis]]
 
 **Source:** ESG Business Handbook, Section: ESG Standards in Bosnia and Herzegovina, EFRAG, 2026-06-15
 
@@ -3034,7 +2762,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[SME]], [[Basic Module (VSME)]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
+**Related terms:** [[Small and Medium-Sized Enterprises (SMEs)]], [[Basic Module (VSME)]], [[Voluntary Standard for Small and Medium-sized Enterprises]]
 
 **Source:** Voluntary SME Standard (VSME), Background – Size thresholds, 2026
 
@@ -3162,41 +2890,25 @@ title: Glossary
 
 **Abbreviation:** NLP
 
-**Related terms:** [[Large Language Model]], [[Token]], [[Generative AI]], [[SCI for AI Specification]]
+**Related terms:** [[Large Language Model (LLM)]], [[Token]], [[Generative AI]], [[SCI for AI Specification]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Scope – Application-Specific AI Solutions, 2026
 
 ---
 
-### Natural Resource-Based View
+### Natural Resource-Based View (NRBV)
 
 **Definition:** A theoretical perspective emphasizing the role of natural resources in shaping organizational performance and competitive advantage, and the environmental costs of resource extraction.
 
 **Domain:** General
 
-**Synonyms:** None
-
-**Abbreviation:** NRBV
-
-**Related terms:** Resource-Based View, Triple Bottom Line, Strategic Management for Sustainability
-
-**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
-
----
-
-### Natural Resource-Based View (NRBV)
-
-**Definition:** A theoretical framework that emphasizes the role of natural resources in creating competitive advantage and fostering sustainable value creation.
-
-**Domain:** General
-
-**Synonyms:** None
+**Synonyms:** none
 
 **Abbreviation:** NRBV
 
 **Related terms:** Strategic Management for Sustainability, Resource-Based View (RBV), Sustainable Development Goals (SDGs)
 
-**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29 · Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
 
 ---
 
@@ -3226,7 +2938,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Market-Based Measures]], [[Carbon Offsets]], [[Science-Based Target]], [[Software Carbon Intensity]]
+**Related terms:** [[Market-Based Measures]], [[Carbon Offsets]], [[Science-Based Targets]], [[Software Carbon Intensity]]
 
 **Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
 
@@ -3242,7 +2954,7 @@ title: Glossary
 
 **Abbreviation:** NFRD
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
 **Source:** ESG Audit Checklist, See Also, 2026
 
@@ -3322,7 +3034,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[VSME Standard]], [[Corporate Sustainability Reporting Directive]], [[EFRAG]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[VSME Standard]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[EFRAG (European Financial Reporting Advisory Group)]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
@@ -3338,7 +3050,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[European Sustainability Reporting Standards]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises]], [[European Sustainability Reporting Standards (ESRS)]]
 
 **Source:** Webinar VSME - Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-08
 
@@ -3402,7 +3114,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Model Training]], [[FLOP]], [[Large Language Model]], [[Functional Unit]]
+**Related terms:** [[Model Training]], [[FLOP]], [[Large Language Model (LLM)]], [[Functional Unit]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
@@ -3418,7 +3130,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse Gas Emissions]], [[Carbon Border Adjustment Mechanism]], [[Climate Change]], [[Sustainable Development Goals]]
+**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Carbon Border Adjustment Mechanism]], [[Climate Change]], [[Sustainable Development Goals (SDGs)]]
 
 **Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15
 
@@ -3546,7 +3258,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Quantitative Information]], [[Voluntary Template]]
+**Related terms:** [[Quantitative Information]], [[Voluntary Template (SMEs)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
 
@@ -3562,7 +3274,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Qualitative Information]], [[Voluntary Template]]
+**Related terms:** [[Qualitative Information]], [[Voluntary Template (SMEs)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
 
@@ -3578,7 +3290,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Limited Assurance]], [[Corporate Sustainability Reporting Directive]], [[Sustainability Statement]]
+**Related terms:** [[Limited Assurance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
 **Source:** ESG Audit Checklist, Assurance and Verification, 2026
 
@@ -3664,35 +3376,19 @@ title: Glossary
 
 ---
 
-### Resource-Based View
+### Resource-Based View (RBV)
 
 **Definition:** A theoretical framework focusing on internal organizational capabilities and their role in achieving competitive advantage.
 
 **Domain:** General
 
-**Synonyms:** None
-
-**Abbreviation:** RBV
-
-**Related terms:** Natural Resource-Based View, Strategic Management for Sustainability, Triple Bottom Line
-
-**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
-
----
-
-### Resource-Based View (RBV)
-
-**Definition:** A theoretical framework that emphasizes the role of internal resources and capabilities in achieving competitive advantage.
-
-**Domain:** General
-
-**Synonyms:** None
+**Synonyms:** none
 
 **Abbreviation:** RBV
 
 **Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Industrial Organization Economic Theory (IO)
 
-**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29 · Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
 
 ---
 
@@ -3738,7 +3434,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[CSR Risk Analysis]], [[Adverse Impact]], [[Due Diligence]]
+**Related terms:** [[CSR Risk Analysis]], [[Adverse Impacts]], [[Due Diligence]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -3754,7 +3450,7 @@ title: Glossary
 
 **Abbreviation:** SASB
 
-**Related terms:** [[ISSB (International Sustainability Standards Board)]], [[Financial Materiality]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[ESG]], [[Materiality (sustainability reporting)]]
+**Related terms:** [[ISSB (International Sustainability Standards Board)]], [[Financial Materiality]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[ESG (Environmental, Social, and Governance)]], [[Materiality (sustainability reporting)]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
@@ -3776,35 +3472,19 @@ title: Glossary
 
 ---
 
-### Science-Based Target
+### Science-Based Targets
 
 **Definition:** A climate target aligned with the levels of decarbonisation required to meet the goals of the Paris Agreement, focused on the elimination of emissions rather than their neutralisation through offsets, referenced in the SCI specification as a framework with which the SCI is designed to be compatible.
 
 **Domain:** General
 
-**Synonyms:** science-based target framework
+**Synonyms:** science-based target framework, science-based targets, SBTs
 
 **Abbreviation:** SBT
 
-**Related terms:** [[Carbon Offsets]], [[Neutralisation]], [[Market-Based Measures]]
-
-**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026
-
----
-
-### Science-Based Targets
-
-**Definition:** Greenhouse gas emission reduction targets set by companies in alignment with the level of decarbonisation required by climate science to limit global warming, as defined by the Science-Based Targets initiative (SBTi), and used as a reference benchmark by frameworks such as CDP.
-
-**Domain:** General
-
-**Synonyms:** science-based targets, SBTs
-
-**Abbreviation:** SBTs
-
 **Related terms:** [[CDP (Carbon Disclosure Project)]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[Climate-Related Financial Risk)]], [[IFRS S2]], [[Science-Based Targets Initiative (SBTi)]]
 
-**Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+**Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
 
 ---
 
@@ -3898,7 +3578,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[European Financial Reporting Advisory Group]], [[key performance indicators]]
+**Related terms:** [[United Nations Sustainable Development Goals]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[European Financial Reporting Advisory Group]], [[Key Performance Indicators (ESG)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -3978,73 +3658,25 @@ title: Glossary
 
 **Abbreviation:** SMEs
 
-**Related terms:** [[Environmental, Social and Governance Standards]], [[Corporate Sustainability Reporting Directive]], [[Materiality Assessment]]
+**Related terms:** [[Environmental, Social and Governance Standards]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Materiality Assessment]]
 
 **Source:** ESG Business Handbook, Section: Background, EFRAG, 2026-06-15
 
 ---
 
-### Small and Medium-Sized Enterprises
-
-**Definition:** Businesses that are classified based on the number of employees and/or annual turnover.
-
-**Domain:** General
-
-**Synonyms:** SMEs
-
-**Abbreviation:** none
-
-**Related terms:** [[Voluntary Template]], [[European Single Access Point]]
-
-**Source:** EFR. Final Assessment Report, 2026-07-29
-
----
-
 ### Small and Medium-Sized Enterprises (SMEs)
-
-**Definition:** Businesses that are classified as small or medium in size, typically based on criteria such as employee count, annual revenue, and turnover.
-
-**Domain:** General
-
-**Synonyms:** SMEs, Small and Medium Enterprises
-
-**Abbreviation:** SMEs
-
-**Related terms:** Voluntary Template (SMEs), European Single Access Point
-
-**Source:** EFRAG Final Assessment Report, 2026-07-29
-
----
-
-### SME
 
 **Definition:** An enterprise classified as micro, small or medium-sized on the basis of balance sheet total, net turnover and average number of employees, as defined in Article 3 of Directive 2013/34/EU, qualifying for a category by not exceeding two of the three applicable thresholds.
 
 **Domain:** CSRD
 
-**Synonyms:** Small and medium-sized enterprise
+**Synonyms:** SMEs, Small and Medium Enterprises, Small and medium-sized enterprise
 
-**Abbreviation:** SME
+**Abbreviation:** SMEs
 
-**Related terms:** [[Micro-enterprise]], [[Voluntary Standard for Small and Medium-sized Enterprises]], [[Corporate Sustainability Reporting Directive]]
+**Related terms:** Voluntary Template (SMEs), European Single Access Point
 
-**Source:** Voluntary SME Standard (VSME), Background – Size thresholds, 2026
-
----
-
-### SME (Small and Medium-sized Enterprises)
-
-**Definition:** Businesses with fewer than 250 employees, targeted by the VSME standard to simplify sustainability reporting.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** SME
-
-**Related terms:** VSME, EFRAG, CSRD, XBRL
-
-**Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+**Source:** EFR. Final Assessment Report, 2026-07-29 · EFRAG Final Assessment Report, 2026-07-29 · Voluntary SME Standard (VSME), Background – Size thresholds, 2026 · VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
 
@@ -4074,7 +3706,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[UN Guiding Principles on Business and Human Rights]], [[Supply Chain Due Diligence]], [[Corporate Sustainability Due Diligence Directive]]
+**Related terms:** [[UN Guiding Principles on Business and Human Rights]], [[Supply Chain Due Diligence]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
 
 **Source:** ESG Business Handbook, Section: Social Standards, EFRAG, 2026-06-15
 
@@ -4266,7 +3898,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Sustainability Due Diligence Directive]], [[UN Guiding Principles on Business and Human Rights]], [[Social Standards]]
+**Related terms:** [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[UN Guiding Principles on Business and Human Rights]], [[Social Standards]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -4314,7 +3946,7 @@ title: Glossary
 
 **Abbreviation:** SASB
 
-**Related terms:** [[ISSB]], [[Financial Materiality]], [[ESG]], [[Task Force on Climate-Related Financial Disclosures]]
+**Related terms:** [[ISSB]], [[Financial Materiality]], [[ESG (Environmental, Social, and Governance)]], [[Task Force on Climate-Related Financial Disclosures]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Sustainability Accounting Standards Board, 2026
 
@@ -4330,7 +3962,7 @@ title: Glossary
 
 **Abbreviation:** IROs
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[key performance indicators]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[Key Performance Indicators (ESG)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
@@ -4362,7 +3994,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Financial Reporting]], [[European Single Access Point]]
+**Related terms:** [[Financial Reporting]], [[European Single Access Point (ESAP)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
 
@@ -4394,7 +4026,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Corporate Sustainability Reporting Directive]], [[European Sustainability Reporting Standards]], [[Limited Assurance]], [[Reasonable Assurance]]
+**Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[Limited Assurance]], [[Reasonable Assurance]]
 
 **Source:** ESG Audit Checklist, Assurance and Verification, 2026
 
@@ -4410,7 +4042,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Voluntary Standard for Small and Medium-sized Enterprises]], [[European Sustainability Reporting Standards]], [[Double materiality]]
+**Related terms:** [[Voluntary Standard for Small and Medium-sized Enterprises]], [[European Sustainability Reporting Standards (ESRS)]], [[Double materiality]]
 
 **Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – General requirements, 2026
 
@@ -4426,13 +4058,13 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Sustainable Development Goals]]
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Sustainable Development Goals (SDGs)]]
 
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Foreword, 2023
 
 ---
 
-### Sustainable Development Goals
+### Sustainable Development Goals (SDGs)
 
 **Definition:** A set of 17 goals adopted by UN member states in 2015 as part of the 2030 Agenda for Sustainable Development, providing a universal framework for addressing global social, environmental, and economic challenges.
 
@@ -4442,25 +4074,9 @@ title: Glossary
 
 **Abbreviation:** SDGs
 
-**Related terms:** [[UN Global Compact]], [[Paris Agreement]], [[Corporate Sustainability Reporting Directive]], [[Environmental, Social and Governance Standards]]
-
-**Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15
-
----
-
-### Sustainable Development Goals (SDGs)
-
-**Definition:** A unified framework centered on 17 global goals aimed at addressing global challenges, including poverty, inequality, climate change, and environmental degradation.
-
-**Domain:** General
-
-**Synonyms:** None
-
-**Abbreviation:** SDGs
-
 **Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Triple Bottom Line (TBL)
 
-**Source:** Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
+**Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15 · Strategic_Management_for_Sustainability.pdf, Section 2, 2026-07-29
 
 ---
 
@@ -4570,7 +4186,7 @@ title: Glossary
 
 **Abbreviation:** TCFD
 
-**Related terms:** [[ISSB]], [[CDP]], [[Climate-Related Financial Risk]], [[Science-Based Targets]], [[ESG]]
+**Related terms:** [[ISSB]], [[CDP]], [[Climate-Related Financial Risk]], [[Science-Based Targets]], [[ESG (Environmental, Social, and Governance)]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Task Force on Climate-Related Financial Disclosures, 2026
 
@@ -4650,7 +4266,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Inference]], [[Functional Unit]], [[Large Language Model]], [[Generative AI]]
+**Related terms:** [[Inference]], [[Functional Unit]], [[Large Language Model (LLM)]], [[Generative AI]]
 
 **Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
@@ -4720,35 +4336,19 @@ title: Glossary
 
 ---
 
-### Triple Bottom Line
-
-**Definition:** A framework advocating for the balanced integration of environmental, social, and economic goals in organizational decision-making.
-
-**Domain:** General
-
-**Synonyms:** None
-
-**Abbreviation:** TBL
-
-**Related terms:** Strategic Management for Sustainability, Resource-Based View, Sustainable Development Goals
-
-**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29
-
----
-
 ### Triple Bottom Line (TBL)
 
 **Definition:** A framework that integrates economic, environmental, and social dimensions of performance to evaluate organizational sustainability.
 
 **Domain:** General
 
-**Synonyms:** None
+**Synonyms:** none
 
 **Abbreviation:** TBL
 
 **Related terms:** Strategic Management for Sustainability, Natural Resource-Based View (NRBV), Resource-Based View (RBV)
 
-**Source:** Strategic_Management_for_Sustainability.pdf, Section 3, 2026-07-29
+**Source:** Strategic Management for Sustainability, Section 2, 2026-07-29 · Strategic_Management_for_Sustainability.pdf, Section 3, 2026-07-29
 
 ---
 
@@ -4762,7 +4362,7 @@ title: Glossary
 
 **Abbreviation:** UNGC
 
-**Related terms:** [[Sustainable Development Goals]], [[UN Guiding Principles on Business and Human Rights]], [[Corporate Social Responsibility]]
+**Related terms:** [[Sustainable Development Goals (SDGs)]], [[UN Guiding Principles on Business and Human Rights]], [[Corporate Social Responsibility (CSR)]]
 
 **Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15
 
@@ -4778,7 +4378,7 @@ title: Glossary
 
 **Abbreviation:** UNGPs
 
-**Related terms:** [[Corporate Sustainability Due Diligence Directive]], [[Social Standards]], [[UN Global Compact]]
+**Related terms:** [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[Social Standards]], [[UN Global Compact]]
 
 **Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15
 
@@ -4794,7 +4394,7 @@ title: Glossary
 
 **Abbreviation:** UNFCCC
 
-**Related terms:** [[Paris Agreement]], [[Environmental Standards]], [[Greenhouse Gas Emissions]]
+**Related terms:** [[Paris Agreement]], [[Environmental Standards]], [[Greenhouse Gas Emissions (GHG Emissions)]]
 
 **Source:** ESG Business Handbook.pdf, International Frameworks – Paris Agreement, 2026
 
@@ -4810,7 +4410,7 @@ title: Glossary
 
 **Abbreviation:** UNGPs
 
-**Related terms:** [[Due Diligence]], [[OECD Guidelines for Multinational Enterprises]], [[International Corporate Social Responsibility]], [[Adverse Impact]]
+**Related terms:** [[Due Diligence]], [[OECD Guidelines for Multinational Enterprises]], [[International Corporate Social Responsibility]], [[Adverse Impacts]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
@@ -4858,7 +4458,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[CSRD]], [[VSME]], [[Small and Medium-Sized Enterprises]], [[Material Topic]]
+**Related terms:** [[CSRD]], [[VSME]], [[Small and Medium-Sized Enterprises (SMEs)]], [[Material Topic]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
 
@@ -4890,7 +4490,7 @@ title: Glossary
 
 **Abbreviation:** VSME
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Basic Module (VSME)]], [[Extended Module (VSME)]], [[SME]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Basic Module (VSME)]], [[Extended Module (VSME)]], [[Small and Medium-Sized Enterprises (SMEs)]]
 
 **Source:** Voluntary SME Standard (VSME), Introduction, 2026
 
@@ -4906,7 +4506,7 @@ title: Glossary
 
 **Abbreviation:** VSME
 
-**Related terms:** [[European Sustainability Reporting Standards]], [[Corporate Sustainability Reporting Directive]], [[Small and Medium-sized Enterprises]], [[EFRAG]], [[Basic Module (VSME)]], [[Extended Module (VSME)]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Small and Medium-sized Enterprises]], [[EFRAG (European Financial Reporting Advisory Group)]], [[Basic Module (VSME)]], [[Extended Module (VSME)]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
@@ -4938,25 +4538,9 @@ title: Glossary
 
 **Abbreviation:** VSME
 
-**Related terms:** [[ESRS]], [[CSRD]], [[EFRAG]], [[Double Materiality Assessment]], [[Small and Medium-Sized Enterprises]]
+**Related terms:** [[ESRS]], [[CSRD]], [[EFRAG (European Financial Reporting Advisory Group)]], [[Double Materiality Assessment]], [[Small and Medium-Sized Enterprises (SMEs)]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
-
----
-
-### Voluntary Template
-
-**Definition:** A proposed reporting framework for SMEs to provide information to facilitate financing, not mandated by regulation.
-
-**Domain:** General
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[European Single Access Point]], [[SMEs]]
-
-**Source:** EFRAG Final Assessment Report, 2026-07-29
 
 ---
 
@@ -5050,7 +4634,7 @@ title: Glossary
 
 **Abbreviation:** none
 
-**Related terms:** [[Responsible Business Conduct]], [[Due Diligence (Responsible Business Conduct)]], [[Multinational Enterprise]]
+**Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Multinational Enterprise]]
 
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, 2023 Updates, 2023
 

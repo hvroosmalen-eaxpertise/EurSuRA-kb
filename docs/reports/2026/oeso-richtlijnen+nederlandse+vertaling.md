@@ -104,8 +104,8 @@ Multiple OECD committees contributed to the 2023 thematic chapter revisions, inc
 
 - [[Due Diligence in Responsible Business Conduct]]
 - [[UN Guiding Principles on Business and Human Rights]]
-- [[Corporate Sustainability Reporting Directive]]
-- [[Sustainable Development Goals]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[Sustainable Development Goals (SDGs)]]
 - [[National Contact Points for Responsible Business Conduct]]
 
 ---

@@ -24,10 +24,10 @@ The framework also emphasizes the importance of considering regional and cultura
 
 ## See Also
 
-- [[Natural Resource-Based View]]
-- [[Triple Bottom Line]]
-- [[Resource-Based View]]
-- [[Sustainable Development Goals]]
+- [[Natural Resource-Based View (NRBV)]]
+- [[Triple Bottom Line (TBL)]]
+- [[Resource-Based View (RBV)]]
+- [[Sustainable Development Goals (SDGs)]]
 - [[Value Creation]]
 
 ## References

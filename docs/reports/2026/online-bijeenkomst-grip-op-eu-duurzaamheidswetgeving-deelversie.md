@@ -165,15 +165,15 @@ The pilot project and associated sessions identify six categories of strategic o
 
 ## See Also
 
-- [[Corporate Sustainability Due Diligence Directive]]
-- [[Corporate Sustainability Reporting Directive]]
+- [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
 - [[EU Taxonomy Regulation]]
 - [[EU Deforestation Regulation]]
 - [[EU Battery Regulation]]
 - [[Forced Labour Regulation]]
 - [[Conflict Minerals Regulation]]
 - [[OECD Due Diligence Guidance for Responsible Business Conduct]]
-- [[European Sustainability Reporting Standards]]
+- [[European Sustainability Reporting Standards (ESRS)]]
 - [[Packaging and Packaging Waste Regulation]]
 - [[Ecodesign for Sustainable Products Regulation]]
 

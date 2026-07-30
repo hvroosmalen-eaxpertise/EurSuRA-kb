@@ -28,8 +28,8 @@ EFRAG highlighted that a pan-European database of SME information could serve pu
 
 ## See Also
 
-- [[European Single Access Point]]
-- [[Small and Medium-Sized Enterprises]]
+- [[European Single Access Point (ESAP)]]
+- [[Small and Medium-Sized Enterprises (SMEs)]]
 - [[Sustainability Reporting]]
 - [[Financial Reporting]]
 

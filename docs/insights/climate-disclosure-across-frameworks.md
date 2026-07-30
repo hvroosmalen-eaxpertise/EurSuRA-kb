@@ -8,7 +8,7 @@ date_updated: 2026-07-30
 
 # Climate Disclosure Across Frameworks
 
-Small and medium-sized enterprises (SMEs) operating in or supplying to the EU face an interlocking set of climate disclosure expectations drawn from at least four major frameworks: the [[European Sustainability Reporting Standards]] (ESRS), the Task Force on Climate-Related Financial Disclosures (TCFD), the Greenhouse Gas (GHG) Protocol, and the EU Taxonomy Regulation. Although each framework has a distinct origin and audience, they share substantial common ground—particularly around GHG emissions measurement, climate risk, and the classification of sustainable activities—allowing a well-structured disclosure to serve multiple regimes simultaneously.
+Small and medium-sized enterprises (SMEs) operating in or supplying to the EU face an interlocking set of climate disclosure expectations drawn from at least four major frameworks: the [[European Sustainability Reporting Standards (ESRS)]] (ESRS), the Task Force on Climate-Related Financial Disclosures (TCFD), the Greenhouse Gas (GHG) Protocol, and the EU Taxonomy Regulation. Although each framework has a distinct origin and audience, they share substantial common ground—particularly around GHG emissions measurement, climate risk, and the classification of sustainable activities—allowing a well-structured disclosure to serve multiple regimes simultaneously.
 
 ---
 
@@ -25,7 +25,7 @@ Small and medium-sized enterprises (SMEs) operating in or supplying to the EU fa
 
 ## The ESRS and the SME Entry Point
 
-The [[European Sustainability Reporting Standards]] were published in 2023 and became mandatory for large and listed EU companies from January 2024 [[esrs]]. They require a full [[Double Materiality Assessment]] (DMA), under which companies must report both [[financial materiality]]—the effect of sustainability factors on the organisation's financial position—and [[impact materiality]]—the organisation's effects on people and the environment [[esrs]].
+The [[European Sustainability Reporting Standards (ESRS)]] were published in 2023 and became mandatory for large and listed EU companies from January 2024 [[esrs]]. They require a full [[Double Materiality Assessment]] (DMA), under which companies must report both [[financial materiality]]—the effect of sustainability factors on the organisation's financial position—and [[impact materiality]]—the organisation's effects on people and the environment [[esrs]].
 
 Although SMEs are not directly subject to the CSRD, they are indirectly drawn in because their large-company customers and supply-chain partners are obligated to report on value-chain sustainability data [[esrs]]. To address this, EFRAG developed the [[Voluntary Sustainability Reporting Standard for SMEs]] (VSME), whose basic and extended modules map directly to ESRS topic areas [[esrs]]. For example, ESRS chapter E1 on climate change and energy corresponds to VSME chapters B2, C2, B3, C3, and C4 [[esrs]]. This structural alignment means that an SME disclosing under the VSME produces information that is immediately legible to its CSRD-obligated value-chain partners [[esrs]].
 

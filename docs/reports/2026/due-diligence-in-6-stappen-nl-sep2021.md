@@ -53,7 +53,7 @@ Where an enterprise has caused or contributed to adverse impacts, it is expected
 
 - [[OECD Guidelines for Multinational Enterprises]]
 - [[United Nations Guiding Principles on Business and Human Rights]]
-- [[Corporate Social Responsibility]]
+- [[Corporate Social Responsibility (CSR)]]
 - [[Supply Chain Due Diligence]]
 - [[Grievance Mechanisms in Business and Human Rights]]
 - [[National Contact Points (OECD)]]

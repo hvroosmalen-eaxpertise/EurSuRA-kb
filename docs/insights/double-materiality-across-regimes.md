@@ -8,7 +8,7 @@ date_updated: 2026-07-30
 
 # Double Materiality Across Regimes
 
-Double materiality is the principle that organisations must assess and disclose both the financial effects of sustainability factors on themselves and their own effects on people and the environment. This concept is a mandatory cornerstone of the European Union's [[Corporate Sustainability Reporting Directive]] (CSRD) and its accompanying [[European Sustainability Reporting Standards]] (ESRS), while the [[Global Reporting Initiative]] (GRI) framework has long emphasised impact-oriented disclosure for voluntary, multi-stakeholder accountability. Understanding how each regime defines and operationalises double materiality is essential for organisations navigating overlapping or complementary reporting obligations.
+Double materiality is the principle that organisations must assess and disclose both the financial effects of sustainability factors on themselves and their own effects on people and the environment. This concept is a mandatory cornerstone of the European Union's [[Corporate Sustainability Reporting Directive (CSRD)]] (CSRD) and its accompanying [[European Sustainability Reporting Standards (ESRS)]] (ESRS), while the [[Global Reporting Initiative]] (GRI) framework has long emphasised impact-oriented disclosure for voluntary, multi-stakeholder accountability. Understanding how each regime defines and operationalises double materiality is essential for organisations navigating overlapping or complementary reporting obligations.
 
 ---
 
@@ -21,7 +21,7 @@ Under the CSRD, adopted in 2023, organisations are required to report on two dis
 - **Financial materiality** ([[financial materiality]]): the effect of sustainability factors on the organisation's financial position, performance, and prospects.
 - **Impact materiality** ([[impact materiality]]): the organisation's own effects on people and the environment.
 
-The [[European Sustainability Reporting Standards]] (ESRS) embed this dual lens structurally. ESRS defines [[double materiality]] as the requirement to evaluate and disclose both dimensions, and treats their combination as the defining feature that distinguishes ESRS from single-materiality standards [[esrs]]. This is not a voluntary choice: for organisations in scope of the CSRD, reporting under both dimensions is a legal obligation from January 2024 [[csrd]].
+The [[European Sustainability Reporting Standards (ESRS)]] (ESRS) embed this dual lens structurally. ESRS defines [[double materiality]] as the requirement to evaluate and disclose both dimensions, and treats their combination as the defining feature that distinguishes ESRS from single-materiality standards [[esrs]]. This is not a voluntary choice: for organisations in scope of the CSRD, reporting under both dimensions is a legal obligation from January 2024 [[csrd]].
 
 ### The GRI Approach
 
@@ -92,8 +92,8 @@ Double materiality under CSRD/ESRS is a legally mandated, dual-lens framework re
 
 ## See Also
 
-- [[Corporate Sustainability Reporting Directive]]
-- [[European Sustainability Reporting Standards]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[European Sustainability Reporting Standards (ESRS)]]
 - [[Global Reporting Initiative]]
 - [[Double Materiality Assessment]]
 - [[Voluntary Sustainability Reporting Standard for SMEs]]
