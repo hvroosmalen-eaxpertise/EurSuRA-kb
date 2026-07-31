@@ -121,10 +121,12 @@ shared framework (see `framework_path` in `config/kb.yaml`), pointing it at this
 python ../kb-framework/pipeline/orchestrate.py --kb .
 ```
 
-This KB runs most enrichment locally on Ollama (`qwen3:8b`) and keeps only the
-domain **merge** on the Claude API — see the `enrich:` block in `config/kb.yaml`.
-So you need both a running Ollama daemon *and* an `ANTHROPIC_API_KEY`: copy
-`.env.example` to `.env` and set the key first.
+This KB runs **all** enrichment locally on Ollama (`qwen3:8b`) — ingest steps on
+the 8k-context `ollama` backend, and the whole-corpus generators plus the domain
+**merge** on the bigger-context `ollama-xl` backend (see the `enrich:` block in
+`config/kb.yaml`). No `ANTHROPIC_API_KEY` is needed; just a running Ollama
+daemon. Flip any task back to `claude` in that block if you want Claude quality
+on it (the `claude` backend is still defined and configured).
 
 `orchestrate.py` ingests every source in `pipeline/inbox/` (or a single `--file`),
 runs the three-layer flow described below, regenerates the catalog, then **finalises**:
@@ -243,8 +245,8 @@ glossary entry and removing it from that file.
 |---|---|
 | `CHANGELOG.md` | Human-readable record of all content additions — ingested and manual |
 | `logs/ingestion.log` | Machine-readable event log: START / EXTRACTED / WRITTEN / DONE / FAILED per PDF |
-| `logs/enrichment.log` | Claude enrichment steps: style rewrite, tagging, domain merge, glossary upsert |
-| `logs/token_usage.jsonl` | Per-call Claude token usage (input/output, labelled by stage); tally with `python ../kb-framework/pipeline/usage.py --kb .` |
+| `logs/enrichment.log` | Enrichment steps: style rewrite, tagging, domain merge, glossary upsert (Claude or Ollama per `enrich:` config) |
+| `logs/token_usage.jsonl` | Per-call Claude token usage (input/output, labelled by stage); tally with `python ../kb-framework/pipeline/usage.py --kb .` — only populated while a task is routed to `claude` |
 
 ## Cross-Reference Matrix
 
