@@ -72,3 +72,5 @@ ifrs sustainability standards
 material
 sfdr
 small and medium-sized enterprises (smes)
+global reporting initiative (gri)
+supply chain transparency

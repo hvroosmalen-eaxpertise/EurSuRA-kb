@@ -2,100 +2,89 @@
 title: Concept Map
 content_type: model
 generated: true
-date_updated: 2026-07-30
+date_updated: 2026-07-31
 ---
 
 ```mermaid
 graph TD
+    A[EU Sustainability Reporting] --> B[Frameworks]
+    A --> C[Standards]
+    A --> D[Models]
+    A --> E[Insights]
+    A --> F[Reports]
 
-%% Core EU Regulatory Layer
-CSRD["CSRD\n(Corporate Sustainability\nReporting Directive)"]
-ESRS["ESRS\n(European Sustainability\nReporting Standards)"]
-VSME["VSME\n(Voluntary SME Standard)"]
-EUT["EU Taxonomy\nRegulation"]
-GHG["GHG Protocol"]
+    B --> G[GRI]
+    B --> H[TCFD]
+    B --> I[UN SDGs]
+    B --> J[VSME]
+    B --> K[ESRS]
+    B --> L[CSRD]
 
-%% Frameworks
-GRI["GRI\n(Global Reporting Initiative)"]
-TCFD["TCFD"]
-SDG["UN SDGs\n(2030 Agenda)"]
+    C --> M[EU Taxonomy]
+    C --> N[GHG Protocol]
+    C --> O[CSRD]
+    C --> P[ESRS]
 
-%% Key Concepts
-DMA["Double Materiality\nAssessment (DMA)"]
-FM["Financial Materiality"]
-IM["Impact Materiality"]
-SC["Supply Chain\nPressure"]
-DD["Due Diligence\n(OECD 6-Step)"]
-AI_ESG["Adverse Impacts\n(Human Rights / Environment)"]
-VC["Value Chain"]
+    D --> Q[Semantic Model]
+    D --> R[Concept Map]
+    D --> S[Ontology]
+    D --> T[Cross-Reference Matrix]
 
-%% Green Software
-SCI["SCI\n(Software Carbon Intensity)"]
-SCI_AI["SCI for AI\nSpecification"]
-ISO21031["ISO/IEC 21031:2024"]
+    E --> U[Climate Disclosure Across Frameworks]
+    E --> V[Double Materiality Across Regimes]
+    E --> W[The SME Reporting Pathway]
 
-%% Digital Skills
-DigComp["DigComp 3.0\n(EU Digital Competence\nFramework)"]
+    F --> X[Due Diligence in 6 Steps]
+    F --> Y[Adjacent]
+    F --> Z[SCI Specification]
 
-%% SMEs
-SME["SMEs\n(Small & Medium Enterprises)"]
+    G --> AA[Climate Disclosure]
+    H --> AB[Climate Risk]
+    I --> AC[SDGs]
+    J --> AD[SME Reporting]
+    K --> AE[ESRS]
+    L --> AF[CSRD]
 
-%% Knowledge Base Structure
-KB["EurSuRA\nKnowledge Base"]
-Insights["Insights Layer"]
-Glossary["Glossary"]
-CRM["Cross-Reference Matrix"]
+    M --> AG[EU Taxonomy]
+    N --> AH[GHG Emissions]
+    O --> AI[CSRD]
+    P --> AJ[ESRS]
 
-%% --- Relationships ---
+    Q --> AK[Semantic Model]
+    R --> AL[Concept Map]
+    S --> AM[Ontology]
+    T --> AN[Cross-Reference Matrix]
 
-%% Regulatory backbone
-CSRD -->|"mandates use of"| ESRS
-CSRD -->|"drives indirect demand for"| SC
-SC -->|"creates pressure on"| SME
-SME -->|"voluntary on-ramp via"| VSME
-VSME -->|"structurally aligned with"| ESRS
-ESRS -->|"requires"| DMA
-DMA -->|"includes"| FM
-DMA -->|"includes"| IM
+    U --> AO[Climate Disclosure]
+    V --> AP[Double Materiality]
+    W --> AQ[SME Pathway]
 
-%% Framework alignment
-ESRS -->|"maps to"| GRI
-ESRS -->|"maps to"| TCFD
-ESRS -->|"maps to"| SDG
-ESRS -->|"references"| EUT
-GRI -->|"covers"| IM
-TCFD -->|"covers"| FM
-GHG -->|"measures emissions for"| ESRS
-GHG -->|"measures emissions for"| VSME
+    X --> AR[Due Diligence]
+    Y --> AS[Adjacent]
+    Z --> AT[SCI]
 
-%% Due diligence
-DD -->|"identifies"| AI_ESG
-AI_ESG -->|"arises across"| VC
-VC -->|"includes"| SME
-DD -->|"basis: OECD Guidelines +\nUNGPs"| AI_ESG
+    AA --> AU[Climate Disclosure]
+    AB --> AU[Climate Risk]
+    AC --> AU[SDGs]
+    AD --> AU[SME Reporting]
+    AE --> AU[ESRS]
+    AF --> AU[CSRD]
 
-%% Green software
-SCI -->|"formalised as"| ISO21031
-SCI_AI -->|"extends"| SCI
-SCI_AI -->|"covers lifecycle of"| SCI_AI
+    AG --> AU[EU Taxonomy]
+    AH --> AU[GHG Emissions]
+    AI --> AU[CSRD]
+    AJ --> AU[ESRS]
 
-%% Knowledge base
-KB -->|"contains"| ESRS
-KB -->|"contains"| CSRD
-KB -->|"contains"| VSME
-KB -->|"contains"| EUT
-KB -->|"contains"| GHG
-KB -->|"contains"| GRI
-KB -->|"contains"| TCFD
-KB -->|"contains"| SDG
-KB -->|"synthesises via"| Insights
-KB -->|"defines terms in"| Glossary
-KB -->|"cross-maps via"| CRM
-Insights -->|"covers"| DMA
-Insights -->|"covers"| SC
-Insights -->|"covers"| FM
+    AK --> AU[Semantic Model]
+    AL --> AU[Concept Map]
+    AM --> AU[Ontology]
+    AN --> AU[Cross-Reference Matrix]
 
-%% DigComp (tangential)
-DigComp -->|"published by"| JRC["EU Joint Research\nCommission (JRC)"]
-DigComp -->|"supports"| DSI["Digital Skills\nIndicator (EU)"]
+    AO --> AU[Climate Disclosure]
+    AP --> AU[Double Materiality]
+    AQ --> AU[SME Pathway]
+
+    AR --> AU[Due Diligence]
+    AS --> AU[Adjacent]
+    AT --> AU[SCI]
 ```
