@@ -50,18 +50,24 @@ Vision-model diagram/table captioning is a separate future investigation.
 
 ## Config
 
-New `enrich:` block in `config/kb.yaml`. This KB opts into the hybrid:
+`enrich:` block in `config/kb.yaml`. This KB runs **all-local** (as of
+2026-07-31) — every task on Ollama, with the big-context `ollama-xl` backend
+for the whole-corpus generators, the merge step, and the deep linter:
 
 ```yaml
 enrich:
   backends:
-    claude: { model: claude-sonnet-4-6 }
-    ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192 }
+    claude:    { model: claude-sonnet-4-6 }
+    ollama:    { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192,  timeout: 1200 }
+    ollama-xl: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 32768, timeout: 1800 }
   tasks:
-    tagger:   ollama
-    rewrite:  ollama
-    merge:    claude     # kept on Claude — the risky merge-not-overwrite step
-    glossary: ollama
+    tagger:    ollama
+    rewrite:   ollama
+    merge:     ollama-xl    # was claude until 2026-07-31 — flip back for quality
+    glossary:  ollama
+    model:     ollama-xl    # semantic-model / concept-map / ontology (query.py)
+    synthesis: ollama-xl    # cross-domain insight pages (query.py)
+    lint:      ollama-xl    # deep contradiction check (lint.py --deep)
 ```
 
 Built-in default (applied when the block or any key is absent):
@@ -99,6 +105,35 @@ slower). 1200s = ~7× the measured worst case and 2× the historical 600s
 failure point: generous enough never to false-fail a legitimate call, bounded
 enough to fail a genuinely hung request in 20 min.
 
+### All-local routing + backend types (added 2026-07-31)
+
+Per user request the KB moved **every** enrichment task off Claude: `merge`,
+plus the whole-corpus generators (`model`, `synthesis`) and the deep linter
+(`lint`) are now routed to a second Ollama backend, `ollama-xl` (same model,
+`num_ctx: 32768`, `timeout: 1800`) — those prompts exceed the 8k context of
+the base `ollama` backend.
+
+Three decisions:
+
+1. **Dispatch by backend *type*, not exact name** — `enrich_call` derives the
+   kind from an explicit `type:` key, else the backend-name prefix
+   (`claude*` / `ollama*`). This lets a KB declare several backends of the
+   same kind (`ollama`, `ollama-xl`) without code changes.
+2. **Default task set widened** — tasks beyond the four ingest steps
+   (`model`, `synthesis`, `lint`) also resolve through `enrich_call`; a KB
+   with no `enrich:` block still routes them to Claude (backward-compat).
+3. **Wikilink sanitization on generated pages** — `query.py` loads the KB's
+   own `hooks.py` index (titles, glossary terms, slugs, aliases,
+   known-external) and demotes any `[[link]]` the model invented that would
+   not resolve under `mkdocs build --strict`. Local models invent links more
+   freely than Claude, so this is what keeps generated pages strict-clean.
+
+Quality tradeoff: on first regeneration the local model's output is visibly
+shorter and loses wikilinks/structure vs the Claude-era pages (e.g. the SME
+pathway insight went from ~117 lines with tables + links to ~43 lines of flat
+prose). Flip a task back to `claude` in `kb.yaml` for the quality-critical
+steps (currently `merge`, or any whole-corpus generator).
+
 ## Components (in `ingest.py`)
 
 1. `load_enrich_config(kb)` — read the `enrich:` block, deep-merge over
@@ -108,10 +143,13 @@ enough to fail a genuinely hung request in 20 min.
    `timeout` (default 1200s); return `message.content`. Unreachable host, non-200,
    or model-not-found → `RuntimeError`.
 3. `enrich_call(task, system_prompt, user_content, cfg, label)` — dispatcher:
-   `tasks[task]` → backend name → model, routes to `call_claude` or
-   `call_ollama`. Unknown backend name → `RuntimeError`.
-4. The four existing call sites (tagger, rewrite, merge, glossary) call
-   `enrich_call("<task>", …)` instead of `call_claude` directly.
+   `tasks[task]` → backend name → **backend type** (explicit `type:` else name
+   prefix) → `call_claude` or `call_ollama`. Unknown backend name → `RuntimeError`.
+4. All call sites — the four ingest steps (tagger, rewrite, merge, glossary) in
+   `ingest.py`, plus `build_model` / `build_synthesis` in `query.py` and
+   `run_deep` in `lint.py` — route through `enrich_call("<task>", …)`.
+5. `query.py` also sanitizes generated wikilinks (`_sanitize_links` /
+   `_link_resolver`) against the KB's `hooks.py` index.
 
 ## Data flow
 
@@ -125,10 +163,16 @@ No live API or Ollama calls (per the KB verification approach — pipeline chang
 are tested without paid/live calls):
 
 - Dispatcher selects the configured backend per task; unknown backend → error.
-- Absent `enrich:` block → all four tasks resolve to `claude` (backward-compat).
+- Absent `enrich:` block → all tasks resolve to `claude` (backward-compat).
+- Same-kind backends (`ollama-xl`, `type:` key) dispatch to the right driver.
 - `call_ollama` with mocked HTTP: correct request payload shape; connection
   error → `RuntimeError`.
+- `_sanitize_links`: resolvable/known-external links kept, invented links
+  demoted to plain text; no-op without `hooks.py`.
 
 ## Cost effect
 
-4 Claude calls/source → 1 (merge only): ~75% reduction, merge quality preserved.
+Originally: 4 Claude calls/source → 1 (merge only): ~75% reduction.
+Now (all-Ollama): **0 paid calls** for ingest and regeneration; Claude is only
+used if a task is explicitly flipped back in `kb.yaml`. Merge quality is the
+tradeoff the `ollama-xl` routing accepts.

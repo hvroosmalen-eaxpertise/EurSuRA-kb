@@ -4,18 +4,24 @@ framework_path: ../kb-framework
 default_source_body: EFRAG
 mkdocs_config: mkdocs.yml
 
-# Per-task enrichment backend. Tagger/rewrite/glossary run locally on Ollama
-# (free); the risky merge-not-overwrite step stays on Claude. A KB with no
-# `enrich:` block defaults to all-Claude, so this is opt-in. See issue #14.
+# Per-task enrichment backend. All tasks run locally on Ollama (free) — no Claude
+# calls. `ollama` (8k ctx) handles the per-source ingest tasks; `ollama-xl` (32k
+# ctx) handles the whole-corpus generators (model/synthesis), the merge step, and
+# the deep linter, whose prompts exceed 8k. A KB with no `enrich:` block defaults
+# to all-Claude, so this is opt-in. Flip any task back to `claude` for quality.
 enrich:
   backends:
-    claude: { model: claude-sonnet-4-6 }
-    ollama: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192, temperature: 0.1, timeout: 1200 }
+    claude:    { model: claude-sonnet-4-6 }
+    ollama:    { model: qwen3:8b, host: http://localhost:11434, num_ctx: 8192,  temperature: 0.1, timeout: 1200 }
+    ollama-xl: { model: qwen3:8b, host: http://localhost:11434, num_ctx: 32768, temperature: 0.1, timeout: 1800 }
   tasks:
-    tagger:   ollama
-    rewrite:  ollama    # viable on good input; readability guard blocks garbage upfront (#14)
-    merge:    claude    # merge-not-overwrite stays on Claude — the risky step
-    glossary: ollama
+    tagger:    ollama
+    rewrite:   ollama       # viable on good input; readability guard blocks garbage upfront (#14)
+    merge:     ollama-xl    # moved off Claude per request — quality risk on merge-not-overwrite
+    glossary:  ollama
+    model:     ollama-xl    # semantic-model / concept-map / ontology (query.py)
+    synthesis: ollama-xl    # cross-domain insight pages (query.py)
+    lint:      ollama-xl    # deep contradiction check (lint.py --deep)
 
 lint:
   hard_fail: [ORPHAN, STALE]      # kinds that fail CI; XREF and CONTRADICTION are advisory
