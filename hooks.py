@@ -192,12 +192,17 @@ def on_config(config, **kwargs):
     docs_dir = config["docs_dir"]
 
     # Copy shared assets from kb-framework so they are available at build time.
+    # Only write when the content differs: under `mkdocs serve` the docs dir is
+    # watched, so an unconditional rewrite touches the file on every build and
+    # triggers an endless rebuild loop.
     fw_dir = Path(docs_dir).parent / ".." / "kb-framework"
     local = Path(docs_dir) / "assets" / "javascripts" / "mermaid-toolbar.js"
     source = fw_dir / "assets" / "javascripts" / "mermaid-toolbar.js"
     if source.exists():
-        local.parent.mkdir(parents=True, exist_ok=True)
-        local.write_bytes(source.read_bytes())
+        content = source.read_bytes()
+        if not local.exists() or local.read_bytes() != content:
+            local.parent.mkdir(parents=True, exist_ok=True)
+            local.write_bytes(content)
     LINK_INDEX.clear()
     # Priority order (first wins): manual aliases, page titles, glossary terms, slugs.
     for key, target in MANUAL_ALIASES.items():
