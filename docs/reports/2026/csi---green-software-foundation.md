@@ -11,7 +11,7 @@ domain:
 
 # Software Carbon Intensity (SCI) Specification
 
-The **Software Carbon Intensity (SCI)** specification is a methodology standard developed by the Standards Working Group of the [[Green Software Foundation]] for calculating the rate of carbon emissions produced by a software system. Version 1.1.0 of the specification was published on 15 June 2026 and is attributed to [[EFRAG (European Financial Reporting Advisory Group)]].[^1] The SCI score is expressed as a rate rather than a total, whereby lower values indicate lower carbon intensity and a score of zero is mathematically unattainable.[^1]
+The **Software Carbon Intensity (SCI)** specification is a methodology standard developed by the Standards Working Group of the [[Green Software Foundation]] for calculating the rate of carbon emissions produced by a software system. Version 1.1.0 of the specification is published by the Green Software Foundation.[^1] The SCI score is expressed as a rate rather than a total, whereby lower values indicate lower carbon intensity and a score of zero is mathematically unattainable.[^1]
 
 ---
 
@@ -164,4 +164,4 @@ The specification explicitly excludes neutralisation and avoidance offsets—inc
 
 ## References
 
-[^1]: Green Software Foundation, Standards Working Group. *Software Carbon Intensity (SCI) Specification*, Version 1.1.0. EFRAG, 15 June 2026.
+[^1]: Green Software Foundation, Standards Working Group. *Software Carbon Intensity (SCI) Specification*, Version 1.1.0.

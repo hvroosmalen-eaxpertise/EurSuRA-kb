@@ -1,76 +1,59 @@
-# Auto-recorded by bootstrap: external concepts referenced by [[wikilinks]]
+# Auto-recorded: external concepts referenced by [[wikilinks]]
 # but not (yet) pages or glossary terms. Promote one by adding a page/glossary
-# entry and removing it here.
-ai environmental impact
-carbon border adjustment mechanism (cbam)
-cdp
-circular economy
-consumer functional units
-corporate sustainability due diligence
-corporate sustainability reporting directive (csrd)
-digital competence
-european sustainability reporting standards (esrs)
-green software foundation
-lifecycle assessment
-national contact points (oecd)
-sasb
-supply chain due diligence
-sustainability reporting
-sustainability transformation
-sustainable resource use
-voluntary sustainability reporting standard for smes
-vsme (voluntary sustainability reporting standard for smes)
+# entry and removing it here. Pruned 2026-07-31 after aliasing core domains.
 affected communities
+ai continent action plan
+ai environmental impact
 anti-corruption policy
-assurance
 biodiversity and ecosystems
-business conduct
+biodiversity loss
+carbon border adjustment mechanism (cbam)
 carbon offsets
 climate change mitigation
+climate-related financial risk)
 corporate law
 corporate sustainability reporting
+digital competence
+digital decade policy programme
+digital skills indicator
+dma
+double materiality assessment (dma)
 due diligence in responsible business conduct
 ecodesign for sustainable products regulation
 embodied carbon
-environmental criteria
-esg risks
+eu corporate sustainability reporting directive
+european strategy for a better internet for kids
 expected lifespan
 global and national accounts
-governance criteria
+green software foundation
+greenhouse gas
 greenhouse gas emissions reporting
-greenhouse gas protocol
-greenhouse gas protocol (ghg protocol)
+grievance mechanisms in business and human rights
+ifrs
+ifrs sustainability standards
 impact assessment
+joint research centre
 life-cycle assessment
+lifecycle assessment
+material
 multinational enterprises
 multiple capitals framework
+national contact points (oecd)
 national contact points for responsible business conduct
 oecd due diligence guidance for responsible business conduct
 own workforce
 pollution
-risk management integration
+renewable energy
 science based targets initiative (sbti)
+sfdr
 stakeholder theory
-sustainable finance
+supply chain transparency
+sustainability transformation
 sustainable finance disclosure regulation (sfdr)
-task force on climate-related financial disclosures (tcfd)
+sustainable resource use
 time reserved
-voluntary sustainability reporting standard for smes (vsme)
-vsme standard
+union of skills
 water and marine resources
 whistleblowers
 workers in the value chain
 working conditions
-xbrl
-biodiversity loss
-climate-related financial risk)
-dma
-double materiality assessment (dma)
-eu corporate sustainability reporting directive
-ifrs
-ifrs sustainability standards
-material
-sfdr
-small and medium-sized enterprises (smes)
-global reporting initiative (gri)
-supply chain transparency

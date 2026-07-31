@@ -159,4 +159,4 @@ According to the CSRD Collectief, adopting a sustainability strategy and reporti
 
 ## References
 
-[^1]: Duchateau, M. and Roelofsen, E. (2025). *Van verplichting naar waarde: Vrijwillig rapporteren met de VSME* [Webinar presentation]. CSRD Collectief, 8 May 2025. Source document attributed to EFRAG, dated 2026-06-15 in repository metadata.
+[^1]: Duchateau, M. and Roelofsen, E. (2025). *Van verplichting naar waarde: Vrijwillig rapporteren met de VSME* [Webinar presentation]. CSRD Collectief, 8 May 2025.

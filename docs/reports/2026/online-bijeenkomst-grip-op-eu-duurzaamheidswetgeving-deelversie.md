@@ -184,4 +184,4 @@ The pilot project and associated sessions identify six categories of strategic o
 
 ## References
 
-[^1]: RBConnect and Future Up, *Grip op EU-Duurzaamheidswetgeving* [Navigating EU Sustainability Legislation], online session presentation, 16 April 2025. Prepared under the Dutch Ministry of Economic Affairs (EZ) pilot project on integrated implementation of EU sustainability legislation. Source document attributed to EFRAG, dated 2026-06-15.
+[^1]: RBConnect and Future Up, *Grip op EU-Duurzaamheidswetgeving* [Navigating EU Sustainability Legislation], online session presentation, 16 April 2025. Prepared under the Dutch Ministry of Economic Affairs (EZ) pilot project on integrated implementation of EU sustainability legislation.

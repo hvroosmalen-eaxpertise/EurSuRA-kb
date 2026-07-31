@@ -100,4 +100,4 @@ In response to the European Commission's Omnibus proposal — a regulatory initi
 
 ## References
 
-[^1]: CSRD Collectief (Duchâteau, M. and Roelofsen, E.). *Q&A Navigation Webinar VSME*. Webinar held 8 May 2025; document dated 15 June 2026. EFRAG.
+[^1]: CSRD Collectief (Duchâteau, M. and Roelofsen, E.). *Q&A Navigation Webinar VSME*. Webinar held 8 May 2025.

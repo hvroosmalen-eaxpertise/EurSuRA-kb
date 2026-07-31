@@ -13,7 +13,7 @@ domain:
 
 ## Lead
 
-The European Financial Reporting Advisory Group ([[EFRAG (European Financial Reporting Advisory Group)]]) published *An Architecture for Sustainable Value Transition within Social and Planetary Boundaries* on 15 June 2026, proposing a systemic framework for realigning corporate and economic activity with ecological and social limits.[^1] The paper introduces two central concepts: a **Sustainable Value Transition** (SVT), defined as a fundamental reorientation of the way value is defined, planned, and rewarded; and a **Sustainable Value Architecture** (SVA), the set of institutional structures and mechanisms needed to support that transition.[^1] The authors argue that prevailing forms of capitalism place accelerating pressure on ecological and social systems, and that conventional finance and economic theory contain simplifications that prevent the necessary alignment between financial and wider forms of value.[^1] Nine interdependent components of the SVA are proposed, spanning corporate governance, law, reporting, product information, supply-chain transparency, macroeconomic accounts, fiscal policy, and education.[^1]
+The European Financial Reporting Advisory Group ([[EFRAG (European Financial Reporting Advisory Group)]]) published *An Architecture for Sustainable Value Transition within Social and Planetary Boundaries*, proposing a systemic framework for realigning corporate and economic activity with ecological and social limits.[^1] The paper introduces two central concepts: a **Sustainable Value Transition** (SVT), defined as a fundamental reorientation of the way value is defined, planned, and rewarded; and a **Sustainable Value Architecture** (SVA), the set of institutional structures and mechanisms needed to support that transition.[^1] The authors argue that prevailing forms of capitalism place accelerating pressure on ecological and social systems, and that conventional finance and economic theory contain simplifications that prevent the necessary alignment between financial and wider forms of value.[^1] Nine interdependent components of the SVA are proposed, spanning corporate governance, law, reporting, product information, supply-chain transparency, macroeconomic accounts, fiscal policy, and education.[^1]
 
 ---
 
@@ -154,4 +154,4 @@ The paper further contends that if new forms of capitalism are to be successful,
 
 ## References
 
-[^1]: European Financial Reporting Advisory Group (EFRAG). *An Architecture for Sustainable Value Transition within Social and Planetary Boundaries*. Brussels: EFRAG, 15 June 2026.
+[^1]: EFRAG. *An Architecture for Sustainable Value Transition within Social and Planetary Boundaries*.

@@ -117,4 +117,4 @@ SDG 17 is mapped to cooperation and partnerships requirements, corresponding to 
 
 ## References
 
-[^1]: EFRAG. *SDG–CSRD–ESRS Matrix (in ontwerp)* [SDG–CSRD–ESRS Matrix (draft)]. Internal document. 15 June 2026.
+[^1]: *SDG–CSRD–ESRS Matrix (in ontwerp)* [SDG–CSRD–ESRS Matrix (draft)].

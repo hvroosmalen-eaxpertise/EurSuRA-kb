@@ -569,7 +569,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate Transition Plan
 
-**Definition:** A documented organisational strategy setting out how a reporting entity intends to align its operations and business model with climate-related targets, the existence and credibility of which is subject to verification in an ESG audit.
+**Definition:** A documented organisational strategy setting out how a reporting entity intends to align its operations and business model with climate-related targets, as required under ESRS E1-1.
 
 **Domain:** ESRS
 
@@ -579,7 +579,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Climate Change Mitigation]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** ESRS E1-1, Transition plans for climate change mitigation, 2023
 
 ---
 
@@ -1225,7 +1225,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Enterprise Risk Management
 
-**Definition:** A structured organisational framework for identifying, assessing, and managing risks across all business functions, into which ESG risks should be incorporated as assessed in the governance dimension of an ESG audit checklist.
+**Definition:** A structured organisational framework for identifying, assessing, and managing risks across all business functions, into which ESG-related risks should be incorporated.
 
 **Domain:** General
 
@@ -1233,9 +1233,9 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** ERM
 
-**Related terms:** [[Risk Management Integration]], [[ESG Risks]], [[Governance Criteria]]
+**Related terms:** [[Due Diligence]]
 
-**Source:** ESG Audit Checklist, Governance Criteria, 2026
+**Source:** ISO 31000:2018, Risk management — Guidelines, 2018
 
 ---
 
@@ -1297,9 +1297,9 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** ESG auditing
 
-**Related terms:** [[ESG Audit Checklist]], [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Double Materiality Assessment]]
+**Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Double Materiality Assessment]]
 
-**Source:** ESG Audit Checklist, Background, 2026
+**Source:** CSRD (Directive (EU) 2022/2464), Assurance of sustainability reporting, 2022
 
 ---
 
@@ -1332,22 +1332,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Sustainability Reporting]], [[GRI]], [[ESRS]], [[TCFD]], [[SASB]], [[ISSB]], [[CDP]], [[Materiality (sustainability reporting)]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026 · ESG Business Handbook.pdf, Background – Definition and Scope, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
-
----
-
-### ESG Audit Checklist
-
-**Definition:** A systematic framework used by auditors and reporting entities for evaluating disclosures, controls, and outcomes across environmental, social, and governance dimensions.
-
-**Domain:** General
-
-**Synonyms:** ESG checklist, sustainability audit checklist
-
-**Abbreviation:** none
-
-**Related terms:** [[Environmental, Social, and Governance (ESG) Auditing]], [[Double Materiality Assessment]], [[European Sustainability Reporting Standards (ESRS)]], [[Assurance]]
-
-**Source:** ESG Audit Checklist, Introduction, 2026
 
 ---
 
@@ -1923,7 +1907,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Freedom of Association
 
-**Definition:** A labour right entitling workers to form and join trade unions and to engage in collective bargaining, the disclosure and performance of which is verified under the own-workforce category of an ESG audit checklist.
+**Definition:** A labour right entitling workers to form and join trade unions and to engage in collective bargaining.
 
 **Domain:** General
 
@@ -1933,7 +1917,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Own Workforce]], [[Working Conditions]]
 
-**Source:** ESG Audit Checklist, Social Criteria, 2026
+**Source:** ILO Declaration on Fundamental Principles and Rights at Work, 1998
 
 ---
 
@@ -2099,7 +2083,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Global Reporting Initiative
 
-**Definition:** An independent international standard-setting organisation that provides a widely used framework for sustainability reporting, referenced as a related instrument alongside ESRS in the ESG audit context.
+**Definition:** An independent international standard-setting organisation that provides a widely used framework for sustainability reporting.
 
 **Domain:** GRI
 
@@ -2109,7 +2093,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[International Sustainability Standards Board]]
 
-**Source:** ESG Audit Checklist, See Also, 2026
+**Source:** GRI Standards, GRI 1: Foundation 2021, 2021
 
 ---
 
@@ -2259,7 +2243,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Human Rights Due Diligence
 
-**Definition:** A structured organisational process for identifying, preventing, mitigating, and accounting for adverse human rights impacts across supply chains and business relationships, applied to suppliers and subcontractors in the social dimension of an ESG audit.
+**Definition:** A structured organisational process for identifying, preventing, mitigating, and accounting for adverse human rights impacts across supply chains and business relationships.
 
 **Domain:** General
 
@@ -2269,7 +2253,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Workers in the Value Chain]], [[Affected Communities]], [[Due Diligence]]
 
-**Source:** ESG Audit Checklist, Social Criteria, 2026
+**Source:** UN Guiding Principles on Business and Human Rights, 2011
 
 ---
 
@@ -2579,7 +2563,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Kunming-Montreal Global Biodiversity Framework
 
-**Definition:** An international framework establishing biodiversity-related targets against which organisations' biodiversity and ecosystem impact assessments may be evaluated in an ESG audit context.
+**Definition:** An international framework establishing biodiversity-related targets adopted at COP 15 of the Convention on Biological Diversity.
 
 **Domain:** General
 
@@ -2589,7 +2573,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Biodiversity and Ecosystems]], [[Impact Assessment]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** CBD, Kunming-Montreal Global Biodiversity Framework, Decision 15/4, 2022
 
 ---
 
@@ -2637,7 +2621,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Reasonable Assurance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
-**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+**Source:** CSRD (Directive (EU) 2022/2464), Assurance of sustainability reporting, 2022
 
 ---
 
@@ -2947,7 +2931,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Non-Financial Reporting Directive
 
-**Definition:** A predecessor European Union directive to the CSRD that established earlier non-financial disclosure obligations for large public-interest entities, referenced as a related instrument in the ESG audit framework.
+**Definition:** A predecessor European Union directive to the CSRD that established earlier non-financial disclosure obligations for large public-interest entities.
 
 **Domain:** CSRD
 
@@ -2957,7 +2941,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
-**Source:** ESG Audit Checklist, See Also, 2026
+**Source:** Directive 2014/95/EU, Non-Financial Reporting Directive, 2014
 
 ---
 
@@ -3293,7 +3277,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Limited Assurance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
-**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+**Source:** CSRD (Directive (EU) 2022/2464), Assurance of sustainability reporting, 2022
 
 ---
 
@@ -3517,7 +3501,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Climate Transition Plan]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** GHG Protocol, Corporate Accounting and Reporting Standard, 2004
 
 ---
 
@@ -3533,7 +3517,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Scope 1 Emissions]], [[Scope 3 Emissions]], [[Climate Transition Plan]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** GHG Protocol, Corporate Accounting and Reporting Standard, 2004
 
 ---
 
@@ -3549,7 +3533,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Climate Transition Plan]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** GHG Protocol, Corporate Accounting and Reporting Standard, 2004
 
 ---
 
@@ -3875,7 +3859,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Substances of Concern
 
-**Definition:** Chemical or biological substances identified in pollution disclosures as posing risks to human health or the environment, the reporting of which is an audit item under the pollution category of an ESG checklist.
+**Definition:** Chemical or biological substances that pose risks to human health or the environment and are subject to disclosure in pollution reporting.
 
 **Domain:** ESRS
 
@@ -3883,9 +3867,9 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** none
 
-**Related terms:** [[Pollution]], [[Environmental Criteria]]
+**Related terms:** [[Pollution]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** ESRS E2, Pollution, 2023
 
 ---
 
@@ -4029,7 +4013,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Corporate Sustainability Reporting Directive (CSRD)]], [[European Sustainability Reporting Standards (ESRS)]], [[Limited Assurance]], [[Reasonable Assurance]]
 
-**Source:** ESG Audit Checklist, Assurance and Verification, 2026
+**Source:** CSRD (Directive (EU) 2022/2464), Sustainability reporting requirements, 2022
 
 ---
 
@@ -4595,7 +4579,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Water-Stressed Areas
 
-**Definition:** Geographic locations where water availability is limited or under significant competing demand, requiring particular audit attention in the review of water consumption, withdrawal, and recycling disclosures.
+**Definition:** Geographic locations where water availability is limited or under significant competing demand.
 
 **Domain:** ESRS
 
@@ -4605,7 +4589,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Water and Marine Resources]]
 
-**Source:** ESG Audit Checklist, Environmental Criteria, 2026
+**Source:** ESRS E3, Water and marine resources, 2023
 
 ---
 
@@ -4643,7 +4627,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Whistleblower Mechanism
 
-**Definition:** A formal channel through which employees or other stakeholders can report suspected misconduct, including violations of anti-corruption and anti-bribery policies, the existence of which is reviewed under the business conduct category of an ESG audit checklist.
+**Definition:** A formal channel through which employees or other stakeholders can report suspected misconduct, including violations of anti-corruption and anti-bribery policies.
 
 **Domain:** General
 
@@ -4653,7 +4637,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Related terms:** [[Business Conduct]], [[Anti-Corruption Policy]]
 
-**Source:** ESG Audit Checklist, Governance Criteria, 2026
+**Source:** Directive (EU) 2019/1937, Whistleblower Protection Directive, 2019
 
 ---
 

@@ -53,7 +53,7 @@ The **Carbon Disclosure Project (CDP)** is a global disclosure platform active s
 
 ## Selecting an Appropriate Framework
 
-The source document published by EFRAG (European Financial Reporting Advisory Group) identifies distinct use cases for each framework. [^1] GRI is recommended for organisations prioritising broad impact assessment and multi-stakeholder engagement. [^1] SASB, TCFD, and ISSB are identified as particularly suited to financial disclosures intended for investor audiences. [^1] CDP is recommended where climate and environmental transparency is the primary objective. [^1] ESRS applies specifically to organisations subject to EU regulatory compliance obligations under the CSRD. [^1]
+The source document identifies distinct use cases for each framework.[^1] GRI is recommended for organisations prioritising broad impact assessment and multi-stakeholder engagement. [^1] SASB, TCFD, and ISSB are identified as particularly suited to financial disclosures intended for investor audiences. [^1] CDP is recommended where climate and environmental transparency is the primary objective. [^1] ESRS applies specifically to organisations subject to EU regulatory compliance obligations under the CSRD. [^1]
 
 ---
 
@@ -70,4 +70,4 @@ The source document published by EFRAG (European Financial Reporting Advisory Gr
 
 ## References
 
-[^1]: EFRAG. (2026, June 15). *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*. European Financial Reporting Advisory Group.
+[^1]: 6 ESG Reporting frameworks.pdf.

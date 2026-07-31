@@ -191,4 +191,4 @@ Providers must clearly state: the chosen functional unit and the rationale for i
 
 ## References
 
-[^1]: Green Software Foundation. *Software Carbon Intensity for AI Specification*. EFRAG. 11 June 2026.
+[^1]: Green Software Foundation. *Software Carbon Intensity for AI Specification*.

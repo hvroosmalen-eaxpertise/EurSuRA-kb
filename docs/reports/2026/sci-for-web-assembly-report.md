@@ -13,7 +13,7 @@ domain:
 
 ## Lead
 
-The **Software Carbon Intensity (SCI) for Web Assembly Report** is a consensus design document produced by the [Green Software Foundation (GSF)](https://greensoftware.foundation) that establishes requirements for measuring the carbon intensity of browser-based web applications. [^1] Developed in Autumn 2025 through an artificial-intelligence (AI)-orchestrated assembly process involving 14 GSF member participants, the document defines scope, target personas, implementation practices, and evaluation criteria intended to guide a formal SCI for Web specification scheduled for publication in the first quarter of 2026. [^2] The report was published on 15 June 2026 and is hosted at the GSF policy research repository. [^3]
+The **Software Carbon Intensity (SCI) for Web Assembly Report** is a consensus design document produced by the [Green Software Foundation (GSF)](https://greensoftware.foundation) that establishes requirements for measuring the carbon intensity of browser-based web applications. [^1] Developed in Autumn 2025 through an artificial-intelligence (AI)-orchestrated assembly process involving 14 GSF member participants, the document defines scope, target personas, implementation practices, and evaluation criteria intended to guide a formal SCI for Web specification scheduled for publication in the first quarter of 2026. [^2] The report is hosted at the GSF policy research repository.[^3]
 
 ---
 
@@ -134,7 +134,7 @@ The Assembly Report identifies categories of encouraged and discouraged practice
 
 ## References
 
-[^1]: Green Software Foundation, *SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity*, GSF Policy Research Repository, 15 June 2026. Available at: https://greensoftware.foundation/policy/research/sci-web-assembly-report/
+[^1]: Green Software Foundation. *SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity*.
 [^2]: Ibid., Executive Summary.
 [^3]: Ibid.
 [^4]: Ibid., §4.9, "Conformance to Parent SCI Specification."

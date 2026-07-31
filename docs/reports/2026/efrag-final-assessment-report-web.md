@@ -35,9 +35,3 @@ EFRAG highlighted that a pan-European database of SME information could serve pu
 - [[Small and Medium-Sized Enterprises (SMEs)]]
 - [[Sustainability Reporting]]
 - [[Financial Reporting]]
-
-## References
-
-[^1] EFRAG Final Assessment Report, 2026-07-29.  
-[^2] European Commission, 2026-07-29.  
-[^3] EFRAG, 2026-07-29.

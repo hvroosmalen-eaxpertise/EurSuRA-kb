@@ -39,14 +39,6 @@ The VSME XBRL Taxonomy enables the digitization of VSME disclosures by providing
 
 ## See Also
 
-- [Voluntary Sustainability Reporting Standard for non-listed SMEs (VSME)](https://example.com/vsme)
-- [Corporate Sustainability Reporting Directive (CSRD)](https://example.com/csr)
-- [European Financial Reporting Advisory Group (EFRAG)](https://example.com/efrag)
-
-## References
-
-[^1] EFRAG. (2026). *VSME Digital Template and VSME XBRL Taxonomy – Explanatory Note*. Retrieved from [https://example.com/vsme-explanatory-note](https://example.com/vsme-explanatory-note)  
-[^2] European Commission. (2025). *VSME Recommendation*. Retrieved from [https://example.com/vsme-recommendation](https://example.com/vsme-recommendation)  
-[^3] EFRAG. (2024). *Voluntary Sustainability Reporting Standard for non-listed SMEs (VSME)*. Retrieved from [https://example.com/vsme-standard](https://example.com/vsme-standard)  
-[^4] EFRAG. (2025). *Public Consultation on VSME Exposure Draft*. Retrieved from [https://example.com/vsme-consultation](https://example.com/vsme-consultation)  
-[^5] EFRAG. (2026). *EFrag Secretariat – Mission and Activities*. Retrieved from [https://example.com/efrag-mission](https://example.com/efrag-mission)
+- [[VSME Standard]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[European Financial Reporting Advisory Group (EFRAG)]]

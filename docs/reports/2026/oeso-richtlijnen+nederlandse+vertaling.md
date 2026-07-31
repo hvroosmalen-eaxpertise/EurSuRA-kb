@@ -115,5 +115,5 @@ Multiple OECD committees contributed to the 2023 thematic chapter revisions, inc
 
 ## References
 
-[^1]: OECD (2024), *OESO-richtlijnen voor multinationale ondernemingen inzake maatschappelijk verantwoord ondernemen*, OECD Publishing, Paris. https://doi.org/10.1787/f3667ab4-nl. [Original: OECD (2023), *OECD Guidelines for Multinational Enterprises on Responsible Business Conduct*, OECD Publishing, Paris. https://doi.org/10.1787/81f92357-en.] Source file: OESO-richtlijnen+Nederlandse+vertaling.pdf, EFRAG, 2026-06-15.
+[^1]: OECD (2024), *OESO-richtlijnen voor multinationale ondernemingen inzake maatschappelijk verantwoord ondernemen*, OECD Publishing, Paris. https://doi.org/10.1787/f3667ab4-nl. [Original: OECD (2023), *OECD Guidelines for Multinational Enterprises on Responsible Business Conduct*, OECD Publishing, Paris. https://doi.org/10.1787/81f92357-en.] Source file: OESO-richtlijnen+Nederlandse+vertaling.pdf.
 [^2]: OECD, *Declaration on International Investment and Multinational Enterprises* (OECD/LEGAL/0144); *Council Decision on the Guidelines for Multinational Enterprises on Responsible Business Conduct* (OECD/LEGAL/0307). Reproduced in: OECD (2024), *OESO-richtlijnen voor multinationale ondernemingen inzake maatschappelijk verantwoord ondernemen*, OECD Publishing, Paris. https://doi.org/10.1787/f3667ab4-nl.

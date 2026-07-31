@@ -65,4 +65,4 @@ Where an enterprise has caused or contributed to adverse impacts, it is expected
 
 ## References
 
-[^1]: Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen. *Due Diligence in 6 stappen*. Den Haag: Ministerie van Buitenlandse Zaken, September 2021. Available at: www.oesorichtlijnen.nl. Retrieved 8 June 2026.
+[^1]: Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen. *Due Diligence in 6 stappen*. Den Haag: Ministerie van Buitenlandse Zaken, September 2021. Available at: www.oesorichtlijnen.nl.
