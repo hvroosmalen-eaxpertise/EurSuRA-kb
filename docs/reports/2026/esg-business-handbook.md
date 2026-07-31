@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: ESG Business Handbook.pdf
+summary: "A practical ESG guidance handbook for businesses (AIRE Centre / UNDP, Bosnia and Herzegovina) covering environmental, social, and governance standards."
+domain:
+- ESRS
 ---
 
 # ESG Business Handbook: Environmental, Social and Governance Standards for Businesses in Bosnia and Herzegovina

@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
 source_file: Strategic Sustainability Communication.pdf
+summary: "An academic treatment of strategic sustainability communication and its role in advancing sustainable practices in organisations and society."
+domain:
+- Sustainability Management
 ---
 
 # Strategic Sustainability Communication

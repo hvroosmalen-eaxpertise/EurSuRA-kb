@@ -4,6 +4,11 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: 6 ESG Reporting frameworks.pdf
+summary: "A survey of the six major ESG and sustainability reporting frameworks organisations use to disclose environmental, social, and governance performance."
+domain:
+- ESRS
+- GRI
+- TCFD
 ---
 
 # Sustainability and ESG Reporting Frameworks

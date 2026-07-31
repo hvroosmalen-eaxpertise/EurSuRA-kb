@@ -1,5 +1,6 @@
 ---
 title: Glossary
+summary: "Alphabetical glossary of sustainability-reporting terms and abbreviations used across the knowledge base."
 ---
 
 # Glossary

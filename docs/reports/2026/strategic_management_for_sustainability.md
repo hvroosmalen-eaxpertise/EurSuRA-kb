@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
 source_file: Strategic_Management_for_Sustainability.pdf
+summary: "An academic framework integrating organisational resources and capabilities (natural resource-based view) into sustainable strategy."
+domain:
+- Sustainability Management
 ---
 
 # Strategic Management for Sustainability

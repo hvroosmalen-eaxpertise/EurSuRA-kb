@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: VSME Standard NL onofficiële vertaling met AI.pdf
+summary: "An unofficial, AI-assisted Dutch translation of EFRAG's Voluntary SME (VSME) sustainability reporting standard."
+domain:
+- VSME
 ---
 
 # Voluntary SME Standard (VSME)

@@ -4,6 +4,11 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: SDG-CSRD-ESRS matrix.pdf
+summary: "EFRAG's alignment matrix cross-referencing the 17 UN SDGs with CSRD and ESRS reporting requirements."
+domain:
+- SDG
+- CSRD
+- ESRS
 ---
 
 # SDG–CSRD–ESRS Alignment Matrix

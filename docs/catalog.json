@@ -1,7 +1,7 @@
 [
   {
     "title": "Glossary",
-    "summary": "",
+    "summary": "Alphabetical glossary of sustainability-reporting terms and abbreviations used across the knowledge base.",
     "content_type": "",
     "domain": [],
     "status": "",
@@ -12,7 +12,6 @@
       "AI Lifecycle Stages",
       "AI-Orchestrated Consensus Process",
       "Action (SCI context)",
-      "Adverse Impact",
       "Adverse Impacts",
       "Affected Communities",
       "Affected Stakeholders",
@@ -21,13 +20,11 @@
       "Application Programming Interface (API)",
       "Assurance",
       "Backend and Infrastructure Engineer",
-      "Baseline Measurement",
       "Basic Module (VSME)",
       "Biodiversity Loss",
       "Biodiversity and Ecosystems",
       "Browser-Mediated Human Interaction",
       "Business Conduct",
-      "Business Relationship",
       "CDP",
       "CDP (Carbon Disclosure Project)",
       "CSR Policy",
@@ -55,11 +52,8 @@
       "Content Delivery Network (CDN)",
       "Continuous Integration and Continuous Deployment (CI/CD)",
       "Corporate Law",
-      "Corporate Social Responsibility",
       "Corporate Social Responsibility (CSR)",
-      "Corporate Sustainability Due Diligence Directive",
       "Corporate Sustainability Due Diligence Directive (CSDDD)",
-      "Corporate Sustainability Reporting Directive",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Data Collection Plan",
       "Deployment",
@@ -69,10 +63,8 @@
       "Double Materiality Assessment",
       "Double materiality",
       "Due Diligence",
-      "Due Diligence (Responsible Business Conduct)",
-      "EFRAG",
-      "ESG",
-      "ESG (Environmental, Social and Governance)",
+      "EFRAG (European Financial Reporting Advisory Group)",
+      "ESG (Environmental, Social, and Governance)",
       "ESG Audit Checklist",
       "ESG Investing",
       "ESG Risks",
@@ -107,8 +99,7 @@
       "Environmental, Social, and Governance (ESG) Auditing",
       "European Financial Reporting Advisory Group",
       "European Green Deal",
-      "European Single Access Point",
-      "European Sustainability Reporting Standards",
+      "European Single Access Point (ESAP)",
       "European Sustainability Reporting Standards (ESRS)",
       "Expected Lifespan",
       "Extended Module (VSME)",
@@ -132,7 +123,7 @@
       "Global Reporting Initiative",
       "Governance Criteria",
       "Governing body",
-      "Greenhouse Gas Emissions",
+      "Greenhouse Gas Emissions (GHG Emissions)",
       "Greenhouse gas emissions",
       "Greenwashing",
       "Grievance Mechanism",
@@ -154,8 +145,7 @@
       "International Sustainability Standards Board",
       "Ketenverantwoordelijkheid",
       "Key Performance Indicators",
-      "Key Performance Indicators (VSME)",
-      "Large Language Model",
+      "Key Performance Indicators (ESG)",
       "Large Language Model (LLM)",
       "Life Cycle Assessment",
       "Limited Assurance",
@@ -164,17 +154,14 @@
       "Market-Based Measures",
       "Material Themes",
       "Material Topic",
-      "Materiality (ESRS)",
       "Materiality (sustainability reporting)",
       "Materiality Assessment",
-      "Micro-enterprise",
       "Model Training",
       "Multinational Enterprise",
       "National Contact Point",
       "National Contact Point (OECD)",
       "National Contact Point for Responsible Business Conduct",
       "National Treatment",
-      "Natural Language Processing",
       "Neutralisation",
       "OECD Declaration on International Investment and Multinational Enterprises",
       "OECD Guidelines for Multinational Enterprises",
@@ -208,11 +195,8 @@
       "SASB",
       "SASB (Sustainability Accounting Standards Board)",
       "SCI for AI Specification",
-      "SDG–CSRD–ESRS Alignment Matrix",
       "SFDR",
-      "SME",
       "SMEs",
-      "Science-Based Target",
       "Science-Based Targets",
       "Science-Based Targets Initiative (SBTi)",
       "Scope 1 Emissions",
@@ -220,7 +204,7 @@
       "Scope 3 Emissions",
       "Serious adverse human rights incidents",
       "Single-Page Application (SPA)",
-      "Small and Medium-Sized Enterprises",
+      "Small and Medium-Sized Enterprises (SMEs)",
       "Small and Medium-sized Enterprises",
       "Social Standards",
       "Software Boundary",
@@ -236,7 +220,7 @@
       "Sustainability Statement",
       "Sustainability-related information",
       "Sustainable Development",
-      "Sustainable Development Goals",
+      "Sustainable Development Goals (SDGs)",
       "Sustainable Finance",
       "Sustainable Finance Disclosure Regulation",
       "Sustainable Value Architecture",
@@ -259,10 +243,9 @@
       "Value chain",
       "Voluntary Standard for Small and Medium-sized Enterprises",
       "Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises",
-      "Voluntary Template",
+      "Voluntary Template (SMEs)",
       "Water and Marine Resources",
       "Web Application",
-      "Whistleblower",
       "Workers in the Value Chain",
       "Working Conditions",
       "carbon budget",
@@ -273,7 +256,6 @@
       "fiduciary duty",
       "gender pay gap",
       "global and national accounts",
-      "key performance indicators",
       "multiple capitals",
       "net-zero carbon",
       "planetary boundaries",
@@ -316,24 +298,6 @@
     "wikilinks": []
   },
   {
-    "title": "reports/2026/green-software-foundation--sci-for-ai-specification.md",
-    "summary": "",
-    "content_type": "",
-    "domain": [],
-    "status": "",
-    "generated": false,
-    "url": "reports/2026/green-software-foundation--sci-for-ai-specification/",
-    "wikilinks": [
-      "AI Environmental Impact",
-      "FinOps",
-      "Green Software Foundation",
-      "ISO/IEC 21031:2024",
-      "Lifecycle Assessment",
-      "Software Carbon Intensity",
-      "reinforcement learning"
-    ]
-  },
-  {
     "title": "Reports — 2026",
     "summary": "Source documents ingested into the knowledge base during 2026.",
     "content_type": "",
@@ -345,7 +309,7 @@
   },
   {
     "title": "GRI",
-    "summary": "",
+    "summary": "The Global Reporting Initiative (1997), the world's most widely adopted sustainability reporting framework, centred on impact ('inside-out') disclosure.",
     "content_type": "framework",
     "domain": [
       "GRI"
@@ -357,7 +321,7 @@
   },
   {
     "title": "TCFD",
-    "summary": "",
+    "summary": "The Task Force on Climate-Related Financial Disclosures (2017), structuring climate-risk disclosure around governance, strategy, risk management, and metrics.",
     "content_type": "framework",
     "domain": [
       "TCFD"
@@ -369,7 +333,7 @@
   },
   {
     "title": "UN SDGs",
-    "summary": "",
+    "summary": "The United Nations' 17 Sustainable Development Goals (2015), the global reference framework for sustainability targets.",
     "content_type": "framework",
     "domain": [
       "SDG"
@@ -421,9 +385,13 @@
   },
   {
     "title": "reports/2026/6-esg-reporting-frameworks.md",
-    "summary": "",
+    "summary": "A survey of the six major ESG and sustainability reporting frameworks organisations use to disclose environmental, social, and governance performance.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS",
+      "GRI",
+      "TCFD"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/6-esg-reporting-frameworks/",
@@ -432,7 +400,7 @@
       "CSRD",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality",
-      "ESG",
+      "ESG (Environmental, Social, and Governance)",
       "ESRS",
       "GRI",
       "Greenwashing",
@@ -451,9 +419,11 @@
   },
   {
     "title": "reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md",
-    "summary": "",
+    "summary": "An academic overview of sustainability management as a systems-based, multidisciplinary field integrating ESG considerations into organisational strategy.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Sustainability Management"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira/",
@@ -469,15 +439,17 @@
   },
   {
     "title": "reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md",
-    "summary": "",
+    "summary": "EFRAG's 2026 conceptual architecture for steering sustainable value transition within social and planetary boundaries.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-/",
     "wikilinks": [
       "Corporate Sustainability Reporting",
-      "EFRAG",
+      "EFRAG (European Financial Reporting Advisory Group)",
       "Ecological Economics",
       "European Financial Reporting Advisory Group",
       "Externalities",
@@ -493,16 +465,18 @@
   },
   {
     "title": "reports/2026/csi---green-software-foundation.md",
-    "summary": "",
+    "summary": "The Green Software Foundation's Software Carbon Intensity (SCI) specification for measuring the carbon-emissions rate of software systems (ISO/IEC 21031).",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/csi---green-software-foundation/",
     "wikilinks": [
       "Carbon Awareness",
       "Carbon Intensity",
-      "EFRAG",
+      "EFRAG (European Financial Reporting Advisory Group)",
       "Embodied Carbon",
       "Green Software Foundation",
       "Greenhouse Gas Protocol",
@@ -513,14 +487,16 @@
   },
   {
     "title": "reports/2026/due-diligence-in-6-stappen-nl-sep2021.md",
-    "summary": "",
+    "summary": "A six-step guide to human-rights and environmental due diligence under the OECD Guidelines for Multinational Enterprises.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "CSRD"
+    ],
     "status": "",
     "generated": false,
     "url": "reports/2026/due-diligence-in-6-stappen-nl-sep2021/",
     "wikilinks": [
-      "Corporate Social Responsibility",
+      "Corporate Social Responsibility (CSR)",
       "Grievance Mechanisms in Business and Human Rights",
       "National Contact Points (OECD)",
       "OECD Guidelines for Multinational Enterprises",
@@ -533,34 +509,38 @@
   },
   {
     "title": "reports/2026/efrag-final-assessment-report-web.md",
-    "summary": "",
+    "summary": "EFRAG's assessment of stakeholder interest in a voluntary SME reporting template at the European Single Access Point (ESAP).",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "VSME"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/efrag-final-assessment-report-web/",
     "wikilinks": [
-      "European Single Access Point",
+      "European Single Access Point (ESAP)",
       "Financial Reporting",
-      "Small and Medium-Sized Enterprises",
+      "Small and Medium-Sized Enterprises (SMEs)",
       "Sustainability Reporting"
     ]
   },
   {
     "title": "reports/2026/esg-business-handbook.md",
-    "summary": "",
+    "summary": "A practical ESG guidance handbook for businesses (AIRE Centre / UNDP, Bosnia and Herzegovina) covering environmental, social, and governance standards.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/esg-business-handbook/",
     "wikilinks": [
       "Carbon Border Adjustment Mechanism",
-      "Corporate Social Responsibility",
+      "Corporate Social Responsibility (CSR)",
       "ESG Investing",
       "EU Corporate Sustainability Reporting Directive",
       "Paris Agreement",
-      "Sustainable Development Goals",
+      "Sustainable Development Goals (SDGs)",
       "UN Global Compact",
       "carbon leakage",
       "climate change",
@@ -570,10 +550,32 @@
     ]
   },
   {
-    "title": "reports/2026/jrc144121_01.md",
-    "summary": "",
+    "title": "Software Carbon Intensity for AI Specification",
+    "summary": "The Green Software Foundation's extension of the Software Carbon Intensity methodology to AI systems.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/green-software-foundation--sci-for-ai-specification/",
+    "wikilinks": [
+      "AI Environmental Impact",
+      "FinOps",
+      "Green Software Foundation",
+      "ISO/IEC 21031:2024",
+      "Lifecycle Assessment",
+      "Software Carbon Intensity",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "reports/2026/jrc144121_01.md",
+    "summary": "DigComp 3.0, the European Commission's 2025 Digital Competence Framework (JRC).",
+    "content_type": "report",
+    "domain": [
+      "Adjacent"
+    ],
     "status": "",
     "generated": false,
     "url": "reports/2026/jrc144121_01/",
@@ -589,17 +591,19 @@
   },
   {
     "title": "reports/2026/oeso-richtlijnen+nederlandse+vertaling.md",
-    "summary": "",
+    "summary": "The OECD Guidelines for Multinational Enterprises on Responsible Business Conduct — government-backed recommendations on due diligence and responsible business.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "CSRD"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/oeso-richtlijnen+nederlandse+vertaling/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Due Diligence in Responsible Business Conduct",
       "National Contact Points for Responsible Business Conduct",
-      "Sustainable Development Goals",
+      "Sustainable Development Goals (SDGs)",
       "UN Guiding Principles on Business and Human Rights",
       "corporate responsibility",
       "due diligence",
@@ -610,21 +614,23 @@
   },
   {
     "title": "reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md",
-    "summary": "",
+    "summary": "An integrated view of EU sustainability legislation — the due-diligence, reporting, and product obligations imposed on companies in the EU market.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "CSRD"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie/",
     "wikilinks": [
       "Conflict Minerals Regulation",
-      "Corporate Sustainability Due Diligence Directive",
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Due Diligence Directive (CSDDD)",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "EU Battery Regulation",
       "EU Deforestation Regulation",
       "EU Taxonomy Regulation",
       "Ecodesign for Sustainable Products Regulation",
-      "European Sustainability Reporting Standards",
+      "European Sustainability Reporting Standards (ESRS)",
       "Forced Labour Regulation",
       "OECD Due Diligence Guidance for Responsible Business Conduct",
       "Packaging and Packaging Waste Regulation"
@@ -632,16 +638,18 @@
   },
   {
     "title": "reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md",
-    "summary": "",
+    "summary": "Q&A implementation guidance on applying EFRAG's Voluntary SME (VSME) sustainability reporting standard.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "VSME"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/q&a-nav-webinair-vsme_marlou-en-esther/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive",
-      "EFRAG",
-      "European Sustainability Reporting Standards",
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "EFRAG (European Financial Reporting Advisory Group)",
+      "European Sustainability Reporting Standards (ESRS)",
       "Key Performance Indicators",
       "Small and Medium-sized Enterprises",
       "XBRL"
@@ -649,9 +657,11 @@
   },
   {
     "title": "reports/2026/sci-for-web-assembly-report.md",
-    "summary": "",
+    "summary": "A Green Software Foundation consensus design for measuring the carbon intensity of WebAssembly web applications.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/sci-for-web-assembly-report/",
@@ -666,9 +676,13 @@
   },
   {
     "title": "reports/2026/sdg-csrd-esrs-matrix.md",
-    "summary": "",
+    "summary": "EFRAG's alignment matrix cross-referencing the 17 UN SDGs with CSRD and ESRS reporting requirements.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "SDG",
+      "CSRD",
+      "ESRS"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/sdg-csrd-esrs-matrix/",
@@ -676,24 +690,26 @@
       "2030 Agenda for Sustainable Development",
       "Circular Economy",
       "Climate Adaptation",
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "European Financial Reporting Advisory Group",
-      "European Sustainability Reporting Standards",
+      "European Sustainability Reporting Standards (ESRS)",
       "Gender Pay Gap",
       "Gini Coefficient",
       "Gini coefficient",
+      "Key Performance Indicators (ESG)",
       "United Nations Sustainable Development Goals",
       "circular economy",
       "climate adaptation",
-      "gender pay gap",
-      "key performance indicators"
+      "gender pay gap"
     ]
   },
   {
     "title": "reports/2026/strategic-sustainability-communication.md",
-    "summary": "",
+    "summary": "An academic treatment of strategic sustainability communication and its role in advancing sustainable practices in organisations and society.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Sustainability Management"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/strategic-sustainability-communication/",
@@ -701,25 +717,29 @@
   },
   {
     "title": "reports/2026/strategic_management_for_sustainability.md",
-    "summary": "",
+    "summary": "An academic framework integrating organisational resources and capabilities (natural resource-based view) into sustainable strategy.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Sustainability Management"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/strategic_management_for_sustainability/",
     "wikilinks": [
-      "Natural Resource-Based View",
-      "Resource-Based View",
-      "Sustainable Development Goals",
-      "Triple Bottom Line",
+      "Natural Resource-Based View (NRBV)",
+      "Resource-Based View (RBV)",
+      "Sustainable Development Goals (SDGs)",
+      "Triple Bottom Line (TBL)",
       "Value Creation"
     ]
   },
   {
     "title": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md",
-    "summary": "",
+    "summary": "EFRAG's VSME Digital Template and XBRL Taxonomy tools supporting SMEs (<250 employees) in implementing voluntary sustainability reporting.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "VSME"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026/",
@@ -727,16 +747,18 @@
   },
   {
     "title": "reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md",
-    "summary": "",
+    "summary": "An unofficial, AI-assisted Dutch translation of EFRAG's Voluntary SME (VSME) sustainability reporting standard.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "VSME"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "European Financial Reporting Advisory Group",
-      "European Sustainability Reporting Standards",
+      "European Sustainability Reporting Standards (ESRS)",
       "Greenhouse gas emissions reporting",
       "Small and medium-sized enterprises",
       "Sustainable finance"
@@ -744,9 +766,11 @@
   },
   {
     "title": "reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md",
-    "summary": "",
+    "summary": "A webinar on EFRAG's 2024 Voluntary SME (VSME) reporting standard — its framework, application, and value for SMEs.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "VSME"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen/",
@@ -756,7 +780,7 @@
       "Corporate Sustainability Reporting Directive (CSRD)",
       "DMA",
       "Double Materiality Assessment (DMA)",
-      "EFRAG",
+      "EFRAG (European Financial Reporting Advisory Group)",
       "ESRS",
       "European Green Deal",
       "European Sustainability Reporting Standards (ESRS)",
@@ -769,7 +793,7 @@
   },
   {
     "title": "CSRD",
-    "summary": "",
+    "summary": "The EU directive (2023) mandating sustainability reporting to the ESRS for large and listed companies — the anchor of the EU corporate sustainability reporting regime.",
     "content_type": "standard",
     "domain": [
       "CSRD"
@@ -779,8 +803,8 @@
     "url": "standards/csrd/",
     "wikilinks": [
       "Double Materiality",
-      "ESG",
-      "European Sustainability Reporting Standards",
+      "ESG (Environmental, Social, and Governance)",
+      "European Sustainability Reporting Standards (ESRS)",
       "Non-Financial Reporting Directive",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "corporate social responsibility",
@@ -790,7 +814,7 @@
   },
   {
     "title": "ESRS",
-    "summary": "",
+    "summary": "The mandatory EU reporting standards developed under the CSRD (2023) that set the detailed disclosure requirements for large and listed companies.",
     "content_type": "standard",
     "domain": [
       "ESRS"
@@ -799,9 +823,9 @@
     "generated": false,
     "url": "standards/esrs/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
-      "ESG",
+      "ESG (Environmental, Social, and Governance)",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "circular economy",
       "double materiality",
@@ -812,7 +836,7 @@
   },
   {
     "title": "EU Taxonomy",
-    "summary": "",
+    "summary": "The EU classification system for environmentally sustainable economic activities, a cornerstone of the EU sustainable-finance framework.",
     "content_type": "standard",
     "domain": [
       "EU-TAXONOMY"
@@ -824,7 +848,7 @@
   },
   {
     "title": "GHG Protocol",
-    "summary": "",
+    "summary": "Greenhouse gas emissions accounting (Scope 1-3) within the environmental pillar of ESG and sustainability reporting.",
     "content_type": "standard",
     "domain": [
       "GHG"
@@ -834,18 +858,16 @@
     "url": "standards/ghg-protocol/",
     "wikilinks": [
       "Carbon Border Adjustment Mechanism (CBAM)",
-      "Corporate Sustainability Reporting Directive",
       "Corporate Sustainability Reporting Directive (CSRD)",
-      "ESG",
-      "European Sustainability Reporting Standards",
+      "ESG (Environmental, Social, and Governance)",
       "European Sustainability Reporting Standards (ESRS)",
+      "Key Performance Indicators (ESG)",
       "SMEs",
       "Scope 3 emissions",
       "VSME (Voluntary Sustainability Reporting Standard for SMEs)",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "carbon leakage",
       "climate neutrality",
-      "key performance indicators",
       "renewable energy",
       "sustainability transformation",
       "sustainable resource use"
@@ -853,7 +875,7 @@
   },
   {
     "title": "VSME",
-    "summary": "",
+    "summary": "EFRAG's 2024 voluntary sustainability reporting standard for non-listed SMEs, enabling proportionate ESG disclosure.",
     "content_type": "standard",
     "domain": [
       "VSME"
@@ -874,7 +896,7 @@
     "wikilinks": [
       "Double Materiality Assessment",
       "Double materiality",
-      "European Sustainability Reporting Standards",
+      "European Sustainability Reporting Standards (ESRS)",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "double materiality",
       "esrs",
@@ -894,9 +916,9 @@
     "generated": true,
     "url": "insights/double-materiality-across-regimes/",
     "wikilinks": [
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
-      "European Sustainability Reporting Standards",
+      "European Sustainability Reporting Standards (ESRS)",
       "Global Reporting Initiative",
       "Voluntary Sustainability Reporting Standard for SMEs",
       "csrd",
@@ -917,7 +939,7 @@
     "url": "insights/the-sme-reporting-pathway/",
     "wikilinks": [
       "CSRD",
-      "Corporate Sustainability Reporting Directive",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
       "ESRS",
       "Voluntary Sustainability Reporting Standard for SMEs",

@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
 source_file: VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
+summary: "EFRAG's VSME Digital Template and XBRL Taxonomy tools supporting SMEs (<250 employees) in implementing voluntary sustainability reporting."
+domain:
+- VSME
 ---
 
 # VSME Digital Template and XBRL Taxonomy

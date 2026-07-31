@@ -10,6 +10,7 @@ source_file: 6 ESG Reporting frameworks.pdf
 source_files:
 - 6 ESG Reporting frameworks.pdf
 - Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+summary: "The mandatory EU reporting standards developed under the CSRD (2023) that set the detailed disclosure requirements for large and listed companies."
 ---
 
 # European Sustainability Reporting Standards (ESRS)

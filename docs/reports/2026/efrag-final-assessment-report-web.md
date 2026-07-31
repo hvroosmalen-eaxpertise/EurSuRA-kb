@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
 source_file: EFRAG Final Assessment Report web.pdf
+summary: "EFRAG's assessment of stakeholder interest in a voluntary SME reporting template at the European Single Access Point (ESAP)."
+domain:
+- VSME
 ---
 
 # EFRAG Assessment of Interest in a Voluntary Template for SMEs at the European Single Access Point

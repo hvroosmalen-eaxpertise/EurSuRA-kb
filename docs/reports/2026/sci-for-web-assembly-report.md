@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: SCI for Web Assembly Report.pdf
+summary: "A Green Software Foundation consensus design for measuring the carbon intensity of WebAssembly web applications."
+domain:
+- Adjacent
 ---
 
 # SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity

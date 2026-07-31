@@ -10,6 +10,7 @@ source_file: ESG Business Handbook.pdf
 source_files:
 - ESG Business Handbook.pdf
 - Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+summary: "Greenhouse gas emissions accounting (Scope 1-3) within the environmental pillar of ESG and sustainability reporting."
 ---
 
 # Greenhouse Gas Emissions in ESG and Sustainability Reporting

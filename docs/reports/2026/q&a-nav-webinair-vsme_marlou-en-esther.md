@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: Q&A nav Webinair VSME_Marlou en Esther.pdf
+summary: "Q&A implementation guidance on applying EFRAG's Voluntary SME (VSME) sustainability reporting standard."
+domain:
+- VSME
 ---
 
 # Voluntary Sustainability Reporting for SMEs: VSME Standard Implementation Guidance

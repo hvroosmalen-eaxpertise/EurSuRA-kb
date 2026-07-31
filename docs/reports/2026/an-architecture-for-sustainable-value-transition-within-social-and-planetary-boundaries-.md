@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: An-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.pdf
+summary: "EFRAG's 2026 conceptual architecture for steering sustainable value transition within social and planetary boundaries."
+domain:
+- ESRS
 ---
 
 # An Architecture for Sustainable Value Transition within Social and Planetary Boundaries

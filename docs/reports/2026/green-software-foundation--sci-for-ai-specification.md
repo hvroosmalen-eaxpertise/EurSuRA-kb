@@ -1,5 +1,9 @@
-pdf documents can be added anytime, and even unrelated ones. close---
+---
+title: Software Carbon Intensity for AI Specification
 content_type: report
+summary: "The Green Software Foundation's extension of the Software Carbon Intensity methodology to AI systems."
+domain:
+- Adjacent
 status: draft
 date_added: '2026-06-11'
 date_updated: '2026-06-11'

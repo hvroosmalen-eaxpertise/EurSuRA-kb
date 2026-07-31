@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: Online bijeenkomst Grip op EU Duurzaamheidswetgeving deelversie.pdf
+summary: "An integrated view of EU sustainability legislation — the due-diligence, reporting, and product obligations imposed on companies in the EU market."
+domain:
+- CSRD
 ---
 
 # EU Sustainability Legislation: An Integrated Compliance Framework

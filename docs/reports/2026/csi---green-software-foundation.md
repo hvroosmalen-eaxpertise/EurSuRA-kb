@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: CSI - Green Software Foundation.pdf
+summary: "The Green Software Foundation's Software Carbon Intensity (SCI) specification for measuring the carbon-emissions rate of software systems (ISO/IEC 21031)."
+domain:
+- Adjacent
 ---
 
 # Software Carbon Intensity (SCI) Specification

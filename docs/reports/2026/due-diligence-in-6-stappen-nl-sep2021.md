@@ -3,6 +3,9 @@ content_type: report
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: Due Diligence in 6 stappen-NL-sep2021.pdf
+summary: "A six-step guide to human-rights and environmental due diligence under the OECD Guidelines for Multinational Enterprises."
+domain:
+- CSRD
 ---
 
 # Due Diligence under the OECD Guidelines for Multinational Enterprises

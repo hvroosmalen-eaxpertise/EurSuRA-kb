@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+summary: "A webinar on EFRAG's 2024 Voluntary SME (VSME) reporting standard — its framework, application, and value for SMEs."
+domain:
+- VSME
 ---
 
 # Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises (VSME): Framework, Application, and Value

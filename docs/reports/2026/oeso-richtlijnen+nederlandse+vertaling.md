@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
 source_file: OESO-richtlijnen+Nederlandse+vertaling.pdf
+summary: "The OECD Guidelines for Multinational Enterprises on Responsible Business Conduct — government-backed recommendations on due diligence and responsible business."
+domain:
+- CSRD
 ---
 
 # OECD Guidelines for Multinational Enterprises on Responsible Business Conduct

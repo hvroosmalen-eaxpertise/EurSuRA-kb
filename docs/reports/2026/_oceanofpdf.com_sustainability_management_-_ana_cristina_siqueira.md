@@ -4,6 +4,9 @@ status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
 source_file: _OceanofPDF.com_Sustainability_Management_-_Ana_Cristina_Siqueira.pdf
+summary: "An academic overview of sustainability management as a systems-based, multidisciplinary field integrating ESG considerations into organisational strategy."
+domain:
+- Sustainability Management
 ---
 
 # Sustainability Management: A Systems Approach

@@ -11,6 +11,7 @@ source_files:
 - 6 ESG Reporting frameworks.pdf
 - ESG Business Handbook.pdf
 - Webinar VSME - Marlou Duchateau en Esther Roelofsen.pdf
+summary: "The EU directive (2023) mandating sustainability reporting to the ESRS for large and listed companies — the anchor of the EU corporate sustainability reporting regime."
 ---
 
 # Corporate Sustainability Reporting Directive
