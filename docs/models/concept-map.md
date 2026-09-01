@@ -7,198 +7,275 @@ date_updated: 2026-08-31
 
 ```mermaid
 graph TD
-    A[Climate Disclosure] --> B[ESRS]
-    A --> C[TCFD]
-    A --> D[GHG Protocol]
-    A --> E[EU Taxonomy]
-    F[Double Materiality] --> G[CSRD]
-    F --> H[ESRS]
-    F --> I[GRI]
-    J[The SME Reporting Pathway] --> K[VSME]
-    J --> L[ESRS]
-    M[Due Diligence] --> N[OECD Guidelines]
-    M --> O[UNGPs]
-    P[Digital Competence] --> Q[DigComp 3.0]
-    R[Voluntary Reporting] --> S[VSME]
-    R --> T[GHG Protocol]
-    U[Corporate Sustainability] --> V[CSRD]
-    U --> W[ESRS]
-    X[Impact Materiality] --> Y[ESRS]
-    X --> Z[CSRD]
-    AA[Financial Materiality] --> AB[ESRS]
-    AA --> AC[CSRD]
-    AD[Supply Chain Responsibility] --> AE[OECD Guidelines]
-    AD --> AF[UNGPs]
-    AG[Stakeholder Engagement] --> AH[VSME]
-    AG --> AI[ESRS]
-    AJ[Transparency] --> AK[ESRS]
-    AJ --> AL[TCFD]
-    AM[Accountability] --> AN[ESRS]
-    AM --> AO[TCFD]
-    AP[Reporting Standards] --> AQ[ESRS]
-    AP --> AR[TCFD]
-    AS[Regulatory Compliance] --> AT[CSRD]
-    AS --> AU[ESRS]
-    AV[Voluntary Disclosure] --> AW[VSME]
-    AV --> AX[GHG Protocol]
-    AY[Environmental Sustainability] --> AZ[EU Taxonomy]
-    AY --> BA[ESRS]
-    BB[Social Responsibility] --> BC[ESRS]
-    BB --> BD[GRI]
-    BE[Governance] --> BF[TCFD]
-    BE --> BG[ESRS]
-    BH[Metrics and Targets] --> BI[TCFD]
-    BH --> BJ[ESRS]
-    BK[Energy Efficiency] --> BL[SCI]
-    BK --> BM[VSME]
-    BN[Carbon Awareness] --> BO[SCI]
-    BN --> BP[VSME]
-    BQ[Hardware Efficiency] --> BR[SCI]
-    BQ --> BS[VSME]
-    BT[Software Sustainability] --> BU[SCI]
-    BT --> BV[VSME]
-    BW[Climate Risk Management] --> BX[TCFD]
-    BW --> BY[ESRS]
-    BZ[Climate Resilience] --> CA[Adaptation Strategies]
-    BZ --> CB[Climate Governance]
-    CC[Climate Adaptation] --> CD[Adaptation Funds]
-    CC --> CE[Adaptation Strategies]
-    CF[Climate Mitigation] --> CG[Adaptation Funds]
-    CF --> CH[Adaptation Strategies]
-    CI[Climate-Induced Migration] --> CJ[Adaptation Funds]
-    CI --> CK[Climate Refugee]
-    CL[International Law] --> CM[Adaptation Funds]
-    CL --> CN[Funding Mechanisms]
-    CO[Climate Refugee] --> CP[Adaptation Funds]
-    CO --> CQ[Funding Mechanisms]
-    CR[Funding Mechanisms] --> CS[Adaptation Funds]
-    CR --> CT[Funding Mechanisms]
-    CU[Adsorbent] --> CV[Adsorption]
-    CU --> CW[Carbon Capture and Storage]
-    CU --> CX[Zeolite]
-    CU --> CY[Metal-Organic Framework]
-    CZ[Post] --> CA[Adsorbent]
-    DA[Adsorption] --> DB[Adsorbent]
-    DC[Carbon Capture and Storage] --> DD[Adsorbent]
-    DC --> DE[Zeolite]
-    DC --> DF[Metal-Organic Framework]
-    DG[Zeolite] --> DH[Adsorbent]
-    DG --> DI[Carbon Capture and Storage]
-    DG --> DJ[Metal-Organic Framework]
-    DK[Metal-Organic Framework] --> DL[Adsorbent]
-    DK --> DM[Carbon Capture and Storage]
-    DK --> DN[Zeolite]
-    DP[Post] --> DQ[Adsorbent]
-    DP --> DR[Adsorption]
-    DS[Carbon Awareness] --> DT[SCI]
-    DS --> DU[VSME]
-    DV[Hardware Efficiency] --> DW[SCI]
-    DV --> DX[VSME]
-    DY[Energy Efficiency] --> DZ[SCI]
-    DY --> EA[VSME]
-    EB[Software Sustainability] --> EC[SCI]
-    EB --> ED[VSME]
-    EE[SCI] --> EF[Action]
-    EE --> EG[Energy Efficiency]
-    EE --> EH[Hardware Efficiency]
-    EE --> EI[Carbon Awareness]
-    EJ[Action] --> EK[SCI]
-    EJ --> EL[Energy Efficiency]
-    EJ --> EM[Hardware Efficiency]
-    EJ --> EN[Carbon Awareness]
-    EO[SCI Specification] --> EP[Action]
-    EO --> EQ[Energy Efficiency]
-    EO --> ER[Hardware Efficiency]
-    EO --> ES[Carbon Awareness]
-    ET[Energy Efficiency] --> EU[SCI]
-    ET --> EV[Action]
-    ET --> EW[Energy Efficiency]
-    ET --> EX[Hardware Efficiency]
-    ET --> EY[Carbon Awareness]
-    EZ[Hardware Efficiency] --> FA[SCI]
-    EZ --> FB[Action]
-    EZ --> FC[Energy Efficiency]
-    EZ --> FD[Hardware Efficiency]
-    FE[Carbon Awareness] --> FF[SCI]
-    FE --> FG[Action]
-    FE --> FH[Energy Efficiency]
-    FE --> FI[Hardware Efficiency]
-    FJ[SCI Specification] --> FK[Action]
-    FJ --> FL[Energy Efficiency]
-    FJ --> FM[Hardware Efficiency]
-    FN[Carbon Awareness] --> FO[SCI]
-    FN --> FP[Action]
-    FN --> FQ[Energy Efficiency]
-    FN --> FR[Hardware Efficiency]
-    FS[Action] --> FT[SCI]
-    FS --> FU[Energy Efficiency]
-    FS --> FV[Hardware Efficiency]
-    FW[Energy Efficiency] --> FX[SCI]
-    FW --> FY[Action]
-    FW --> FZ[Energy Efficiency]
-    F[Voluntary Sustainability Reporting Standard for SMEs (VSME)] --> G[ESRS]
-    F --> H[TCFD]
-    F --> I[GHG Protocol]
-    F --> J[EU Taxonomy]
-    G[ESRS] --> H[CSRD]
-    G --> I[TCFD]
-    G --> J[GHG Protocol]
-    G --> K[EU Taxonomy]
-    H[TCFD] --> I[ESRS]
-    H --> J[GHG Protocol]
-    H --> K[EU Taxonomy]
-    I[GHG Protocol] --> J[ESRS]
-    I --> K[TCFD]
-    I --> L[EU Taxonomy]
-    J[EU Taxonomy] --> K[ESRS]
-    J --> L[TCFD]
-    J --> M[GHG Protocol]
-    K[CSRD] --> L[ESRS]
-    K --> M[TCFD]
-    K --> N[GHG Protocol]
-    L[ESRS] --> M[CSRD]
-    L --> N[TCFD]
-    L --> O[GHG Protocol]
-    M[TCFD] --> N[ESRS]
-    M --> O[CSRD]
-    M --> P[GHG Protocol]
-    N[GHG Protocol] --> O[ESRS]
-    N --> P[TCFD]
-    N --> Q[CSRD]
-    O[CSRD] --> P[ESRS]
-    O --> Q[TCFD]
-    O --> R[GHG Protocol]
-    P[ESRS] --> Q[CSRD]
-    P --> R[TCFD]
-    P --> S[GHG Protocol]
-    Q[TCFD] --> R[ESRS]
-    Q --> S[CSRD]
-    Q --> T[GHG Protocol]
-    R[GHG Protocol] --> S[ESRS]
-    R --> T[TCFD]
-    R --> U[CSRD]
-    S[CSRD] --> T[ESRS]
-    S --> U[TCFD]
-    S --> V[GHG Protocol]
-    T[ESRS] --> U[CSRD]
-    T --> V[TCFD]
-    T --> W[GHG Protocol]
-    U[TCFD] --> V[ESRS]
-    U --> W[CSRD]
-    U --> X[GHG Protocol]
-    V[GHG Protocol] --> W[ESRS]
-    V --> X[TCFD]
-    V --> Y[CSRD]
-    W[CSRD] --> X[ESRS]
-    W --> Y[TCFD]
-    W --> Z[GHG Protocol]
-    X[ESRS] --> Y[CSRD]
-    X --> Z[TCFD]
-    X --> [GHG Protocol]
-    Y[TCFD] --> Z[ESRS]
-    Y --> [CSRD]
-    Y --> [GHG Protocol]
-    Z[GHG Protocol] --> [ESRS]
-    Z --> [TCFD]
-    Z --> [CSRD]
+    subgraph ClimateDisclosure[Climate Disclosure]
+        CD1[Climate Disclosure] --> CD2[ESRS]
+        CD1 --> CD3[TCFD]
+        CD1 --> CD4[GHG Protocol]
+        CD1 --> CD5[EU Taxonomy]
+    end
+
+    subgraph DoubleMateriality[Double Materiality]
+        DM1[Double Materiality] --> DM2[CSRD]
+        DM1 --> DM3[ESRS]
+        DM1 --> DM4[GRI]
+    end
+
+    subgraph SMEPathway[The SME Reporting Pathway]
+        SME1[The SME Reporting Pathway] --> SME2[VSME]
+        SME1 --> SME3[ESRS]
+    end
+
+    subgraph DueDiligence[Due Diligence]
+        DD1[Due Diligence] --> DD2[OECD Guidelines]
+        DD1 --> DD3[UNGPs]
+    end
+
+    subgraph DigitalCompetence[Digital Competence]
+        DC1[Digital Competence] --> DC2[DigComp 3.0]
+    end
+
+    subgraph VoluntaryReporting[Voluntary Reporting]
+        VR1[Voluntary Reporting] --> VR2[VSME]
+        VR1 --> VR3[GHG Protocol]
+    end
+
+    subgraph CorporateSustainability[Corporate Sustainability]
+        CS1[Corporate Sustainability] --> CS2[CSRD]
+        CS1 --> CS3[ESRS]
+    end
+
+    subgraph ImpactMateriality[Impact Materiality]
+        IM1[Impact Materiality] --> IM2[ESRS]
+        IM1 --> IM3[CSRD]
+    end
+
+    subgraph FinancialMateriality[Financial Materiality]
+        FM1[Financial Materiality] --> FM2[ESRS]
+        FM1 --> FM3[CSRD]
+    end
+
+    subgraph SupplyChain[Supply Chain Responsibility]
+        SC1[Supply Chain Responsibility] --> SC2[OECD Guidelines]
+        SC1 --> SC3[UNGPs]
+    end
+
+    subgraph StakeholderEngagement[Stakeholder Engagement]
+        SE1[Stakeholder Engagement] --> SE2[VSME]
+        SE1 --> SE3[ESRS]
+    end
+
+    subgraph Transparency[Transparency]
+        TR1[Transparency] --> TR2[ESRS]
+        TR1 --> TR3[TCFD]
+    end
+
+    subgraph Accountability[Accountability]
+        AC1[Accountability] --> AC2[ESRS]
+        AC1 --> AC3[TCFD]
+    end
+
+    subgraph ReportingStandards[Reporting Standards]
+        RS1[Reporting Standards] --> RS2[ESRS]
+        RS1 --> RS3[TCFD]
+    end
+
+    subgraph RegulatoryCompliance[Regulatory Compliance]
+        RC1[Regulatory Compliance] --> RC2[CSRD]
+        RC1 --> RC3[ESRS]
+    end
+
+    subgraph VoluntaryDisclosure[Voluntary Disclosure]
+        VD1[Voluntary Disclosure] --> VD2[VSME]
+        VD1 --> VD3[GHG Protocol]
+    end
+
+    subgraph EnvironmentalSustainability[Environmental Sustainability]
+        ES1[Environmental Sustainability] --> ES2[EU Taxonomy]
+        ES1 --> ES3[ESRS]
+    end
+
+    subgraph SocialResponsibility[Social Responsibility]
+        SR1[Social Responsibility] --> SR2[ESRS]
+        SR1 --> SR3[GRI]
+    end
+
+    subgraph Governance[Governance]
+        GV1[Governance] --> GV2[TCFD]
+        GV1 --> GV3[ESRS]
+    end
+
+    subgraph MetricsTargets[Metrics and Targets]
+        MT1[Metrics and Targets] --> MT2[TCFD]
+        MT1 --> MT3[ESRS]
+    end
+
+    subgraph EnergyEfficiency[Energy Efficiency]
+        EE1[Energy Efficiency] --> EE2[SCI]
+        EE1 --> EE3[VSME]
+    end
+
+    subgraph CarbonAwareness[Carbon Awareness]
+        CA1[Carbon Awareness] --> CA2[SCI]
+        CA1 --> CA3[VSME]
+    end
+
+    subgraph HardwareEfficiency[Hardware Efficiency]
+        HE1[Hardware Efficiency] --> HE2[SCI]
+        HE1 --> HE3[VSME]
+    end
+
+    subgraph SoftwareSustainability[Software Sustainability]
+        SS1[Software Sustainability] --> SS2[SCI]
+        SS1 --> SS3[VSME]
+    end
+
+    subgraph ClimateRisk[Climate Risk Management]
+        CR1[Climate Risk Management] --> CR2[TCFD]
+        CR1 --> CR3[ESRS]
+    end
+
+    subgraph ClimateResilience[Climate Resilience]
+        CLR1[Climate Resilience] --> CLR2[Adaptation Strategies]
+        CLR1 --> CLR3[Climate Governance]
+    end
+
+    subgraph ClimateAdaptation[Climate Adaptation]
+        CLA1[Climate Adaptation] --> CLA2[Adaptation Funds]
+        CLA1 --> CLA3[Adaptation Strategies]
+    end
+
+    subgraph ClimateMitigation[Climate Mitigation]
+        CLM1[Climate Mitigation] --> CLM2[Adaptation Funds]
+        CLM1 --> CLM3[Adaptation Strategies]
+    end
+
+    subgraph ClimateMigration[Climate-Induced Migration]
+        CMI1[Climate-Induced Migration] --> CMI2[Adaptation Funds]
+        CMI1 --> CMI3[Climate Refugee]
+    end
+
+    subgraph InternationalLaw[International Law]
+        IL1[International Law] --> IL2[Adaptation Funds]
+        IL1 --> IL3[Funding Mechanisms]
+    end
+
+    subgraph ClimateRefugee[Climate Refugee]
+        CRF1[Climate Refugee] --> CRF2[Adaptation Funds]
+        CRF1 --> CRF3[Funding Mechanisms]
+    end
+
+    subgraph FundingMechanisms[Funding Mechanisms]
+        FM1[Funding Mechanisms] --> FM2[Adaptation Funds]
+    end
+
+    subgraph Adsorbent[Adsorbent]
+        AD1[Adsorbent] --> AD2[Adsorption]
+        AD1 --> AD3[Carbon Capture and Storage]
+        AD1 --> AD4[Zeolite]
+        AD1 --> AD5[Metal-Organic Framework]
+    end
+
+    subgraph PostCombustion[Post-Combustion]
+        PC1[Post-Combustion] --> PC2[Adsorbent]
+    end
+
+    subgraph Adsorption2[Adsorption]
+        ADS1[Adsorption] --> ADS2[Adsorbent]
+    end
+
+    subgraph CarbonCapture[Carbon Capture and Storage]
+        CC1[Carbon Capture and Storage] --> CC2[Adsorbent]
+        CC1 --> CC3[Zeolite]
+        CC1 --> CC4[Metal-Organic Framework]
+    end
+
+    subgraph Zeolite[Zeolite]
+        ZL1[Zeolite] --> ZL2[Adsorbent]
+        ZL1 --> ZL3[Carbon Capture and Storage]
+        ZL1 --> ZL4[Metal-Organic Framework]
+    end
+
+    subgraph MOF[Metal-Organic Framework]
+        MF1[Metal-Organic Framework] --> MF2[Adsorbent]
+        MF1 --> MF3[Carbon Capture and Storage]
+        MF1 --> MF4[Zeolite]
+    end
+
+    subgraph PostCombustion2[Post-Combustion 2]
+        PC2_1[Post-Combustion] --> PC2_2[Adsorbent]
+        PC2_1 --> PC2_3[Adsorption]
+    end
+
+    subgraph SCI_SCI[SCI]
+        SCI1[SCI] --> SCI2[Action]
+        SCI1 --> SCI3[Energy Efficiency]
+        SCI1 --> SCI4[Hardware Efficiency]
+        SCI1 --> SCI5[Carbon Awareness]
+    end
+
+    subgraph Action[Action]
+        ACT1[Action] --> ACT2[SCI]
+        ACT1 --> ACT3[Energy Efficiency]
+        ACT1 --> ACT4[Hardware Efficiency]
+        ACT1 --> ACT5[Carbon Awareness]
+    end
+
+    subgraph SCISpecification[SCI Specification]
+        SCIS1[SCI Specification] --> SCIS2[Action]
+        SCIS1 --> SCIS3[Energy Efficiency]
+        SCIS1 --> SCIS4[Hardware Efficiency]
+        SCIS1 --> SCIS5[Carbon Awareness]
+    end
+
+    subgraph EnergyEfficiency2[Energy Efficiency]
+        EE2_1[Energy Efficiency] --> EE2_2[SCI]
+        EE2_1 --> EE2_3[Action]
+        EE2_1 --> EE2_4[Energy Efficiency]
+        EE2_1 --> EE2_5[Hardware Efficiency]
+        EE2_1 --> EE2_6[Carbon Awareness]
+    end
+
+    subgraph HardwareEfficiency2[Hardware Efficiency]
+        HE2_1[Hardware Efficiency] --> HE2_2[SCI]
+        HE2_1 --> HE2_3[Action]
+        HE2_1 --> HE2_4[Energy Efficiency]
+        HE2_1 --> HE2_5[Hardware Efficiency]
+    end
+
+    subgraph CarbonAwareness2[Carbon Awareness]
+        CA2_1[Carbon Awareness] --> CA2_2[SCI]
+        CA2_1 --> CA2_3[Action]
+        CA2_1 --> CA2_4[Energy Efficiency]
+        CA2_1 --> CA2_5[Hardware Efficiency]
+    end
+
+    subgraph ReportingStandards2[Reporting Standards]
+        RS2_1[Voluntary Sustainability Reporting Standard for SMEs (VSME)] --> RS2_2[ESRS]
+        RS2_1 --> RS2_3[TCFD]
+        RS2_1 --> RS2_4[GHG Protocol]
+        RS2_1 --> RS2_5[EU Taxonomy]
+    end
+
+    subgraph ESRS_CSRD_TCFD_GHG[ESRS, CSRD, TCFD, GHG Protocol Interconnections]
+        ESRS1[ESRS] --> ESRS2[CSRD]
+        ESRS1 --> ESRS3[TCFD]
+        ESRS1 --> ESRS4[GHG Protocol]
+        ESRS1 --> ESRS5[EU Taxonomy]
+
+        CSRD1[CSRD] --> CSRD2[ESRS]
+        CSRD1 --> CSRD3[TCFD]
+        CSRD1 --> CSRD4[GHG Protocol]
+
+        TCFD1[TCFD] --> TCFD2[ESRS]
+        TCFD1 --> TCFD3[GHG Protocol]
+        TCFD1 --> TCFD4[EU Taxonomy]
+
+        GHG1[GHG Protocol] --> GHG2[ESRS]
+        GHG1 --> GHG3[TCFD]
+        GHG1 --> GHG4[EU Taxonomy]
+
+        EUT1[EU Taxonomy] --> EUT2[ESRS]
+        EUT1 --> EUT3[TCFD]
+        EUT1 --> EUT4[GHG Protocol]
+    end
 ```
