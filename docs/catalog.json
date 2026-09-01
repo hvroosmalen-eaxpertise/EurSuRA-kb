@@ -18,7 +18,6 @@
       "Agentic AI",
       "Anti-Corruption Policy",
       "Application Programming Interface (API)",
-      "Assurance",
       "Backend and Infrastructure Engineer",
       "Basic Module (VSME)",
       "Biodiversity Loss",
@@ -41,7 +40,6 @@
       "Cascading Style Sheets (CSS)",
       "Climate Change",
       "Climate Change Mitigation",
-      "Climate Transition Plan",
       "Climate risks",
       "Climate-Related Financial Risk",
       "Climate-Related Financial Risk)",
@@ -65,9 +63,7 @@
       "Due Diligence",
       "EFRAG (European Financial Reporting Advisory Group)",
       "ESG (Environmental, Social, and Governance)",
-      "ESG Audit Checklist",
       "ESG Investing",
-      "ESG Risks",
       "ESRS",
       "ESRS E1",
       "ESRS E2",
@@ -93,10 +89,8 @@
       "Endorsed",
       "Energy",
       "Energy Efficiency",
-      "Environmental Criteria",
       "Environmental Standards",
       "Environmental, Social and Governance Standards",
-      "Environmental, Social, and Governance (ESG) Auditing",
       "European Financial Reporting Advisory Group",
       "European Green Deal",
       "European Single Access Point (ESAP)",
@@ -120,8 +114,6 @@
       "Generative AI",
       "Gepaste Zorgvuldigheid",
       "Gini coefficient",
-      "Global Reporting Initiative",
-      "Governance Criteria",
       "Governing body",
       "Greenhouse Gas Emissions (GHG Emissions)",
       "Greenhouse gas emissions",
@@ -190,7 +182,6 @@
       "Reporting Frameworks",
       "Resource-Share",
       "Responsible Business Conduct",
-      "Risk Management Integration",
       "Risk Prioritisation",
       "SASB",
       "SASB (Sustainability Accounting Standards Board)",
@@ -438,6 +429,16 @@
     ]
   },
   {
+    "title": "reports/2026/a_handbook_on_terminology_for_climate_ch.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/a_handbook_on_terminology_for_climate_ch/",
+    "wikilinks": []
+  },
+  {
     "title": "reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md",
     "summary": "EFRAG's 2026 conceptual architecture for steering sustainable value transition within social and planetary boundaries.",
     "content_type": "report",
@@ -464,6 +465,105 @@
     ]
   },
   {
+    "title": "reports/2026/an_integrated_carbon_accounting_and_miti.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/an_integrated_carbon_accounting_and_miti/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/analysing_european_union_circular_econom.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/analysing_european_union_circular_econom/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/bold_leadership_radical_action_what_bris.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/bold_leadership_radical_action_what_bris/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/carbon_di_oxide_a_fact_and_an_ecological/",
+    "wikilinks": [
+      "Carbon capture and storage",
+      "Climate change",
+      "Greenhouse gas",
+      "Reforestation",
+      "Soil carbon sequestration"
+    ]
+  },
+  {
+    "title": "reports/2026/carbon_sequestration_methodology_benefit.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/carbon_sequestration_methodology_benefit/",
+    "wikilinks": [
+      "Carbon capture and storage",
+      "Climate change",
+      "Greenhouse gas",
+      "Paris Agreement",
+      "Renewable energy"
+    ]
+  },
+  {
+    "title": "reports/2026/collaborative_networks_in_industry_4_0_a.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/collaborative_networks_in_industry_4_0_a/",
+    "wikilinks": [
+      "Collaborative Networks",
+      "Cyber-Physical Systems",
+      "Digital Transformation",
+      "Industry 4.0",
+      "Industry 5.0",
+      "Internet of Things",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "reports/2026/corporate_sustainability_strategy_bridgi.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/corporate_sustainability_strategy_bridgi/",
+    "wikilinks": [
+      "Corporate sustainability",
+      "Employee motivation",
+      "Klettner et al., 2014",
+      "Organizational culture",
+      "Strategic management",
+      "Sustainability strategy",
+      "Triple bottom line",
+      "WCED, 1987"
+    ]
+  },
+  {
     "title": "reports/2026/csi---green-software-foundation.md",
     "summary": "The Green Software Foundation's Software Carbon Intensity (SCI) specification for measuring the carbon-emissions rate of software systems (ISO/IEC 21031).",
     "content_type": "report",
@@ -476,7 +576,6 @@
     "wikilinks": [
       "Carbon Awareness",
       "Carbon Intensity",
-      "EFRAG (European Financial Reporting Advisory Group)",
       "Embodied Carbon",
       "Green Software Foundation",
       "Greenhouse Gas Protocol",
@@ -484,6 +583,42 @@
       "Science Based Targets initiative (SBTi)",
       "carbon intensity"
     ]
+  },
+  {
+    "title": "reports/2026/determinants_of_reducing_greenhouse_gas.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/determinants_of_reducing_greenhouse_gas/",
+    "wikilinks": [
+      "Climate change mitigation",
+      "Environmental policy",
+      "Green tax",
+      "Greenhouse gas emissions",
+      "Sustainable development"
+    ]
+  },
+  {
+    "title": "reports/2026/determining_undergraduate_students_envir.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/determining_undergraduate_students_envir/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/development_of_a_course_module_for_clima.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/development_of_a_course_module_for_clima/",
+    "wikilinks": []
   },
   {
     "title": "reports/2026/due-diligence-in-6-stappen-nl-sep2021.md",
@@ -550,6 +685,98 @@
     ]
   },
   {
+    "title": "reports/2026/exploring_the_role_of_carbon_taxation_po.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/exploring_the_role_of_carbon_taxation_po/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/factors_influencing_energy_consumption_i.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/factors_influencing_energy_consumption_i/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/ghg_accounting_and_reporting_multi_scope.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/ghg_accounting_and_reporting_multi_scope/",
+    "wikilinks": [
+      "ETL",
+      "GHG accounting",
+      "IPCC",
+      "Regular expressions"
+    ]
+  },
+  {
+    "title": "reports/2026/ghg_accounting_and_reporting_multi_secto.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/ghg_accounting_and_reporting_multi_secto/",
+    "wikilinks": [
+      "Data standardization",
+      "GHG accounting",
+      "IPCC",
+      "Regular expressions"
+    ]
+  },
+  {
+    "title": "reports/2026/ghg_emissions_from_settlements.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/ghg_emissions_from_settlements/",
+    "wikilinks": [
+      "Carbon Stock",
+      "Deforestation",
+      "Greenhouse Gas Emissions",
+      "Intergovernmental Panel on Climate Change",
+      "Land Use Change"
+    ]
+  },
+  {
+    "title": "reports/2026/global_warming_and_its_consequences.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/global_warming_and_its_consequences/",
+    "wikilinks": [
+      "Anthropogenic factors",
+      "Climate change",
+      "Global warming",
+      "Greenhouse gas",
+      "Mitigation strategies"
+    ]
+  },
+  {
+    "title": "reports/2026/global_warming_and_the_management_of_zom.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/global_warming_and_the_management_of_zom/",
+    "wikilinks": []
+  },
+  {
     "title": "Software Carbon Intensity for AI Specification",
     "summary": "The Green Software Foundation's extension of the Software Carbon Intensity methodology to AI systems.",
     "content_type": "report",
@@ -567,6 +794,57 @@
       "Lifecycle Assessment",
       "Software Carbon Intensity",
       "reinforcement learning"
+    ]
+  },
+  {
+    "title": "reports/2026/greenhouse_effects_on_the_global_warming.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/greenhouse_effects_on_the_global_warming/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/greening_the_screen_an_environmental_cha.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/greening_the_screen_an_environmental_cha/",
+    "wikilinks": [
+      "Ecocinema",
+      "Ecomedia",
+      "Environmental sustainability",
+      "Green filmmaking"
+    ]
+  },
+  {
+    "title": "reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/international_law_and_climate_induced_mi.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/international_law_and_climate_induced_mi/",
+    "wikilinks": [
+      "Climate Adaptation",
+      "Climate Change",
+      "Disaster Governance",
+      "International Human Rights Law",
+      "Refugee Law"
     ]
   },
   {
@@ -588,6 +866,16 @@
       "Union of Skills",
       "digital competence"
     ]
+  },
+  {
+    "title": "reports/2026/management_accounting_as_a_strategic_dec.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/management_accounting_as_a_strategic_dec/",
+    "wikilinks": []
   },
   {
     "title": "reports/2026/oeso-richtlijnen+nederlandse+vertaling.md",
@@ -704,6 +992,36 @@
     ]
   },
   {
+    "title": "reports/2026/smart_port_real_time_greenhouse_gas_meas.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/smart_port_real_time_greenhouse_gas_meas/",
+    "wikilinks": [
+      "Cyber-Physical Sensing Networks",
+      "European Union Emissions Trading System",
+      "FuelEU Maritime",
+      "Greenhouse Gas Study",
+      "International Maritime Organization",
+      "Marine Environment Protection Committee",
+      "Multi-Agent Autonomous Fleets",
+      "Real-Time Source Attribution",
+      "Spatiotemporal Graph Neural Networks"
+    ]
+  },
+  {
+    "title": "reports/2026/solar_powered_net_zero_energy_houses_for.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/solar_powered_net_zero_energy_houses_for/",
+    "wikilinks": []
+  },
+  {
     "title": "reports/2026/strategic-sustainability-communication.md",
     "summary": "An academic treatment of strategic sustainability communication and its role in advancing sustainable practices in organisations and society.",
     "content_type": "report",
@@ -734,6 +1052,119 @@
     ]
   },
   {
+    "title": "reports/2026/synthesis_and_characterization_of_adsorb.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/synthesis_and_characterization_of_adsorb/",
+    "wikilinks": [
+      "Adsorption",
+      "Carbon Capture and Storage",
+      "Metal-Organic Framework",
+      "Post-Combustion Carbon Capture",
+      "Zeolite"
+    ]
+  },
+  {
+    "title": "reports/2026/the_evolution_of_sustainable_finance_par.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_evolution_of_sustainable_finance_par/",
+    "wikilinks": [
+      "Climate risk governance",
+      "Financial inclusion",
+      "Green banking",
+      "Sustainable finance"
+    ]
+  },
+  {
+    "title": "reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_geometric_fraud_of_the_greenhouse_ef/",
+    "wikilinks": [
+      "Atmospheric physics",
+      "Climate models",
+      "Greenhouse effect",
+      "Radiative transfer",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "title": "reports/2026/the_political_life_of_everyday_sustainab.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_political_life_of_everyday_sustainab/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/the_shallow_consensus_sdgs_leverage_poin.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_shallow_consensus_sdgs_leverage_poin/",
+    "wikilinks": [
+      "Basel III",
+      "Global governance",
+      "Leverage points",
+      "Policy resistance",
+      "Sustainable Development Goals",
+      "Systems thinking"
+    ]
+  },
+  {
+    "title": "reports/2026/the_standard_climate_paradigm_does_not_s.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_standard_climate_paradigm_does_not_s/",
+    "wikilinks": [
+      "Beer-Lambert Law",
+      "Climate Sensitivity",
+      "HITRAN",
+      "Radiative Transfer"
+    ]
+  },
+  {
+    "title": "reports/2026/the_state_of_sustainability_in_higher_ed.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_state_of_sustainability_in_higher_ed/",
+    "wikilinks": [
+      "Campus Carbon Calculator",
+      "Carbon Commitment",
+      "Greenhouse Gas Protocol"
+    ]
+  },
+  {
+    "title": "reports/2026/transition_to_a_sustainable_circular_soc.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/transition_to_a_sustainable_circular_soc/",
+    "wikilinks": []
+  },
+  {
     "title": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md",
     "summary": "EFRAG's VSME Digital Template and XBRL Taxonomy tools supporting SMEs (<250 employees) in implementing voluntary sustainability reporting.",
     "content_type": "report",
@@ -743,7 +1174,11 @@
     "status": "draft",
     "generated": false,
     "url": "reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026/",
-    "wikilinks": []
+    "wikilinks": [
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "European Financial Reporting Advisory Group (EFRAG)",
+      "VSME Standard"
+    ]
   },
   {
     "title": "reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md",
@@ -894,17 +1329,13 @@
     "generated": true,
     "url": "insights/climate-disclosure-across-frameworks/",
     "wikilinks": [
+      "Carbon Border Adjustment Mechanism (CBAM)",
+      "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
-      "Double materiality",
+      "EU Taxonomy Regulation",
       "European Sustainability Reporting Standards (ESRS)",
-      "Voluntary Sustainability Reporting Standard for SMEs",
-      "double materiality",
-      "esrs",
-      "eu-taxonomy",
-      "financial materiality",
-      "ghg-protocol",
-      "impact materiality",
-      "tcfd"
+      "Task Force on Climate-Related Financial Disclosures (TCFD)",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
     ]
   },
   {
@@ -917,16 +1348,11 @@
     "url": "insights/double-materiality-across-regimes/",
     "wikilinks": [
       "Corporate Sustainability Reporting Directive (CSRD)",
+      "Double Materiality",
       "Double Materiality Assessment",
       "European Sustainability Reporting Standards (ESRS)",
-      "Global Reporting Initiative",
-      "Voluntary Sustainability Reporting Standard for SMEs",
-      "csrd",
-      "double materiality",
-      "esrs",
-      "financial materiality",
-      "gri",
-      "impact materiality"
+      "Global Reporting Initiative (GRI)",
+      "Voluntary Sustainability Reporting Standard for SMEs"
     ]
   },
   {
@@ -938,16 +1364,12 @@
     "generated": true,
     "url": "insights/the-sme-reporting-pathway/",
     "wikilinks": [
-      "CSRD",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
-      "ESRS",
-      "Voluntary Sustainability Reporting Standard for SMEs",
-      "csrd",
-      "esrs",
-      "financial materiality",
-      "impact materiality",
-      "vsme"
+      "ESG (Environmental, Social, and Governance)",
+      "European Sustainability Reporting Standards (ESRS)",
+      "Non-Financial Reporting Directive",
+      "Voluntary Sustainability Reporting Standard for SMEs"
     ]
   }
 ]

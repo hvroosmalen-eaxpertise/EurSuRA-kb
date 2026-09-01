@@ -19,3 +19,6 @@
 2026-06-15T15:56:51 BUILD_OK
 2026-06-15T15:56:52 COMMITTED: ingest: wiki rebuild 2026-06-15 15:56
 2026-06-15T15:56:52 NOT_PUSHED — committed locally; review the diff then `git push`
+2026-08-31T17:41:07 BUILD_START
+2026-08-31T17:41:21 BUILD_OK
+2026-08-31T17:41:22 NO_CHANGES — nothing to commit

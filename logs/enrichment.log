@@ -88,3 +88,103 @@
 2026-07-29T16:51:18 [INFO] STYLE_APPLIED VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf
 2026-07-29T16:51:18 [INFO] TAGGED VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf → domain=None
 2026-07-29T17:01:18 [WARN] GLOSSARY_SKIP VSME-Digital-Template-and-XBRL-Taxonomy-Explanatory-Note-June-2026.pdf: timed out
+2026-08-31T12:31:40 [INFO] STYLE_APPLIED A_Handbook_on_Terminology_for_Climate_Ch.pdf
+2026-08-31T12:31:40 [INFO] TAGGED A_Handbook_on_Terminology_for_Climate_Ch.pdf → domain=None
+2026-08-31T12:33:29 [INFO] GLOSSARY_UPSERT 7 entries
+2026-08-31T12:38:41 [INFO] STYLE_APPLIED An_Integrated_Carbon_Accounting_and_Miti.pdf
+2026-08-31T12:38:41 [INFO] TAGGED An_Integrated_Carbon_Accounting_and_Miti.pdf → domain=None
+2026-08-31T12:41:02 [INFO] GLOSSARY_UPSERT 7 entries
+2026-08-31T12:51:02 [INFO] STYLE_APPLIED Analysing_European_Union_circular_econom.pdf
+2026-08-31T12:51:02 [INFO] TAGGED Analysing_European_Union_circular_econom.pdf → domain=None
+2026-08-31T12:59:50 [INFO] GLOSSARY_UPSERT 11 entries
+2026-08-31T13:05:40 [INFO] STYLE_APPLIED Bold_leadership_radical_action_What_Bris.pdf
+2026-08-31T13:05:40 [INFO] TAGGED Bold_leadership_radical_action_What_Bris.pdf → domain=None
+2026-08-31T13:08:33 [INFO] GLOSSARY_UPSERT 11 entries
+2026-08-31T13:12:37 [INFO] STYLE_APPLIED Carbon_Di_Oxide_a_Fact_and_an_Ecological.pdf
+2026-08-31T13:12:37 [INFO] TAGGED Carbon_Di_Oxide_a_Fact_and_an_Ecological.pdf → domain=None
+2026-08-31T13:15:02 [INFO] GLOSSARY_UPSERT 9 entries
+2026-08-31T13:21:24 [INFO] STYLE_APPLIED Carbon_Sequestration_Methodology_Benefit.pdf
+2026-08-31T13:21:24 [INFO] TAGGED Carbon_Sequestration_Methodology_Benefit.pdf → domain=None
+2026-08-31T13:30:35 [INFO] GLOSSARY_UPSERT 27 entries
+2026-08-31T13:40:50 [INFO] STYLE_APPLIED Collaborative_Networks_in_Industry_4_0_a.pdf
+2026-08-31T13:40:50 [INFO] TAGGED Collaborative_Networks_in_Industry_4_0_a.pdf → domain=None
+2026-08-31T14:00:50 [WARN] GLOSSARY_SKIP Collaborative_Networks_in_Industry_4_0_a.pdf: timed out
+2026-08-31T14:07:39 [INFO] STYLE_APPLIED Corporate_sustainability_strategy_bridgi.pdf
+2026-08-31T14:07:39 [INFO] TAGGED Corporate_sustainability_strategy_bridgi.pdf → domain=None
+2026-08-31T14:09:26 [INFO] GLOSSARY_UPSERT 7 entries
+2026-08-31T14:12:46 [INFO] STYLE_APPLIED Determinants_of_Reducing_Greenhouse_Gas.pdf
+2026-08-31T14:12:46 [INFO] TAGGED Determinants_of_Reducing_Greenhouse_Gas.pdf → domain=None
+2026-08-31T14:16:03 [INFO] GLOSSARY_UPSERT 16 entries
+2026-08-31T14:21:52 [INFO] STYLE_APPLIED Determining_undergraduate_students_envir.pdf
+2026-08-31T14:21:52 [INFO] TAGGED Determining_undergraduate_students_envir.pdf → domain=None
+2026-08-31T14:22:30 [INFO] GLOSSARY_UPSERT 2 entries
+2026-08-31T14:26:42 [INFO] STYLE_APPLIED Development_of_a_Course_module_for_Clima.pdf
+2026-08-31T14:26:42 [INFO] TAGGED Development_of_a_Course_module_for_Clima.pdf → domain=None
+2026-08-31T14:37:27 [INFO] GLOSSARY_UPSERT 32 entries
+2026-08-31T14:40:37 [INFO] STYLE_APPLIED Exploring_the_Role_of_Carbon_Taxation_Po.pdf
+2026-08-31T14:40:37 [INFO] TAGGED Exploring_the_Role_of_Carbon_Taxation_Po.pdf → domain=None
+2026-08-31T14:43:16 [INFO] GLOSSARY_UPSERT 10 entries
+2026-08-31T14:46:05 [INFO] STYLE_APPLIED Factors_Influencing_Energy_Consumption_i.pdf
+2026-08-31T14:46:05 [INFO] TAGGED Factors_Influencing_Energy_Consumption_i.pdf → domain=None
+2026-08-31T14:48:59 [INFO] GLOSSARY_UPSERT 15 entries
+2026-08-31T14:49:21 [WARN] LARGE_SOURCE GHG_Accounting_and_Reporting_Multi_Scope.pdf: 539K chars — enrichment may be slow; consider splitting the source or raising enrich.backends.ollama.timeout
+2026-08-31T14:52:11 [INFO] STYLE_APPLIED GHG_Accounting_and_Reporting_Multi_Scope.pdf
+2026-08-31T14:52:11 [INFO] TAGGED GHG_Accounting_and_Reporting_Multi_Scope.pdf → domain=None
+2026-08-31T14:57:21 [INFO] GLOSSARY_UPSERT 22 entries
+2026-08-31T15:00:35 [INFO] STYLE_APPLIED GHG_Accounting_and_Reporting_Multi_Secto.pdf
+2026-08-31T15:00:35 [INFO] TAGGED GHG_Accounting_and_Reporting_Multi_Secto.pdf → domain=None
+2026-08-31T15:03:22 [INFO] GLOSSARY_UPSERT 12 entries
+2026-08-31T15:09:10 [INFO] STYLE_APPLIED GHG_emissions_from_settlements.pdf
+2026-08-31T15:09:10 [INFO] TAGGED GHG_emissions_from_settlements.pdf → domain=None
+2026-08-31T15:11:24 [INFO] GLOSSARY_UPSERT 9 entries
+2026-08-31T15:16:53 [INFO] STYLE_APPLIED GLOBAL_WARMING_AND_ITS_CONSEQUENCES.pdf
+2026-08-31T15:16:53 [INFO] TAGGED GLOBAL_WARMING_AND_ITS_CONSEQUENCES.pdf → domain=None
+2026-08-31T15:24:50 [INFO] GLOSSARY_UPSERT 28 entries
+2026-08-31T15:28:24 [INFO] STYLE_APPLIED Global_Warming_and_the_Management_of_Zom.pdf
+2026-08-31T15:28:24 [INFO] TAGGED Global_Warming_and_the_Management_of_Zom.pdf → domain=None
+2026-08-31T15:30:32 [INFO] GLOSSARY_UPSERT 9 entries
+2026-08-31T15:32:24 [INFO] STYLE_APPLIED Greenhouse_effects_on_the_global_warming.pdf
+2026-08-31T15:32:24 [INFO] TAGGED Greenhouse_effects_on_the_global_warming.pdf → domain=None
+2026-08-31T15:33:15 [INFO] GLOSSARY_UPSERT 4 entries
+2026-08-31T15:37:40 [INFO] STYLE_APPLIED Greening_the_Screen_An_Environmental_Cha.pdf
+2026-08-31T15:37:40 [INFO] TAGGED Greening_the_Screen_An_Environmental_Cha.pdf → domain=None
+2026-08-31T15:39:22 [INFO] GLOSSARY_UPSERT 8 entries
+2026-08-31T15:44:40 [INFO] STYLE_APPLIED How_To_Go_With_And_Beyond_The_GDP_In_Fav.pdf
+2026-08-31T15:44:40 [INFO] TAGGED How_To_Go_With_And_Beyond_The_GDP_In_Fav.pdf → domain=None
+2026-08-31T15:46:02 [INFO] GLOSSARY_UPSERT 4 entries
+2026-08-31T15:51:43 [INFO] STYLE_APPLIED INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf
+2026-08-31T15:51:43 [INFO] TAGGED INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf → domain=None
+2026-08-31T15:56:32 [INFO] GLOSSARY_UPSERT 17 entries
+2026-08-31T15:59:40 [INFO] STYLE_APPLIED Management_Accounting_as_a_Strategic_Dec.pdf
+2026-08-31T15:59:40 [INFO] TAGGED Management_Accounting_as_a_Strategic_Dec.pdf → domain=None
+2026-08-31T16:01:10 [INFO] GLOSSARY_UPSERT 5 entries
+2026-08-31T16:11:31 [INFO] STYLE_APPLIED Smart_Port_Real_Time_Greenhouse_Gas_Meas.pdf
+2026-08-31T16:11:31 [INFO] TAGGED Smart_Port_Real_Time_Greenhouse_Gas_Meas.pdf → domain=None
+2026-08-31T16:19:01 [INFO] GLOSSARY_UPSERT 19 entries
+2026-08-31T16:23:08 [INFO] STYLE_APPLIED Solar_powered_net_zero_energy_houses_for.pdf
+2026-08-31T16:23:08 [INFO] TAGGED Solar_powered_net_zero_energy_houses_for.pdf → domain=None
+2026-08-31T16:25:29 [INFO] GLOSSARY_UPSERT 10 entries
+2026-08-31T16:29:39 [INFO] STYLE_APPLIED Synthesis_and_Characterization_of_Adsorb.pdf
+2026-08-31T16:29:39 [INFO] TAGGED Synthesis_and_Characterization_of_Adsorb.pdf → domain=None
+2026-08-31T16:31:30 [INFO] GLOSSARY_UPSERT 6 entries
+2026-08-31T16:37:09 [INFO] STYLE_APPLIED The_Evolution_of_Sustainable_Finance_Par.pdf
+2026-08-31T16:37:09 [INFO] TAGGED The_Evolution_of_Sustainable_Finance_Par.pdf → domain=None
+2026-08-31T16:39:15 [INFO] GLOSSARY_UPSERT 7 entries
+2026-08-31T16:46:52 [INFO] STYLE_APPLIED The_Geometric_Fraud_of_the_Greenhouse_Ef.pdf
+2026-08-31T16:46:52 [INFO] TAGGED The_Geometric_Fraud_of_the_Greenhouse_Ef.pdf → domain=None
+2026-08-31T16:50:12 [INFO] GLOSSARY_UPSERT 9 entries
+2026-08-31T16:59:12 [INFO] STYLE_APPLIED The_Political_Life_of_Everyday_Sustainab.pdf
+2026-08-31T16:59:12 [INFO] TAGGED The_Political_Life_of_Everyday_Sustainab.pdf → domain=None
+2026-08-31T16:59:41 [INFO] GLOSSARY_UPSERT 1 entries
+2026-08-31T17:03:31 [INFO] STYLE_APPLIED The_Shallow_Consensus_SDGs_Leverage_Poin.pdf
+2026-08-31T17:03:31 [INFO] TAGGED The_Shallow_Consensus_SDGs_Leverage_Poin.pdf → domain=None
+2026-08-31T17:05:25 [INFO] GLOSSARY_UPSERT 6 entries
+2026-08-31T17:08:38 [INFO] STYLE_APPLIED THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
+2026-08-31T17:08:38 [INFO] TAGGED THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf → domain=None
+2026-08-31T17:10:12 [INFO] GLOSSARY_UPSERT 7 entries
+2026-08-31T17:13:34 [INFO] STYLE_APPLIED The_State_of_Sustainability_in_Higher_Ed.pdf
+2026-08-31T17:13:34 [INFO] TAGGED The_State_of_Sustainability_in_Higher_Ed.pdf → domain=None
+2026-08-31T17:15:13 [INFO] GLOSSARY_UPSERT 6 entries
+2026-08-31T17:22:33 [INFO] STYLE_APPLIED Transition_to_a_Sustainable_Circular_Soc.pdf
+2026-08-31T17:22:33 [INFO] TAGGED Transition_to_a_Sustainable_Circular_Soc.pdf → domain=None
+2026-08-31T17:25:08 [INFO] GLOSSARY_UPSERT 9 entries
