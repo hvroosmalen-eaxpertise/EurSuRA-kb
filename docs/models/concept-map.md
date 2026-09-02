@@ -2,188 +2,273 @@
 title: Concept Map
 content_type: model
 generated: true
-date_updated: 2026-08-31
+date_updated: 2026-09-02
 ---
 
 ```mermaid
 flowchart TB
-    %% Climate Disclosure Cluster
-    CD1[Climate Disclosure] --> CD2[ESRS]
-    CD1 --> CD3[TCFD]
-    CD1 --> CD4[GHG Protocol]
-    CD1 --> CD5[EU Taxonomy]
+    %% ========== LAYER 1: TOP-LEVEL DRIVERS ==========
+    ClimateDisclosure[Climate Disclosure]
+    DoubleMateriality[Double Materiality]
+    SMERouting[The SME Reporting Pathway]
+    DueDiligence[Due Diligence]
+    DigitalComp[Digital Competence]
+    VoluntaryRep[Voluntary Reporting]
+    CorpSustain[Corporate Sustainability]
+    ClimateRiskMgmt[Climate Risk Management]
+    ClimateResilience[Climate Resilience]
+    ClimateAdaptation[Climate Adaptation]
+    ClimateMitigation[Climate Mitigation]
+    ClimateMigration[Climate-Induced Migration]
+    IntlLaw[International Law]
+    SupplyChainResp[Supply Chain Responsibility]
+    StakeholderEng[Stakeholder Engagement]
+    Transparency[Transparency]
+    Accountability[Accountability]
+    ReportingStd[Reporting Standards]
+    RegCompliance[Regulatory Compliance]
+    VoluntaryDisc[Voluntary Disclosure]
+    EnvSustain[Environmental Sustainability]
+    SocialResp[Social Responsibility]
+    Governance[Governance]
+    MetricsTargets[Metrics and Targets]
 
-    %% Double Materiality Cluster
-    DM1[Double Materiality] --> DM2[CSRD]
-    DM1 --> DM3[ESRS]
-    DM1 --> DM4[GRI]
+    %% ========== LAYER 2: CORE FRAMEWORKS ==========
+    ESRS[ESRS]
+    CSRD[CSRD]
+    TCFD[TCFD]
+    GHGProtocol[GHG Protocol]
+    EU_Taxonomy[EU Taxonomy]
+    VSME[VSME]
+    GRI[GRI]
+    OECDGuidelines[OECD Guidelines]
+    UNGPs[UNGPs]
+
+    %% ========== LAYER 3: MATERIALITY BREAKDOWN ==========
+    ImpactMateriality[Impact Materiality]
+    FinancialMateriality[Financial Materiality]
+
+    %% ========== LAYER 4: SCI / SOFTWARE SUSTAINABILITY ==========
+    SCI[SCI]
+    Action[Action]
+    EnergyEfficiency[Energy Efficiency]
+    HardwareEfficiency[Hardware Efficiency]
+    CarbonAwareness[Carbon Awareness]
+    SCISpec[SCI Specification]
+
+    %% ========== LAYER 5: CLIMATE FINANCE & ADAPTATION ==========
+    AdaptationFunds[Adaptation Funds]
+    AdaptationStrategies[Adaptation Strategies]
+    ClimateGovernance[Climate Governance]
+    ClimateRefugee[Climate Refugee]
+    FundingMechanisms[Funding Mechanisms]
+
+    %% ========== LAYER 6: ADSORPTION / MATERIALS ==========
+    Adsorbent[Adsorbent]
+    Adsorption[Adsorption]
+    CarbonCapture[Carbon Capture and Storage]
+    Zeolite[Zeolite]
+    MOF[Metal-Organic Framework]
+    PostCombustion[Post-Combustion]
+
+    %% ========== LAYER 7: DIGCOMP ==========
+    DigComp[DigComp 3.0]
+
+    %% ========== INVISIBLE EDGES FOR VERTICAL ORDERING =====
+    %% Force top-down layering
+    ClimateDisclosure ~~~ DoubleMateriality
+    DoubleMateriality ~~~ SMERouting
+    SMERouting ~~~ DueDiligence
+    DueDiligence ~~~ DigitalComp
+    DigitalComp ~~~ VoluntaryRep
+    VoluntaryRep ~~~ CorpSustain
+    CorpSustain ~~~ ClimateRiskMgmt
+    ClimateRiskMgmt ~~~ ClimateResilience
+    ClimateResilience ~~~ ClimateAdaptation
+    ClimateAdaptation ~~~ ClimateMitigation
+    ClimateMitigation ~~~ ClimateMigration
+    ClimateMigration ~~~ IntlLaw
+    IntlLaw ~~~ SupplyChainResp
+    SupplyChainResp ~~~ StakeholderEng
+    StakeholderEng ~~~ Transparency
+    Transparency ~~~ Accountability
+    Accountability ~~~ ReportingStd
+    ReportingStd ~~~ RegCompliance
+    RegCompliance ~~~ VoluntaryDisc
+    VoluntaryDisc ~~~ EnvSustain
+    EnvSustain ~~~ SocialResp
+    SocialResp ~~~ Governance
+    Governance ~~~ MetricsTargets
+
+    %% Core frameworks ordering
+    ESRS ~~~ CSRD
+    CSRD ~~~ TCFD
+    TCFD ~~~ GHGProtocol
+    GHGProtocol ~~~ EU_Taxonomy
+    EU_Taxonomy ~~~ VSME
+    VSME ~~~ GRI
+    GRI ~~~ OECDGuidelines
+    OECDGuidelines ~~~ UNGPs
+
+    %% ========== VISIBLE RELATIONSHIPS ==========
+    %% Climate Disclosure -> Core Frameworks
+    ClimateDisclosure --> ESRS
+    ClimateDisclosure --> TCFD
+    ClimateDisclosure --> GHGProtocol
+    ClimateDisclosure --> EU_Taxonomy
+
+    %% Double Materiality -> Core Frameworks
+    DoubleMateriality --> CSRD
+    DoubleMateriality --> ESRS
+    DoubleMateriality --> GRI
 
     %% SME Reporting Pathway
-    SME1[The SME Reporting Pathway] --> SME2[VSME]
-    SME1 --> SME3[ESRS]
+    SMERouting --> VSME
+    SMERouting --> ESRS
 
     %% Due Diligence
-    DD1[Due Diligence] --> DD2[OECD Guidelines]
-    DD1 --> DD3[UNGPs]
+    DueDiligence --> OECDGuidelines
+    DueDiligence --> UNGPs
 
     %% Digital Competence
-    DC1[Digital Competence] --> DC2[DigComp 3.0]
+    DigitalComp --> DigComp
 
     %% Voluntary Reporting
-    VR1[Voluntary Reporting] --> VR2[VSME]
-    VR1 --> VR3[GHG Protocol]
+    VoluntaryRep --> VSME
+    VoluntaryRep --> GHGProtocol
 
     %% Corporate Sustainability
-    CS1[Corporate Sustainability] --> CS2[CSRD]
-    CS1 --> CS3[ESRS]
+    CorpSustain --> CSRD
+    CorpSustain --> ESRS
 
-    %% Materiality Types
-    IM1[Impact Materiality] --> IM2[ESRS]
-    IM1 --> IM3[CSRD]
-
-    FM1[Financial Materiality] --> FM2[ESRS]
-    FM1 --> FM3[CSRD]
+    %% Materiality Breakdown
+    ImpactMateriality --> ESRS
+    ImpactMateriality --> CSRD
+    FinancialMateriality --> ESRS
+    FinancialMateriality --> CSRD
 
     %% Supply Chain & Stakeholder
-    SC1[Supply Chain Responsibility] --> SC2[OECD Guidelines]
-    SC1 --> SC3[UNGPs]
-
-    SE1[Stakeholder Engagement] --> SE2[VSME]
-    SE1 --> SE3[ESRS]
+    SupplyChainResp --> OECDGuidelines
+    SupplyChainResp --> UNGPs
+    StakeholderEng --> VSME
+    StakeholderEng --> ESRS
 
     %% Transparency & Accountability
-    TR1[Transparency] --> TR2[ESRS]
-    TR1 --> TR3[TCFD]
+    Transparency --> ESRS
+    Transparency --> TCFD
+    Accountability --> ESRS
+    Accountability --> TCFD
 
-    AC1[Accountability] --> AC2[ESRS]
-    AC1 --> AC3[TCFD]
-
-    %% Reporting & Compliance
-    RS1[Reporting Standards] --> RS2[ESRS]
-    RS1 --> RS3[TCFD]
-
-    RC1[Regulatory Compliance] --> RC2[CSRD]
-    RC1 --> RC3[ESRS]
-
-    VD1[Voluntary Disclosure] --> VD2[VSME]
-    VD1 --> VD3[GHG Protocol]
+    %% Reporting Standards & Compliance
+    ReportingStd --> ESRS
+    ReportingStd --> TCFD
+    RegCompliance --> CSRD
+    RegCompliance --> ESRS
+    VoluntaryDisc --> VSME
+    VoluntaryDisc --> GHGProtocol
 
     %% Environmental & Social
-    ES1[Environmental Sustainability] --> ES2[EU Taxonomy]
-    ES1 --> ES3[ESRS]
-
-    SR1[Social Responsibility] --> SR2[ESRS]
-    SR1 --> SR3[GRI]
+    EnvSustain --> EU_Taxonomy
+    EnvSustain --> ESRS
+    SocialResp --> ESRS
+    SocialResp --> GRI
 
     %% Governance & Metrics
-    GV1[Governance] --> GV2[TCFD]
-    GV1 --> GV3[ESRS]
+    Governance --> TCFD
+    Governance --> ESRS
+    MetricsTargets --> TCFD
+    MetricsTargets --> ESRS
 
-    MT1[Metrics and Targets] --> MT2[TCFD]
-    MT1 --> MT3[ESRS]
+    %% Climate Risk & Resilience
+    ClimateRiskMgmt --> TCFD
+    ClimateRiskMgmt --> ESRS
+    ClimateResilience --> AdaptationStrategies
+    ClimateResilience --> ClimateGovernance
+
+    %% Climate Adaptation & Mitigation
+    ClimateAdaptation --> AdaptationFunds
+    ClimateAdaptation --> AdaptationStrategies
+    ClimateMitigation --> AdaptationFunds
+    ClimateMitigation --> AdaptationStrategies
+
+    %% Climate Migration & International Law
+    ClimateMigration --> AdaptationFunds
+    ClimateMigration --> ClimateRefugee
+    IntlLaw --> AdaptationFunds
+    IntlLaw --> FundingMechanisms
+    ClimateRefugee --> AdaptationFunds
+    ClimateRefugee --> FundingMechanisms
+    FundingMechanisms --> AdaptationFunds
 
     %% SCI Cluster
-    EE1[Energy Efficiency] --> EE2[SCI]
-    EE1 --> EE3[VSME]
+    EnergyEfficiency --> SCI
+    EnergyEfficiency --> VSME
+    CarbonAwareness --> SCI
+    CarbonAwareness --> VSME
+    HardwareEfficiency --> SCI
+    HardwareEfficiency --> VSME
+    SoftwareSustain[Software Sustainability] --> SCI
+    SoftwareSustain --> VSME
 
-    CA1[Carbon Awareness] --> CA2[SCI]
-    CA1 --> CA3[VSME]
+    SCI --> Action
+    SCI --> EnergyEfficiency
+    SCI --> HardwareEfficiency
+    SCI --> CarbonAwareness
 
-    HE1[Hardware Efficiency] --> HE2[SCI]
-    HE1 --> HE3[VSME]
+    Action --> SCI
+    Action --> EnergyEfficiency
+    Action --> HardwareEfficiency
+    Action --> CarbonAwareness
 
-    SS1[Software Sustainability] --> SS2[SCI]
-    SS1 --> SS3[VSME]
+    SCISpec --> Action
+    SCISpec --> EnergyEfficiency
+    SCISpec --> HardwareEfficiency
+    SCISpec --> CarbonAwareness
 
-    SCI1[SCI] --> SCI2[Action]
-    SCI1 --> SCI3[Energy Efficiency]
-    SCI1 --> SCI4[Hardware Efficiency]
-    SCI1 --> SCI5[Carbon Awareness]
+    %% Adsorption / Materials Science
+    Adsorbent --> Adsorption
+    Adsorbent --> CarbonCapture
+    Adsorbent --> Zeolite
+    Adsorbent --> MOF
 
-    ACT1[Action] --> ACT2[SCI]
-    ACT1 --> ACT3[Energy Efficiency]
-    ACT1 --> ACT4[Hardware Efficiency]
-    ACT1 --> ACT5[Carbon Awareness]
-
-    SCIS1[SCI Specification] --> SCIS2[Action]
-    SCIS1 --> SCIS3[Energy Efficiency]
-    SCIS1 --> SCIS4[Hardware Efficiency]
-    SCIS1 --> SCIS5[Carbon Awareness]
-
-    %% Climate Cluster
-    CR1[Climate Risk Management] --> CR2[TCFD]
-    CR1 --> CR3[ESRS]
-
-    CLR1[Climate Resilience] --> CLR2[Adaptation Strategies]
-    CLR1 --> CLR3[Climate Governance]
-
-    CLA1[Climate Adaptation] --> CLA2[Adaptation Funds]
-    CLA1 --> CLA3[Adaptation Strategies]
-
-    CLM1[Climate Mitigation] --> CLM2[Adaptation Funds]
-    CLM1 --> CLM3[Adaptation Strategies]
-
-    CMI1[Climate-Induced Migration] --> CMI2[Adaptation Funds]
-    CMI1 --> CMI3[Climate Refugee]
-
-    IL1[International Law] --> IL2[Adaptation Funds]
-    IL1 --> IL3[Funding Mechanisms]
-
-    CRF1[Climate Refugee] --> CRF2[Adaptation Funds]
-    CRF1 --> CRF3[Funding Mechanisms]
-
-    FM1[Funding Mechanisms] --> FM2[Adaptation Funds]
-
-    %% Adsorption Cluster
-    AD1[Adsorbent] --> AD2[Adsorption]
-    AD1 --> AD3[Carbon Capture and Storage]
-    AD1 --> AD4[Zeolite]
-    AD1 --> AD5[Metal-Organic Framework]
-
-    PC1[Post-Combustion] --> PC2[Adsorbent]
-
-    ADS1[Adsorption] --> ADS2[Adsorbent]
-
-    CC1[Carbon Capture and Storage] --> CC2[Adsorbent]
-    CC1 --> CC3[Zeolite]
-    CC1 --> CC4[Metal-Organic Framework]
-
-    ZL1[Zeolite] --> ZL2[Adsorbent]
-    ZL1 --> ZL3[Carbon Capture and Storage]
-    ZL1 --> ZL4[Metal-Organic Framework]
-
-    MF1[Metal-Organic Framework] --> MF2[Adsorbent]
-    MF1 --> MF3[Carbon Capture and Storage]
-    MF1 --> MF4[Zeolite]
-
-    PC21[Post-Combustion] --> PC22[Adsorbent]
-    PC21 --> PC23[Adsorption]
+    PostCombustion --> Adsorbent
+    Adsorption --> Adsorbent
+    CarbonCapture --> Adsorbent
+    CarbonCapture --> Zeolite
+    CarbonCapture --> MOF
+    Zeolite --> Adsorbent
+    Zeolite --> CarbonCapture
+    Zeolite --> MOF
+    MOF --> Adsorbent
+    MOF --> CarbonCapture
+    MOF --> Zeolite
+    PostCombustion -.-> Adsorption
 
     %% VSME Standards
-    VS1[VSME for SMEs] --> VS2[ESRS]
-    VS1 --> VS3[TCFD]
-    VS1 --> VS4[GHG Protocol]
-    VS1 --> VS5[EU Taxonomy]
+    VSME --> ESRS
+    VSME --> TCFD
+    VSME --> GHGProtocol
+    VSME --> EU_Taxonomy
 
-    %% Core Standards Interconnections
-    ESRS1[ESRS] --> ESRS2[CSRD]
-    ESRS1 --> ESRS3[TCFD]
-    ESRS1 --> ESRS4[GHG Protocol]
-    ESRS1 --> ESRS5[EU Taxonomy]
+    %% Core Standards Interconnections (bidirectional awareness)
+    ESRS --> CSRD
+    ESRS --> TCFD
+    ESRS --> GHGProtocol
+    ESRS --> EU_Taxonomy
 
-    CSRD1[CSRD] --> CSRD2[ESRS]
-    CSRD1 --> CSRD3[TCFD]
-    CSRD1 --> CSRD4[GHG Protocol]
+    CSRD --> ESRS
+    CSRD --> TCFD
+    CSRD --> GHGProtocol
 
-    TCFD1[TCFD] --> TCFD2[ESRS]
-    TCFD1 --> TCFD3[GHG Protocol]
-    TCFD1 --> TCFD4[EU Taxonomy]
+    TCFD --> ESRS
+    TCFD --> GHGProtocol
+    TCFD --> EU_Taxonomy
 
-    GHG1[GHG Protocol] --> GHG2[ESRS]
-    GHG1 --> GHG3[TCFD]
-    GHG1 --> GHG4[EU Taxonomy]
+    GHGProtocol --> ESRS
+    GHGProtocol --> TCFD
+    GHGProtocol --> EU_Taxonomy
 
-    EUT1[EU Taxonomy] --> EUT2[ESRS]
-    EUT1 --> EUT3[TCFD]
-    EUT1 --> EUT4[GHG Protocol]
+    EU_Taxonomy --> ESRS
+    EU_Taxonomy --> TCFD
+    EU_Taxonomy --> GHGProtocol
 ```
