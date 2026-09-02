@@ -6,7 +6,7 @@ date_updated: 2026-08-31
 ---
 
 ```mermaid
-graph TD
+flowchart TB
     %% Climate Disclosure Cluster
     CD1[Climate Disclosure] --> CD2[ESRS]
     CD1 --> CD3[TCFD]
