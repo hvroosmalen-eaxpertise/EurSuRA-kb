@@ -206,16 +206,18 @@ python ../kb-framework/pipeline/query.py --kb . --catalog
 ## Quality checks (lint)
 
 `lint.py` health-checks the corpus: **orphans** (pages reachable from neither the
-nav nor any `[[wikilink]]`), **stale/dangling sources**, and **missing
-cross-references**; `--deep` adds an LLM contradiction check.
+nav nor any `[[wikilink]]`), **stale/dangling sources**, **missing
+cross-references**, and **glossary hygiene** (near-duplicate terms, trailing
+whitespace in field values); `--deep` adds an LLM contradiction check.
 
 ```bash
 python ../kb-framework/pipeline/lint.py --kb .          # deterministic checks
 python ../kb-framework/pipeline/lint.py --kb . --deep   # + contradiction check
 ```
 
-It runs warn-only after each ingest. Policy — which finding kinds fail, and
-glossary terms to ignore — lives in the `lint:` block of `config/kb.yaml`. CI
+It runs warn-only after each ingest. Policy — which finding kinds fail,
+glossary terms to ignore, and intentional parenthetical scope variants
+(`allow_scoped_terms`) — lives in the `lint:` block of `config/kb.yaml`. CI
 runs the deterministic checks as a hard gate.
 
 ## Rebuilding from scratch (bootstrap)

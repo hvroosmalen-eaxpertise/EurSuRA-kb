@@ -24,10 +24,15 @@ enrich:
     lint:      ollama-xl    # deep contradiction check (lint.py --deep)
 
 lint:
-  hard_fail: [ORPHAN, STALE]      # kinds that fail CI; XREF and CONTRADICTION are advisory
+  hard_fail: [ORPHAN, STALE, GLOSSDUP, GLOSSFMT]  # kinds that fail CI; XREF and CONTRADICTION are advisory
   ignore_terms:                   # glossary terms too common to require wikilinking
     - sustainability
     - climate change
+  allow_scoped_terms:             # concepts with intentional parenthetical scopes
+    - Carbon Taxation             # (Implementation) vs (Non-Implementation)
+    - Circular Economy            # (CE) general vs (VSME) scoped
+    - Key Performance Indicators  # (ESG) vs (KPIs) generic
+    - Materiality                 # (ESRS) vs (sustainability reporting)
 
 # Domain tag -> canonical page. Used by ingest (Layer-1 merge) and bootstrap (splitter
 # routing). Tags are matched case-insensitively against frontmatter `domain` values.

@@ -80,7 +80,7 @@ The strategic role of DEI in fostering inclusive and equitable sustainability pr
 ## See Also
 
 - [[Environmental, Social, and Governance (ESG)]]
-- [[Circular Economy]]
+- [[Circular Economy (CE)]]
 - [[Sustainable Development Goals (SDGs)]]
 - [[Stakeholder Theory]]
 - [[Systems Theory]]

@@ -153,7 +153,7 @@ According to the CSRD Collectief, adopting a sustainability strategy and reporti
 - [[European Green Deal]]
 - [[Small and Medium-Sized Enterprises (SMEs)]]
 - [[Greenwashing]]
-- [[Circular Economy]]
+- [[Circular Economy (CE)]]
 
 ---
 

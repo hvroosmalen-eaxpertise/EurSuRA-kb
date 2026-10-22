@@ -108,7 +108,7 @@ SDG 17 is mapped to cooperation and partnerships requirements, corresponding to 
 - [[European Financial Reporting Advisory Group]]
 - [[United Nations Sustainable Development Goals]]
 - [[2030 Agenda for Sustainable Development]]
-- [[Circular Economy]]
+- [[Circular Economy (CE)]]
 - [[Gender Pay Gap]]
 - [[Climate Adaptation]]
 - [[Gini Coefficient]]

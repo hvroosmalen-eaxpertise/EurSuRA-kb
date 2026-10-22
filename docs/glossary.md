@@ -9,11 +9,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### 2030 Agenda for Sustainable Development
 
-**Definition:** A United Nations plan of action for people, planet, and prosperity, adopted in 2015, which includes 17 Sustainable Development Goals (SDGs) to be achieved by 2030.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Climate Governance, United Nations Framework Convention on Climate Change (UNFCCC), Enhanced Transparency Framework (ETF)  
+**Definition:** A United Nations plan of action for people, planet, and prosperity, adopted in 2015, which includes 17 Sustainable Development Goals (SDGs) to be achieved by 2030.
+**Domain:** SDG
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Climate Governance, United Nations Framework Convention on Climate Change (UNFCCC), Enhanced Transparency Framework (ETF)
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -22,7 +22,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A collective designation for the four minerals—tin, tantalum, tungsten, and gold—subject to mandatory supply chain due diligence under the Conflict Minerals Regulation due to their association with conflict-affected and high-risk areas.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** conflict minerals
 
@@ -38,7 +38,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An explicit outcome taken, or change avoided, depending on quantifiable emissions measured by the SCI specification, generally relating to using less electricity, using electricity more intelligently, or using less hardware.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** software sustainability action
 
@@ -52,15 +52,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Adaptation Funds
 
-**Definition:** Financial mechanisms aimed at supporting adaptation and mitigation efforts to address the impacts of climate change on vulnerable populations.  
+**Definition:** Financial mechanisms aimed at supporting adaptation and mitigation efforts to address the impacts of climate change on vulnerable populations.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Climate Adaptation Financing, Climate Mitigation Funds  
+**Synonyms:** Climate Adaptation Financing, Climate Mitigation Funds
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Funding Mechanisms  
+**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Funding Mechanisms
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
 
@@ -84,22 +84,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Adsorbent
 
-**Definition:** A porous material capable of capturing and retaining substances, particularly CO₂, through surface interactions.  
-**Domain:** General  
-**Synonyms:** Adsorbent material, CO₂ capture material  
-**Abbreviation:** none  
-**Related terms:** Adsorption, Carbon Capture and Storage, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture  
+**Definition:** A porous material capable of capturing and retaining substances, particularly CO₂, through surface interactions.
+**Domain:** General
+**Synonyms:** Adsorbent material, CO₂ capture material
+**Abbreviation:** none
+**Related terms:** Adsorption, Carbon Capture and Storage, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Adsorption
 
-**Definition:** The process by which a substance (adsorbate) adheres to the surface of a solid or liquid (adsorbent) due to surface forces.  
-**Domain:** General  
-**Synonyms:** Adsorption process, CO₂ capture mechanism  
-**Abbreviation:** none  
-**Related terms:** Adsorbent, Carbon Capture and Storage, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture  
+**Definition:** The process by which a substance (adsorbate) adheres to the surface of a solid or liquid (adsorbent) due to surface forces.
+**Domain:** General
+**Synonyms:** Adsorption process, CO₂ capture mechanism
+**Abbreviation:** none
+**Related terms:** Adsorbent, Carbon Capture and Storage, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
@@ -108,7 +108,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Negative effects on human rights, the environment, or the climate that arise from a company's own operations or those of its value chain partners, and which companies are required to identify, prevent, mitigate, and remediate under EU due diligence legislation.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** negative impact, harmful impact, negative impacts, harm
 
@@ -124,7 +124,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Individuals or groups—such as workers or local communities—who bear the risk of adverse impacts arising from an enterprise's operations, products, services, or business relationships, and whose interests are the primary focus of the CSR risk analysis.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** affected parties, rights-holders
 
@@ -140,7 +140,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A class of AI systems characterised by autonomous decision-making and the orchestration of multi-step workflows, explicitly addressed within the SCI for AI Specification's scope and Operation and Monitoring lifecycle stage for carbon accounting purposes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** autonomous AI, AI agent systems
 
@@ -154,22 +154,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Agriculture
 
-**Definition:** The practice of cultivating land and raising livestock, which releases significant amounts of greenhouse gases and contributes to global warming.  
-**Domain:** General  
-**Synonyms:** Farming, agricultural activities  
-**Abbreviation:** none  
-**Related terms:** Anthropogenic Factors, Greenhouse Gas, Livestock Production  
+**Definition:** The practice of cultivating land and raising livestock, which releases significant amounts of greenhouse gases and contributes to global warming.
+**Domain:** General
+**Synonyms:** Farming, agricultural activities
+**Abbreviation:** none
+**Related terms:** Anthropogenic Factors, Greenhouse Gas, Livestock Production
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Agriculture, Forestry, and Other Land Use (AFOLU)
 
-**Definition:** A sector encompassing activities related to agriculture, forestry, and land use changes that contribute significantly to greenhouse gas emissions and carbon sequestration.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** AFOLU  
-**Related terms:** Measurement, Reporting, and Verification (MRV), IPCC Guidelines for MRV in the AFOLU Sector, Climate Governance  
+**Definition:** A sector encompassing activities related to agriculture, forestry, and land use changes that contribute significantly to greenhouse gas emissions and carbon sequestration.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** AFOLU
+**Related terms:** Measurement, Reporting, and Verification (MRV), IPCC Guidelines for MRV in the AFOLU Sector, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -178,7 +178,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The five sequential phases — Inception, Design and Development, Deployment, Operation and Monitoring, and End of Life — into which the SCI for AI Specification divides an AI system's existence for the purpose of measuring and attributing carbon emissions.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** AI system lifecycle, AI lifecycle phases
 
@@ -194,7 +194,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A novel document production methodology employed in the SCI for Web Assembly Report in which participant inputs are synthesised by a large language model to generate candidate content, which is then subjected to iterative review rounds concluding in formal participant positions of Endorsed, Consented, or Objected prior to content merger.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** AI-orchestrated assembly process
 
@@ -208,22 +208,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Albedo
 
-**Definition:** The measure of the Earth's reflectivity, which affects heat retention and contributes to global warming when ice melts and reduces the planet's ability to reflect sunlight.  
-**Domain:** General  
-**Synonyms:** Reflectivity, albedo effect  
-**Abbreviation:** none  
-**Related terms:** Melting of Ice, Climate Change  
+**Definition:** The measure of the Earth's reflectivity, which affects heat retention and contributes to global warming when ice melts and reduces the planet's ability to reflect sunlight.
+**Domain:** General
+**Synonyms:** Reflectivity, albedo effect
+**Abbreviation:** none
+**Related terms:** Melting of Ice, Climate Change
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Anthropogenic Factors
 
-**Definition:** Human activities that contribute to the increase in greenhouse gas emissions and global warming.  
-**Domain:** General  
-**Synonyms:** Human-induced factors, man-made factors  
-**Abbreviation:** none  
-**Related terms:** Greenhouse Gas, Climate Change, Global Warming  
+**Definition:** Human activities that contribute to the increase in greenhouse gas emissions and global warming.
+**Domain:** General
+**Synonyms:** Human-induced factors, man-made factors
+**Abbreviation:** none
+**Related terms:** Greenhouse Gas, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
@@ -232,7 +232,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A programmatic service interface that, for purposes of the SCI for Web specification, is classified as in-scope when it is accessed primarily through browser-based interfaces representing the primary human interaction mode, and out-of-scope when serving exclusively machine-to-machine programmatic clients.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -248,7 +248,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of examining and verifying the accuracy, completeness, and reliability of information or processes.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Verification, Review
 
@@ -280,7 +280,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A technical practitioner within the SCI for Web target persona framework who controls server-side systems generating and delivering content to browsers, encompassing backend developers, infrastructure and systems engineers, and platform and DevOps engineers, whose decisions affect operational emissions from datacentres and infrastructure.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -294,33 +294,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Backreferences to Participating Capturing Groups
 
-**Definition:** Advanced pattern matching techniques that allow for referencing previously captured groups in regular expressions during GHG data transformation.  
-**Domain:** General  
-**Synonyms:** Capturing Group References  
-**Abbreviation:** none  
-**Related terms:** Extended Search, Regular Expressions, GHG Data  
+**Definition:** Advanced pattern matching techniques that allow for referencing previously captured groups in regular expressions during GHG data transformation.
+**Domain:** GHG
+**Synonyms:** Capturing Group References
+**Abbreviation:** none
+**Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
 
 ### Ballistic Transit
 
-**Definition:** The movement of photons through the atmosphere at the speed of light, implying that they do not interact with the gas in a continuous, radiative trapping manner but rather pass through or collide with individual molecules.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Radiative transfer, Greenhouse effect, Photon Ratio  
+**Definition:** The movement of photons through the atmosphere at the speed of light, implying that they do not interact with the gas in a continuous, radiative trapping manner but rather pass through or collide with individual molecules.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Radiative transfer, Greenhouse effect, Photon Ratio
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Illusion of the 'Trap' and the Speed of Light", 2026
 
 ---
 
 ### Basel III
 
-**Definition:** A regulatory framework for global banking that aims to enhance the stability of the financial system through improved capital adequacy, risk management, and transparency requirements.  
-**Domain:** General  
-**Synonyms:** Basel III framework  
-**Abbreviation:** Basel III  
-**Related terms:** Sustainable Development Goals (SDGs), Global governance, Leverage points  
+**Definition:** A regulatory framework for global banking that aims to enhance the stability of the financial system through improved capital adequacy, risk management, and transparency requirements.
+**Domain:** SDG
+**Synonyms:** Basel III framework
+**Abbreviation:** Basel III
+**Related terms:** Sustainable Development Goals (SDGs), Global governance, Leverage points
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
@@ -359,37 +359,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Beer-Lambert Law
 
-**Definition:** A law used to describe the attenuation of light as it passes through a medium, which integrates two-dimensional scalars from HITRAN along a one-dimensional ray to project the atmosphere onto a single transverse plane.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** B-L Law  
-**Related terms:** Two Flatteners, HITRAN, Radiative Transfer  
+**Definition:** A law used to describe the attenuation of light as it passes through a medium, which integrates two-dimensional scalars from HITRAN along a one-dimensional ray to project the atmosphere onto a single transverse plane.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** B-L Law
+**Related terms:** Two Flatteners, HITRAN, Radiative Transfer
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
 
 ### Bibliometric Analysis
 
-**Definition:** A research method that quantitatively analyzes academic literature to identify trends, patterns, and gaps in knowledge.  
-**Domain:** General  
-**Synonyms:** Bibliometric Study  
-**Abbreviation:** BA  
-**Related terms:** Energy Consumption, Methodology  
+**Definition:** A research method that quantitatively analyzes academic literature to identify trends, patterns, and gaps in knowledge.
+**Domain:** General
+**Synonyms:** Bibliometric Study
+**Abbreviation:** BA
+**Related terms:** Energy Consumption, Methodology
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
 
 ### Biochar
 
-**Definition:** A carbon-rich material produced from the pyrolysis of organic biomass, used to enhance soil carbon sequestration.  
+**Definition:** A carbon-rich material produced from the pyrolysis of organic biomass, used to enhance soil carbon sequestration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Compost  
+**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Compost
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -413,15 +413,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Biodiversity Impacts
 
-**Definition:** The potential harm to local biodiversity and disruption of ecosystems caused by large-scale afforestation or reforestation projects using non-native species.  
+**Definition:** The potential harm to local biodiversity and disruption of ecosystems caused by large-scale afforestation or reforestation projects using non-native species.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Land Use Changes, Soil Carbon Sequestration  
+**Related terms:** Biological Sequestration, Land Use Changes, Soil Carbon Sequestration
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -429,26 +429,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Biogeochemical cycles of the Earth
 
-**Definition:** Fundamental cycles such as the water, carbon, nitrogen, and phosphorus cycles that ensure the circulation and transformation of matter and energy on Earth.  
-**Domain:** General  
-**Synonyms:** Biogeochemical cycles  
-**Abbreviation:** none  
-**Related terms:** Ecosystem cycles, Resource cycles of materials and energy  
+**Definition:** Fundamental cycles such as the water, carbon, nitrogen, and phosphorus cycles that ensure the circulation and transformation of matter and energy on Earth.
+**Domain:** General
+**Synonyms:** Biogeochemical cycles
+**Abbreviation:** none
+**Related terms:** Ecosystem cycles, Resource cycles of materials and energy
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.1, 2026
 
 ---
 
 ### Biological Sequestration
 
-**Definition:** The process of capturing CO₂ through natural processes such as photosynthesis, where plants, trees, and vegetation absorb CO₂ and store it in biomass and soils.  
+**Definition:** The process of capturing CO₂ through natural processes such as photosynthesis, where plants, trees, and vegetation absorb CO₂ and store it in biomass and soils.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon Sequestration, Reforestation, Biochar, Compost  
+**Related terms:** Carbon Sequestration, Reforestation, Biochar, Compost
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -472,11 +472,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Brown energy
 
-**Definition:** Energy derived from fossil fuels, which are associated with high greenhouse gas emissions and environmental degradation.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Green tax, Substitution effect  
+**Definition:** Energy derived from fossil fuels, which are associated with high greenhouse gas emissions and environmental degradation.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Green tax, Substitution effect
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
@@ -485,7 +485,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The defining scope criterion for the SCI for Web specification, referring to the condition in which human users primarily access and consume a service's functional value through the rendering capabilities of a web browser, as distinct from programmatic or machine-to-machine access.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** browser-mediated interaction
 
@@ -499,15 +499,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Building Design
 
-**Definition:** The architectural and engineering approach to constructing a building, including orientation, insulation, ventilation, and energy systems.  
+**Definition:** The architectural and engineering approach to constructing a building, including orientation, insulation, ventilation, and energy systems.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Net Zero Energy Home, Thermal Inertia, Passive House  
+**Related terms:** Net Zero Energy Home, Thermal Inertia, Passive House
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -533,7 +533,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A connection between an enterprise and a supplier, customer, or other party through which the enterprise may be directly linked to an adverse impact even where the enterprise has not itself caused or contributed to that impact.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -547,22 +547,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Campus Carbon Calculator
 
-**Definition:** A tool for measuring and reporting carbon footprints of higher education institutions, developed in partnership between the University of New Hampshire and the nonprofit Clean Air-Cool Planet.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** CCC  
-**Related terms:** Greenhouse Gas Protocol, Carbon Commitment  
+**Definition:** A tool for measuring and reporting carbon footprints of higher education institutions, developed in partnership between the University of New Hampshire and the nonprofit Clean Air-Cool Planet.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** CCC
+**Related terms:** Greenhouse Gas Protocol, Carbon Commitment
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
 
 ---
 
 ### Capacity Building
 
-**Definition:** The process of enhancing the knowledge, skills, and resources of individuals and organizations to effectively implement and manage climate-related initiatives.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Stakeholder Engagement  
+**Definition:** The process of enhancing the knowledge, skills, and resources of individuals and organizations to effectively implement and manage climate-related initiatives.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Stakeholder Engagement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -571,7 +571,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A framework aimed at creating a more integrated and efficient capital market within the European Union to enhance access to financing and investment.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** CMU
 
@@ -585,11 +585,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Capital transfers for environmental protection
 
-**Definition:** Financial resources allocated to initiatives aimed at protecting the environment and reducing greenhouse gas emissions.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Greenhouse gas emissions, Population size  
+**Definition:** Financial resources allocated to initiatives aimed at protecting the environment and reducing greenhouse gas emissions.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Greenhouse gas emissions, Population size
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
@@ -598,13 +598,13 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A broad term used within the SCI specification to refer to the impact of all types of greenhouse gas emissions and activities on global warming, expressed in carbon dioxide equivalent (CO₂eq) units.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** greenhouse gas, GHG
 
 **Abbreviation:** CO₂eq
 
-**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
+**Related terms:** [[Greenhouse Gas (GHG) Emissions]], [[Carbon Intensity]], [[Operational Emissions]], [[Embodied Emissions]]
 
 **Source:** SCI Specification v1.1.0, Terms and Definitions, Green Software Foundation / EFRAG, 2026
 
@@ -612,26 +612,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Accounting
 
-**Definition:** A method of quantifying and tracking greenhouse gas emissions and removals to support accurate Measurement, Reporting, and Verification (MRV) in the AFOLU sector.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), IPCC Guidelines for MRV in the AFOLU Sector  
+**Definition:** A method of quantifying and tracking greenhouse gas emissions and removals to support accurate Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), IPCC Guidelines for MRV in the AFOLU Sector
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Carbon Accounting Centre (CAC)
 
-**Definition:** A scoping unit within the INCAM framework used to divide premises and processes for monitoring carbon emissions.  
+**Definition:** A scoping unit within the INCAM framework used to divide premises and processes for monitoring carbon emissions.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** CAC  
+**Abbreviation:** CAC
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Performance Indicator (CPI)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Performance Indicator (CPI)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -641,7 +641,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A category of software sustainability actions consisting of time-shifting or region-shifting computation in order to take advantage of lower-carbon or renewable energy sources.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -657,13 +657,13 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU policy instrument that places a carbon price on imports of certain carbon-intensive goods from outside the EU to prevent carbon leakage and ensure that imported products bear a cost equivalent to that borne by EU producers under the EU Emissions Trading System.
 
-**Domain:** General
+**Domain:** EU-Taxonomy
 
 **Synonyms:** Carbon border tax, border carbon adjustment
 
 **Abbreviation:** CBAM
 
-**Related terms:** [[Carbon Leakage]], [[Paris Agreement]], [[Greenhouse Gas Emissions (GHG Emissions)]], [[EU Taxonomy]]
+**Related terms:** [[Carbon Leakage]], [[Paris Agreement]], [[Greenhouse Gas (GHG) Emissions]], [[EU Taxonomy]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -687,58 +687,42 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Capture
 
-**Definition:** The process of capturing CO₂ emissions from industrial processes or power plants before they are released into the atmosphere.  
+**Definition:** The process of capturing CO₂ emissions from industrial processes or power plants before they are released into the atmosphere.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** CO₂ Capture, Carbon Capture and Storage (CCS), Carbon Capture and Utilization (CCUS)  
+**Synonyms:** CO₂ Capture, Carbon Capture and Storage (CCS), Carbon Capture and Utilization (CCUS)
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon Sequestration, Carbon Storage, Geological Sequestration  
+**Related terms:** Carbon Sequestration, Carbon Storage, Geological Sequestration
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
-
----
-
-### Carbon Capture and Storage
-
-**Definition:** A technology aimed at capturing carbon dioxide emissions from industrial processes and storing them in underground geological formations to prevent their release into the atmosphere.  
-**Domain:** General  
-**Synonyms:** CCS, CO₂ capture and storage  
-**Abbreviation:** CCS  
-**Related terms:** Adsorbent, Adsorption, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture  
-**Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Carbon Capture and Storage (CCS)
 
-**Definition:** A technology that captures CO₂ emissions from industrial processes and power plants, pressurizes it into a supercritical fluid, and stores it in geological formations for long-term storage.  
-
-**Domain:** General  
-
-**Synonyms:** Carbon Capture and Utilization (CCUS), CO₂ Capture  
-
-**Abbreviation:** CCS  
-
-**Related terms:** Carbon Sequestration, Geological Sequestration, Carbon Storage  
-
-**Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
+**Definition:** A technology aimed at capturing carbon dioxide emissions from industrial processes and storing them in underground geological formations to prevent their release into the atmosphere.
+**Domain:** General
+**Synonyms:** CCS, CO₂ capture and storage
+**Abbreviation:** CCS
+**Related terms:** Adsorbent, Adsorption, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture
+**Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Carbon Capture and Utilization (CCUS)
 
-**Definition:** A technology that captures CO₂ emissions from industrial processes and power plants, pressurizes it into a supercritical fluid, and either stores it in geological formations or utilizes it in industrial applications.  
+**Definition:** A technology that captures CO₂ emissions from industrial processes and power plants, pressurizes it into a supercritical fluid, and either stores it in geological formations or utilizes it in industrial applications.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Carbon Capture and Storage (CCS), CO₂ Capture  
+**Synonyms:** Carbon Capture and Storage (CCS), CO₂ Capture
 
-**Abbreviation:** CCUS  
+**Abbreviation:** CCUS
 
-**Related terms:** Carbon Sequestration, Geological Sequestration, Carbon Storage  
+**Related terms:** Carbon Sequestration, Geological Sequestration, Carbon Storage
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -746,23 +730,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Commitment
 
-**Definition:** A climate commitment initiative launched in 2007 by the American College & University Presidents’ Climate Commitment, requiring institutions to report Scope 1 and 2 emissions, as well as a subset of Scope 3 emissions.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Campus Carbon Calculator, Greenhouse Gas Protocol  
+**Definition:** A climate commitment initiative launched in 2007 by the American College & University Presidents’ Climate Commitment, requiring institutions to report Scope 1 and 2 emissions, as well as a subset of Scope 3 emissions.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Campus Carbon Calculator, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
-
----
-
-### Carbon Dioxide
-
-**Definition:** A greenhouse gas primarily emitted through the burning of fossil fuels, deforestation, and industrial processes, contributing significantly to global warming.  
-**Domain:** General  
-**Synonyms:** CO₂, carbon dioxide gas  
-**Abbreviation:** CO₂  
-**Related terms:** Greenhouse Gas, Anthropogenic Factors, Methane  
-**Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
@@ -784,15 +757,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Dioxide Emissions
 
-**Definition:** Emissions of carbon dioxide resulting from human activities, primarily the combustion of fossil fuels, industrial processes, and deforestation.  
+**Definition:** Emissions of carbon dioxide resulting from human activities, primarily the combustion of fossil fuels, industrial processes, and deforestation.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** CO₂ emissions, greenhouse gas emissions  
+**Synonyms:** CO₂ emissions, greenhouse gas emissions
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Greenhouse gas, Climate change, Carbon capture and storage, Carbon dioxide removal  
+**Related terms:** Greenhouse gas, Climate change, Carbon capture and storage, Carbon dioxide removal
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Emissions and Their Sources, 2024
 
@@ -800,15 +773,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Dioxide Removal (CDR)
 
-**Definition:** A set of strategies aimed at removing carbon dioxide from the atmosphere and storing it permanently, including enhancing natural carbon sinks and emerging technologies like direct air capture.  
+**Definition:** A set of strategies aimed at removing carbon dioxide from the atmosphere and storing it permanently, including enhancing natural carbon sinks and emerging technologies like direct air capture.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Carbon removal, negative emissions  
+**Synonyms:** Carbon removal, negative emissions
 
-**Abbreviation:** CDR  
+**Abbreviation:** CDR
 
-**Related terms:** Carbon capture and storage, Greenhouse gas, Climate change, Direct air capture  
+**Related terms:** Carbon capture and storage, Greenhouse gas, Climate change, Direct air capture
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Removal (CDR) Strategies, 2024
 
@@ -818,7 +791,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A global environmental disclosure platform active since 2000 that collects self-reported data from companies on climate change, water security, and deforestation risks and performance, typically at the request of investors or governments, in alignment with TCFD recommendations and science-based targets.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** none
 
@@ -832,15 +805,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Emission Equivalent (tCO2e)
 
-**Definition:** A measure of carbon emissions expressed in tonnes of carbon dioxide equivalent (tCO2e), calculated by multiplying monthly consumption/generation of each Carbon Accounting Centre (CAC) with the emission factor of each Carbon Performance Indicator (CPI).  
+**Definition:** A measure of carbon emissions expressed in tonnes of carbon dioxide equivalent (tCO2e), calculated by multiplying monthly consumption/generation of each Carbon Accounting Centre (CAC) with the emission factor of each Carbon Performance Indicator (CPI).
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** tCO2e  
+**Abbreviation:** tCO2e
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI), Carbon Emission Profile (%)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI), Carbon Emission Profile (%)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -848,15 +821,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Emission Index (CEI)
 
-**Definition:** A metric calculated by dividing the total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) by the total production amount (t) for a month and multiplying by 100%.  
+**Definition:** A metric calculated by dividing the total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) by the total production amount (t) for a month and multiplying by 100%.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** CEI  
+**Abbreviation:** CEI
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI), Carbon Emission Profile (%)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI), Carbon Emission Profile (%)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -864,15 +837,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Emission Indicators (CEI)
 
-**Definition:** Metrics established for each Carbon Accounting Centre (CAC) and Carbon Performance Indicator (CPI) to calculate carbon emissions using emission factors.  
+**Definition:** Metrics established for each Carbon Accounting Centre (CAC) and Carbon Performance Indicator (CPI) to calculate carbon emissions using emission factors.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** CEI  
+**Abbreviation:** CEI
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -880,15 +853,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Emission Profile (%)
 
-**Definition:** A percentage representing the proportion of total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) or Carbon Performance Indicator (CPI) relative to the total monthly CO2e (tCO2e) of each CPI.  
+**Definition:** A percentage representing the proportion of total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) or Carbon Performance Indicator (CPI) relative to the total monthly CO2e (tCO2e) of each CPI.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -896,44 +869,44 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Emissions
 
-**Definition:** The release of greenhouse gases, primarily carbon dioxide, into the atmosphere as a result of human activities, contributing to global warming and climate change.  
-**Domain:** General  
-**Synonyms:** Greenhouse gas emissions  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** The release of greenhouse gases, primarily carbon dioxide, into the atmosphere as a result of human activities, contributing to global warming and climate change.
+**Domain:** General
+**Synonyms:** Greenhouse gas emissions
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
 
 ---
 
 ### Carbon Emissions from Deforestation
 
-**Definition:** The release of carbon into the atmosphere from deforestation, including both immediate emissions from clearing and ongoing emissions from soil degradation or land conversion.  
-**Domain:** General  
-**Synonyms:** Deforestation emissions, carbon release from deforestation  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Carbon Sequestration and Emissions from Deforestation  
+**Definition:** The release of carbon into the atmosphere from deforestation, including both immediate emissions from clearing and ongoing emissions from soil degradation or land conversion.
+**Domain:** GHG
+**Synonyms:** Deforestation emissions, carbon release from deforestation
+**Abbreviation:** none
+**Related terms:** Deforestation, Carbon Sequestration and Emissions from Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Carbon Footprint
 
-**Definition:** The total amount of greenhouse gases emitted as a result of an activity, product, or service, typically measured in tonnes of carbon dioxide equivalent.  
-**Domain:** General  
-**Synonyms:** Environmental footprint  
-**Abbreviation:** CF  
-**Related terms:** Environmental footprint, Sustainability  
+**Definition:** The total amount of greenhouse gases emitted as a result of an activity, product, or service, typically measured in tonnes of carbon dioxide equivalent.
+**Domain:** General
+**Synonyms:** Environmental footprint
+**Abbreviation:** CF
+**Related terms:** Environmental footprint, Sustainability
 **Source:** Sustainability in the Motion Picture Industry, 2006
 
 ---
 
 ### Carbon Intensity
 
-**Definition:** A measure of the amount of CO₂ emissions produced per unit of energy generated, used to assess the environmental impact of different energy sources.  
-**Domain:** TCFD  
-**Synonyms:** Emissions intensity  
-**Abbreviation:** CI  
-**Related terms:** Energy intensity, Greenhouse gas emissions, Carbon taxation  
+**Definition:** A measure of the amount of CO₂ emissions produced per unit of energy generated, used to assess the environmental impact of different energy sources.
+**Domain:** TCFD
+**Synonyms:** Emissions intensity
+**Abbreviation:** CI
+**Related terms:** Energy intensity, Greenhouse gas emissions, Carbon taxation
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
@@ -942,13 +915,13 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The phenomenon whereby businesses relocate production or increase imports from regions with less stringent climate regulations in response to carbon pricing policies, thereby undermining the environmental effectiveness of those policies.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
 **Abbreviation:** none
 
-**Related terms:** [[Carbon Border Adjustment Mechanism]], [[Greenhouse Gas Emissions (GHG Emissions)]], [[Paris Agreement]]
+**Related terms:** [[Carbon Border Adjustment Mechanism]], [[Greenhouse Gas (GHG) Emissions]], [[Paris Agreement]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
 
@@ -956,26 +929,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Markets
 
-**Definition:** Markets where greenhouse gas emissions are traded, allowing entities to buy and sell emission allowances to meet regulatory requirements or achieve climate goals.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Climate Governance, Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV)  
+**Definition:** Markets where greenhouse gas emissions are traded, allowing entities to buy and sell emission allowances to meet regulatory requirements or achieve climate goals.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Climate Governance, Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV)
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Carbon Performance Indicator (CPI)
 
-**Definition:** A metric used to assess carbon performance within a Carbon Accounting Centre (CAC), contributing to the calculation of Carbon Emission Indicators (CEI).  
+**Definition:** A metric used to assess carbon performance within a Carbon Accounting Centre (CAC), contributing to the calculation of Carbon Emission Indicators (CEI).
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** CPI  
+**Abbreviation:** CPI
 
-**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Accounting Centre (CAC)  
+**Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Emission Indicators (CEI), Carbon Accounting Centre (CAC)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
 
@@ -983,37 +956,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Sequestration
 
-**Definition:** The process of capturing and storing atmospheric carbon dioxide to mitigate climate change, often through natural processes such as photosynthesis in plants and trees.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Agriculture, Forestry, and Other Land Use (AFOLU), Measurement, Reporting, and Verification (MRV), Climate Governance  
+**Definition:** The process of capturing and storing atmospheric carbon dioxide to mitigate climate change, often through natural processes such as photosynthesis in plants and trees.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Agriculture, Forestry, and Other Land Use (AFOLU), Measurement, Reporting, and Verification (MRV), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Carbon Sequestration and Emissions from Deforestation
 
-**Definition:** The release of carbon stored in forest ecosystems into the atmosphere upon deforestation, including immediate emissions from clearing and ongoing emissions from soil degradation or land conversion.  
-**Domain:** General  
-**Synonyms:** Carbon release, deforestation emissions  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Carbon Stock  
+**Definition:** The release of carbon stored in forest ecosystems into the atmosphere upon deforestation, including immediate emissions from clearing and ongoing emissions from soil degradation or land conversion.
+**Domain:** GHG
+**Synonyms:** Carbon release, deforestation emissions
+**Abbreviation:** none
+**Related terms:** Deforestation, Carbon Stock
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Carbon Storage
 
-**Definition:** The quantity of carbon stored in a reservoir after it has been captured and sequestered.  
+**Definition:** The quantity of carbon stored in a reservoir after it has been captured and sequestered.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon Sequestration, Geological Storage, Biological Storage  
+**Related terms:** Carbon Sequestration, Geological Storage, Biological Storage
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -1021,44 +994,44 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Carbon Taxation
 
-**Definition:** A policy tool that imposes taxes on polluting energy sources and products based on their CO₂ emissions to reduce fossil fuel consumption and CO₂ emissions.  
-**Domain:** TCFD  
-**Synonyms:** Environmental tax, carbon pricing  
-**Abbreviation:** CT  
-**Related terms:** Greenhouse gas emissions, Propensity score matching, Sustainable Development Goals (SDGs)  
+**Definition:** A policy tool that imposes taxes on polluting energy sources and products based on their CO₂ emissions to reduce fossil fuel consumption and CO₂ emissions.
+**Domain:** TCFD
+**Synonyms:** Environmental tax, carbon pricing
+**Abbreviation:** CT
+**Related terms:** Greenhouse gas emissions, Propensity score matching, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 1, 2020
 
 ---
 
 ### Carbon Taxation (Implementation)
 
-**Definition:** The application of carbon taxation policies in European countries to reduce CO₂ emissions through financial incentives for cleaner energy alternatives.  
-**Domain:** TCFD  
-**Synonyms:** Carbon tax implementation  
-**Abbreviation:** none  
-**Related terms:** Propensity score matching, Environmental taxes, Sustainable Development Goals (SDGs)  
+**Definition:** The application of carbon taxation policies in European countries to reduce CO₂ emissions through financial incentives for cleaner energy alternatives.
+**Domain:** TCFD
+**Synonyms:** Carbon tax implementation
+**Abbreviation:** none
+**Related terms:** Propensity score matching, Environmental taxes, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
 
 ### Carbon Taxation (Non-Implementation)
 
-**Definition:** The absence of carbon taxation policies in European countries, which is analyzed to assess the impact on CO₂ emissions compared to countries with carbon taxation.  
-**Domain:** TCFD  
-**Synonyms:** Non-implementation of carbon tax  
-**Abbreviation:** none  
-**Related terms:** Propensity score matching, Environmental taxes, Sustainable Development Goals (SDGs)  
+**Definition:** The absence of carbon taxation policies in European countries, which is analyzed to assess the impact on CO₂ emissions compared to countries with carbon taxation.
+**Domain:** TCFD
+**Synonyms:** Non-implementation of carbon tax
+**Abbreviation:** none
+**Related terms:** Propensity score matching, Environmental taxes, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
 
 ### Carbon Trading
 
-**Definition:** A market-based approach to controlling emissions by allowing companies to buy and sell emission allowances, thereby setting a definite limit on greenhouse gas emissions.  
-**Domain:** TCFD  
-**Synonyms:** Emissions trading  
-**Abbreviation:** CT  
-**Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)  
+**Definition:** A market-based approach to controlling emissions by allowing companies to buy and sell emission allowances, thereby setting a definite limit on greenhouse gas emissions.
+**Domain:** TCFD
+**Synonyms:** Emissions trading
+**Abbreviation:** CT
+**Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
@@ -1067,7 +1040,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An attribute of software or hardware that adjusts its behaviour—including consumption of inputs, processing, or production of outputs—in response to the carbon intensity of the energy it consumes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** carbon-responsive
 
@@ -1081,11 +1054,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Cascade Dependency Chain
 
-**Definition:** A sequence of processes where the output of one methodology (e.g., HITRAN) is used as the input for another (e.g., Beer-Lambert Law), leading to the reduction of the atmosphere to a two-dimensional sheet.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Two Flatteners, HITRAN, Beer-Lambert Law  
+**Definition:** A sequence of processes where the output of one methodology (e.g., HITRAN) is used as the input for another (e.g., Beer-Lambert Law), leading to the reduction of the atmosphere to a two-dimensional sheet.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Two Flatteners, HITRAN, Beer-Lambert Law
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
@@ -1094,7 +1067,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A stylesheet language used to describe the presentation of web content whose efficiency is identified in the SCI for Web specification as a factor within the control of frontend developers that influences client-side energy consumption.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -1110,7 +1083,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A global environmental disclosure platform active since 2000 that collects self-reported data from companies on climate change, water security, and deforestation to measure climate-related risks and progress, with methodology aligned to TCFD recommendations and science-based targets.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** Carbon Disclosure Project
 
@@ -1140,15 +1113,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Characteristics Datasheet
 
-**Definition:** A structured document containing all identified qualifiers, their values, units of measure, and annotations for GHG data after the characterization process.  
+**Definition:** A structured document containing all identified qualifiers, their values, units of measure, and annotations for GHG data after the characterization process.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Data summary sheet, structured data sheet  
+**Synonyms:** Data summary sheet, structured data sheet
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Characterization, Data standardization, Emission Factors Database  
+**Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 3, 2026
 
@@ -1156,15 +1129,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Characterization
 
-**Definition:** The process of analyzing and transforming unstructured data into a structured format to ensure consistency, accuracy, and usability in GHG accounting.  
+**Definition:** The process of analyzing and transforming unstructured data into a structured format to ensure consistency, accuracy, and usability in GHG accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Data transformation, data standardization  
+**Synonyms:** Data transformation, data standardization
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Regular expressions, Emission Factors Database, Data standardization  
+**Related terms:** Regular expressions, Emission Factors Database, Data standardization
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -1172,33 +1145,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Characterization Process
 
-**Definition:** A systematic approach to standardize, clean, and structure unstructured GHG data using dictionaries, transformation rules, and shortening rules.  
-**Domain:** General  
-**Synonyms:** Data Standardization Process  
-**Abbreviation:** none  
-**Related terms:** Dictionary, Transformation Rules, Shortening Rules, GHG Data  
+**Definition:** A systematic approach to standardize, clean, and structure unstructured GHG data using dictionaries, transformation rules, and shortening rules.
+**Domain:** GHG
+**Synonyms:** Data Standardization Process
+**Abbreviation:** none
+**Related terms:** Dictionary, Transformation Rules, Shortening Rules, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 3, 2026
-
----
-
-### Circular Economy
-
-**Definition:** A framework for rethinking economic systems to align with ecological and social well-being through the continuous reuse, recycling, and regeneration of resources.  
-**Domain:** General  
-**Synonyms:** Circular system, sustainable economy  
-**Abbreviation:** CE  
-**Related terms:** Socio-ecological cycles, Resource efficiency, Sustainability  
-**Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 1, 2026
 
 ---
 
 ### Circular Economy (CE)
 
-**Definition:** A paradigm aiming to create a sustainable, low-carbon, resource-efficient, and competitive economy by rethinking production, consumption, and waste management practices.  
-**Domain:** General  
-**Synonyms:** Circular Economy Model, Circular Economy Framework  
-**Abbreviation:** CE  
-**Related terms:** Sustainable Development, Resource Efficiency, Eco-Economic Decoupling  
+**Definition:** A paradigm aiming to create a sustainable, low-carbon, resource-efficient, and competitive economy by rethinking production, consumption, and waste management practices.
+**Domain:** General
+**Synonyms:** Circular Economy Model, Circular Economy Framework
+**Abbreviation:** CE
+**Related terms:** Sustainable Development, Resource Efficiency, Eco-Economic Decoupling
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 1, 2020
 
 ---
@@ -1221,33 +1183,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Circular Economy Action Plan
 
-**Definition:** A strategic framework launched by the European Commission in 2015 to promote the transition towards a circular economy, focusing on resource efficiency, waste reduction, and sustainable economic growth.  
-**Domain:** General  
-**Synonyms:** CE Action Plan  
-**Abbreviation:** CEAP  
-**Related terms:** European Green Deal, Circular Economy, Resource Efficiency  
+**Definition:** A strategic framework launched by the European Commission in 2015 to promote the transition towards a circular economy, focusing on resource efficiency, waste reduction, and sustainable economic growth.
+**Domain:** General
+**Synonyms:** CE Action Plan
+**Abbreviation:** CEAP
+**Related terms:** European Green Deal, Circular Economy, Resource Efficiency
 **Source:** Circular Economy Action Plan, European Commission, 2015
 
 ---
 
 ### Circular Economy Discourse
 
-**Definition:** A conceptual framework used to analyze how the circular economy is discussed and interpreted in policy, academic, and public spheres, reflecting varying degrees of social, ecological, and political transformation.  
-**Domain:** General  
-**Synonyms:** CE Discourse, Circular Economy Narrative  
-**Abbreviation:** none  
-**Related terms:** Discourse Analysis, Sustainability, Policy Analysis  
+**Definition:** A conceptual framework used to analyze how the circular economy is discussed and interpreted in policy, academic, and public spheres, reflecting varying degrees of social, ecological, and political transformation.
+**Domain:** General
+**Synonyms:** CE Discourse, Circular Economy Narrative
+**Abbreviation:** none
+**Related terms:** Discourse Analysis, Sustainability, Policy Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 2, 2020
 
 ---
 
 ### Circular Economy Discourse Typology
 
-**Definition:** A classification system developed by Calisto Friant et al. (2020) to differentiate between holistic and segmented, as well as optimist and sceptical, discourses on the circular economy.  
-**Domain:** General  
-**Synonyms:** CE Discourse Framework, Circular Economy Typology  
-**Abbreviation:** none  
-**Related terms:** Discourse Analysis, Circular Economy, Policy Analysis  
+**Definition:** A classification system developed by Calisto Friant et al. (2020) to differentiate between holistic and segmented, as well as optimist and sceptical, discourses on the circular economy.
+**Domain:** General
+**Synonyms:** CE Discourse Framework, Circular Economy Typology
+**Abbreviation:** none
+**Related terms:** Discourse Analysis, Circular Economy, Policy Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
@@ -1270,15 +1232,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate Adaptation Mechanisms
 
-**Definition:** Strategies and measures aimed at reducing the vulnerability of communities to climate change impacts, often integrated into legal and policy frameworks.  
+**Definition:** Strategies and measures aimed at reducing the vulnerability of communities to climate change impacts, often integrated into legal and policy frameworks.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Climate Resilience Measures, Adaptation Strategies  
+**Synonyms:** Climate Resilience Measures, Adaptation Strategies
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, International Law, Climate Refugee, Doctrinal Incrementalism  
+**Related terms:** Climate-Induced Migration, International Law, Climate Refugee, Doctrinal Incrementalism
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 4, 2026
 
@@ -1286,22 +1248,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate Change
 
-**Definition:** A long-term change in the Earth's climate, including shifts in temperature, precipitation, and weather patterns, often attributed to human activities such as greenhouse gas emissions.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Global Warming, Greenhouse Effect, Greenhouse Gas  
+**Definition:** A long-term change in the Earth's climate, including shifts in temperature, precipitation, and weather patterns, often attributed to human activities such as greenhouse gas emissions.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Global Warming, Greenhouse Effect, Greenhouse Gas
 **Source:** Greenhouse Effects on the Global Warming, section 1, 2026
 
 ---
 
 ### Climate change mitigation
 
-**Definition:** Actions taken to reduce or prevent the emission of greenhouse gases to slow the pace of climate change.  
-**Domain:** General  
-**Synonyms:** Climate action, emission reduction  
-**Abbreviation:** none  
-**Related terms:** Green tax, Environmental policy, Greenhouse gas emissions  
+**Definition:** Actions taken to reduce or prevent the emission of greenhouse gases to slow the pace of climate change.
+**Domain:** General
+**Synonyms:** Climate action, emission reduction
+**Abbreviation:** none
+**Related terms:** Green tax, Environmental policy, Greenhouse gas emissions
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
@@ -1324,33 +1286,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate Emergency
 
-**Definition:** A critical situation requiring urgent and significant action to mitigate the impacts of climate change and prevent irreversible environmental damage.  
-**Domain:** General  
-**Synonyms:** Climate crisis  
-**Abbreviation:** none  
-**Related terms:** Radical action, One City Climate Strategy  
+**Definition:** A critical situation requiring urgent and significant action to mitigate the impacts of climate change and prevent irreversible environmental damage.
+**Domain:** General
+**Synonyms:** Climate crisis
+**Abbreviation:** none
+**Related terms:** Radical action, One City Climate Strategy
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Citywide Leadership", 2020
 
 ---
 
 ### Climate Finance
 
-**Definition:** Financial resources provided to support climate action, including mitigation and adaptation efforts, particularly in developing countries.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Nationally Determined Contributions (NDCs), Climate Governance, Capacity Building  
+**Definition:** Financial resources provided to support climate action, including mitigation and adaptation efforts, particularly in developing countries.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Nationally Determined Contributions (NDCs), Climate Governance, Capacity Building
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Climate Governance
 
-**Definition:** The process of managing and coordinating climate-related policies, actions, and responsibilities at local, national, and international levels to address climate change.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs)  
+**Definition:** The process of managing and coordinating climate-related policies, actions, and responsibilities at local, national, and international levels to address climate change.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs)
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -1359,7 +1321,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A target state in which an organisation's net greenhouse gas emissions are reduced to zero through a combination of emission reductions and, where necessary, removal or offsetting measures, used in the VSME context as a quantitative strategic target.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** net-zero, carbon neutrality
 
@@ -1373,15 +1335,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate Refugee
 
-**Definition:** A person displaced due to environmental factors, but lacking a defined legal status under international law.  
+**Definition:** A person displaced due to environmental factors, but lacking a defined legal status under international law.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Climate-Displaced Person, Environmentally Displaced Person  
+**Synonyms:** Climate-Displaced Person, Environmentally Displaced Person
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Refugee, Migration, Displacement, Non-Refoulement, Climate-Induced Migration  
+**Related terms:** Refugee, Migration, Displacement, Non-Refoulement, Climate-Induced Migration
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -1389,11 +1351,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate risk governance
 
-**Definition:** A mandatory framework for integrating climate risk assessment and management into prudential supervision and financial decision-making processes.  
-**Domain:** General  
-**Synonyms:** Climate risk management  
-**Abbreviation:** none  
-**Related terms:** Green banking, Sustainable finance  
+**Definition:** A mandatory framework for integrating climate risk assessment and management into prudential supervision and financial decision-making processes.
+**Domain:** General
+**Synonyms:** Climate risk management
+**Abbreviation:** none
+**Related terms:** Green banking, Sustainable finance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
 
 ---
@@ -1408,7 +1370,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse gas emissions]], [[Extended Module (VSME)]], [[Sustainability-related information]]
+**Related terms:** [[Greenhouse Gas (GHG) Emissions]], [[Extended Module (VSME)]], [[Sustainability-related information]]
 
 **Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C4), 2026
 
@@ -1432,15 +1394,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Climate-Induced Migration
 
-**Definition:** Migration driven by environmental changes such as rising sea levels, desertification, extreme weather events, and resource scarcity, leading to displacement of populations.  
+**Definition:** Migration driven by environmental changes such as rising sea levels, desertification, extreme weather events, and resource scarcity, leading to displacement of populations.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Environmental Migration, Climate-Related Displacement  
+**Synonyms:** Environmental Migration, Climate-Related Displacement
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Refugee, Migration, Displacement, Non-Refoulement, Climate Refugee  
+**Related terms:** Refugee, Migration, Displacement, Non-Refoulement, Climate Refugee
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -1482,7 +1444,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A process of negotiation between employers and a group of employees aimed at agreements that regulate working conditions, reported under VSME Basic Module disclosure B10 as part of workforce remuneration and labour relations metrics.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -1496,11 +1458,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Community Engagement
 
-**Definition:** The process of involving community members in decision-making and policy development to ensure that their perspectives and needs are considered.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** The process of involving community members in decision-making and policy development to ensure that their perspectives and needs are considered.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Impact of Covid-19 on Research Responses", 2020
 
 ---
@@ -1523,15 +1485,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Complementary Protection Regimes
 
-**Definition:** Legal frameworks and mechanisms that provide protection to individuals who do not qualify as refugees under the 1951 Refugee Convention but are in need of international protection.  
+**Definition:** Legal frameworks and mechanisms that provide protection to individuals who do not qualify as refugees under the 1951 Refugee Convention but are in need of international protection.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Supplementary Protection Mechanisms, Additional Protection Frameworks  
+**Synonyms:** Supplementary Protection Mechanisms, Additional Protection Frameworks
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, Non-Refoulement, International Law  
+**Related terms:** Climate-Induced Migration, Climate Refugee, Non-Refoulement, International Law
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 4, 2026
 
@@ -1539,15 +1501,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Compost
 
-**Definition:** Organic material that is decomposed and used to enrich soil, contributing to biological carbon sequestration.  
+**Definition:** Organic material that is decomposed and used to enrich soil, contributing to biological carbon sequestration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Biochar  
+**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Biochar
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -1557,7 +1519,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The assurance that information provided by SMEs is protected and not disclosed without consent.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -1573,7 +1535,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation that obliges importers to conduct and report due diligence on 3TG minerals—tin, tantalum, tungsten, and gold—in force since 2021.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** none
 
@@ -1589,7 +1551,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Situations in which MNEs face incompatible legal or regulatory obligations imposed by two or more jurisdictions, which Subscribing Countries commit to cooperate in avoiding or minimising under the OECD Declaration on International Investment and Multinational Enterprises.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -1605,7 +1567,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating acceptance of proposed content for merger into the draft document without active objection, though without necessarily expressing affirmative support.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -1637,7 +1599,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An entity that uses AI services and pays for functional units of AI, whose carbon accounting boundary encompasses all components related to the Operation and Monitoring lifecycle stage.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -1651,11 +1613,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Consumer behavior
 
-**Definition:** The actions and choices of individuals and households that influence greenhouse gas emissions through consumption patterns.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Green tax, Sustainable development  
+**Definition:** The actions and choices of individuals and households that influence greenhouse gas emissions through consumption patterns.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Green tax, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
@@ -1664,7 +1626,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The carbon accounting boundary applicable to the Consumer persona, which must include all components related to the Operation and Monitoring lifecycle stage, including API and inference, orchestration, scaling, observability and monitoring, data and feature management, storage and artefacts, user experience and client-side components, and model tool and service connectors.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** consumer system boundary
 
@@ -1680,7 +1642,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A geographically distributed network infrastructure layer whose configuration and edge-caching policies are identified in the SCI for Web specification as factors under the control of platform and DevOps engineers that affect the carbon emissions associated with web content delivery.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -1696,7 +1658,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A software engineering practice encompassing automated build and deployment pipeline processes that, within the SCI for Web specification, is identified as a factor under the control of infrastructure and systems engineers that influences the carbon emissions profile of web application delivery.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -1710,11 +1672,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Continuous Monitoring
 
-**Definition:** The ongoing process of collecting and analyzing data to assess the performance and effectiveness of Measurement, Reporting, and Verification (MRV) systems over time.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement  
+**Definition:** The ongoing process of collecting and analyzing data to assess the performance and effectiveness of Measurement, Reporting, and Verification (MRV) systems over time.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -1739,7 +1701,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The obligation of enterprises to act in accordance with applicable laws and internationally recognised standards across social, environmental, human rights, and governance dimensions of their activities and business relationships.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** Corporate Social Responsibility, Responsible Business Conduct
 
@@ -1755,7 +1717,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A voluntary business framework through which companies integrate social and environmental concerns into their operations and stakeholder interactions, characterised in the ESG context as a precursor to the regulated obligations now established under ESG standards.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** CSR, corporate responsibility, corporate citizenship, Corporate Responsibility, Business Responsibility
 
@@ -1769,15 +1731,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Corporate Sustainability
 
-**Definition:** A strategic approach that seeks to balance the social, environmental, and economic needs of both the company and society.  
+**Definition:** A strategic approach that seeks to balance the social, environmental, and economic needs of both the company and society.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Sustainable business, Triple bottom line  
+**Synonyms:** Sustainable business, Triple bottom line
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Triple bottom line, Strategic management, Sustainability strategy, Organizational culture, Employee motivation  
+**Related terms:** Triple bottom line, Strategic management, Sustainability strategy, Organizational culture, Employee motivation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -1803,7 +1765,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A European Union directive mandating companies to disclose scope 1, 2, and 3 emissions across their supply chains, with core obligations in force despite delayed timelines.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** CSRD, Corporate Sustainability Reporting Directive
 
@@ -1817,15 +1779,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Corporate Sustainability Strategy Implementation
 
-**Definition:** The process of translating a formulated sustainability strategy into actionable initiatives within an organization.  
+**Definition:** The process of translating a formulated sustainability strategy into actionable initiatives within an organization.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Corporate sustainability, Strategic management, Sustainability strategy, Organizational culture, Employee motivation  
+**Related terms:** Corporate sustainability, Strategic management, Sustainability strategy, Organizational culture, Employee motivation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -1851,7 +1813,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formal OECD legal instrument (OECD/LEGAL/0307) adopted at ministerial level that sets out the binding procedural obligations governing the implementation of the OECD Guidelines, including the roles of the Investment Committee and National Contact Points.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -1865,15 +1827,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Cross-Border Displacement
 
-**Definition:** The movement of people from one country to another due to environmental factors, often leading to international protection challenges.  
+**Definition:** The movement of people from one country to another due to environmental factors, often leading to international protection challenges.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** International Migration, Transnational Displacement  
+**Synonyms:** International Migration, Transnational Displacement
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, Refugee Convention, Non-Refoulement  
+**Related terms:** Climate-Induced Migration, Climate Refugee, Refugee Convention, Non-Refoulement
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
 
@@ -1883,7 +1845,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formally adopted, publicly available enterprise document, based on the OECD Guidelines for Multinational Enterprises, that sets out the enterprise's commitments regarding responsible business conduct and is integrated into its management structure, oversight bodies, and employee training.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** corporate social responsibility policy, ICSR policy
 
@@ -1899,7 +1861,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A systematic assessment, conducted as part of the due diligence process, that maps an enterprise's business activities and relationships with respect to actual or potential adverse impacts on affected stakeholders—such as workers or local communities—rather than on the enterprise itself.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** ICSR risk assessment, adverse impact assessment
 
@@ -1961,11 +1923,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Data Integrity
 
-**Definition:** The accuracy, reliability, and consistency of data used in Measurement, Reporting, and Verification (MRV) systems to ensure transparency and accountability in climate actions.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Capacity Building, Stakeholder Engagement  
+**Definition:** The accuracy, reliability, and consistency of data used in Measurement, Reporting, and Verification (MRV) systems to ensure transparency and accountability in climate actions.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Capacity Building, Stakeholder Engagement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -1974,7 +1936,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A tool that enables the automatic migration of data from previous versions of the VSME Digital Template to the latest version.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -1988,15 +1950,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Data Standardization
 
-**Definition:** The process of converting unstructured or inconsistent data into a uniform, structured format to ensure consistency and comparability in GHG accounting.  
+**Definition:** The process of converting unstructured or inconsistent data into a uniform, structured format to ensure consistency and comparability in GHG accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Data normalization, data transformation  
+**Synonyms:** Data normalization, data transformation
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Characterization, GHG Accounting, Emission Factors Database  
+**Related terms:** Characterization, GHG Accounting, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -2004,26 +1966,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Database
 
-**Definition:** A structured collection of data used to store, manage, and retrieve information related to greenhouse gas emissions and climate actions for reporting and analysis.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Web Portal, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement  
+**Definition:** A structured collection of data used to store, manage, and retrieve information related to greenhouse gas emissions and climate actions for reporting and analysis.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Web Portal, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Deep Saline Aquifers
 
-**Definition:** Subsurface rock formations saturated with saltwater that can be used for the long-term storage of CO₂.  
+**Definition:** Subsurface rock formations saturated with saltwater that can be used for the long-term storage of CO₂.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Geological Sequestration, Carbon Storage, Depleted Oil and Gas Fields  
+**Related terms:** Geological Sequestration, Carbon Storage, Depleted Oil and Gas Fields
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -2031,59 +1993,59 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Deforestation
 
-**Definition:** The clearing of forests for agriculture, urban development, and logging, which reduces the planet's capacity to absorb carbon dioxide and contributes to global warming.  
-**Domain:** General  
-**Synonyms:** Forest clearance, tree cutting  
-**Abbreviation:** none  
-**Related terms:** Anthropogenic Factors, Greenhouse Gas  
+**Definition:** The clearing of forests for agriculture, urban development, and logging, which reduces the planet's capacity to absorb carbon dioxide and contributes to global warming.
+**Domain:** General
+**Synonyms:** Forest clearance, tree cutting
+**Abbreviation:** none
+**Related terms:** Anthropogenic Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Deforestation Area
 
-**Definition:** The total area of forest cleared for settlement development.  
-**Domain:** General  
-**Synonyms:** Deforestation extent, land conversion area  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Land Use Change  
+**Definition:** The total area of forest cleared for settlement development.
+**Domain:** GHG
+**Synonyms:** Deforestation extent, land conversion area
+**Abbreviation:** none
+**Related terms:** Deforestation, Land Use Change
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Deforestation Methodology
 
-**Definition:** The approach or method used to convert land to non-forest uses, such as urban expansion or infrastructure development, which influences the rate and extent of deforestation.  
-**Domain:** General  
-**Synonyms:** Land conversion method, land use change methodology  
-**Abbreviation:** none  
-**Related terms:** Land Use Change, Deforestation  
+**Definition:** The approach or method used to convert land to non-forest uses, such as urban expansion or infrastructure development, which influences the rate and extent of deforestation.
+**Domain:** GHG
+**Synonyms:** Land conversion method, land use change methodology
+**Abbreviation:** none
+**Related terms:** Land Use Change, Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Deforestation Rate
 
-**Definition:** The annual rate at which forest area is cleared, typically expressed as a percentage of total forest area.  
-**Domain:** General  
-**Synonyms:** Annual deforestation rate, land conversion rate  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Land Use Change  
+**Definition:** The annual rate at which forest area is cleared, typically expressed as a percentage of total forest area.
+**Domain:** GHG
+**Synonyms:** Annual deforestation rate, land conversion rate
+**Abbreviation:** none
+**Related terms:** Deforestation, Land Use Change
 **Source:** GHG_emissions_from_settlements.pdf, Section 4, 2024
 
 ---
 
 ### Depleted Oil and Gas Fields
 
-**Definition:** Former oil and gas reservoirs that have been exhausted for extraction and can be repurposed for the storage of CO₂.  
+**Definition:** Former oil and gas reservoirs that have been exhausted for extraction and can be repurposed for the storage of CO₂.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Geological Sequestration, Carbon Storage, Deep Saline Aquifers  
+**Related terms:** Geological Sequestration, Carbon Storage, Deep Saline Aquifers
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -2093,7 +2055,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The third stage of the AI lifecycle, covering the incorporation of an AI model into larger systems, the design of component interactions, connections with external applications, and pre-deployment integration testing, whose associated carbon emissions must be included in the Provider SCI calculation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** deployment stage
 
@@ -2109,7 +2071,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The second stage of the AI lifecycle, encompassing data collection, preprocessing, synthetic data generation, model selection, feature engineering, distributed training setup, evaluation metric definition, and computational resource optimisation, all of whose associated carbon emissions must be included in the Provider SCI calculation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** design and development stage
 
@@ -2123,11 +2085,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Dictionary
 
-**Definition:** A standard set of terms used to normalize and standardize data entries in the GHG accounting process.  
-**Domain:** General  
-**Synonyms:** Standard Terminology  
-**Abbreviation:** none  
-**Related terms:** Characterization Process, Data Normalization, GHG Emission Factors  
+**Definition:** A standard set of terms used to normalize and standardize data entries in the GHG accounting process.
+**Domain:** GHG
+**Synonyms:** Standard Terminology
+**Abbreviation:** none
+**Related terms:** Characterization Process, Data Normalization, GHG Emission Factors
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
@@ -2136,7 +2098,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A tool that allows users to convert data from the VSME Digital Template into XBRL format, with customization features for personalized reports.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -2150,26 +2112,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Dimensional Category Error
 
-**Definition:** A fundamental error in climate modeling that confuses the volumetric reality of a gas (m³) with flat mathematical abstractions (m²), leading to an invalidation of the physics of layer models.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Radiative transfer, Greenhouse effect, Climate models  
+**Definition:** A fundamental error in climate modeling that confuses the volumetric reality of a gas (m³) with flat mathematical abstractions (m²), leading to an invalidation of the physics of layer models.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Radiative transfer, Greenhouse effect, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Dimensional Category Error (m³ vs. m²)", 2026
 
 ---
 
 ### Direct Air Capture (DAC)
 
-**Definition:** A technology that removes carbon dioxide directly from the atmosphere, aiming to achieve negative emissions and mitigate climate change.  
+**Definition:** A technology that removes carbon dioxide directly from the atmosphere, aiming to achieve negative emissions and mitigate climate change.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Air capture, atmospheric carbon capture  
+**Synonyms:** Air capture, atmospheric carbon capture
 
-**Abbreviation:** DAC  
+**Abbreviation:** DAC
 
-**Related terms:** Carbon dioxide removal, Carbon capture and storage, Climate change  
+**Related terms:** Carbon dioxide removal, Carbon capture and storage, Climate change
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Removal (CDR) Strategies, 2024
 
@@ -2177,15 +2139,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Discretionary Humanitarian Assistance
 
-**Definition:** Aid provided by states or organizations based on their own discretion rather than legal obligation, often in the context of climate-induced displacement.  
+**Definition:** Aid provided by states or organizations based on their own discretion rather than legal obligation, often in the context of climate-induced displacement.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Voluntary Humanitarian Aid, Discretionary Relief  
+**Synonyms:** Voluntary Humanitarian Aid, Discretionary Relief
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Saudi Arabia, Bilateral Cooperation, Sovereignty  
+**Related terms:** Climate-Induced Migration, Saudi Arabia, Bilateral Cooperation, Sovereignty
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 3, 2026
 
@@ -2195,7 +2157,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A model training approach in which computational workloads are distributed across multiple processing units or systems to handle large-scale AI models, constituting a component of the Design and Development lifecycle stage whose infrastructure must be included in the Provider SCI calculation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** distributed training infrastructure
 
@@ -2209,15 +2171,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Doctrinal Incrementalism
 
-**Definition:** A legal strategy advocating for the reinterpretation of existing norms and the consolidation of complementary protection regimes rather than comprehensive treaty reform.  
+**Definition:** A legal strategy advocating for the reinterpretation of existing norms and the consolidation of complementary protection regimes rather than comprehensive treaty reform.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Legal Incrementalism, Normative Reinterpretation  
+**Synonyms:** Legal Incrementalism, Normative Reinterpretation
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Policy Recommendations  
+**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Policy Recommendations
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 4, 2026
 
@@ -2259,7 +2221,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A risk-based process through which enterprises identify, prevent, mitigate, and account for actual and potential adverse impacts on people, the environment, and society connected to their own operations, supply chains, and other business relationships.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** corporate due diligence, responsible business conduct, RBC Due Diligence
 
@@ -2273,22 +2235,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Eco-Economic Decoupling
 
-**Definition:** The concept that socio-technical innovations can separate economic growth from environmental degradation, thereby preventing ecological collapse.  
-**Domain:** General  
-**Synonyms:** Decoupling of Economy and Environment  
-**Abbreviation:** none  
-**Related terms:** Circular Economy, Sustainable Development, Technological Innovation  
+**Definition:** The concept that socio-technical innovations can separate economic growth from environmental degradation, thereby preventing ecological collapse.
+**Domain:** General
+**Synonyms:** Decoupling of Economy and Environment
+**Abbreviation:** none
+**Related terms:** Circular Economy, Sustainable Development, Technological Innovation
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
 
 ### Ecocinema
 
-**Definition:** A form of cinema that focuses on environmental themes, often highlighting ecological issues, sustainability, and the relationship between humans and nature.  
-**Domain:** General  
-**Synonyms:** Ecomedia, environmental cinema  
-**Abbreviation:** none  
-**Related terms:** Ecomedia, Environmental sustainability  
+**Definition:** A form of cinema that focuses on environmental themes, often highlighting ecological issues, sustainability, and the relationship between humans and nature.
+**Domain:** General
+**Synonyms:** Ecomedia, environmental cinema
+**Abbreviation:** none
+**Related terms:** Ecomedia, Environmental sustainability
 **Source:** Greening the Screen: An Environmental Challenge, 2016
 
 ---
@@ -2297,7 +2259,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation establishing sustainability requirements for product design aimed at improving environmental performance across a product's life cycle, identified as one of the legislative instruments relevant to the integrated prioritisation of supply chains under EU sustainability compliance.
 
-**Domain:** General
+**Domain:** EU-Taxonomy
 
 **Synonyms:** Ecodesign for Sustainable Products Regulation, ESPR
 
@@ -2327,26 +2289,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Ecomedia
 
-**Definition:** Media that incorporates environmental themes, promotes sustainability, and seeks to raise awareness about ecological issues through storytelling and representation.  
-**Domain:** General  
-**Synonyms:** Ecocinema, environmental media  
-**Abbreviation:** none  
-**Related terms:** Ecocinema, Environmental sustainability  
+**Definition:** Media that incorporates environmental themes, promotes sustainability, and seeks to raise awareness about ecological issues through storytelling and representation.
+**Domain:** General
+**Synonyms:** Ecocinema, environmental media
+**Abbreviation:** none
+**Related terms:** Ecocinema, Environmental sustainability
 **Source:** Greening the Screen: An Environmental Challenge, 2016
 
 ---
 
 ### Economic Costs
 
-**Definition:** The costs associated with CO₂ capture, transportation, and storage, which can be high and depend on regulatory frameworks, carbon pricing, and technological advancements.  
+**Definition:** The costs associated with CO₂ capture, transportation, and storage, which can be high and depend on regulatory frameworks, carbon pricing, and technological advancements.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Regulatory and Legal Issues, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)  
+**Related terms:** Regulatory and Legal Issues, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -2354,37 +2316,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Economic cycles of wealth, capital, and money
 
-**Definition:** Flows of wealth and capital central to economic systems that must be restructured to promote sustainability and social equity.  
-**Domain:** General  
-**Synonyms:** Wealth and capital cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Socio-ecological cycles  
+**Definition:** Flows of wealth and capital central to economic systems that must be restructured to promote sustainability and social equity.
+**Domain:** General
+**Synonyms:** Wealth and capital cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.5, 2026
 
 ---
 
 ### Ecosystem cycles
 
-**Definition:** Natural cycles that enable the continuous reproduction and regeneration of life through energy flows and nutrient recycling.  
-**Domain:** General  
-**Synonyms:** Ecological cycles  
-**Abbreviation:** none  
-**Related terms:** Biogeochemical cycles of the Earth, Resource cycles of materials and energy  
+**Definition:** Natural cycles that enable the continuous reproduction and regeneration of life through energy flows and nutrient recycling.
+**Domain:** General
+**Synonyms:** Ecological cycles
+**Abbreviation:** none
+**Related terms:** Biogeochemical cycles of the Earth, Resource cycles of materials and energy
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.2, 2026
 
 ---
 
 ### Ecosystem Disruption
 
-**Definition:** The potential disruption of marine ecosystems and food webs caused by large-scale ocean sequestration projects.  
+**Definition:** The potential disruption of marine ecosystems and food webs caused by large-scale ocean sequestration projects.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Ocean Sequestration, Ocean Acidification, Marine Ecosystems  
+**Related terms:** Ocean Sequestration, Ocean Acidification, Marine Ecosystems
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -2426,7 +2388,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The total carbon emitted during the creation and disposal of a hardware device, of which a proportional fraction is allocated to a software application based on the time-share and resource-share of that hardware used by the software.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** embedded carbon, embodied carbon
 
@@ -2440,26 +2402,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Emission Factors
 
-**Definition:** Quantitative values that represent the amount of greenhouse gas emissions associated with specific activities or processes.  
-**Domain:** General  
-**Synonyms:** GHG Emission Factors  
-**Abbreviation:** EF  
-**Related terms:** GHG Values, IPCC, GHG Accounting  
+**Definition:** Quantitative values that represent the amount of greenhouse gas emissions associated with specific activities or processes.
+**Domain:** GHG
+**Synonyms:** GHG Emission Factors
+**Abbreviation:** EF
+**Related terms:** GHG Values, IPCC, GHG Accounting
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 2, 2026
 
 ---
 
 ### Emission Factors Database
 
-**Definition:** A comprehensive database containing standardized emission factors used to calculate greenhouse gas emissions for various activities and sectors.  
+**Definition:** A comprehensive database containing standardized emission factors used to calculate greenhouse gas emissions for various activities and sectors.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** IPCC Emission Factors Database  
+**Synonyms:** IPCC Emission Factors Database
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** GHG Accounting, Data standardization, IPCC  
+**Related terms:** GHG Accounting, Data standardization, IPCC
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -2467,15 +2429,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Employee Motivation
 
-**Definition:** The internal and external factors that drive employees to perform their tasks effectively.  
+**Definition:** The internal and external factors that drive employees to perform their tasks effectively.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Corporate Sustainability Strategy Implementation, Organizational culture, Corporate sustainability, Strategic management, Sustainability strategy  
+**Related terms:** Corporate Sustainability Strategy Implementation, Organizational culture, Corporate sustainability, Strategic management, Sustainability strategy
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -2485,7 +2447,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The fifth and final stage of the AI lifecycle, involving the decommissioning of AI systems no longer maintained in runtime environments and the proper handling of associated resources and data, also referred to as the Retirement stage for SCI calculation purposes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** Retirement, retirement stage, decommissioning
 
@@ -2501,7 +2463,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating active affirmative support for merging proposed content into the draft document.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -2517,7 +2479,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The total energy consumed by a software system for a functional unit of work, measured in kilowatt hours (kWh), including all energy consumed by hardware that has been reserved or provisioned, not solely hardware actively in use.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** energy consumption
 
@@ -2531,11 +2493,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Energy Consumption
 
-**Definition:** The use of energy by individuals, industries, and communities, encompassing both primary and final energy use.  
-**Domain:** General  
-**Synonyms:** Energy Use, Energy Utilization  
-**Abbreviation:** EC  
-**Related terms:** GDP, Greenhouse Gas Emissions, Sustainable Development  
+**Definition:** The use of energy by individuals, industries, and communities, encompassing both primary and final energy use.
+**Domain:** General
+**Synonyms:** Energy Use, Energy Utilization
+**Abbreviation:** EC
+**Related terms:** GDP, Greenhouse Gas Emissions, Sustainable Development
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
 
 ---
@@ -2544,7 +2506,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A category of software sustainability actions consisting of measures taken to reduce the amount of electricity consumed by software in performing a given function, without altering the output of that function.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -2558,37 +2520,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Energy Information Administration (EIA)
 
-**Definition:** A U.S. government agency responsible for collecting, analyzing, and disseminating energy data and information to support energy policy and research.  
-**Domain:** General  
-**Synonyms:** EIA  
-**Abbreviation:** EIA  
-**Related terms:** Energy Consumption, Data Sources  
+**Definition:** A U.S. government agency responsible for collecting, analyzing, and disseminating energy data and information to support energy policy and research.
+**Domain:** General
+**Synonyms:** EIA
+**Abbreviation:** EIA
+**Related terms:** Energy Consumption, Data Sources
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
 
 ### Energy Intensity
 
-**Definition:** A measure of the amount of energy consumed per unit of economic output, used to assess the relationship between energy use and economic activity.  
-**Domain:** TCFD  
-**Synonyms:** Energy consumption intensity  
-**Abbreviation:** EI  
-**Related terms:** Carbon intensity, Population, Income levels, Carbon taxation  
+**Definition:** A measure of the amount of energy consumed per unit of economic output, used to assess the relationship between energy use and economic activity.
+**Domain:** TCFD
+**Synonyms:** Energy consumption intensity
+**Abbreviation:** EI
+**Related terms:** Carbon intensity, Population, Income levels, Carbon taxation
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
 
 ### Energy Intensive Processes
 
-**Definition:** Industrial processes that require significant energy input, which can offset the benefits of carbon sequestration if the energy is sourced from fossil fuels.  
+**Definition:** Industrial processes that require significant energy input, which can offset the benefits of carbon sequestration if the energy is sourced from fossil fuels.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Chemical Sequestration, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)  
+**Related terms:** Chemical Sequestration, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -2596,33 +2558,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Energy Taxes
 
-**Definition:** Taxes imposed on energy products or services, designed to reduce energy consumption and encourage more sustainable practices.  
-**Domain:** General  
-**Synonyms:** Energy Levies  
-**Abbreviation:** none  
-**Related terms:** Energy Consumption, Policy Instruments  
+**Definition:** Taxes imposed on energy products or services, designed to reduce energy consumption and encourage more sustainable practices.
+**Domain:** General
+**Synonyms:** Energy Levies
+**Abbreviation:** none
+**Related terms:** Energy Consumption, Policy Instruments
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
 
 ---
 
 ### Energy Transition
 
-**Definition:** The process of shifting from traditional fossil fuel-based energy systems to sustainable, renewable energy sources, often framed as a question of political will rather than technical or economic feasibility.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Renewable Energy Transition, Political Will  
+**Definition:** The process of shifting from traditional fossil fuel-based energy systems to sustainable, renewable energy sources, often framed as a question of political will rather than technical or economic feasibility.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Renewable Energy Transition, Political Will
 **Source:** Global Warming and the Management of Zombies, Technological and Policy Solutions section, 2018
 
 ---
 
 ### Enhanced Transparency Framework (ETF)
 
-**Definition:** A framework under the Paris Agreement that promotes transparency and accountability in climate actions through standardized Measurement, Reporting, and Verification (MRV) systems.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** ETF  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs), Climate Governance  
+**Definition:** A framework under the Paris Agreement that promotes transparency and accountability in climate actions through standardized Measurement, Reporting, and Verification (MRV) systems.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** ETF
+**Related terms:** Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -2631,7 +2593,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An integrated organisational management system that may serve as a data source for VSME sustainability reporting, with some providers developing dedicated CSRD or VSME extension modules.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -2661,11 +2623,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental and Social Risk Analysis (ESRA)
 
-**Definition:** A methodology for assessing environmental and social risks in project financing, structured around project categorization, detailed assessment against IFC Performance Standards, and ongoing covenant monitoring.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** ESRA  
-**Related terms:** UNEP-FI, Equator Principles  
+**Definition:** A methodology for assessing environmental and social risks in project financing, structured around project categorization, detailed assessment against IFC Performance Standards, and ongoing covenant monitoring.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** ESRA
+**Related terms:** UNEP-FI, Equator Principles
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
 
 ---
@@ -2688,33 +2650,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental Footprint
 
-**Definition:** A measure of the environmental impact of an industry, encompassing conventional pollutants, energy use, greenhouse gas emissions, hazardous waste, and fatalities.  
-**Domain:** General  
-**Synonyms:** Environmental impact, carbon footprint  
-**Abbreviation:** none  
-**Related terms:** Carbon footprint, Sustainability  
+**Definition:** A measure of the environmental impact of an industry, encompassing conventional pollutants, energy use, greenhouse gas emissions, hazardous waste, and fatalities.
+**Domain:** General
+**Synonyms:** Environmental impact, carbon footprint
+**Abbreviation:** none
+**Related terms:** Carbon footprint, Sustainability
 **Source:** Sustainability in the Motion Picture Industry, 2006
 
 ---
 
 ### Environmental Impacts
 
-**Definition:** The wide-ranging effects of global warming on ecosystems, human societies, and the global climate system, including rising temperatures, sea level rise, and extreme weather events.  
-**Domain:** General  
-**Synonyms:** Climate impacts, ecological effects  
-**Abbreviation:** none  
-**Related terms:** Global Warming, Climate Change, Ocean Acidification  
+**Definition:** The wide-ranging effects of global warming on ecosystems, human societies, and the global climate system, including rising temperatures, sea level rise, and extreme weather events.
+**Domain:** General
+**Synonyms:** Climate impacts, ecological effects
+**Abbreviation:** none
+**Related terms:** Global Warming, Climate Change, Ocean Acidification
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
 
 ### Environmental policy
 
-**Definition:** A set of regulations and initiatives aimed at protecting the environment and promoting sustainable development.  
-**Domain:** General  
-**Synonyms:** Environmental regulation  
-**Abbreviation:** none  
-**Related terms:** Green tax, Climate change mitigation, Sustainable development  
+**Definition:** A set of regulations and initiatives aimed at protecting the environment and promoting sustainable development.
+**Domain:** General
+**Synonyms:** Environmental regulation
+**Abbreviation:** none
+**Related terms:** Green tax, Climate change mitigation, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 2, 2022
 
 ---
@@ -2739,13 +2701,13 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A subset of ESG standards that assess a business's impact on the natural environment through its consumption of energy and raw materials, including contributions to climate change, pollution, waste generation, and natural resource depletion.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Environmental criteria, environmental performance standards
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse Gas Emissions (GHG Emissions)]], [[Climate Change]], [[Renewable Energy]], [[Biodiversity Loss]]
+**Related terms:** [[Greenhouse Gas (GHG) Emissions]], [[Climate Change]], [[Renewable Energy]], [[Biodiversity Loss]]
 
 **Source:** ESG Business Handbook, Section: Environmental Standards, EFRAG, 2026-06-15
 
@@ -2753,22 +2715,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental Sustainability
 
-**Definition:** The practice of maintaining the health and integrity of the environment while meeting current human needs, ensuring that natural resources are used responsibly and preserved for future generations.  
-**Domain:** General  
-**Synonyms:** Environmental protection, sustainable development  
-**Abbreviation:** ES  
-**Related terms:** Sustainable development, Carbon footprint  
+**Definition:** The practice of maintaining the health and integrity of the environment while meeting current human needs, ensuring that natural resources are used responsibly and preserved for future generations.
+**Domain:** General
+**Synonyms:** Environmental protection, sustainable development
+**Abbreviation:** ES
+**Related terms:** Sustainable development, Carbon footprint
 **Source:** Greening the Screen: An Environmental Challenge, 2016
 
 ---
 
 ### Environmental Taxes
 
-**Definition:** Taxes imposed on activities or products that have a negative environmental impact, such as carbon taxes, to discourage harmful practices and promote sustainable alternatives.  
-**Domain:** TCFD  
-**Synonyms:** Pollution taxes  
-**Abbreviation:** ET  
-**Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)  
+**Definition:** Taxes imposed on activities or products that have a negative environmental impact, such as carbon taxes, to discourage harmful practices and promote sustainable alternatives.
+**Domain:** TCFD
+**Synonyms:** Pollution taxes
+**Abbreviation:** ET
+**Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
 
 ---
@@ -2777,7 +2739,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A framework for evaluating a business's sustainability performance and impact across three interconnected pillars—environmental, social, and governance—beyond traditional financial performance metrics.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** ESG framework, ESG criteria
 
@@ -2791,11 +2753,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental, Social, and Governance (ESG)
 
-**Definition:** A framework for evaluating a company's or organization's impact on the environment, society, and corporate governance.  
-**Domain:** General  
-**Synonyms:** ESG Criteria, ESG Factors  
-**Abbreviation:** ESG  
-**Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Gross Domestic Product (GDP)  
+**Definition:** A framework for evaluating a company's or organization's impact on the environment, society, and corporate governance.
+**Domain:** SDG
+**Synonyms:** ESG Criteria, ESG Factors
+**Abbreviation:** ESG
+**Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Gross Domestic Product (GDP)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
 
 ---
@@ -2804,7 +2766,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A structured process through which organisations assess and verify their performance against non-financial sustainability criteria spanning environmental, social, and governance dimensions.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** ESG audit, sustainability auditing
 
@@ -2818,11 +2780,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental, social, and governance (ESG) considerations
 
-**Definition:** A framework for evaluating the sustainability and societal impact of an organization, encompassing environmental, social, and governance factors.  
-**Domain:** General  
-**Synonyms:** ESG criteria  
-**Abbreviation:** ESG  
-**Related terms:** Green tax, Climate change mitigation  
+**Definition:** A framework for evaluating the sustainability and societal impact of an organization, encompassing environmental, social, and governance factors.
+**Domain:** General
+**Synonyms:** ESG criteria
+**Abbreviation:** ESG
+**Related terms:** Green tax, Climate change mitigation
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
@@ -2831,7 +2793,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A framework used to evaluate the sustainability and ethical impact of an organization, encompassing environmental, social, and governance factors.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** ESG Standards, ESG Metrics
 
@@ -2845,22 +2807,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Equator Principles
 
-**Definition:** A set of voluntary guidelines adopted by financial institutions to manage environmental and social risks in project financing, requiring project categorization and risk assessment before loan approval.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** EP  
-**Related terms:** UNEP-FI, Environmental and Social Risk Analysis (ESRA)  
+**Definition:** A set of voluntary guidelines adopted by financial institutions to manage environmental and social risks in project financing, requiring project categorization and risk assessment before loan approval.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** EP
+**Related terms:** UNEP-FI, Environmental and Social Risk Analysis (ESRA)
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
 
 ---
 
 ### Equity
 
-**Definition:** The principle of fairness and justice in the distribution of resources, opportunities, and responsibilities, particularly in the context of climate action and policy implementation.  
-**Domain:** General  
-**Synonyms:** Fairness, justice  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** The principle of fairness and justice in the distribution of resources, opportunities, and responsibilities, particularly in the context of climate action and policy implementation.
+**Domain:** General
+**Synonyms:** Fairness, justice
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Taking Action: Who’s Responsible?", 2020
 
 ---
@@ -2869,7 +2831,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An abbreviation denoting the three pillars—environmental, social (including human rights), and governance—used to categorise sustainability-related matters subject to disclosure under the Corporate Sustainability Reporting Directive and related EU reporting frameworks.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** environmental, social and governance, Environmental, Social and Governance, Social, and Governance
 
@@ -2885,7 +2847,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An investment approach that incorporates environmental, social, and governance factors into investment analysis and portfolio selection, used to identify companies whose practices align with sustainability values and to manage long-term investment risks.
 
-**Domain:** General
+**Domain:** EU-Taxonomy
 
 **Synonyms:** sustainable investing, responsible investing, ESG investment
 
@@ -3139,11 +3101,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### ETL
 
-**Definition:** A process for extracting, transforming, and loading data from various sources into a structured format, commonly used in GHG data management.  
-**Domain:** General  
-**Synonyms:** Extract, Transform, Load  
-**Abbreviation:** ETL  
-**Related terms:** GHG Accounting, Data Standardization, Regular Expressions  
+**Definition:** A process for extracting, transforming, and loading data from various sources into a structured format, commonly used in GHG data management.
+**Domain:** GHG
+**Synonyms:** Extract, Transform, Load
+**Abbreviation:** ETL
+**Related terms:** GHG Accounting, Data Standardization, Regular Expressions
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 1, 2026
 
 ---
@@ -3152,7 +3114,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation establishing due diligence requirements for nickel, cobalt, graphite, lithium, and related chemical compounds, addressing risks in environment, climate, human health, human rights, labour rights and relations, and community life including indigenous peoples, applicable from August 2027.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** none
 
@@ -3168,7 +3130,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation that prohibits the import of products and their derivatives produced on deforested or forest-degraded land, covering commodities including beef, cocoa, coffee, palm oil, rubber, soya, and wood, in force from December 2026.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** none
 
@@ -3248,7 +3210,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The European Commission's overarching policy strategy, launched in 2021, aimed at making the EU climate-neutral by 2050 and embedding sustainability across economic and regulatory activity, providing the policy context for the CSRD and ESRS.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -3264,7 +3226,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A centralized platform aimed at improving access to financing for SMEs by hosting voluntary reporting templates and other relevant information.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** ESAP, European Single Access Point
 
@@ -3310,33 +3272,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Eurostat
 
-**Definition:** An agency of the European Union responsible for collecting, analyzing, and providing statistical data on the EU's economy, society, and environment.  
-**Domain:** General  
-**Synonyms:** European Statistical Office  
-**Abbreviation:** ESS  
-**Related terms:** Energy Consumption, Data Sources  
+**Definition:** An agency of the European Union responsible for collecting, analyzing, and providing statistical data on the EU's economy, society, and environment.
+**Domain:** General
+**Synonyms:** European Statistical Office
+**Abbreviation:** ESS
+**Related terms:** Energy Consumption, Data Sources
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
 
 ### Expressions Register
 
-**Definition:** A register of expressions used in the characterization process to enhance the standardization and transformation of GHG data.  
-**Domain:** General  
-**Synonyms:** Expression Database  
-**Abbreviation:** none  
-**Related terms:** Greenhouse Gas Register, Extended Search, GHG Data  
+**Definition:** A register of expressions used in the characterization process to enhance the standardization and transformation of GHG data.
+**Domain:** GHG
+**Synonyms:** Expression Database
+**Abbreviation:** none
+**Related terms:** Greenhouse Gas Register, Extended Search, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
 
 ### Extended Expression Names
 
-**Definition:** Enhanced naming conventions for regular expressions used in the characterization process to improve clarity and manageability.  
-**Domain:** General  
-**Synonyms:** Named Regular Expressions  
-**Abbreviation:** none  
-**Related terms:** Extended Search, Regular Expressions, GHG Data  
+**Definition:** Enhanced naming conventions for regular expressions used in the characterization process to improve clarity and manageability.
+**Domain:** GHG
+**Synonyms:** Named Regular Expressions
+**Abbreviation:** none
+**Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
@@ -3359,26 +3321,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Extended Search
 
-**Definition:** Advanced pattern matching capabilities that allow for more complex and precise data transformation in GHG accounting.  
-**Domain:** General  
-**Synonyms:** Enhanced Pattern Matching  
-**Abbreviation:** none  
-**Related terms:** Regular Expressions, Search and Replace Patterns, GHG Data  
+**Definition:** Advanced pattern matching capabilities that allow for more complex and precise data transformation in GHG accounting.
+**Domain:** GHG
+**Synonyms:** Enhanced Pattern Matching
+**Abbreviation:** none
+**Related terms:** Regular Expressions, Search and Replace Patterns, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
 
 ### Extended Search Features (v.2.0)
 
-**Definition:** Advanced search capabilities within regular expressions that allow for more complex and precise data extraction in GHG accounting.  
+**Definition:** Advanced search capabilities within regular expressions that allow for more complex and precise data extraction in GHG accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Enhanced search features, advanced regex search  
+**Synonyms:** Enhanced search features, advanced regex search
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Regular expressions, Characterization, Data standardization  
+**Related terms:** Regular expressions, Characterization, Data standardization
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 4, 2026
 
@@ -3386,15 +3348,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Extended Substitution Features (v.2.0)
 
-**Definition:** Advanced substitution capabilities within regular expressions that enable more sophisticated pattern replacement for improved data accuracy in GHG accounting.  
+**Definition:** Advanced substitution capabilities within regular expressions that enable more sophisticated pattern replacement for improved data accuracy in GHG accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Enhanced substitution features, advanced regex substitution  
+**Synonyms:** Enhanced substitution features, advanced regex substitution
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Regular expressions, Characterization, Data standardization  
+**Related terms:** Regular expressions, Characterization, Data standardization
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 4, 2026
 
@@ -3418,11 +3380,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### External Verification
 
-**Definition:** A process of checking the accuracy and completeness of data and reporting by an independent third party to ensure compliance with Measurement, Reporting, and Verification (MR, V) standards.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, Third-Party Audits  
+**Definition:** A process of checking the accuracy and completeness of data and reporting by an independent third party to ensure compliance with Measurement, Reporting, and Verification (MR, V) standards.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, Third-Party Audits
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -3445,22 +3407,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Extreme Weather Events
 
-**Definition:** Unusually severe and frequent weather phenomena such as heatwaves, floods, and droughts, which have become more common due to global warming.  
-**Domain:** General  
-**Synonyms:** Severe weather, climate extremes  
-**Abbreviation:** none  
-**Related terms:** Climate Change, Global Warming, Environmental Impacts  
+**Definition:** Unusually severe and frequent weather phenomena such as heatwaves, floods, and droughts, which have become more common due to global warming.
+**Domain:** General
+**Synonyms:** Severe weather, climate extremes
+**Abbreviation:** none
+**Related terms:** Climate Change, Global Warming, Environmental Impacts
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
 
 ### Family Business
 
-**Definition:** A business owned and controlled by a family, where decisions are influenced by both financial goals and non-financial factors such as owner authority, reputation, long-term relationships, and business sustainability.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Management Control Systems, Project-Based Companies  
+**Definition:** A business owned and controlled by a family, where decisions are influenced by both financial goals and non-financial factors such as owner authority, reputation, long-term relationships, and business sustainability.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Management Control Systems, Project-Based Companies
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
@@ -3469,7 +3431,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of selecting, transforming, and constructing input variables from raw data to improve AI model performance, constituting a component of the Design and Development lifecycle stage whose associated systems must be included in the Provider SCI calculation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -3483,22 +3445,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Feedback Mechanisms
 
-**Definition:** Processes used to gather input and insights from stakeholders to improve the effectiveness and efficiency of Measurement, Reporting, and Verification (MRV) systems.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement  
+**Definition:** Processes used to gather input and insights from stakeholders to improve the effectiveness and efficiency of Measurement, Reporting, and Verification (MRV) systems.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Female Population
 
-**Definition:** The proportion of the population that is female, often associated with changes in energy consumption patterns due to shifts in societal and economic roles.  
-**Domain:** General  
-**Synonyms:** Female Population Growth  
-**Abbreviation:** none  
-**Related terms:** Energy Consumption, Social Factors  
+**Definition:** The proportion of the population that is female, often associated with changes in energy consumption patterns due to shifts in societal and economic roles.
+**Domain:** General
+**Synonyms:** Female Population Growth
+**Abbreviation:** none
+**Related terms:** Energy Consumption, Social Factors
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
 
 ---
@@ -3521,22 +3483,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Fifth Assessment Report (AR5)
 
-**Definition:** A comprehensive report by the Intergovernmental Panel on Climate Change (IPCC) that confirmed the dominant role of human activities in observed global warming since 1950.  
-**Domain:** General  
-**Synonyms:** AR5, IPCC Fifth Assessment  
-**Abbreviation:** AR5  
-**Related terms:** Intergovernmental Panel on Climate Change, Climate Change, Global Warming  
+**Definition:** A comprehensive report by the Intergovernmental Panel on Climate Change (IPCC) that confirmed the dominant role of human activities in observed global warming since 1950.
+**Domain:** General
+**Synonyms:** AR5, IPCC Fifth Assessment
+**Abbreviation:** AR5
+**Related terms:** Intergovernmental Panel on Climate Change, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Background, 2026
 
 ---
 
 ### Final Energy Consumption
 
-**Definition:** The amount of energy consumed after it has been converted into a usable form for end-use applications.  
-**Domain:** General  
-**Synonyms:** Final Energy Use  
-**Abbreviation:** FEC  
-**Related terms:** Primary Energy Consumption, Energy Efficiency  
+**Definition:** The amount of energy consumed after it has been converted into a usable form for end-use applications.
+**Domain:** General
+**Synonyms:** Final Energy Use
+**Abbreviation:** FEC
+**Related terms:** Primary Energy Consumption, Energy Efficiency
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
 
 ---
@@ -3561,7 +3523,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of recording, summarizing, and reporting an organization's financial activities.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -3587,7 +3549,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A basic computational operation used as a standardised measure of computational work in AI systems, serving as a proxy metric for the energy and carbon costs of model training and inference.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** floating point operation
 
@@ -3603,7 +3565,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation that prohibits the import, sale, and export of products made with forced or compulsory labour, encompassing upstream supply chain relationships, applicable from December 2027.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** none
 
@@ -3617,15 +3579,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Forest Fires
 
-**Definition:** Wildfires that can release stored carbon back into the atmosphere, reducing the effectiveness of biological carbon sequestration efforts.  
+**Definition:** Wildfires that can release stored carbon back into the atmosphere, reducing the effectiveness of biological carbon sequestration efforts.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Pest Outbreaks  
+**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Pest Outbreaks
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -3633,11 +3595,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Forest Type and Carbon Stock
 
-**Definition:** The classification of forest ecosystems and the amount of carbon stored per hectare, typically measured in tonnes of CO₂.  
-**Domain:** General  
-**Synonyms:** Forest carbon content, carbon density  
-**Abbreviation:** none  
-**Related terms:** Carbon Stock, Deforestation  
+**Definition:** The classification of forest ecosystems and the amount of carbon stored per hectare, typically measured in tonnes of CO₂.
+**Domain:** GHG
+**Synonyms:** Forest carbon content, carbon density
+**Abbreviation:** none
+**Related terms:** Carbon Stock, Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
@@ -3660,37 +3622,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Fortress Circular Economy
 
-**Definition:** A circular economy discourse that aims to secure natural resources, economic prosperity, socio-ecological resilience, and geopolitical power through segmented and sceptical interpretations of circularity.  
-**Domain:** General  
-**Synonyms:** Securitization Discourse, Resource-Protective Discourse  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Technocentric Circular Economy, Transformational Circular Society  
+**Definition:** A circular economy discourse that aims to secure natural resources, economic prosperity, socio-ecological resilience, and geopolitical power through segmented and sceptical interpretations of circularity.
+**Domain:** General
+**Synonyms:** Securitization Discourse, Resource-Protective Discourse
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Technocentric Circular Economy, Transformational Circular Society
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
 
 ### Free emission allowances
 
-**Definition:** Permits allocated to entities to emit a certain amount of greenhouse gases without incurring additional costs.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Green tax, Climate change mitigation  
+**Definition:** Permits allocated to entities to emit a certain amount of greenhouse gases without incurring additional costs.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Green tax, Climate change mitigation
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
 
 ### Free-Format Fields
 
-**Definition:** Unstructured text fields in datasets that contain qualitative or descriptive information, requiring systematic processing for GHG accounting and reporting.  
+**Definition:** Unstructured text fields in datasets that contain qualitative or descriptive information, requiring systematic processing for GHG accounting and reporting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Unstructured data, descriptive fields  
+**Synonyms:** Unstructured data, descriptive fields
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Characterization, Data standardization, Emission Factors Database  
+**Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -3716,7 +3678,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A technical practitioner within the SCI for Web target persona framework whose responsibilities—including JavaScript bundle optimisation, CSS efficiency, framework selection, asset optimisation, and client-side caching—directly affect energy consumed on end-user devices during browser-mediated interactions.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -3748,7 +3710,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The principle that the processes and outcomes of National Contact Points across different Subscribing Countries should be comparable and consistent, ensuring equal access to and effectiveness of the non-judicial grievance mechanism provided by the OECD Guidelines.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -3764,7 +3726,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The chosen unit of measure that describes how a software application scales, used as the denominator in the SCI score to express carbon emissions as a rate (e.g., per additional user, per API call, or per ML training run).
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -3780,7 +3742,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A structured assessment process by which a business identifies the difference between its current ESG practices and performance and the requirements or expectations set out by applicable standards, frameworks, or regulatory obligations.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** ESG gap assessment
 
@@ -3792,24 +3754,13 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### GDP
-
-**Definition:** The total value of all goods and services produced within a country's borders in a specific time period, used as an indicator of economic growth.  
-**Domain:** General  
-**Synonyms:** Gross Domestic Product  
-**Abbreviation:** GDP  
-**Related terms:** Energy Consumption, Economic Growth  
-**Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 2, 2026
-
----
-
 ### GDP (Gross Domestic Product)
 
-**Definition:** A measure of a country's economic performance, representing the total value of goods and services produced within its borders.  
-**Domain:** General  
-**Synonyms:** National Income, Economic Output  
-**Abbreviation:** GDP  
-**Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)  
+**Definition:** A measure of a country's economic performance, representing the total value of goods and services produced within its borders.
+**Domain:** SDG
+**Synonyms:** National Income, Economic Output
+**Abbreviation:** GDP
+**Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
 
 ---
@@ -3850,7 +3801,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A class of AI systems capable of producing novel content outputs — including text, images, video, music, and code — encompassing architectures such as Large Language Models, and explicitly addressed within the scope of the SCI for AI Specification for carbon accounting purposes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -3864,15 +3815,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Geological Sequestration
 
-**Definition:** The process of capturing CO₂ using carbon capture and utilization (CCUS) technology, pressurizing it into a supercritical fluid, and injecting it into deep geological formations for long-term storage.  
+**Definition:** The process of capturing CO₂ using carbon capture and utilization (CCUS) technology, pressurizing it into a supercritical fluid, and injecting it into deep geological formations for long-term storage.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon Sequestration, Carbon Capture and Storage (CCS), Deep Saline Aquifers, Depleted Oil and Gas Fields  
+**Related terms:** Carbon Sequestration, Carbon Capture and Storage (CCS), Deep Saline Aquifers, Depleted Oil and Gas Fields
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -3880,11 +3831,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Geometric Fraud
 
-**Definition:** A systematic error in climate models that mathematically collapses three-dimensional physical reality into two-dimensional planes, creating a fictitious continuous medium that traps radiation.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Radiative transfer, Greenhouse effect, Climate models  
+**Definition:** A systematic error in climate models that mathematically collapses three-dimensional physical reality into two-dimensional planes, creating a fictitious continuous medium that traps radiation.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Radiative transfer, Greenhouse effect, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Geometric Fraud of the Greenhouse Effect", 2026
 
 ---
@@ -3893,7 +3844,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The Dutch-language designation for the continuous enterprise process of identifying, ceasing, preventing, and mitigating adverse impacts on human rights, labour rights, and the environment, as required under the OECD Guidelines for Multinational Enterprises.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** due diligence, appropriate care
 
@@ -3907,15 +3858,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### GHG Accounting
 
-**Definition:** The systematic measurement, recording, and reporting of greenhouse gas emissions and removals by organizations to assess and manage their environmental impact.  
+**Definition:** The systematic measurement, recording, and reporting of greenhouse gas emissions and removals by organizations to assess and manage their environmental impact.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Greenhouse gas reporting, carbon accounting  
+**Synonyms:** Greenhouse gas reporting, carbon accounting
 
-**Abbreviation:** GHG  
+**Abbreviation:** GHG
 
-**Related terms:** Data standardization, IPCC, Emission Factors Database  
+**Related terms:** Data standardization, IPCC, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 1, 2026
 
@@ -3923,55 +3874,55 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### GHG Accounting and Reporting Multi-Sector Tool
 
-**Definition:** A methodological framework for characterizing and standardizing greenhouse gas (GHG) emission factors from the IPCC database using regular expressions and data transformation techniques.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** GHG Emission Factors, IPCC, Regular Expressions, ETL  
+**Definition:** A methodological framework for characterizing and standardizing greenhouse gas (GHG) emission factors from the IPCC database using regular expressions and data transformation techniques.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** GHG Emission Factors, IPCC, Regular Expressions, ETL
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 1, 2026
 
 ---
 
 ### GHG Value Equation
 
-**Definition:** Mathematical equations used to calculate the quantitative values of greenhouse gas emissions based on specific parameters and conditions.  
-**Domain:** General  
-**Synonyms:** Emission Calculation Equations  
-**Abbreviation:** none  
-**Related terms:** GHG Values, Emission Factors, Data Standardization  
+**Definition:** Mathematical equations used to calculate the quantitative values of greenhouse gas emissions based on specific parameters and conditions.
+**Domain:** GHG
+**Synonyms:** Emission Calculation Equations
+**Abbreviation:** none
+**Related terms:** GHG Values, Emission Factors, Data Standardization
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
 
 ### GHG Value Qualifier & Format
 
-**Definition:** Rules and specifications for formatting and qualifying the quantitative values of greenhouse gas emissions in GHG data.  
-**Domain:** General  
-**Synonyms:** Emission Value Qualifiers  
-**Abbreviation:** none  
-**Related terms:** GHG Values, Qualifiers Datasheet, Data Standardization  
+**Definition:** Rules and specifications for formatting and qualifying the quantitative values of greenhouse gas emissions in GHG data.
+**Domain:** GHG
+**Synonyms:** Emission Value Qualifiers
+**Abbreviation:** none
+**Related terms:** GHG Values, Qualifiers Datasheet, Data Standardization
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
 
 ### GHG Value Units of Measure
 
-**Definition:** The units used to express the quantitative values of greenhouse gas emissions in GHG accounting.  
-**Domain:** General  
-**Synonyms:** Emission Units  
-**Abbreviation:** none  
-**Related terms:** GHG Values, Qualifiers, Data Standardization  
+**Definition:** The units used to express the quantitative values of greenhouse gas emissions in GHG accounting.
+**Domain:** GHG
+**Synonyms:** Emission Units
+**Abbreviation:** none
+**Related terms:** GHG Values, Qualifiers, Data Standardization
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
 
 ### GHG Values
 
-**Definition:** Quantitative measures representing the amount of greenhouse gas emissions associated with specific activities or processes.  
-**Domain:** General  
-**Synonyms:** Emission Quantities  
-**Abbreviation:** none  
-**Related terms:** Emission Factors, GHG Data, Qualifiers  
+**Definition:** Quantitative measures representing the amount of greenhouse gas emissions associated with specific activities or processes.
+**Domain:** GHG
+**Synonyms:** Emission Quantities
+**Abbreviation:** none
+**Related terms:** Emission Factors, GHG Data, Qualifiers
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
@@ -3994,11 +3945,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### GIS
 
-**Definition:** A system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data, often used to support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** GIS  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Remote Sensing  
+**Definition:** A system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data, often used to support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** GIS
+**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Remote Sensing
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -4021,11 +3972,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Global Governance
 
-**Definition:** The process and mechanisms through which international actors coordinate to manage global issues, often characterized by institutional frameworks and normative agreements.  
-**Domain:** General  
-**Synonyms:** International governance  
-**Abbreviation:** none  
-**Related terms:** Sustainable Development Goals (SDGs), Leverage points, Basel III  
+**Definition:** The process and mechanisms through which international actors coordinate to manage global issues, often characterized by institutional frameworks and normative agreements.
+**Domain:** SDG
+**Synonyms:** International governance
+**Abbreviation:** none
+**Related terms:** Sustainable Development Goals (SDGs), Leverage points, Basel III
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
@@ -4048,11 +3999,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Global Warming
 
-**Definition:** The long-term rise in Earth's average surface temperature, primarily due to human activities that increase greenhouse gas concentrations in the atmosphere.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Greenhouse Effect, Climate Change, Greenhouse Gas  
+**Definition:** The long-term rise in Earth's average surface temperature, primarily due to human activities that increase greenhouse gas concentrations in the atmosphere.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Greenhouse Effect, Climate Change, Greenhouse Gas
 **Source:** Greenhouse Effects on the Global Warming, section 1, 2026
 
 ---
@@ -4061,7 +4012,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A subset of ESG standards that assess the practices and procedures adopted by a business in its internal management, oversight, and decision-making processes.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** Governance criteria, corporate governance standards
 
@@ -4091,55 +4042,44 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Green banking
 
-**Definition:** A voluntary approach by banks to integrate environmental considerations into their operations and lending practices, focusing on minimizing negative environmental impacts.  
-**Domain:** General  
-**Synonyms:** Environmental banking  
-**Abbreviation:** none  
-**Related terms:** Climate risk governance, Sustainable finance  
+**Definition:** A voluntary approach by banks to integrate environmental considerations into their operations and lending practices, focusing on minimizing negative environmental impacts.
+**Domain:** General
+**Synonyms:** Environmental banking
+**Abbreviation:** none
+**Related terms:** Climate risk governance, Sustainable finance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
 
 ---
 
 ### Green Filmmaking
 
-**Definition:** The practice of producing films and television programs with minimal environmental impact, incorporating sustainable practices in production processes and resource management.  
-**Domain:** General  
-**Synonyms:** Eco-filmmaking, sustainable production  
-**Abbreviation:** none  
-**Related terms:** Environmental sustainability, Ecomedia  
+**Definition:** The practice of producing films and television programs with minimal environmental impact, incorporating sustainable practices in production processes and resource management.
+**Domain:** General
+**Synonyms:** Eco-filmmaking, sustainable production
+**Abbreviation:** none
+**Related terms:** Environmental sustainability, Ecomedia
 **Source:** Greening the Screen: An Environmental Challenge, 2016
 
 ---
 
 ### Green tax
 
-**Definition:** A tax imposed on activities that generate greenhouse gas emissions to influence behavior toward sustainability.  
-**Domain:** General  
-**Synonyms:** Environmental tax, carbon tax  
-**Abbreviation:** none  
-**Related terms:** Greenhouse gas emissions, Environmental policy, Sustainable development  
+**Definition:** A tax imposed on activities that generate greenhouse gas emissions to influence behavior toward sustainability.
+**Domain:** General
+**Synonyms:** Environmental tax, carbon tax
+**Abbreviation:** none
+**Related terms:** Greenhouse gas emissions, Environmental policy, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 2, 2022
 
 ---
 
 ### Greenhouse Effect
 
-**Definition:** A natural process by which certain gases in the atmosphere trap heat, warming the Earth's surface and maintaining a habitable temperature.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Greenhouse Gas, Global Warming, Climate Change  
-**Source:** Greenhouse Effects on the Global Warming, section 1, 2026
-
----
-
-### Greenhouse Gas
-
-**Definition:** A gas in the atmosphere that absorbs and emits radiation within the thermal infrared range, contributing to the greenhouse effect.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Greenhouse Effect, Carbon Dioxide, Methane, Nitrous Oxide  
+**Definition:** A natural process by which certain gases in the atmosphere trap heat, warming the Earth's surface and maintaining a habitable temperature.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Greenhouse Gas, Global Warming, Climate Change
 **Source:** Greenhouse Effects on the Global Warming, section 1, 2026
 
 ---
@@ -4162,31 +4102,9 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Greenhouse Gas (GHG) Emissions
 
-**Definition:** Emissions of gases such as carbon dioxide, methane, and nitrous oxide that contribute to the greenhouse effect and global warming.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** GHG  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Climate Governance  
-**Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
-
----
-
-### Greenhouse Gas Emissions
-
-**Definition:** The release of gases into the atmosphere that contribute to the greenhouse effect, primarily resulting from human activities such as energy consumption and industrial processes.  
-**Domain:** General  
-**Synonyms:** GHG Emissions  
-**Abbreviation:** GHG  
-**Related terms:** Energy Consumption, Climate Change  
-**Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
-
----
-
-### Greenhouse Gas Emissions (GHG Emissions)
-
 **Definition:** Emissions of gases—including carbon dioxide, methane, and nitrous oxide—that trap heat in the atmosphere and contribute to climate change, constituting a primary metric for assessing a business's environmental impact under ESG and climate-related frameworks.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** GHG emissions, carbon emissions
 
@@ -4200,22 +4118,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Greenhouse Gas Protocol
 
-**Definition:** A global framework for accounting and reporting greenhouse gas emissions, establishing boundaries for temporal, organizational, and operational scopes and defining Scope 1, 2, and 3 emissions.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** GHG Protocol  
-**Related terms:** Campus Carbon Calculator, Carbon Commitment  
+**Definition:** A global framework for accounting and reporting greenhouse gas emissions, establishing boundaries for temporal, organizational, and operational scopes and defining Scope 1, 2, and 3 emissions.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** GHG Protocol
+**Related terms:** Campus Carbon Calculator, Carbon Commitment
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
 
 ---
 
 ### Greenhouse Gas Register
 
-**Definition:** A register of greenhouse gas-related terms and expressions used in the characterization process to enhance data standardization.  
-**Domain:** General  
-**Synonyms:** GHG Term Register  
-**Abbreviation:** none  
-**Related terms:** Expressions Register, Extended Search, GHG Data  
+**Definition:** A register of greenhouse gas-related terms and expressions used in the characterization process to enhance data standardization.
+**Domain:** GHG
+**Synonyms:** GHG Term Register
+**Abbreviation:** none
+**Related terms:** Expressions Register, Extended Search, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
@@ -4224,7 +4142,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The practice by which an organisation makes misleading or unsubstantiated claims about its environmental performance, thereby misrepresenting its actual sustainability impact to investors, regulators, or other stakeholders.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -4272,7 +4190,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formal channel established by an enterprise through which affected parties may submit complaints regarding adverse impacts, forming part of the enterprise's obligation to provide access to remedy under the due diligence framework.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** complaint mechanism
 
@@ -4286,15 +4204,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Groundwater Contamination
 
-**Definition:** The risk that CO₂ or brine displaced by CO₂ injection could migrate and contaminate underground sources of drinking water.  
+**Definition:** The risk that CO₂ or brine displaced by CO₂ injection could migrate and contaminate underground sources of drinking water.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Geological Sequestration, Carbon Storage, Leakage  
+**Related terms:** Geological Sequestration, Carbon Storage, Leakage
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -4304,7 +4222,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A category of software sustainability actions consisting of measures taken to reduce the number of physical resources required by software to perform a given function, without altering the output of that function.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -4320,7 +4238,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of aligning standards, practices, or data formats to ensure consistency and comparability across different jurisdictions or entities.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Standardization, Alignment
 
@@ -4334,33 +4252,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Healthcare Expenditures
 
-**Definition:** The financial resources allocated to healthcare services and systems, often associated with reduced energy consumption due to shifts in economic priorities and lifestyle changes.  
-**Domain:** General  
-**Synonyms:** Health Spending  
-**Abbreviation:** none  
-**Related terms:** Energy Consumption, Economic Factors  
+**Definition:** The financial resources allocated to healthcare services and systems, often associated with reduced energy consumption due to shifts in economic priorities and lifestyle changes.
+**Domain:** General
+**Synonyms:** Health Spending
+**Abbreviation:** none
+**Related terms:** Energy Consumption, Economic Factors
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
 
 ---
 
 ### HITRAN
 
-**Definition:** A database used to model the absorption and emission of radiation by atmospheric gases, which reduces the three-dimensional properties of molecules to a two-dimensional scalar.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** HITRAN  
-**Related terms:** Two Flatteners, Beer-Lambert Law, Radiative Transfer  
+**Definition:** A database used to model the absorption and emission of radiation by atmospheric gases, which reduces the three-dimensional properties of molecules to a two-dimensional scalar.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** HITRAN
+**Related terms:** Two Flatteners, Beer-Lambert Law, Radiative Transfer
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
 
 ### Holistic Discourse
 
-**Definition:** A circular economy discourse that integrates social, political, and cultural implications of circularity, seeking socio-political and cultural change alongside technical and industrial improvements.  
-**Domain:** General  
-**Synonyms:** Comprehensive Discourse, Integrated Discourse  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Segmental Discourse, Discourse Analysis  
+**Definition:** A circular economy discourse that integrates social, political, and cultural implications of circularity, seeking socio-political and cultural change alongside technical and industrial improvements.
+**Domain:** General
+**Synonyms:** Comprehensive Discourse, Integrated Discourse
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Segmental Discourse, Discourse Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
@@ -4399,15 +4317,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Human Security
 
-**Definition:** The concept of ensuring the safety and well-being of individuals, including protection from environmental and humanitarian crises.  
+**Definition:** The concept of ensuring the safety and well-being of individuals, including protection from environmental and humanitarian crises.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Personal Security, Environmental Security  
+**Synonyms:** Personal Security, Environmental Security
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, International Law, Human Rights, Social Order  
+**Related terms:** Climate-Induced Migration, International Law, Human Rights, Social Order
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -4417,7 +4335,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An application-layer protocol for distributed hypermedia information systems that, together with its encrypted variant HTTPS, constitutes the delivery mechanism criterion defining the scope of the SCI for Web specification.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -4433,7 +4351,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The international non-profit organisation that oversees the development of globally accepted financial and sustainability reporting standards, including those issued by the ISSB and the International Accounting Standards Board (IASB).
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** International Financial Reporting Standards Foundation
 
@@ -4449,7 +4367,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An ISSB standard effective from January 2024 that establishes general requirements for the disclosure of sustainability-related financial information, providing a baseline applicable across all sustainability topics for multinational companies.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** IFRS Sustainability Disclosure Standard S1, General Requirements for Disclosure of Sustainability-related Financial Information
 
@@ -4465,7 +4383,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An ISSB standard effective from January 2024 that sets out specific requirements for the disclosure of climate-related financial information, building on the foundations of the TCFD framework.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** IFRS Sustainability Disclosure Standard S2, Climate-related Disclosures
 
@@ -4497,7 +4415,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The first stage of the AI lifecycle, involving the definition of the AI problem, assessment of AI suitability, engagement with end-users, and establishment of performance objectives and computational constraints, whose associated systems must be included in the Provider SCI calculation when material.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** inception stage, AI inception phase
 
@@ -4511,26 +4429,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Inclusive Wealth Index (IWI)
 
-**Definition:** A composite indicator measuring a country's total wealth, including produced capital, human capital, and natural capital, to assess sustainability and long-term well-being.  
-**Domain:** General  
-**Synonyms:** Inclusive Wealth  
-**Abbreviation:** IWI  
-**Related terms:** Gross Domestic Product (GDP), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)  
+**Definition:** A composite indicator measuring a country's total wealth, including produced capital, human capital, and natural capital, to assess sustainability and long-term well-being.
+**Domain:** SDG
+**Synonyms:** Inclusive Wealth
+**Abbreviation:** IWI
+**Related terms:** Gross Domestic Product (GDP), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
 
 ---
 
 ### Induced Seismicity
 
-**Definition:** The occurrence of earthquakes triggered by human activities, such as the injection of CO₂ into underground formations.  
+**Definition:** The occurrence of earthquakes triggered by human activities, such as the injection of CO₂ into underground formations.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Geological Sequestration, Carbon Storage, Leakage  
+**Related terms:** Geological Sequestration, Carbon Storage, Leakage
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -4554,11 +4472,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Industrialization
 
-**Definition:** The process of industrial development and manufacturing, which emits significant quantities of greenhouse gases and contributes to global warming.  
-**Domain:** General  
-**Synonyms:** Industrial growth, manufacturing expansion  
-**Abbreviation:** none  
-**Related terms:** Anthropogenic Factors, Greenhouse Gas  
+**Definition:** The process of industrial development and manufacturing, which emits significant quantities of greenhouse gases and contributes to global warming.
+**Domain:** General
+**Synonyms:** Industrial growth, manufacturing expansion
+**Abbreviation:** none
+**Related terms:** Anthropogenic Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
@@ -4567,7 +4485,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of using a trained AI model to make predictions or generate outputs based on input data, constituting the primary operational activity within the Consumer boundary for carbon accounting purposes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** model inference, AI inference
 
@@ -4581,22 +4499,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Information Delays
 
-**Definition:** Delays in the availability of formal accounting information, leading to a reliance on direct communication and practical experience in strategic decision-making.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Management Control Systems, Strategic Management Accounting (SMA)  
+**Definition:** Delays in the availability of formal accounting information, leading to a reliance on direct communication and practical experience in strategic decision-making.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Management Control Systems, Strategic Management Accounting (SMA)
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
 
 ### Insolation
 
-**Definition:** The amount of solar radiation received by the Earth, influenced by variations in the Earth's orbital patterns and contributing to long-term climate changes.  
-**Domain:** General  
-**Synonyms:** Solar radiation, insolation levels  
-**Abbreviation:** none  
-**Related terms:** Natural Factors, Milankovitch cycles  
+**Definition:** The amount of solar radiation received by the Earth, influenced by variations in the Earth's orbital patterns and contributing to long-term climate changes.
+**Domain:** General
+**Synonyms:** Solar radiation, insolation levels
+**Abbreviation:** none
+**Related terms:** Natural Factors, Milankovitch cycles
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
@@ -4619,15 +4537,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Institutional Fragmentation
 
-**Definition:** The lack of coordination and coherence among international institutions and legal frameworks, leading to inconsistent protection for climate-displaced persons.  
+**Definition:** The lack of coordination and coherence among international institutions and legal frameworks, leading to inconsistent protection for climate-displaced persons.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Legal Fragmentation, Institutional Disarray  
+**Synonyms:** Legal Fragmentation, Institutional Disarray
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, UNHCR, IOM, UNFCCC  
+**Related terms:** Climate-Induced Migration, Climate Refugee, UNHCR, IOM, UNFCCC
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 3, 2026
 
@@ -4635,15 +4553,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Integrated Carbon Accounting and Mitigation (INCAM) Framework
 
-**Definition:** A systematic approach to track carbon emissions and identify emission reduction strategies within industrial settings, enabling organizations to quantify emissions, monitor emission profiles, and implement measures to reduce emissions.  
+**Definition:** A systematic approach to track carbon emissions and identify emission reduction strategies within industrial settings, enabling organizations to quantify emissions, monitor emission profiles, and implement measures to reduce emissions.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** INCAM  
+**Abbreviation:** INCAM
 
-**Related terms:** Carbon accounting, Carbon profiling, Carbon emissions, Green industry, Cost effectiveness  
+**Related terms:** Carbon accounting, Carbon profiling, Carbon emissions, Green industry, Cost effectiveness
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 1, 2015
 
@@ -4653,7 +4571,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A phase within the integrated EU sustainability compliance methodology in which a company systematically identifies and ranks supply chains for further due diligence investigation by applying sequential assessments of regulatory scope, customer requirements, dependency and materiality, known high risks, and existing risk management.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** integrated scoping
 
@@ -4667,26 +4585,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Intergovernmental Panel on Climate Change (IPCC)
 
-**Definition:** An international organization that assesses the science related to climate change, its impacts, and potential future risks, providing a basis for informed decision-making.  
-**Domain:** General  
-**Synonyms:** IPCC, climate change panel  
-**Abbreviation:** IPCC  
-**Related terms:** Climate Change, Global Warming, Fifth Assessment Report  
+**Definition:** An international organization that assesses the science related to climate change, its impacts, and potential future risks, providing a basis for informed decision-making.
+**Domain:** General
+**Synonyms:** IPCC, climate change panel
+**Abbreviation:** IPCC
+**Related terms:** Climate Change, Global Warming, Fifth Assessment Report
 **Source:** Global Warming and Its Consequences, Section Background, 2026
 
 ---
 
 ### Internal Displacement
 
-**Definition:** The movement of people within a country due to environmental factors, often without crossing international borders.  
+**Definition:** The movement of people within a country due to environmental factors, often without crossing international borders.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Internal Migration, Domestic Displacement  
+**Synonyms:** Internal Migration, Domestic Displacement
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Kampala Convention, Climate Refugee, Displacement  
+**Related terms:** Climate-Induced Migration, Kampala Convention, Climate Refugee, Displacement
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
 
@@ -4696,7 +4614,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A single market within the European Union that allows the free movement of goods, services, capital, and people.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Single Market
 
@@ -4710,11 +4628,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Internal Verification
 
-**Definition:** A process of checking the accuracy and completeness of data and reporting within an organization to ensure compliance with Measurement, Reporting, and Verification (MRV) standards.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), External Verification, Third-Party Audits  
+**Definition:** A process of checking the accuracy and completeness of data and reporting within an organization to ensure compliance with Measurement, Reporting, and Verification (MRV) standards.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), External Verification, Third-Party Audits
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -4723,7 +4641,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A framework of responsible business conduct standards—anchored in the OECD Guidelines for Multinational Enterprises and the UN Guiding Principles on Business and Human Rights—that requires enterprises to identify and address actual and potential adverse impacts on human rights, labour rights, the environment, and anti-corruption across their value chains.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** ICSR, corporate social responsibility
 
@@ -4739,7 +4657,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An independent non-profit organisation that oversees international accounting and sustainability standard-setting bodies, including the IASB and the ISSB, with the aim of developing globally accepted disclosure standards.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** IFRS Foundation
 
@@ -4769,15 +4687,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### International Social Order
 
-**Definition:** The collective framework of international relations and norms that govern the interactions between states and the protection of global stability.  
+**Definition:** The collective framework of international relations and norms that govern the interactions between states and the protection of global stability.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Global Stability, International Norms  
+**Synonyms:** Global Stability, International Norms
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Human Security, International Law, Social Order  
+**Related terms:** Climate-Induced Migration, Human Security, International Law, Social Order
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -4787,7 +4705,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An international standard-setting body established under the IFRS Foundation that develops global baseline sustainability disclosure standards relevant to investors and capital markets.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** ISSB
 
@@ -4801,15 +4719,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### IPCC
 
-**Definition:** The Intergovernmental Panel on Climate Change, an international organization that assesses the scientific basis of climate change and provides guidance on greenhouse gas accounting.  
+**Definition:** The Intergovernmental Panel on Climate Change, an international organization that assesses the scientific basis of climate change and provides guidance on greenhouse gas accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Intergovernmental Panel on Climate Change  
+**Synonyms:** Intergovernmental Panel on Climate Change
 
-**Abbreviation:** IPCC  
+**Abbreviation:** IPCC
 
-**Related terms:** Emission Factors Database, GHG Accounting, Data standardization  
+**Related terms:** Emission Factors Database, GHG Accounting, Data standardization
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -4817,11 +4735,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### IPCC Guidelines for MRV in the AFOLU Sector
 
-**Definition:** A set of guidelines developed by the Intergovernmental Panel on Climate Change (IPCC) to standardize the measurement, reporting, and verification of greenhouse gas emissions in the Agriculture, Forestry, and Other Land Use (AFOLU) sector.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Climate Governance  
+**Definition:** A set of guidelines developed by the Intergovernmental Panel on Climate Change (IPCC) to standardize the measurement, reporting, and verification of greenhouse gas emissions in the Agriculture, Forestry, and Other Land Use (AFOLU) sector.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -4830,7 +4748,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The international standard that codifies the Software Carbon Intensity (SCI) methodology, establishing the normative foundation upon which domain-specific extensions, including the SCI for AI Specification, are built.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -4846,7 +4764,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An international standard-setting body established under the IFRS Foundation that integrates the approaches of TCFD and SASB to provide a global baseline standard for sustainability and climate-related financial disclosures, with IFRS S1 and IFRS S2 in effect from January 2024.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** International Sustainability Standards Board
 
@@ -4862,7 +4780,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The Dutch-language concept designating an enterprise's responsibility for adverse impacts occurring throughout its supply chain and broader value chain, operationalised through the due diligence process under the OECD Guidelines for Multinational Enterprises.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** supply chain responsibility, due diligence
 
@@ -4892,22 +4810,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Key Performance Indicators (KPIs)
 
-**Definition:** Metrics used to evaluate the effectiveness and progress of a Measurement, Reporting, and Verification (MRV) system in achieving its objectives.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** KPIs  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement  
+**Definition:** Metrics used to evaluate the effectiveness and progress of a Measurement, Reporting, and Verification (MRV) system in achieving its objectives.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** KPIs
+**Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Knowledge cycle of technology, information, and education
 
-**Definition:** The production, dissemination, and application of knowledge critical for driving innovation and informing sustainable practices.  
-**Domain:** General  
-**Synonyms:** Technology and education cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Socio-ecological cycles  
+**Definition:** The production, dissemination, and application of knowledge critical for driving innovation and informing sustainable practices.
+**Domain:** General
+**Synonyms:** Technology and education cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.6, 2026
 
 ---
@@ -4930,59 +4848,59 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Kyoto Protocol
 
-**Definition:** An international treaty adopted in 1997 that established binding emission reduction targets for developed countries and introduced mechanisms such as carbon trading to address climate change.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, Climate Governance  
+**Definition:** An international treaty adopted in 1997 that established binding emission reduction targets for developed countries and introduced mechanisms such as carbon trading to address climate change.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Labor Growth
 
-**Definition:** An increase in the number of workers or workforce, often linked to increased industrial activity and energy demand.  
-**Domain:** General  
-**Synonyms:** Workforce Growth  
-**Abbreviation:** none  
-**Related terms:** Energy Consumption, Economic Growth  
+**Definition:** An increase in the number of workers or workforce, often linked to increased industrial activity and energy demand.
+**Domain:** General
+**Synonyms:** Workforce Growth
+**Abbreviation:** none
+**Related terms:** Energy Consumption, Economic Growth
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
 
 ---
 
 ### Laboratory Experiment (Glass Cylinder Trap)
 
-**Definition:** A demonstration used to support the greenhouse effect, which the author argues misinterprets the physical process of photon absorption and conversion to heat, attributing it to a continuous medium rather than discrete molecular interactions.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Radiative transfer, Greenhouse effect, Climate models  
+**Definition:** A demonstration used to support the greenhouse effect, which the author argues misinterprets the physical process of photon absorption and conversion to heat, attributing it to a continuous medium rather than discrete molecular interactions.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Radiative transfer, Greenhouse effect, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Myth of the Laboratory Experiment: The Glass Cylinder Trap", 2026
 
 ---
 
 ### Land Use Change and Post-Deforestation Land Productivity
 
-**Definition:** The impact of converting deforested land to agricultural or settlement uses on the carbon footprint, including emissions from agricultural practices or construction activities.  
-**Domain:** General  
-**Synonyms:** Post-deforestation land use, land conversion impact  
-**Abbreviation:** none  
-**Related terms:** Land Use Change, Deforestation  
+**Definition:** The impact of converting deforested land to agricultural or settlement uses on the carbon footprint, including emissions from agricultural practices or construction activities.
+**Domain:** GHG
+**Synonyms:** Post-deforestation land use, land conversion impact
+**Abbreviation:** none
+**Related terms:** Land Use Change, Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Land Use Changes
 
-**Definition:** Changes in land use, such as large-scale afforestation or reforestation, that can lead to displacement of agricultural activities and affect food security.  
+**Definition:** Changes in land use, such as large-scale afforestation or reforestation, that can lead to displacement of agricultural activities and affect food security.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Biodiversity Impacts  
+**Related terms:** Biological Sequestration, Soil Carbon Sequestration, Biodiversity Impacts
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -4992,7 +4910,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A type of generative AI system based on neural network architectures trained on large text corpora to perform token-based text generation and other natural language tasks, characterised by high parameter counts and significant computational and carbon costs at both training and inference stages.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -5006,15 +4924,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Leakage
 
-**Definition:** The unintended release of stored CO₂ from geological formations back into the atmosphere, potentially negating the benefits of sequestration.  
+**Definition:** The unintended release of stored CO₂ from geological formations back into the atmosphere, potentially negating the benefits of sequestration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Geological Sequestration, Carbon Storage, Induced Seismicity  
+**Related terms:** Geological Sequestration, Carbon Storage, Induced Seismicity
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -5022,15 +4940,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Legal Protection
 
-**Definition:** The legal mechanisms and frameworks that provide rights and safeguards to individuals, including those displaced by environmental factors.  
+**Definition:** The legal mechanisms and frameworks that provide rights and safeguards to individuals, including those displaced by environmental factors.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Legal Safeguards, Rights-Based Protection  
+**Synonyms:** Legal Safeguards, Rights-Based Protection
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, Non-Refoulement, International Law  
+**Related terms:** Climate-Induced Migration, Climate Refugee, Non-Refoulement, International Law
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -5038,11 +4956,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Leverage Points
 
-**Definition:** Interventions within a system that, when changed, can significantly alter the system's behavior, categorized by their transformative potential according to systems theory.  
-**Domain:** General  
-**Synonyms:** System leverage points  
-**Abbreviation:** LP  
-**Related terms:** Sustainable Development Goals (SDGs), Systems thinking, Policy resistance  
+**Definition:** Interventions within a system that, when changed, can significantly alter the system's behavior, categorized by their transformative potential according to systems theory.
+**Domain:** SDG
+**Synonyms:** System leverage points
+**Abbreviation:** LP
+**Related terms:** Sustainable Development Goals (SDGs), Systems thinking, Policy resistance
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
@@ -5051,7 +4969,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A methodology for quantifying the environmental impacts associated with all stages of a product's life—including manufacture, use, and disposal—used in the SCI specification to determine the total embodied emissions of hardware components.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** lifecycle analysis
 
@@ -5081,48 +4999,48 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Linear regression analysis
 
-**Definition:** A statistical method used to model the relationship between a dependent variable and one or more independent variables.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Greenhouse gas emissions, SPSS  
+**Definition:** A statistical method used to model the relationship between a dependent variable and one or more independent variables.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Greenhouse gas emissions, SPSS
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
 
 ### Livestock Production
 
-**Definition:** The rearing of animals for food and other products, which releases significant amounts of methane and nitrous oxide, contributing to global warming.  
-**Domain:** General  
-**Synonyms:** Animal farming, meat production  
-**Abbreviation:** none  
-**Related terms:** Agriculture, Greenhouse Gas, Methane  
+**Definition:** The rearing of animals for food and other products, which releases significant amounts of methane and nitrous oxide, contributing to global warming.
+**Domain:** General
+**Synonyms:** Animal farming, meat production
+**Abbreviation:** none
+**Related terms:** Agriculture, Greenhouse Gas, Methane
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Local Government
 
-**Definition:** The administrative body responsible for the governance of a local area, including the implementation of policies and services that affect the community.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** The administrative body responsible for the governance of a local area, including the implementation of policies and services that affect the community.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Residents’ Most Talked-About Topics", 2020
 
 ---
 
 ### Low Energy Home (LEH)
 
-**Definition:** A residential building designed to significantly reduce energy consumption through efficient design, insulation, and renewable energy integration.  
+**Definition:** A residential building designed to significantly reduce energy consumption through efficient design, insulation, and renewable energy integration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Low Energy Building  
+**Synonyms:** Low Energy Building
 
-**Abbreviation:** LEH  
+**Abbreviation:** LEH
 
-**Related terms:** Net Zero Energy Home, Passivhaus, Renewable Energy Systems  
+**Related terms:** Net Zero Energy Home, Passivhaus, Renewable Energy Systems
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 2, 2012
 
@@ -5132,7 +5050,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A foundational AI paradigm in which systems learn to perform tasks by identifying patterns in data rather than through explicit programming, encompassing supervised learning, unsupervised learning, reinforcement learning, and deep learning, and covered within the SCI for AI Specification's scope.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -5146,11 +5064,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Management Control Systems
 
-**Definition:** Systems used to direct and regulate organizational activities, including both formal accounting information and informal knowledge, to support strategic decision-making.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Family Business, Project-Based Companies  
+**Definition:** Systems used to direct and regulate organizational activities, including both formal accounting information and informal knowledge, to support strategic decision-making.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Family Business, Project-Based Companies
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
@@ -5159,7 +5077,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The carbon intensity of the electricity grid calculated on the basis of the short-run or long-run marginal generating unit, used as one of the permissible location-based approaches for determining the carbon intensity value (I) in the SCI equation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** marginal grid intensity
 
@@ -5175,7 +5093,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Instruments such as renewable energy certificates or carbon credits that allow organisations to claim reductions in reported emissions through purchases or offsets rather than through direct reductions, explicitly excluded from the SCI calculation methodology.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** market-based instruments
 
@@ -5189,15 +5107,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Material Availability
 
-**Definition:** The availability and extraction of minerals required for chemical sequestration, such as magnesium and calcium silicates, which can have environmental impacts.  
+**Definition:** The availability and extraction of minerals required for chemical sequestration, such as magnesium and calcium silicates, which can have environmental impacts.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Chemical Sequestration, Energy Intensive Processes, Carbon Capture and Utilization (CCUS)  
+**Related terms:** Chemical Sequestration, Energy Intensive Processes, Carbon Capture and Utilization (CCUS)
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -5237,11 +5155,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Materiality (ESRS)
 
-**Definition:** The significance of an environmental, social, or governance issue to an organization's ability to operate in a given context, as defined by the European Sustainability Reporting Standards.  
-**Domain:** ESRS  
-**Synonyms:** Material issue, significance  
-**Abbreviation:** none  
-**Related terms:** Sustainability, Environmental sustainability  
+**Definition:** The significance of an environmental, social, or governance issue to an organization's ability to operate in a given context, as defined by the European Sustainability Reporting Standards.
+**Domain:** ESRS
+**Synonyms:** Material issue, significance
+**Abbreviation:** none
+**Related terms:** Sustainability, Environmental sustainability
 **Source:** European Sustainability Reporting Standards (ESRS)
 
 ---
@@ -5280,61 +5198,34 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Measurement, Reporting, and Verification (MRV)
 
-**Definition:** A systematic process involving the measurement, reporting, and verification of greenhouse gas emissions and climate actions to ensure transparency and accountability.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** MRV  
-**Related terms:** Enhanced Transparency Framework (ETF), Nationally Determined Contributions (NDCs), Climate Governance  
+**Definition:** A systematic process involving the measurement, reporting, and verification of greenhouse gas emissions and climate actions to ensure transparency and accountability.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** MRV
+**Related terms:** Enhanced Transparency Framework (ETF), Nationally Determined Contributions (NDCs), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Melting of Ice
 
-**Definition:** The process of ice sheets and glaciers melting, which reduces the Earth's albedo and leads to increased heat retention, further contributing to global warming.  
-**Domain:** General  
-**Synonyms:** Ice melting, glacial melting  
-**Abbreviation:** none  
-**Related terms:** Albedo, Climate Change, Sea Level Rise  
+**Definition:** The process of ice sheets and glaciers melting, which reduces the Earth's albedo and leads to increased heat retention, further contributing to global warming.
+**Domain:** General
+**Synonyms:** Ice melting, glacial melting
+**Abbreviation:** none
+**Related terms:** Albedo, Climate Change, Sea Level Rise
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
-
----
-
-### Metal-Organic Framework
-
-**Definition:** A class of porous materials composed of metal ions or clusters connected by organic ligands, offering high surface area and tunable pore structures for selective adsorption.  
-**Domain:** General  
-**Synonyms:** MOF, porous material  
-**Abbreviation:** MOF  
-**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Zeolite, Post-Combustion Carbon Capture  
-**Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Metal-Organic Frameworks (MOFs)
 
-**Definition:** A class of porous materials used in CO₂ capture due to their high surface area and ability to adsorb CO₂ molecules.  
-
-**Domain:** General  
-
-**Synonyms:** none  
-
-**Abbreviation:** MOFs  
-
-**Related terms:** Carbon Capture and Utilization (CCUS), CO₂ Capture, Geological Sequestration  
-
-**Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
-
----
-
-### Methane
-
-**Definition:** A potent greenhouse gas emitted through agricultural practices, livestock rearing, and natural processes, contributing to global warming.  
-**Domain:** General  
-**Synonyms:** CH₄, methane gas  
-**Abbreviation:** CH₄  
-**Related terms:** Greenhouse Gas, Anthropogenic Factors, Nitrous Oxide  
-**Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+**Definition:** A class of porous materials composed of metal ions or clusters connected by organic ligands, offering high surface area and tunable pore structures for selective adsorption.
+**Domain:** General
+**Synonyms:** MOF, porous material
+**Abbreviation:** MOF
+**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Zeolite, Post-Combustion Carbon Capture
+**Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
@@ -5372,11 +5263,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Milankovitch Cycles
 
-**Definition:** Long-term variations in the Earth's orbital patterns that influence the distribution of solar radiation and contribute to the onset and termination of ice ages.  
-**Domain:** General  
-**Synonyms:** Orbital cycles, Milankovitch cycles  
-**Abbreviation:** none  
-**Related terms:** Insolation, Natural Factors, Climate Change  
+**Definition:** Long-term variations in the Earth's orbital patterns that influence the distribution of solar radiation and contribute to the onset and termination of ice ages.
+**Domain:** General
+**Synonyms:** Orbital cycles, Milankovitch cycles
+**Abbreviation:** none
+**Related terms:** Insolation, Natural Factors, Climate Change
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
@@ -5385,7 +5276,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An open-source license under which EFRAG releases its materials, allowing stakeholders to enhance and integrate them into commercial solutions.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -5399,11 +5290,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Mitigation Strategies
 
-**Definition:** Actions and policies aimed at reducing greenhouse gas emissions and limiting the impacts of global warming.  
-**Domain:** General  
-**Synonyms:** Climate mitigation, emission reduction strategies  
-**Abbreviation:** none  
-**Related terms:** Climate Change, Global Warming, Sustainable Development  
+**Definition:** Actions and policies aimed at reducing greenhouse gas emissions and limiting the impacts of global warming.
+**Domain:** General
+**Synonyms:** Climate mitigation, emission reduction strategies
+**Abbreviation:** none
+**Related terms:** Climate Change, Global Warming, Sustainable Development
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
@@ -5412,7 +5303,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of developing an AI model by exposing it to data and optimising its parameters to perform a specific task or set of tasks, representing a computationally intensive lifecycle phase whose carbon emissions must be calculated over the entire training duration including all epochs, steps, parameter updates, intermediate runs, and early stopping phases.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** AI model training, training phase
 
@@ -5442,11 +5333,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Molecular Archipelago
 
-**Definition:** A conceptual model describing the atmosphere as a sparse, discontinuous medium composed of isolated molecules surrounded by vast intermolecular voids, rather than a continuous medium.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Radiative transfer, Greenhouse effect, Atmospheric physics  
+**Definition:** A conceptual model describing the atmosphere as a sparse, discontinuous medium composed of isolated molecules surrounded by vast intermolecular voids, rather than a continuous medium.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Radiative transfer, Greenhouse effect, Atmospheric physics
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Molecular Archipelago and the Photon Ratio", 2026
 
 ---
@@ -5455,7 +5346,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A business entity that operates across two or more countries, including both parent companies and local entities, that is addressed by government-backed recommendations on responsible business conduct.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -5485,11 +5376,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### National Aeronautics and Space Administration (NASA)
 
-**Definition:** A U.S. government agency responsible for the civilian space program and for aeronautics and aerospace research, providing data on climate change and global warming.  
-**Domain:** General  
-**Synonyms:** NASA, space agency  
-**Abbreviation:** NASA  
-**Related terms:** National Oceanic and Atmospheric Administration, Climate Change, Global Warming  
+**Definition:** A U.S. government agency responsible for the civilian space program and for aeronautics and aerospace research, providing data on climate change and global warming.
+**Domain:** General
+**Synonyms:** NASA, space agency
+**Abbreviation:** NASA
+**Related terms:** National Oceanic and Atmospheric Administration, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
 
 ---
@@ -5498,7 +5389,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A national body, established under the OECD Guidelines for Multinational Enterprises, that serves as the implementation authority for those Guidelines within its jurisdiction and provides guidance, mediation, and dispute resolution services to enterprises and affected parties.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** NCP, Nationaal Contactpunt
 
@@ -5514,7 +5405,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A body established by each Subscribing Country government to promote awareness of and compliance with the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, and to handle specific instances submitted under those Guidelines.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -5528,11 +5419,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### National Oceanic and Atmospheric Administration (NOAA)
 
-**Definition:** A U.S. government agency focused on the condition of the oceans and the atmosphere, providing data and research on climate change and global warming.  
-**Domain:** General  
-**Synonyms:** NOAA, oceanic and atmospheric agency  
-**Abbreviation:** NOAA  
-**Related terms:** National Aeronautics and Space Administration, Climate Change, Global Warming  
+**Definition:** A U.S. government agency focused on the condition of the oceans and the atmosphere, providing data and research on climate change and global warming.
+**Domain:** General
+**Synonyms:** NOAA, oceanic and atmospheric agency
+**Abbreviation:** NOAA
+**Related terms:** National Aeronautics and Space Administration, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
 
 ---
@@ -5541,7 +5432,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A commitment by Subscribing Countries to accord enterprises operating on their territory and owned or controlled by nationals of another Subscribing Country treatment no less favourable than that accorded to domestic enterprises in like situations, consistent with international law.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -5555,11 +5446,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Nationally Determined Contributions (NDCs)
 
-**Definition:** National climate action plans submitted by countries under the Paris Agreement, outlining their commitments to reduce greenhouse gas emissions and adapt to climate change.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** NDCs  
-**Related terms:** Enhanced Transparency Framework (ETF), Climate Governance, 2030 Agenda for Sustainable Development  
+**Definition:** National climate action plans submitted by countries under the Paris Agreement, outlining their commitments to reduce greenhouse gas emissions and adapt to climate change.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** NDCs
+**Related terms:** Enhanced Transparency Framework (ETF), Climate Governance, 2030 Agenda for Sustainable Development
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -5568,7 +5459,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An application-specific AI domain focused on enabling AI systems to understand, interpret, and generate human language, listed within the SCI for AI Specification as an in-scope application domain for carbon intensity measurement.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -5584,7 +5475,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A theoretical perspective emphasizing the role of natural resources in shaping organizational performance and competitive advantage, and the environmental costs of resource extraction.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** none
 
@@ -5598,26 +5489,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Net Present Value (NPV) (Economic Theory)
 
-**Definition:** A financial metric used to evaluate the profitability of projects by discounting future cash flows to their present value, often used to justify continued fossil fuel production due to the long-term discounting of climate risks.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** NPV  
-**Related terms:** Paris Climate Accord, Economic Incentives  
+**Definition:** A financial metric used to evaluate the profitability of projects by discounting future cash flows to their present value, often used to justify continued fossil fuel production due to the long-term discounting of climate risks.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** NPV
+**Related terms:** Paris Climate Accord, Economic Incentives
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
 
 ---
 
 ### Net Zero Energy Building (NZEB)
 
-**Definition:** A building that balances annual energy consumption with on-site renewable energy production, allowing for energy exchange with the electrical grid.  
+**Definition:** A building that balances annual energy consumption with on-site renewable energy production, allowing for energy exchange with the electrical grid.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Net Zero Energy Home (NZEH), Zero Energy Building  
+**Synonyms:** Net Zero Energy Home (NZEH), Zero Energy Building
 
-**Abbreviation:** NZEB  
+**Abbreviation:** NZEB
 
-**Related terms:** Net Zero Energy Home, Renewable Energy Systems, Zero Energy Building  
+**Related terms:** Net Zero Energy Home, Renewable Energy Systems, Zero Energy Building
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 2, 2012
 
@@ -5625,15 +5516,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Net Zero Energy Home (NZEH)
 
-**Definition:** A residential building that balances annual energy consumption with on-site renewable energy production, typically connected to the electrical grid.  
+**Definition:** A residential building that balances annual energy consumption with on-site renewable energy production, typically connected to the electrical grid.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Net Zero Energy Building (NZEB), Zero Energy Home  
+**Synonyms:** Net Zero Energy Building (NZEB), Zero Energy Home
 
-**Abbreviation:** NZEH  
+**Abbreviation:** NZEH
 
-**Related terms:** Net Zero Energy Building, Renewable Energy Systems, Low Energy Home  
+**Related terms:** Net Zero Energy Building, Renewable Energy Systems, Low Energy Home
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 2, 2012
 
@@ -5657,11 +5548,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Network for Greening the Financial System (NGFS)
 
-**Definition:** A global network of central banks and financial supervisors that develops climate scenarios and tools to translate climate-related disclosures into actionable risk management practices.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** NGFS  
-**Related terms:** Taskforce on Climate-related Financial Disclosures (TCFD), Climate risk governance  
+**Definition:** A global network of central banks and financial supervisors that develops climate scenarios and tools to translate climate-related disclosures into actionable risk management practices.
+**Domain:** TCFD
+**Synonyms:** none
+**Abbreviation:** NGFS
+**Related terms:** Taskforce on Climate-related Financial Disclosures (TCFD), Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
 
 ---
@@ -5670,7 +5561,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The practice of compensating for residual greenhouse gas emissions by funding or acquiring carbon removal or avoidance offsets, explicitly excluded from the SCI calculation to ensure the score reflects only direct emissions reductions.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** carbon offsetting, avoidance offset
 
@@ -5695,17 +5586,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Greenhouse Gas, CO₂, Methane, Nitrous Oxide, EEDI, EEXI, CII
 
 **Source:** Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System, Section 3, 2026
-
----
-
-### Nitrous Oxide
-
-**Definition:** A greenhouse gas emitted through industrial processes, agricultural activities, and the use of fertilizers, contributing to global warming.  
-**Domain:** General  
-**Synonyms:** N₂O, nitrous oxide gas  
-**Abbreviation:** N₂O  
-**Related terms:** Greenhouse Gas, Anthropogenic Factors, Methane  
-**Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
@@ -5743,26 +5623,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Non-fiscal functions of taxes
 
-**Definition:** The influence of taxes on behavior and decision-making beyond their financial impact, such as promoting sustainable practices.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Green tax, Sustainable development  
+**Definition:** The influence of taxes on behavior and decision-making beyond their financial impact, such as promoting sustainable practices.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Green tax, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
 
 ### Non-Refoulement
 
-**Definition:** A principle in international human rights law prohibiting the return of individuals to a country where they face persecution, torture, or other serious harm.  
+**Definition:** A principle in international human rights law prohibiting the return of individuals to a country where they face persecution, torture, or other serious harm.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** No-Refoulement, Non-Return  
+**Synonyms:** No-Refoulement, Non-Return
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Refugee, Climate Refugee, Human Rights, International Protection  
+**Related terms:** Refugee, Climate Refugee, Human Rights, International Protection
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -5770,15 +5650,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Normative Indeterminacy
 
-**Definition:** The ambiguity and lack of clarity in legal norms, leading to inconsistent application and interpretation in the context of climate-induced migration.  
+**Definition:** The ambiguity and lack of clarity in legal norms, leading to inconsistent application and interpretation in the context of climate-induced migration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Legal Ambiguity, Normative Uncertainty  
+**Synonyms:** Legal Ambiguity, Normative Uncertainty
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Doctrinal Incrementalism  
+**Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Doctrinal Incrementalism
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -5788,7 +5668,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating opposition to merging proposed content into the draft document, with the effect of blocking merger unless the objection is resolved.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -5802,11 +5682,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Ocean Acidification
 
-**Definition:** The decrease in the pH of the ocean due to the absorption of excess carbon dioxide, leading to negative impacts on marine ecosystems and biodiversity.  
-**Domain:** General  
-**Synonyms:** Acidification of oceans, marine acidification  
-**Abbreviation:** none  
-**Related terms:** Climate Change, Global Warming, Sea Level Rise  
+**Definition:** The decrease in the pH of the ocean due to the absorption of excess carbon dioxide, leading to negative impacts on marine ecosystems and biodiversity.
+**Domain:** General
+**Synonyms:** Acidification of oceans, marine acidification
+**Abbreviation:** none
+**Related terms:** Climate Change, Global Warming, Sea Level Rise
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
@@ -5815,7 +5695,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A multilateral policy commitment adopted in 1976 and periodically revised, through which Subscribing Countries endorse the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct and related instruments on national treatment, conflicting requirements, and investment incentives.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** none
 
@@ -5831,7 +5711,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A set of government-backed recommendations, last revised in 2011 under the auspices of the Organisation for Economic Co-operation and Development, addressing responsible business conduct for multinational enterprises in areas including human rights, employment, the environment, and anti-corruption.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** OESO-Richtlijnen voor Multinationale Ondernemingen
 
@@ -5847,7 +5727,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A structured six-step due diligence process defined in the OECD Due Diligence Guidance for Responsible Business Conduct, comprising policy embedding, impact identification and assessment, impact cessation and mitigation, implementation tracking, communication, and remediation, which serves as the shared compliance basis across multiple EU sustainability directives and regulations.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** OECD due diligence framework, six-step due diligence process
 
@@ -5893,11 +5773,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### One City Climate Strategy
 
-**Definition:** A framework for coordinating and integrating climate policies across different sectors and communities to achieve sustainable and equitable outcomes.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Citywide leadership, Climate emergency  
+**Definition:** A framework for coordinating and integrating climate policies across different sectors and communities to achieve sustainable and equitable outcomes.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Citywide leadership, Climate emergency
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Citywide Leadership", 2020
 
 ---
@@ -5906,7 +5786,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The fourth stage of the AI lifecycle, encompassing model deployment for inference, orchestration of autonomous workflows, integration of model tools and services, performance monitoring, and operational practices across edge devices, data centres, and cloud environments, whose associated carbon emissions must be included in the Consumer SCI calculation.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** operational stage, operation and monitoring stage
 
@@ -5922,7 +5802,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Greenhouse gas emissions arising from the active running of server-side systems, datacentres, and infrastructure that generate and deliver content to browsers, as distinct from embodied or supply-chain emissions.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -5936,15 +5816,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Organizational Culture
 
-**Definition:** The shared values, beliefs, and behaviors that characterize an organization.  
+**Definition:** The shared values, beliefs, and behaviors that characterize an organization.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Corporate Sustainability Strategy Implementation, Employee motivation, Corporate sustainability, Strategic management, Sustainability strategy  
+**Related terms:** Corporate Sustainability Strategy Implementation, Employee motivation, Corporate sustainability, Strategic management, Sustainability strategy
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -5952,11 +5832,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Ozone
 
-**Definition:** A greenhouse gas present in the Earth's atmosphere, contributing to the greenhouse effect and global warming.  
-**Domain:** General  
-**Synonyms:** O₃, ozone gas  
-**Abbreviation:** O₃  
-**Related terms:** Greenhouse Gas, Anthropogenic Factors  
+**Definition:** A greenhouse gas present in the Earth's atmosphere, contributing to the greenhouse effect and global warming.
+**Domain:** General
+**Synonyms:** O₃, ozone gas
+**Abbreviation:** O₃
+**Related terms:** Greenhouse Gas, Anthropogenic Factors
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
 
 ---
@@ -5965,7 +5845,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU regulation governing the sustainability requirements for packaging and packaging waste, identified as one of the legislative instruments within whose scope products and materials may fall during the integrated prioritisation phase of EU sustainability compliance.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** none
 
@@ -5979,11 +5859,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Panel Data Analysis
 
-**Definition:** A statistical method that uses data collected over multiple time periods for multiple entities to analyze the impact of various factors on energy consumption.  
-**Domain:** General  
-**Synonyms:** Panel Data Method  
-**Abbreviation:** PDA  
-**Related terms:** Energy Consumption, Methodology  
+**Definition:** A statistical method that uses data collected over multiple time periods for multiple entities to analyze the impact of various factors on energy consumption.
+**Domain:** General
+**Synonyms:** Panel Data Method
+**Abbreviation:** PDA
+**Related terms:** Energy Consumption, Methodology
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
@@ -5992,7 +5872,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An individual, adjustable value that defines a part of an AI model's structure and behaviour, the total count of which characterises model scale and influences computational and carbon costs.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** model parameter, weight
 
@@ -6006,22 +5886,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Paris Agreement
 
-**Definition:** A global treaty adopted in 2015 that aims to limit global warming to well below 2°C, with efforts to limit it to 1.5°C, and includes mechanisms such as the Enhanced Transparency Framework (ETF) to ensure transparency and accountability in climate actions.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** United Nations Framework Convention on Climate Change (UNFCCC), Kyoto Protocol, Climate Governance  
+**Definition:** A global treaty adopted in 2015 that aims to limit global warming to well below 2°C, with efforts to limit it to 1.5°C, and includes mechanisms such as the Enhanced Transparency Framework (ETF) to ensure transparency and accountability in climate actions.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** United Nations Framework Convention on Climate Change (UNFCCC), Kyoto Protocol, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Paris Climate Accord
 
-**Definition:** An international treaty aimed at limiting global temperature rise by reducing greenhouse gas emissions, often cited as a benchmark for climate action but less economically attractive for fossil fuel producers due to present value calculations.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Economic Incentives, Net Present Value  
+**Definition:** An international treaty aimed at limiting global temperature rise by reducing greenhouse gas emissions, often cited as a benchmark for climate action but less economically attractive for fossil fuel producers due to present value calculations.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Economic Incentives, Net Present Value
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
 
 ---
@@ -6030,7 +5910,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The 2015 international treaty adopted under the United Nations Framework Convention on Climate Change, establishing binding commitments to limit global temperature increases and serving as a foundational policy reference for EU sustainability regulation.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** Paris Agreement
 
@@ -6060,26 +5940,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Parts of Speech Analysis
 
-**Definition:** An analysis of grammatical components in data entries to enhance the accuracy of GHG data characterization and standardization.  
-**Domain:** General  
-**Synonyms:** Grammatical Analysis  
-**Abbreviation:** none  
-**Related terms:** Characterization Process, Data Normalization, GHG Data  
+**Definition:** An analysis of grammatical components in data entries to enhance the accuracy of GHG data characterization and standardization.
+**Domain:** GHG
+**Synonyms:** Grammatical Analysis
+**Abbreviation:** none
+**Related terms:** Characterization Process, Data Normalization, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
 
 ---
 
 ### Passive House
 
-**Definition:** A building standard that emphasizes superinsulation, airtight construction, and controlled mechanical ventilation to minimize energy use.  
+**Definition:** A building standard that emphasizes superinsulation, airtight construction, and controlled mechanical ventilation to minimize energy use.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Passivhaus  
+**Synonyms:** Passivhaus
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Net Zero Energy Home, Low Energy Home, Building Design  
+**Related terms:** Net Zero Energy Home, Low Energy Home, Building Design
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 2, 2012
 
@@ -6089,7 +5969,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A carbon accounting boundary definition approach that delimits the scope of SCI calculations according to the role — Consumer or Provider — of the reporting entity, reflecting each persona's distinct sphere of control and agency over an AI system's carbon footprint.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** persona-based boundary, role-based system boundary
 
@@ -6103,15 +5983,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Pest Outbreaks
 
-**Definition:** The occurrence of pest infestations that can damage vegetation and release stored carbon back into the atmosphere, reducing the effectiveness of biological carbon sequestration.  
+**Definition:** The occurrence of pest infestations that can damage vegetation and release stored carbon back into the atmosphere, reducing the effectiveness of biological carbon sequestration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Biological Sequestration, Forest Fires, Soil Carbon Sequestration  
+**Related terms:** Biological Sequestration, Forest Fires, Soil Carbon Sequestration
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -6119,26 +5999,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Photon Ratio
 
-**Definition:** The numerical relationship between photons and molecules in the atmosphere, indicating that the vast majority of space is empty, and thus photons are unlikely to be intercepted by molecules.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Molecular Archipelago, Radiative transfer, Greenhouse effect  
+**Definition:** The numerical relationship between photons and molecules in the atmosphere, indicating that the vast majority of space is empty, and thus photons are unlikely to be intercepted by molecules.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Molecular Archipelago, Radiative transfer, Greenhouse effect
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Molecular Archipelago and the Photon Ratio", 2026
 
 ---
 
 ### Photovoltaic (PV)
 
-**Definition:** A system that converts sunlight directly into electricity using semiconductor materials.  
+**Definition:** A system that converts sunlight directly into electricity using semiconductor materials.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Solar PV, Photovoltaic System  
+**Synonyms:** Solar PV, Photovoltaic System
 
-**Abbreviation:** PV  
+**Abbreviation:** PV
 
-**Related terms:** Solar Thermal (ST), Renewable Energy Systems, Net Zero Energy Home  
+**Related terms:** Solar Thermal (ST), Renewable Energy Systems, Net Zero Energy Home
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -6162,110 +6042,110 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Policy Recommendations
 
-**Definition:** Suggested actions or strategies to improve the implementation and effectiveness of Measurement, Reporting, and Verification (MRV) systems in alignment with national and international climate commitments.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Climate Governance  
+**Definition:** Suggested actions or strategies to improve the implementation and effectiveness of Measurement, Reporting, and Verification (MRV) systems in alignment with national and international climate commitments.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Policy Resistance
 
-**Definition:** The tendency of existing systems, structures, and norms to resist change, often due to entrenched interests, path dependencies, and institutional inertia.  
-**Domain:** General  
-**Synonyms:** Institutional resistance, Policy inertia  
-**Abbreviation:** none  
-**Related terms:** Sustainable Development Goals (SDGs), Leverage points, Systems thinking  
+**Definition:** The tendency of existing systems, structures, and norms to resist change, often due to entrenched interests, path dependencies, and institutional inertia.
+**Domain:** SDG
+**Synonyms:** Institutional resistance, Policy inertia
+**Abbreviation:** none
+**Related terms:** Sustainable Development Goals (SDGs), Leverage points, Systems thinking
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
 
 ### Political Complacency
 
-**Definition:** A state of passive acceptance or inaction in the face of pressing issues, often influenced by financial interests that shape public policy and downplay the urgency of climate action.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Economic Incentives, Political Discourse  
+**Definition:** A state of passive acceptance or inaction in the face of pressing issues, often influenced by financial interests that shape public policy and downplay the urgency of climate action.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Economic Incentives, Political Discourse
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
 
 ---
 
 ### Political cycles of power
 
-**Definition:** Dynamics that shape the distribution of resources and the implementation of policies, influencing equity, control, and decision-making in a circular transition.  
-**Domain:** General  
-**Synonyms:** Power cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Socio-ecological cycles  
+**Definition:** Dynamics that shape the distribution of resources and the implementation of policies, influencing equity, control, and decision-making in a circular transition.
+**Domain:** General
+**Synonyms:** Power cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.4, 2026
 
 ---
 
 ### Political Will
 
-**Definition:** The determination and commitment of political actors to implement policies and drive change, often seen as a critical factor in the success of the energy transition and climate action.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Energy Transition, Renewable Energy Transition  
+**Definition:** The determination and commitment of political actors to implement policies and drive change, often seen as a critical factor in the success of the energy transition and climate action.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Energy Transition, Renewable Energy Transition
 **Source:** Global Warming and the Management of Zombies, Technological and Policy Solutions section, 2018
 
 ---
 
 ### Population Growth
 
-**Definition:** An increase in the number of people in a given area, often associated with increased demand for energy and resources.  
-**Domain:** General  
-**Synonyms:** Population Increase  
-**Abbreviation:** none  
-**Related terms:** Energy Consumption, Sustainable Development  
+**Definition:** An increase in the number of people in a given area, often associated with increased demand for energy and resources.
+**Domain:** General
+**Synonyms:** Population Increase
+**Abbreviation:** none
+**Related terms:** Energy Consumption, Sustainable Development
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
 
 ---
 
 ### Population size
 
-**Definition:** The number of people in a given area, which influences greenhouse gas emissions through consumption and resource use.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Greenhouse gas emissions, Capital transfers for environmental protection  
+**Definition:** The number of people in a given area, which influences greenhouse gas emissions through consumption and resource use.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Greenhouse gas emissions, Capital transfers for environmental protection
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
 
 ### Positive Feedback Mechanisms (Climate Science)
 
-**Definition:** Processes that amplify the effects of global warming by reinforcing the initial warming, such as reduced albedo from ice melt and increased methane release from oceanic hydrates.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Global Warming, Tipping Points  
+**Definition:** Processes that amplify the effects of global warming by reinforcing the initial warming, such as reduced albedo from ice melt and increased methane release from oceanic hydrates.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Global Warming, Tipping Points
 **Source:** Global Warming and the Management of Zombies, Scientific Understanding and Feedback Mechanisms section, 2018
 
 ---
 
 ### Post-Combustion Carbon Capture
 
-**Definition:** A carbon capture technology that removes CO₂ from flue gases after the combustion of fossil fuels, typically using adsorbents or other separation methods.  
-**Domain:** General  
-**Synonyms:** Post-combustion CO₂ capture, flue gas CO₂ capture  
-**Abbreviation:** none  
-**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Zeolite, Metal-Organic Framework  
+**Definition:** A carbon capture technology that removes CO₂ from flue gases after the combustion of fossil fuels, typically using adsorbents or other separation methods.
+**Domain:** General
+**Synonyms:** Post-combustion CO₂ capture, flue gas CO₂ capture
+**Abbreviation:** none
+**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Zeolite, Metal-Organic Framework
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Primary Energy Consumption
 
-**Definition:** The total amount of energy consumed at the source before it is converted into usable forms.  
-**Domain:** General  
-**Synonyms:** Primary Energy Use  
-**Abbreviation:** PEC  
-**Related terms:** Final Energy Consumption, Energy Conversion  
+**Definition:** The total amount of energy consumed at the source before it is converted into usable forms.
+**Domain:** General
+**Synonyms:** Primary Energy Use
+**Abbreviation:** PEC
+**Related terms:** Final Energy Consumption, Energy Conversion
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
 
 ---
@@ -6274,7 +6154,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An investor-led international framework that promotes the incorporation of ESG factors into investment analysis, decision-making, and ownership practices.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** PRI framework
 
@@ -6288,11 +6168,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Priority
 
-**Definition:** Rules for determining the priority of patterns during matching in the extended search and replace process for GHG data.  
-**Domain:** General  
-**Synonyms:** Pattern Matching Priority  
-**Abbreviation:** none  
-**Related terms:** Extended Search, Regular Expressions, GHG Data  
+**Definition:** Rules for determining the priority of patterns during matching in the extended search and replace process for GHG data.
+**Domain:** GHG
+**Synonyms:** Pattern Matching Priority
+**Abbreviation:** none
+**Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
@@ -6315,22 +6195,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Project-Based Companies
 
-**Definition:** Companies whose operations are primarily focused on project execution, requiring the integration of formal and informal control mechanisms in strategic decision-making.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Management Accounting, Family Business  
+**Definition:** Companies whose operations are primarily focused on project execution, requiring the integration of formal and informal control mechanisms in strategic decision-making.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Management Accounting, Family Business
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
 
 ### Propensity Score Matching
 
-**Definition:** A statistical method used to estimate the effect of a policy or intervention by comparing groups that are similar in all respects except for the treatment received.  
-**Domain:** TCFD  
-**Synonyms:** PSM  
-**Abbreviation:** PSM  
-**Related terms:** Carbon taxation, Environmental taxes, Sustainable Development Goals (SDGs)  
+**Definition:** A statistical method used to estimate the effect of a policy or intervention by comparing groups that are similar in all respects except for the treatment received.
+**Domain:** TCFD
+**Synonyms:** PSM
+**Abbreviation:** PSM
+**Related terms:** Carbon taxation, Environmental taxes, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 3, 2020
 
 ---
@@ -6339,7 +6219,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An entity that develops and delivers AI services, selling functional units of AI, whose carbon accounting boundary encompasses all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -6355,7 +6235,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The carbon accounting boundary applicable to the Provider persona, which must include all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages, encompassing training infrastructure, data systems, evaluation frameworks, and system integration.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** provider system boundary
 
@@ -6369,15 +6249,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Public Acceptance
 
-**Definition:** The perception and acceptance of CO₂ sequestration projects by the public, which can influence their implementation due to concerns about safety and environmental impact.  
+**Definition:** The perception and acceptance of CO₂ sequestration projects by the public, which can influence their implementation due to concerns about safety and environmental impact.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Economic Costs, Regulatory and Legal Issues, Carbon Capture and Utilization (CCUS)  
+**Related terms:** Economic Costs, Regulatory and Legal Issues, Carbon Capture and Utilization (CCUS)
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -6385,22 +6265,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Public Transportation
 
-**Definition:** A system of transportation that is accessible to the general public, typically operated by a government or public authority, and designed to provide mobility for a wide range of users.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** A system of transportation that is accessible to the general public, typically operated by a government or public authority, and designed to provide mobility for a wide range of users.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
 
 ---
 
 ### Qualifiers Datasheet
 
-**Definition:** A structured sheet containing all identified qualifiers, their values, units of measure, and annotations for GHG data.  
-**Domain:** General  
-**Synonyms:** Qualifier Sheet  
-**Abbreviation:** none  
-**Related terms:** Characterization Process, GHG Values, Qualifiers  
+**Definition:** A structured sheet containing all identified qualifiers, their values, units of measure, and annotations for GHG data.
+**Domain:** GHG
+**Synonyms:** Qualifier Sheet
+**Abbreviation:** none
+**Related terms:** Characterization Process, GHG Values, Qualifiers
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 3, 2026
 
 ---
@@ -6409,7 +6289,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Non-numerical data that provides descriptive insights into a company's operations or performance.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -6425,7 +6305,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Data that can be measured and expressed in numerical terms.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -6439,33 +6319,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Radiative Forcing
 
-**Definition:** The change in the Earth's energy balance due to external factors, such as greenhouse gases, calculated using models that assume a continuous medium rather than a sparse, three-dimensional volume.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Greenhouse effect, Climate models, Radiative transfer  
+**Definition:** The change in the Earth's energy balance due to external factors, such as greenhouse gases, calculated using models that assume a continuous medium rather than a sparse, three-dimensional volume.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Greenhouse effect, Climate models, Radiative transfer
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "From Radiation to Local Thermodynamics", 2026
 
 ---
 
 ### Radiative Transfer
 
-**Definition:** The process of calculating how radiation interacts with the atmosphere, which in the standard climate paradigm is simplified by using two-dimensional scalars from HITRAN and projecting the atmosphere onto a single transverse plane.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** RT  
-**Related terms:** Standard Climate Paradigm, Two Flatteners, Beer-Lambert Law  
+**Definition:** The process of calculating how radiation interacts with the atmosphere, which in the standard climate paradigm is simplified by using two-dimensional scalars from HITRAN and projecting the atmosphere onto a single transverse plane.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** RT
+**Related terms:** Standard Climate Paradigm, Two Flatteners, Beer-Lambert Law
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
 
 ### Radical Action
 
-**Definition:** A comprehensive and transformative approach to addressing climate change that goes beyond incremental changes to implement significant and immediate measures.  
-**Domain:** General  
-**Synonyms:** Bold action, transformative action  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, One City Climate Strategy  
+**Definition:** A comprehensive and transformative approach to addressing climate change that goes beyond incremental changes to implement significant and immediate measures.
+**Domain:** General
+**Synonyms:** Bold action, transformative action
+**Abbreviation:** none
+**Related terms:** Climate emergency, One City Climate Strategy
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
 
 ---
@@ -6504,15 +6384,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Reforestation
 
-**Definition:** The process of replanting trees in areas where forests have been depleted, aimed at enhancing natural carbon sinks and mitigating climate change.  
+**Definition:** The process of replanting trees in areas where forests have been depleted, aimed at enhancing natural carbon sinks and mitigating climate change.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Afforestation, forest restoration  
+**Synonyms:** Afforestation, forest restoration
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon dioxide removal, Soil carbon sequestration, Carbon capture and storage  
+**Related terms:** Carbon dioxide removal, Soil carbon sequestration, Carbon capture and storage
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Removal (CDR) Strategies, 2024
 
@@ -6520,26 +6400,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Reformist Circular Society
 
-**Definition:** A circular economy discourse that seeks a prosperous, fair, democratic, and sustainable future through technological breakthroughs, social innovations, and alternative business models.  
-**Domain:** General  
-**Synonyms:** Optimist-Holistic Discourse  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Technocentric Circular Economy, Transformational Circular Society  
+**Definition:** A circular economy discourse that seeks a prosperous, fair, democratic, and sustainable future through technological breakthroughs, social innovations, and alternative business models.
+**Domain:** General
+**Synonyms:** Optimist-Holistic Discourse
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Technocentric Circular Economy, Transformational Circular Society
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
 
 ### Refugee Convention (1951)
 
-**Definition:** An international treaty establishing the legal status of refugees and the obligations of states to protect them, excluding those displaced by environmental factors.  
+**Definition:** An international treaty establishing the legal status of refugees and the obligations of states to protect them, excluding those displaced by environmental factors.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** 1951 Convention, Refugee Law  
+**Synonyms:** 1951 Convention, Refugee Law
 
-**Abbreviation:** 1951 Refugee Convention  
+**Abbreviation:** 1951 Refugee Convention
 
-**Related terms:** Climate Refugee, Non-Refoulement, International Protection, Climate-Induced Migration  
+**Related terms:** Climate Refugee, Non-Refoulement, International Protection, Climate-Induced Migration
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
 
@@ -6549,7 +6429,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A carbon awareness action whereby computation is relocated to a geographic region where the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** geographic shifting, spatial shifting
 
@@ -6565,7 +6445,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A measure of how much CO₂eq is emitted per kilowatt hour of electricity consumed in a given geographic region, expressed in gCO₂eq/kWh, determined using location-based grid intensity and explicitly excluding market-based measures such as renewable energy certificates.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** grid carbon intensity, location-based intensity
 
@@ -6579,15 +6459,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Regular Expressions
 
-**Definition:** A sequence of characters and symbols used to define search patterns in text, enabling efficient data extraction and transformation in GHG accounting.  
+**Definition:** A sequence of characters and symbols used to define search patterns in text, enabling efficient data extraction and transformation in GHG accounting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Regex, pattern matching  
+**Synonyms:** Regex, pattern matching
 
-**Abbreviation:** RE  
+**Abbreviation:** RE
 
-**Related terms:** Characterization, Data standardization, Emission Factors Database  
+**Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
 
@@ -6595,15 +6475,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Regulatory and Legal Issues
 
-**Definition:** Uncertainties in regulatory frameworks and legal liabilities regarding long-term storage and potential leaks of CO₂, which can pose challenges for the adoption of carbon sequestration technologies.  
+**Definition:** Uncertainties in regulatory frameworks and legal liabilities regarding long-term storage and potential leaks of CO₂, which can pose challenges for the adoption of carbon sequestration technologies.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Economic Costs, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)  
+**Related terms:** Economic Costs, Carbon Capture and Utilization (CCUS), Carbon Capture and Storage (CCS)
 
 **Source:** *Carbon Seque
 
@@ -6613,7 +6493,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A machine learning paradigm in which an AI model learns to make sequential decisions by receiving feedback signals from an environment, included within the SCI for AI Specification's scope of covered AI paradigms.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -6629,7 +6509,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process by which a company provides for or cooperates in addressing adverse impacts it has caused or contributed to, as required under the OECD Six-Step Framework and EU due diligence legislation.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** remedy, redress
 
@@ -6643,37 +6523,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Remote Sensing
 
-**Definition:** A technology that uses sensors to collect data about the Earth's surface from a distance, often used to monitor environmental changes and support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), GIS  
+**Definition:** A technology that uses sensors to collect data about the Earth's surface from a distance, often used to monitor environmental changes and support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), GIS
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Renewable Energy
 
-**Definition:** Energy derived from naturally replenished resources such as sunlight, wind, rain, and geothermal heat, which can be harnessed to generate electricity or heat.  
-**Domain:** General  
-**Synonyms:** Sustainable energy  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** Energy derived from naturally replenished resources such as sunlight, wind, rain, and geothermal heat, which can be harnessed to generate electricity or heat.
+**Domain:** General
+**Synonyms:** Sustainable energy
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
 
 ---
 
 ### Renewable Energy Systems
 
-**Definition:** Systems that generate energy from renewable sources such as solar, wind, or geothermal, used to meet energy demands sustainably.  
+**Definition:** Systems that generate energy from renewable sources such as solar, wind, or geothermal, used to meet energy demands sustainably.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Net Zero Energy Home, Solar Thermal (ST), Photovoltaic (PV)  
+**Related terms:** Net Zero Energy Home, Solar Thermal (ST), Photovoltaic (PV)
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -6681,11 +6561,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Renewable Energy Transition
 
-**Definition:** The shift from fossil fuel-based energy systems to renewable energy sources, such as solar and nuclear power, which is increasingly seen as both technically feasible and economically viable.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Energy Transition, Political Will  
+**Definition:** The shift from fossil fuel-based energy systems to renewable energy sources, such as solar and nuclear power, which is increasingly seen as both technically feasible and economically viable.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Energy Transition, Political Will
 **Source:** Global Warming and the Management of Zombies, Technological and Policy Solutions section, 2018
 
 ---
@@ -6694,7 +6574,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Internationally recognised methodological standards that provide businesses with standardised approaches for measuring and communicating sustainability performance in ESG disclosures.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** sustainability reporting frameworks; ESG reporting frameworks
 
@@ -6724,11 +6604,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Resource cycles of materials and energy
 
-**Definition:** Cycles involving the extraction, use, and regeneration of materials and energy to minimize waste and maximize resource efficiency.  
-**Domain:** General  
-**Synonyms:** Material and energy cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles  
+**Definition:** Cycles involving the extraction, use, and regeneration of materials and energy to minimize waste and maximize resource efficiency.
+**Domain:** General
+**Synonyms:** Material and energy cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.3, 2026
 
 ---
@@ -6753,7 +6633,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The proportion of a hardware device's total available resources that are reserved for use by a given software application, used as a factor in allocating total embodied emissions to that application.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -6769,7 +6649,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A set of standards and expectations for enterprises to act in accordance with applicable laws and internationally recognised principles covering social, environmental, governance, and human rights dimensions of business operations.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** Corporate Responsibility, Corporate Social Responsibility
 
@@ -6785,7 +6665,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The ordering of identified adverse impacts by degree of significance, used within the due diligence process to determine the sequence in which an enterprise is to address those impacts.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** impact prioritisation
 
@@ -6799,11 +6679,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Roadmap
 
-**Definition:** A strategic plan outlining the steps, timelines, and resources required to achieve specific goals, such as full compliance with the Enhanced Transparency Framework (ETF) and the implementation of a national Measurement, Reporting, and Verification (MRV) system.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Policy Recommendations  
+**Definition:** A strategic plan outlining the steps, timelines, and resources required to achieve specific goals, such as full compliance with the Enhanced Transparency Framework (ETF) and the implementation of a national Measurement, Reporting, and Verification (MRV) system.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Policy Recommendations
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -6812,7 +6692,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A standard-setting body that developed sector-specific guidance covering 77 industries to help companies disclose financially material ESG information relevant to investors, subsequently merged into the ISSB with its industry-specific guidance incorporated into the ISSB standards framework.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** Sustainability Accounting Standards Board
 
@@ -6828,7 +6708,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A domain-specific extension of the SCI framework, published by the Green Software Foundation, that provides a standardised methodology for measuring and reporting carbon emissions associated with AI systems throughout their lifecycle, including persona-based system boundaries, lifecycle stages, and functional units applicable to machine learning, generative AI, and agentic AI.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** Software Carbon Intensity for Artificial Intelligence Specification
 
@@ -6844,7 +6724,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A climate target aligned with the levels of decarbonisation required to meet the goals of the Paris Agreement, focused on the elimination of emissions rather than their neutralisation through offsets, referenced in the SCI specification as a framework with which the SCI is designed to be compatible.
 
-**Domain:** General
+**Domain:** TCFD
 
 **Synonyms:** science-based target framework, science-based targets, SBTs
 
@@ -6860,7 +6740,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An international body that defines and promotes best-practice standards for corporate greenhouse gas emission reduction targets aligned with climate science, providing the methodology underpinning science-based targets adopted by companies disclosing through frameworks such as CDP.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** SBTi
 
@@ -6874,33 +6754,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Scope 1 Emissions
 
-**Definition:** Direct greenhouse gas emissions from sources owned or controlled by an organization, such as on-campus fossil fuel combustion.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Scope 2 Emissions, Scope 3 Emissions, Greenhouse Gas Protocol  
+**Definition:** Direct greenhouse gas emissions from sources owned or controlled by an organization, such as on-campus fossil fuel combustion.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Scope 2 Emissions, Scope 3 Emissions, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
 
 ---
 
 ### Scope 2 Emissions
 
-**Definition:** Indirect greenhouse gas emissions from the consumption of purchased energy, such as electricity, gas, and steam, by an organization.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Scope 1 Emissions, Scope 3 Emissions, Greenhouse Gas Protocol  
+**Definition:** Indirect greenhouse gas emissions from the consumption of purchased energy, such as electricity, gas, and steam, by an organization.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Scope 1 Emissions, Scope 3 Emissions, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
 
 ---
 
 ### Scope 3 Emissions
 
-**Definition:** Indirect greenhouse gas emissions from activities not directly owned or controlled by an organization, such as commuting, study abroad, and business travel.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Scope 1 Emissions, Scope 2 Emissions, Greenhouse Gas Protocol  
+**Definition:** Indirect greenhouse gas emissions from activities not directly owned or controlled by an organization, such as commuting, study abroad, and business travel.
+**Domain:** GHG
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Scope 1 Emissions, Scope 2 Emissions, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
 
 ---
@@ -6915,7 +6795,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** none
 
-**Related terms:** [[Greenhouse gas emissions]], [[Value chain]], [[Basic Module (VSME)]]
+**Related terms:** [[Greenhouse Gas (GHG) Emissions]], [[Value chain]], [[Basic Module (VSME)]]
 
 **Source:** Voluntary SME Standard (VSME), Principles for preparing the sustainability report – Qualitative characteristics, 2026
 
@@ -6939,26 +6819,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sea Level Rise
 
-**Definition:** The increase in the level of the ocean due to the melting of glaciers and polar ice caps, contributing to coastal flooding and affecting marine ecosystems.  
-**Domain:** General  
-**Synonyms:** Rising sea levels, coastal flooding  
-**Abbreviation:** none  
-**Related terms:** Climate Change, Global Warming, Ocean Acidification  
+**Definition:** The increase in the level of the ocean due to the melting of glaciers and polar ice caps, contributing to coastal flooding and affecting marine ecosystems.
+**Domain:** General
+**Synonyms:** Rising sea levels, coastal flooding
+**Abbreviation:** none
+**Related terms:** Climate Change, Global Warming, Ocean Acidification
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
 
 ### Seasonal Heat Storage
 
-**Definition:** A system that stores thermal energy over extended periods, typically using materials like soil or water, to balance seasonal energy demand and supply.  
+**Definition:** A system that stores thermal energy over extended periods, typically using materials like soil or water, to balance seasonal energy demand and supply.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Seasonal Thermal Storage  
+**Synonyms:** Seasonal Thermal Storage
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Solar Thermal (ST), Renewable Energy Systems, Net Zero Energy Home  
+**Related terms:** Solar Thermal (ST), Renewable Energy Systems, Net Zero Energy Home
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -6966,33 +6846,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sections
 
-**Definition:** Different sections of data, including geo-location, numbers, ranges, lists, units of measure, assignment operators, and mathematical operators, used in GHG data characterization.  
-**Domain:** General  
-**Synonyms:** Data Segments  
-**Abbreviation:** none  
-**Related terms:** Extended Search, Regular Expressions, GHG Data  
+**Definition:** Different sections of data, including geo-location, numbers, ranges, lists, units of measure, assignment operators, and mathematical operators, used in GHG data characterization.
+**Domain:** GHG
+**Synonyms:** Data Segments
+**Abbreviation:** none
+**Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
 
 ---
 
 ### Segmental Discourse
 
-**Definition:** A circular economy discourse that focuses exclusively on the technical, industrial, and business components of circularity, aiming to improve resource efficiency without addressing socio-political implications.  
-**Domain:** General  
-**Synonyms:** Technical Discourse, Industrial Discourse  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Holistic Discourse, Discourse Analysis  
+**Definition:** A circular economy discourse that focuses exclusively on the technical, industrial, and business components of circularity, aiming to improve resource efficiency without addressing socio-political implications.
+**Domain:** General
+**Synonyms:** Technical Discourse, Industrial Discourse
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Holistic Discourse, Discourse Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
 
 ### Sendai Framework for Disaster Risk Reduction
 
-**Definition:** A global agreement adopted in 2015 to reduce disaster risk and losses in life and property, promoting resilience to disasters and integrating disaster risk reduction into sustainable development.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Climate Governance, United Nations Framework Convention on Climate Change (UNFCCC), 2030 Agenda for Sustainable Development  
+**Definition:** A global agreement adopted in 2015 to reduce disaster risk and losses in life and property, promoting resilience to disasters and integrating disaster risk reduction into sustainable development.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Climate Governance, United Nations Framework Convention on Climate Change (UNFCCC), 2030 Agenda for Sustainable Development
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -7031,15 +6911,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Shortening Rules
 
-**Definition:** Rules designed to reduce the size of unstructured data while preserving essential information for GHG accounting and reporting.  
+**Definition:** Rules designed to reduce the size of unstructured data while preserving essential information for GHG accounting and reporting.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Data compression rules, information retention rules  
+**Synonyms:** Data compression rules, information retention rules
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Characterization, Data standardization, Emission Factors Database  
+**Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 3, 2026
 
@@ -7049,7 +6929,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An EU funding programme supporting the functioning of the internal market, under which EFRAG receives financial support from the European Union, with participation also from EEA–EFTA countries and Kosovo.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -7065,7 +6945,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A browser-based web application architectural pattern in which content and functionality are rendered and updated dynamically within a single HTML page through client-side execution, falling within the scope of the SCI for Web specification.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -7081,7 +6961,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** Businesses that fall below defined thresholds for staff headcount and financial turnover or balance sheet total, representing the primary target audience of the ESG Business Handbook for the purposes of ESG implementation guidance in Bosnia and Herzegovina.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** SMEs, small and medium-sized enterprises
 
@@ -7143,11 +7023,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Social cycles of care
 
-**Definition:** Cycles encompassing the provision, distribution, and impact of care on social cohesion and resilience as a fundamental aspect of human relationships and societal well-being.  
-**Domain:** General  
-**Synonyms:** Care cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Socio-ecological cycles  
+**Definition:** Cycles encompassing the provision, distribution, and impact of care on social cohesion and resilience as a fundamental aspect of human relationships and societal well-being.
+**Domain:** General
+**Synonyms:** Care cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.7, 2026
 
 ---
@@ -7156,7 +7036,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A subset of ESG standards that assess a business's impact on society, encompassing labour and human rights, inclusion, equality, and community development across operations and supply chains.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Social criteria, social performance standards
 
@@ -7186,11 +7066,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Socio-ecological cycles
 
-**Definition:** Interconnected cycles and flows that operate within human societies and the planet, essential for understanding circularity and its implications for sustainability.  
-**Domain:** General  
-**Synonyms:** Socio-ecological systems, Ecological and social cycles  
-**Abbreviation:** none  
-**Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles, Resource cycles of materials and energy, Political cycles of power, Economic cycles of wealth, capital, and money, Knowledge cycle of technology, information, and education, Social cycles of care  
+**Definition:** Interconnected cycles and flows that operate within human societies and the planet, essential for understanding circularity and its implications for sustainability.
+**Domain:** General
+**Synonyms:** Socio-ecological systems, Ecological and social cycles
+**Abbreviation:** none
+**Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles, Resource cycles of materials and energy, Political cycles of power, Economic cycles of wealth, capital, and money, Knowledge cycle of technology, information, and education, Social cycles of care
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3, 2026
 
 ---
@@ -7199,7 +7079,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The defined set of software components included within the scope of an SCI calculation, established in the first step of the SCI calculation procedure to determine which system elements contribute to the reported score.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** system boundary
 
@@ -7215,7 +7095,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A methodology developed by the Green Software Foundation for quantifying the carbon emissions associated with software systems, expressed as a rate of carbon per unit of functional value delivered.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -7231,7 +7111,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A domain-specific extension of the SCI specification developed by the Green Software Foundation that establishes requirements for measuring the carbon intensity of browser-based web applications spanning both server-side infrastructure and client-side browser execution environments.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** SCI for Web specification
 
@@ -7245,26 +7125,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Soil Carbon Loss
 
-**Definition:** The reduction in soil carbon content resulting from deforestation, particularly when land is converted to agricultural or settlement uses, with emission factors varying by soil type and management practices.  
-**Domain:** General  
-**Synonyms:** Soil carbon depletion, carbon loss from soil  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Land Use Change  
+**Definition:** The reduction in soil carbon content resulting from deforestation, particularly when land is converted to agricultural or settlement uses, with emission factors varying by soil type and management practices.
+**Domain:** GHG
+**Synonyms:** Soil carbon depletion, carbon loss from soil
+**Abbreviation:** none
+**Related terms:** Deforestation, Land Use Change
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Soil Carbon Sequestration
 
-**Definition:** The process of capturing and storing carbon in soil through natural processes or agricultural practices, enhancing the soil's ability to act as a carbon sink.  
+**Definition:** The process of capturing and storing carbon in soil through natural processes or agricultural practices, enhancing the soil's ability to act as a carbon sink.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Soil carbon storage, carbon sequestration in soil  
+**Synonyms:** Soil carbon storage, carbon sequestration in soil
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon dioxide removal, Reforestation, Carbon capture and storage  
+**Related terms:** Carbon dioxide removal, Reforestation, Carbon capture and storage
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Removal (CDR) Strategies, 2024
 
@@ -7272,26 +7152,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Solar Activity
 
-**Definition:** Fluctuations in the Sun's radiation output, particularly sunspot activity, which can influence the Earth's climate and contribute to global warming.  
-**Domain:** General  
-**Synonyms:** Solar irradiance, sunspot activity  
-**Abbreviation:** none  
-**Related terms:** Natural Factors, Climate Change  
+**Definition:** Fluctuations in the Sun's radiation output, particularly sunspot activity, which can influence the Earth's climate and contribute to global warming.
+**Domain:** General
+**Synonyms:** Solar irradiance, sunspot activity
+**Abbreviation:** none
+**Related terms:** Natural Factors, Climate Change
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Solar Thermal (ST)
 
-**Definition:** A system that captures and utilizes solar energy in the form of heat for domestic hot water or space heating.  
+**Definition:** A system that captures and utilizes solar energy in the form of heat for domestic hot water or space heating.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Solar Thermal System  
+**Synonyms:** Solar Thermal System
 
-**Abbreviation:** ST  
+**Abbreviation:** ST
 
-**Related terms:** Photovoltaic (PV), Renewable Energy Systems, Net Zero Energy Home  
+**Related terms:** Photovoltaic (PV), Renewable Energy Systems, Net Zero Energy Home
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -7299,26 +7179,26 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Solid fossil fuels
 
-**Definition:** Fossil fuels in solid form, such as coal, which are significant sources of greenhouse gas emissions.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Greenhouse gas emissions, Supply and consumption  
+**Definition:** Fossil fuels in solid form, such as coal, which are significant sources of greenhouse gas emissions.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Greenhouse gas emissions, Supply and consumption
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
 
 ### Sovereignty and Responsibility
 
-**Definition:** The tension between a state's right to govern its territory and its responsibility to address transnational challenges such as climate-induced migration.  
+**Definition:** The tension between a state's right to govern its territory and its responsibility to address transnational challenges such as climate-induced migration.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** State Sovereignty vs. Global Responsibility, Sovereignty-Responsibility Dilemma  
+**Synonyms:** State Sovereignty vs. Global Responsibility, Sovereignty-Responsibility Dilemma
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Climate-Induced Migration, Saudi Arabia, Bilateral Cooperation, International Law  
+**Related terms:** Climate-Induced Migration, Saudi Arabia, Bilateral Cooperation, International Law
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 3, 2026
 
@@ -7326,11 +7206,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### SPSS
 
-**Definition:** A statistical software package used for data analysis, including regression models to assess factors influencing greenhouse gas emissions.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** SPSS  
-**Related terms:** Linear regression analysis, Greenhouse gas emissions  
+**Definition:** A statistical software package used for data analysis, including regression models to assess factors influencing greenhouse gas emissions.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** SPSS
+**Related terms:** Linear regression analysis, Greenhouse gas emissions
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
@@ -7339,7 +7219,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An individual or organization with an interest in or affected by a particular issue, such as SME financing and reporting.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** Interested Party, Participant
 
@@ -7355,7 +7235,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of engaging with stakeholders to exchange information, manage expectations, and build relationships that support sustainability objectives.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** Stakeholder Engagement
 
@@ -7369,37 +7249,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Stakeholder Engagement
 
-**Definition:** The process of involving and collaborating with relevant parties, including government institutions, NGOs, and the private sector, to ensure the effective implementation of climate initiatives.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Capacity Building  
+**Definition:** The process of involving and collaborating with relevant parties, including government institutions, NGOs, and the private sector, to ensure the effective implementation of climate initiatives.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Capacity Building
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
 ### Standard Climate Paradigm
 
-**Definition:** A framework used to model and predict climate behavior, particularly focusing on the Earth's energy balance and the effects of greenhouse gases, by simplifying the atmosphere to a two-dimensional sheet.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Two Flatteners, Radiative Transfer, Climate Sensitivity  
+**Definition:** A framework used to model and predict climate behavior, particularly focusing on the Earth's energy balance and the effects of greenhouse gases, by simplifying the atmosphere to a two-dimensional sheet.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Two Flatteners, Radiative Transfer, Climate Sensitivity
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
 
 ### Strategic Management
 
-**Definition:** The process of planning, organizing, and controlling an organization's resources to achieve its goals.  
+**Definition:** The process of planning, organizing, and controlling an organization's resources to achieve its goals.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Corporate sustainability, Sustainability strategy, Organizational culture, Employee motivation, Corporate Sustainability Strategy Implementation  
+**Related terms:** Corporate sustainability, Sustainability strategy, Organizational culture, Employee motivation, Corporate Sustainability Strategy Implementation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -7407,11 +7287,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Strategic Management Accounting (SMA)
 
-**Definition:** A management accounting approach that integrates customer, competitor, market, planning, and performance control data to support strategic decision-making.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Management Accounting, Strategic Decision-Making  
+**Definition:** A management accounting approach that integrates customer, competitor, market, planning, and performance control data to support strategic decision-making.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Management Accounting, Strategic Decision-Making
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
@@ -7420,7 +7300,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A theoretical framework that integrates organizational resources and capabilities with sustainability dimensions to support sustainable strategy development, emphasizing long-term value appropriation by stakeholders.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** None
 
@@ -7436,7 +7316,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The purposeful use of communication to support sustainability objectives, whether through the transmission of information or the co-creation of shared narratives.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** None
 
@@ -7452,7 +7332,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A state that has formally adhered to the OECD Declaration on International Investment and Multinational Enterprises and thereby commits to promoting the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct within its territory.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** Adhering Country
 
@@ -7482,11 +7362,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Substitution effect
 
-**Definition:** A shift in demand from one product or service to another due to changes in relative prices or availability, often observed in the context of energy sources.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Green tax, Brown energy  
+**Definition:** A shift in demand from one product or service to another due to changes in relative prices or availability, often observed in the context of energy sources.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Green tax, Brown energy
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
@@ -7509,15 +7389,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Super Critical Fluid
 
-**Definition:** A state of matter where a substance exists as a fluid above its critical temperature and pressure, commonly used in CO₂ capture and storage processes.  
+**Definition:** A state of matter where a substance exists as a fluid above its critical temperature and pressure, commonly used in CO₂ capture and storage processes.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** none  
+**Synonyms:** none
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Carbon Capture and Utilization (CCUS), Geological Sequestration, CO₂ Capture  
+**Related terms:** Carbon Capture and Utilization (CCUS), Geological Sequestration, CO₂ Capture
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
 
@@ -7527,7 +7407,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process by which a business identifies, assesses, prevents, and mitigates actual and potential adverse human rights and environmental impacts arising across its supply chain, as required under frameworks such as the CSDDD and UNGPs.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** value chain due diligence, human rights due diligence
 
@@ -7559,7 +7439,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A normative principle that shapes communication and organizational practices, guiding behavior toward ecological and societal imperatives.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** Sustainable development
 
@@ -7607,7 +7487,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The integration of sustainability principles into organizational strategies and operations to achieve long-term ecological and societal goals.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** Sustainable Management
 
@@ -7623,7 +7503,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The disclosure of information related to an organization's environmental, social, and governance (ESG) performance.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** none
 
@@ -7639,7 +7519,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A structured standard or guideline that organisations use to disclose their environmental, social, and governance performance to investors, regulators, and other stakeholders in a standardised and comparable manner.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** ESG reporting framework, sustainability disclosure standard
 
@@ -7669,15 +7549,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sustainability Strategy
 
-**Definition:** A plan that outlines how an organization will achieve its sustainability goals.  
+**Definition:** A plan that outlines how an organization will achieve its sustainability goals.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** None  
+**Synonyms:** None
 
-**Abbreviation:** None  
+**Abbreviation:** None
 
-**Related terms:** Corporate sustainability, Strategic management, Corporate Sustainability Strategy Implementation, Organizational culture, Employee motivation  
+**Related terms:** Corporate sustainability, Strategic management, Corporate Sustainability Strategy Implementation, Organizational culture, Employee motivation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
@@ -7701,33 +7581,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sustainable Development
 
-**Definition:** Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, emphasizing both economic and environmental considerations.  
-**Domain:** General  
-**Synonyms:** Sustainable growth, environmental sustainability  
-**Abbreviation:** SD  
-**Related terms:** Environmental sustainability, Materiality (ESRS)  
+**Definition:** Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, emphasizing both economic and environmental considerations.
+**Domain:** ESRS
+**Synonyms:** Sustainable growth, environmental sustainability
+**Abbreviation:** SD
+**Related terms:** Environmental sustainability, Materiality (ESRS)
 **Source:** United Nations World Commission on Environment and Development, 1987
 
 ---
 
 ### Sustainable Development Goals (SDGs)
 
-**Definition:** A set of 17 global objectives adopted by the United Nations in 2015 to address pressing challenges such as poverty, hunger, inequality, and climate change.  
-**Domain:** SDG  
-**Synonyms:** Global Goals, UN SDGs  
-**Abbreviation:** SDGs  
-**Related terms:** Leverage points, Systems thinking, Global governance  
+**Definition:** A set of 17 global objectives adopted by the United Nations in 2015 to address pressing challenges such as poverty, hunger, inequality, and climate change.
+**Domain:** SDG
+**Synonyms:** Global Goals, UN SDGs
+**Abbreviation:** SDGs
+**Related terms:** Leverage points, Systems thinking, Global governance
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
 
 ### Sustainable finance
 
-**Definition:** A financial system that integrates environmental, social, and governance (ESG) factors into investment and banking practices to promote long-term sustainability and responsible economic growth.  
-**Domain:** General  
-**Synonyms:** Responsible finance  
-**Abbreviation:** none  
-**Related terms:** Green banking, Climate risk governance  
+**Definition:** A financial system that integrates environmental, social, and governance (ESG) factors into investment and banking practices to promote long-term sustainability and responsible economic growth.
+**Domain:** General
+**Synonyms:** Responsible finance
+**Abbreviation:** none
+**Related terms:** Green banking, Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
 
 ---
@@ -7784,7 +7664,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process of artificially producing data for use in AI model training or evaluation, rather than collecting it from real-world sources, constituting a component of both the Design and Development lifecycle stage and the Provider boundary for SCI carbon accounting purposes.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** synthetic data creation
 
@@ -7814,11 +7694,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Systems Thinking
 
-**Definition:** A theoretical framework that examines the structure and behavior of systems, emphasizing the importance of understanding interactions and feedback loops to drive systemic change.  
-**Domain:** General  
-**Synonyms:** Systems theory  
-**Abbreviation:** none  
-**Related terms:** Leverage points, Sustainable Development Goals (SDGs), Global governance  
+**Definition:** A theoretical framework that examines the structure and behavior of systems, emphasizing the importance of understanding interactions and feedback loops to drive systemic change.
+**Domain:** SDG
+**Synonyms:** Systems theory
+**Abbreviation:** none
+**Related terms:** Leverage points, Sustainable Development Goals (SDGs), Global governance
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
 
 ---
@@ -7857,11 +7737,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Taskforce on Climate-related Financial Disclosures (TCFD)
 
-**Definition:** A global initiative that provides a framework for organizations to disclose climate-related financial risks and opportunities, now mandatory in several major jurisdictions.  
-**Domain:** TCFD  
-**Synonyms:** none  
-**Abbreviation:** TCFD  
-**Related terms:** Network for Greening the Financial System (NGFS), Climate risk governance  
+**Definition:** A global initiative that provides a framework for organizations to disclose climate-related financial risks and opportunities, now mandatory in several major jurisdictions.
+**Domain:** TCFD
+**Synonyms:** none
+**Abbreviation:** TCFD
+**Related terms:** Network for Greening the Financial System (NGFS), Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
 
 ---
@@ -7900,37 +7780,37 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Technocentric Circular Economy
 
-**Definition:** A circular economy discourse that aims to reconcile economic and environmental imperatives through technological innovations, particularly in biotechnology, renewable energy, and resource recovery.  
-**Domain:** General  
-**Synonyms:** Technological Discourse, Innovation-Driven Circular Economy  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Reformist Circular Society, Transformational Circular Society  
+**Definition:** A circular economy discourse that aims to reconcile economic and environmental imperatives through technological innovations, particularly in biotechnology, renewable energy, and resource recovery.
+**Domain:** General
+**Synonyms:** Technological Discourse, Innovation-Driven Circular Economy
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Reformist Circular Society, Transformational Circular Society
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
 
 ### Thermal Blanket
 
-**Definition:** A metaphor used in climate science to describe the atmosphere's role in retaining heat, which the author argues is a dimensional category error and an artificial construct of two-dimensional models.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Greenhouse effect, Radiative transfer, Climate models  
+**Definition:** A metaphor used in climate science to describe the atmosphere's role in retaining heat, which the author argues is a dimensional category error and an artificial construct of two-dimensional models.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Greenhouse effect, Radiative transfer, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "Background", 2026
 
 ---
 
 ### Thermal Inertia
 
-**Definition:** The ability of a material to absorb, store, and release heat over time, used to stabilize indoor temperatures.  
+**Definition:** The ability of a material to absorb, store, and release heat over time, used to stabilize indoor temperatures.
 
-**Domain:** General  
+**Domain:** General
 
-**Synonyms:** Thermal Mass  
+**Synonyms:** Thermal Mass
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Net Zero Energy Home, Passive House, Building Design  
+**Related terms:** Net Zero Energy Home, Passive House, Building Design
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 3, 2012
 
@@ -7938,11 +7818,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Third-Party Audits
 
-**Definition:** Independent assessments conducted by external auditors to evaluate the accuracy, completeness, and compliance of Measurement, Reporting, and Verification (MRV) systems.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, External Verification  
+**Definition:** Independent assessments conducted by external auditors to evaluate the accuracy, completeness, and compliance of Measurement, Reporting, and Verification (MRV) systems.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, External Verification
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -7951,7 +7831,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The proportion of a hardware device's total lifespan that is reserved for use by a given software application, used as a factor in allocating total embodied emissions to that application.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -7967,7 +7847,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A carbon awareness action whereby computation is scheduled to coincide with periods when the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** temporal shifting
 
@@ -7981,22 +7861,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Timeframe for Emission Estimates
 
-**Definition:** The period over which deforestation and carbon release are measured, essential for accurate estimation of GHG emissions.  
-**Domain:** General  
-**Synonyms:** Emission estimation period, carbon release timeframe  
-**Abbreviation:** none  
-**Related terms:** Deforestation, Carbon Emissions  
+**Definition:** The period over which deforestation and carbon release are measured, essential for accurate estimation of GHG emissions.
+**Domain:** GHG
+**Synonyms:** Emission estimation period, carbon release timeframe
+**Abbreviation:** none
+**Related terms:** Deforestation, Carbon Emissions
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
 
 ---
 
 ### Tipping Points (Climate Science)
 
-**Definition:** Critical thresholds in the Earth's climate system beyond which significant and potentially irreversible changes may occur, often associated with positive feedback mechanisms.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Positive Feedback Mechanisms, Global Warming  
+**Definition:** Critical thresholds in the Earth's climate system beyond which significant and potentially irreversible changes may occur, often associated with positive feedback mechanisms.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Positive Feedback Mechanisms, Global Warming
 **Source:** Global Warming and the Management of Zombies, Scientific Understanding and Feedback Mechanisms section, 2018
 
 ---
@@ -8005,7 +7885,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The atomic unit of text processing in language models, typically representing parts of words or characters, used as a functional unit for measuring the carbon intensity of language model inference.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -8021,7 +7901,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The sum of Life Cycle Assessment (LCA) emissions for all hardware components associated with a software system, used as the basis for calculating the embodied emissions (M) attributable to a software application.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** none
 
@@ -8035,15 +7915,15 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Transformation Rules
 
-**Definition:** Guidelines or algorithms used to clean, parametrize, and standardize data during the GHG accounting process.  
+**Definition:** Guidelines or algorithms used to clean, parametrize, and standardize data during the GHG accounting process.
 
-**Domain:** General  
+**Domain:** GHG
 
-**Synonyms:** Data cleaning rules, standardization rules  
+**Synonyms:** Data cleaning rules, standardization rules
 
-**Abbreviation:** none  
+**Abbreviation:** none
 
-**Related terms:** Characterization, Data standardization, Emission Factors Database  
+**Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 3, 2026
 
@@ -8051,11 +7931,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Transformational Circular Society
 
-**Definition:** A circular economy discourse that seeks to completely reconfigure the current societal system, democratize and redistribute wealth and power, and achieve mutual harmony between humanity and nature.  
-**Domain:** General  
-**Synonyms:** Radical Circular Society, Socio-Ecological Discourse  
-**Abbreviation:** none  
-**Related terms:** Circular Economy Discourse, Reformist Circular Society, Fortress Circular Economy  
+**Definition:** A circular economy discourse that seeks to completely reconfigure the current societal system, democratize and redistribute wealth and power, and achieve mutual harmony between humanity and nature.
+**Domain:** General
+**Synonyms:** Radical Circular Society, Socio-Ecological Discourse
+**Abbreviation:** none
+**Related terms:** Circular Economy Discourse, Reformist Circular Society, Fortress Circular Economy
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
@@ -8110,39 +7990,23 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Transport-Related Changes
 
-**Definition:** Modifications to transportation systems and practices aimed at reducing carbon emissions and promoting sustainable mobility.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Climate emergency, Radical action  
+**Definition:** Modifications to transportation systems and practices aimed at reducing carbon emissions and promoting sustainable mobility.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "How Climate Change Is Framed", 2020
 
 ---
 
 ### Transportation
 
-**Definition:** The movement of people and goods via land, water, and air transport systems, which accounts for a significant portion of global carbon dioxide emissions.  
-**Domain:** General  
-**Synonyms:** Transport, mobility  
-**Abbreviation:** none  
-**Related terms:** Anthropogenic Factors, Greenhouse Gas  
+**Definition:** The movement of people and goods via land, water, and air transport systems, which accounts for a significant portion of global carbon dioxide emissions.
+**Domain:** General
+**Synonyms:** Transport, mobility
+**Abbreviation:** none
+**Related terms:** Anthropogenic Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
-
----
-
-### Triple Bottom Line
-
-**Definition:** A framework that frames corporate sustainability in terms of economic, environmental, and social dimensions.  
-
-**Domain:** General  
-
-**Synonyms:** None  
-
-**Abbreviation:** TBL  
-
-**Related terms:** Corporate sustainability, Strategic management, Sustainability strategy, Organizational culture, Employee motivation  
-
-**Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
 ---
 
@@ -8164,22 +8028,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Two Flatteners
 
-**Definition:** Two methodologies, HITRAN and the Beer-Lambert Law, that contribute to the reduction of the atmosphere to a two-dimensional sheet by simplifying its three-dimensional properties.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** HITRAN, Beer-Lambert Law, Radiative Transfer  
+**Definition:** Two methodologies, HITRAN and the Beer-Lambert Law, that contribute to the reduction of the atmosphere to a two-dimensional sheet by simplifying its three-dimensional properties.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** HITRAN, Beer-Lambert Law, Radiative Transfer
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
 
 ### Two-Dimensional Sheet
 
-**Definition:** A simplified representation of the atmosphere used in the standard climate paradigm, which reduces the complex three-dimensional dynamics of the atmosphere to a two-dimensional projection.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Standard Climate Paradigm, HITR, Beer-Lambert Law  
+**Definition:** A simplified representation of the atmosphere used in the standard climate paradigm, which reduces the complex three-dimensional dynamics of the atmosphere to a two-dimensional projection.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Standard Climate Paradigm, HITR, Beer-Lambert Law
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
@@ -8188,7 +8052,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A voluntary corporate sustainability initiative that aligns business strategies and operations with universal principles on human rights, labour, environment, and anti-corruption.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** UNGC, Global Compact
 
@@ -8204,7 +8068,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An international framework establishing the respective responsibilities of states to protect and businesses to respect human rights, and the need for access to remedy for those whose rights are violated.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** UNGPs, Ruggie Principles
 
@@ -8216,7 +8080,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### United Nations Framework Convention on Climate Change
+### United Nations Framework Convention on Climate Change (UNFCCC)
 
 **Definition:** The international environmental treaty under which the Paris Agreement was adopted, providing the overarching legal framework for global cooperation on limiting climate change.
 
@@ -8226,20 +8090,9 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Abbreviation:** UNFCCC
 
-**Related terms:** [[Paris Agreement]], [[Environmental Standards]], [[Greenhouse Gas Emissions (GHG Emissions)]]
+**Related terms:** [[Paris Agreement]], [[Environmental Standards]], [[Greenhouse Gas (GHG) Emissions]]
 
 **Source:** ESG Business Handbook.pdf, International Frameworks – Paris Agreement, 2026
-
----
-
-### United Nations Framework Convention on Climate Change (UNFCCC)
-
-**Definition:** An international treaty adopted in 1992 to address climate change by promoting cooperation among nations to stabilize greenhouse gas concentrations in the atmosphere.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** UNFCCC  
-**Related terms:** Kyoto Protocol, Paris Agreement, Climate Governance  
-**Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
 
@@ -8247,7 +8100,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A framework endorsed by the United Nations Human Rights Council in 2011 that articulates the respective duties of states and responsibilities of businesses with regard to human rights, placing due diligence at the core of responsible enterprise behaviour.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** UN Guiding Principles on Business and Human Rights
 
@@ -8279,7 +8132,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The portion of a value chain that encompasses suppliers, raw material extractors, and other entities providing inputs to a company prior to its own operations, subject to specific scope provisions under the Forced Labour Regulation and other EU due diligence instruments.
 
-**Domain:** General
+**Domain:** CSRD
 
 **Synonyms:** upstream value chain
 
@@ -8311,7 +8164,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** The process through which an organization generates value for the enterprise and fosters value appropriation by customers, viewed through economic, social, and sustainable perspectives.
 
-**Domain:** General
+**Domain:** SDG
 
 **Synonyms:** None
 
@@ -8341,22 +8194,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Volcanic Eruptions
 
-**Definition:** Natural events that release carbon dioxide and aerosols into the atmosphere, contributing to long-term warming by trapping heat and reducing the Earth's ability to radiate it back into space.  
-**Domain:** General  
-**Synonyms:** Volcanic activity, eruptions  
-**Abbreviation:** none  
-**Related terms:** Natural Factors, Greenhouse Gas  
+**Definition:** Natural events that release carbon dioxide and aerosols into the atmosphere, contributing to long-term warming by trapping heat and reducing the Earth's ability to radiate it back into space.
+**Domain:** General
+**Synonyms:** Volcanic activity, eruptions
+**Abbreviation:** none
+**Related terms:** Natural Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
 
 ### Volumetric Spatial Advantage
 
-**Definition:** A metric describing the extreme porosity of the atmosphere, calculated as the ratio of intermolecular space to particle size, indicating that the atmosphere is predominantly empty space.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Atmospheric physics, Greenhouse effect, Molecular Archipelago  
+**Definition:** A metric describing the extreme porosity of the atmosphere, calculated as the ratio of intermolecular space to particle size, indicating that the atmosphere is predominantly empty space.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Atmospheric physics, Greenhouse effect, Molecular Archipelago
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "A 99.999985% Vacuum (Atmospheric Porosity)", 2026
 
 ---
@@ -8429,7 +8282,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A proposed reporting framework designed to facilitate SME financing by providing quantitative and qualitative information about SMEs in a structured format.
 
-**Domain:** General
+**Domain:** ESRS
 
 **Synonyms:** SME Reporting Template, Voluntary SME Reporting Framework
 
@@ -8509,7 +8362,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A software application that delivers functional value to human users primarily through browser-based interfaces accessed via HTTP or HTTPS, where content rendering and execution occur within web browser environments and interfaces are designed for direct human interaction rather than exclusively machine-to-machine communication.
 
-**Domain:** General
+**Domain:** GHG
 
 **Synonyms:** browser-based application
 
@@ -8523,11 +8376,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Web Portal
 
-**Definition:** A digital platform that provides access to data, reports, and tools for monitoring and managing greenhouse gas emissions and climate actions.  
-**Domain:** General  
-**Synonyms:** None  
-**Abbreviation:** None  
-**Related terms:** Measurement, Reporting, and Verification (MRV), Database, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement  
+**Definition:** A digital platform that provides access to data, reports, and tools for monitoring and managing greenhouse gas emissions and climate actions.
+**Domain:** General
+**Synonyms:** None
+**Abbreviation:** None
+**Related terms:** Measurement, Reporting, and Verification (MRV), Database, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
@@ -8536,7 +8389,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** An individual who raises concerns about actual or potential misconduct by an enterprise, and who is afforded enhanced protection under the 2023 OECD Guidelines for Multinational Enterprises on Responsible Business Conduct as a person at risk.
 
-**Domain:** General
+**Domain:** OECD
 
 **Synonyms:** Person Raising Concerns
 
@@ -8566,11 +8419,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### World Bank
 
-**Definition:** An international financial institution that provides loans and grants to developing countries for projects aimed at reducing poverty and promoting sustainable development.  
-**Domain:** General  
-**Synonyms:** World Bank Group  
-**Abbreviation:** WB  
-**Related terms:** Energy Consumption, Data Sources  
+**Definition:** An international financial institution that provides loans and grants to developing countries for projects aimed at reducing poverty and promoting sustainable development.
+**Domain:** General
+**Synonyms:** World Bank Group
+**Abbreviation:** WB
+**Related terms:** Energy Consumption, Data Sources
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
@@ -8579,7 +8432,7 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 **Definition:** A standardized format for digital business reporting, used to structure and exchange financial and non-financial data.
 
-**Domain:** General
+**Domain:** VSME
 
 **Synonyms:** none
 
@@ -8593,22 +8446,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Zeolite
 
-**Definition:** A microporous, aluminosilicate mineral that can selectively adsorb molecules based on size and shape due to its crystalline structure.  
-**Domain:** General  
-**Synonyms:** Zeolitic material, microporous material  
-**Abbreviation:** none  
-**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Metal-Organic Framework, Post-Combustion Carbon Capture  
+**Definition:** A microporous, aluminosilicate mineral that can selectively adsorb molecules based on size and shape due to its crystalline structure.
+**Domain:** General
+**Synonyms:** Zeolitic material, microporous material
+**Abbreviation:** none
+**Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
 
 ---
 
 ### Zombie Metaphor (Global Warming)
 
-**Definition:** A metaphor used to describe the slow, pervasive, and often unnoticed nature of global warming, emphasizing its gradual onset and the difficulty in halting its progression.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Global Warming, Feedback Mechanisms  
+**Definition:** A metaphor used to describe the slow, pervasive, and often unnoticed nature of global warming, emphasizing its gradual onset and the difficulty in halting its progression.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Global Warming, Feedback Mechanisms
 **Source:** Global Warming and the Management of Zombies, Background section, 2018
 
 ---
