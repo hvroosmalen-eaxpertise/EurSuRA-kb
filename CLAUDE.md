@@ -23,7 +23,14 @@ or `config/synthesis.yaml`.
   fails on any unresolved link. It also copies the shared Mermaid toolbar JS from
   `../kb-framework/assets/javascripts/` into `docs/assets/javascripts/` (gitignored)
   each build, so ` ```mermaid ` blocks (e.g. `docs/models/concept-map.md`) render
-  via `pymdownx.superfences`.
+  via `pymdownx.superfences`. It also publishes every ingested source in
+  `pipeline/processed/` under `assets/sources/` and injects a **Source document**
+  footer link into any page carrying `source_file:` frontmatter (issue #15).
+- **Rule — never lose ingested sources.** `pipeline/processed/` is load-bearing:
+  the published site links back to every file in it. It is gitignored, so the only
+  copy lives on the ingest host. Do not delete, rename, or re-sort files there;
+  moves break the footer link on every page that references the renamed source.
+  Keep a backup if the host is wiped.
 - Pipeline (from this directory):
   - `python ../kb-framework/pipeline/ingest.py --kb .`
   - `python ../kb-framework/pipeline/orchestrate.py --kb .`  (ingest inbox → finalise → commit → push)

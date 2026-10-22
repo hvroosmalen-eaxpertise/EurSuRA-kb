@@ -25,6 +25,7 @@ import logging
 from pathlib import Path, PurePosixPath
 
 from markdown.extensions.toc import slugify
+from mkdocs.structure.files import File
 
 log = logging.getLogger("mkdocs.plugins.eursura.wikilinks")
 
@@ -282,6 +283,32 @@ def _load_known_external(docs_dir):
     return ext
 
 
+def on_files(files, config, **kwargs):
+    """Expose every ingested source in ``pipeline/processed/`` (PDF or Markdown)
+    under ``assets/sources/`` so report pages can link back to the original
+    (issue #15). The folder is gitignored, so files only ship via the published
+    site — nothing is committed to the docs tree."""
+    processed = Path(config["docs_dir"]).parent / "pipeline" / "processed"
+    if not processed.is_dir():
+        return files
+    # Markdown sources are handled via a .md.txt rename so mkdocs treats them
+    # as static assets rather than pages (avoids a nav/plugin round-trip).
+    for src in list(processed.glob("*.pdf")) + list(processed.glob("*.md")):
+        published_name = src.name + ".txt" if src.suffix.lower() == ".md" else src.name
+        f = File(
+            path=f"assets/sources/{published_name}",
+            src_dir=str(processed.parent.parent),
+            dest_dir=config["site_dir"],
+            use_directory_urls=False,
+        )
+        # ``File`` resolves ``src_uri`` from ``src_dir`` + ``path`` — but our source
+        # lives at ``pipeline/processed/<name>`` while we publish it at
+        # ``assets/sources/<name>``. Point abs_src_path directly instead.
+        f.abs_src_path = str(src)
+        files.append(f)
+    return files
+
+
 def on_config(config, **kwargs):
     """Build the wikilink index once, before any page is rendered."""
     docs_dir = config["docs_dir"]
@@ -352,10 +379,35 @@ def _inject_meta(markdown, meta):
     return "\n".join(out) if injected else markdown
 
 
+def _inject_source_link(markdown, meta, current_dir, docs_dir):
+    """Append a 'Source document' footer link to the ingested source file, if
+    any (issue #15). The file itself is published by on_files() under
+    ``assets/sources/``; this just adds the visible link. Silent no-op if the
+    page has no ``source_file`` or the file is missing from ``pipeline/processed/``."""
+    source_file = (meta or {}).get("source_file")
+    if not source_file:
+        return markdown
+    src_path = Path(docs_dir).parent / "pipeline" / "processed" / source_file
+    if not src_path.is_file():
+        return markdown
+    published_name = (
+        source_file + ".txt" if source_file.lower().endswith(".md") else source_file
+    )
+    rel = os.path.relpath(f"assets/sources/{published_name}",
+                          str(current_dir)).replace("\\", "/")
+    footer = (
+        "\n\n---\n\n"
+        f"**Source document:** [{source_file}]({rel})"
+    )
+    return markdown.rstrip() + footer
+
+
 def on_page_markdown(markdown, page, config, **kwargs):
     src = page.file.src_path.replace("\\", "/")
     current_dir = PurePosixPath(src).parent
     markdown = _inject_meta(markdown, page.meta or {})
+    markdown = _inject_source_link(markdown, page.meta or {}, current_dir,
+                                   config["docs_dir"])
 
     def replace(match):
         # Inside Markdown tables the alias pipe is escaped as ``\|``; strip a
