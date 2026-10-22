@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-9
+  - SDG-14
 domain:
   - Climate
 summary: "Carbon dioxide (COâ‚‚) is a naturally occurring greenhouse gas that plays a critical role in the Earth's climate system. While essential for plant growth and the natural greenhouse effect, excessive concentrations of COâ‚‚ in the atmosphere have become a significant environmental concern due to human-induced emissions."
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Carbon_Di_Oxide_a_Fact_and_an_Ecological.pdf
 ---
-
 # Carbon Dioxide: A Fact and an Ecological Balance
  Carbon dioxide (COâ‚‚) is a naturally occurring greenhouse gas that plays a critical role in the Earth's climate system. While essential for plant growth and the natural greenhouse effect, excessive concentrations of COâ‚‚ in the atmosphere have become a significant environmental concern due to human-induced emissions. These emissions, primarily from fossil fuel combustion, industrial processes, and deforestation, have contributed to global warming and climate change. The safe level of atmospheric COâ‚‚ is estimated to be around 350 parts per million (ppm), with levels exceeding this threshold leading to increased global temperatures and ecological disruptions.
  ## Background

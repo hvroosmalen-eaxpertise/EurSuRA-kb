@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-9
+  - SDG-8
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "An integrated view of EU sustainability legislation — the due-dilige
 domain:
 - CSRD
 ---
-
 # EU Sustainability Legislation: An Integrated Compliance Framework
 
 EU sustainability legislation encompasses a growing body of European Union directives and regulations that impose due diligence, reporting, and product-specific obligations on companies operating within or supplying to the European market. An integrated approach to this legislation—drawing on the Organisation for Economic Co-operation and Development (OECD) six-step due diligence framework as a common foundation—enables companies to reduce duplicated effort, manage supply chain risks, and fulfil multiple regulatory obligations through a single coherent process.[^1]

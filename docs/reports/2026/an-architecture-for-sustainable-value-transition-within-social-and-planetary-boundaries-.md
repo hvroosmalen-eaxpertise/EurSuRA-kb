@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-4
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "EFRAG's 2026 conceptual architecture for steering sustainable value tr
 domain:
 - ESRS
 ---
-
 # An Architecture for Sustainable Value Transition within Social and Planetary Boundaries
 
 ## Lead

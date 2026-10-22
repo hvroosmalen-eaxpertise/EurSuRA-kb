@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-7
+  - SDG-9
 domain:
   - Circular-Economy
   - Climate
@@ -9,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Analysing_European_Union_circular_econom.pdf
 ---
-
 # Circular Economy Policies of the European Union
 
 The European Union (EU) has embraced the circular economy (CE) as a central strategy for achieving sustainable development, aiming to create a "sustainable, low-carbon, resource-efficient and competitive economy" [^1]. Since the publication of the EU's Circular Economy Action Plan in 2015, the concept has become a guiding force in the environmental and economic policies of the Junker Commission (2014–2019). However, the CE remains a contested paradigm, with competing interpretations that reflect varying degrees of social, ecological, and political transformation [^2].

@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-8
 domain:
   - SDG
   - Climate
@@ -9,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Exploring_the_Role_of_Carbon_Taxation_Po.pdf
 ---
-
 # Carbon Taxation Policies and Their Impact on COâ‚‚ Emissions in European Countries
  Carbon taxation policies have been increasingly recognized as a policy tool to mitigate pollutant emissions in both developed and developing economies. This article explores the role of carbon tax reforms in improving environmental quality within European economies, focusing on the comparative analysis of carbon-tax implementation and non-implementation policies. The study employs the propensity score matching method to assess the effectiveness of carbon taxation in reducing carbon dioxide (COâ‚‚) emissions, offering new insights into the implications of environmental regulations for climate change and sustainability.
  ## Background

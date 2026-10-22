@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-9
+  - SDG-15
 domain:
   - Circular-Economy
   - Climate
@@ -9,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Transition_to_a_Sustainable_Circular_Soc.pdf
 ---
-
 # Transition to a Sustainable Circular Society: More than Just Resource Efficiency
 
 The concept of a circular economy (CE) has emerged as a central theme in contemporary sustainability discourse, offering a framework for rethinking economic systems to align with ecological and social well-being. While CE is often associated with resource efficiency, this opinion paper argues that a true transition to a sustainable circular society requires a broader understanding of socio-ecological cycles and their interconnections. By examining seven key cycles—biogeochemical, ecosystem, resource, power, wealth, knowledge, and care—this paper proposes a more holistic approach to circularity that addresses ecological, social, and political dimensions of sustainability.

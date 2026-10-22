@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-9
 domain:
   - Adjacent
 summary: 'Management accounting plays a critical role in strategic decision-making, particularly in project-oriented family companies, where economic information, field experience, project risk, and family values must be integrated.'
@@ -8,7 +10,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Management_Accounting_as_a_Strategic_Dec.pdf
 ---
-
 # Management Accounting as a Strategic Decision-Making Tool
 
 Management accounting plays a critical role in strategic decision-making, particularly in project-oriented family companies, where economic information, field experience, project risk, and family values must be integrated. This article explores how management accounting information is used, interpreted, and integrated in strategic decisions for the growth of PT Patra Anugrah Bakti, a family company engaged in construction and infrastructure services in East Kalimantan, Indonesia. The study highlights the dynamics of family company decision-making and the interplay between formal and informal control mechanisms in strategic processes [^1].

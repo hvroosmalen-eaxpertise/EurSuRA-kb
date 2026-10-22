@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-9
+  - SDG-15
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
@@ -8,7 +12,6 @@ summary: "An academic overview of sustainability management as a systems-based, 
 domain:
 - Sustainability Management
 ---
-
 # Sustainability Management: A Systems Approach
 
 Sustainability management is a multidisciplinary field that integrates environmental, social, and governance (ESG) considerations into organizational strategies and operations. This approach emphasizes the interconnectedness of systems and the need for holistic, long-term solutions to global sustainability challenges. The book *Sustainability Management: A Systems Approach* by Ana Cristina Siqueira and colleagues provides a comprehensive overview of theoretical and practical aspects of sustainability management, including institutional frameworks, stakeholder engagement, and innovation for sustainable development.

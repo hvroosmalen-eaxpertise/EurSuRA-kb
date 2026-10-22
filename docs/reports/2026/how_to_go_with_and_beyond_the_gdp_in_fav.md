@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-8
 domain:
   - ESRS
   - SDG
@@ -9,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: How_To_Go_With_And_Beyond_The_GDP_In_Fav.pdf
 ---
-
 # How to Go With and Beyond the GDP in Favour of Sustainability?
  The Gross Domestic Product (GDP) has long been the primary measure of a country's economic performance, but its limitations in capturing sustainability and long-term well-being have led to calls for alternative indicators. This article explores the integration of the GDP with the Inclusive Wealth Index (IWI) to provide a more comprehensive assessment of economic progress and its impact on sustainability. By combining these two metrics, the article argues that states can better communicate their economic health and sustainability efforts to stakeholders.
  ## Background

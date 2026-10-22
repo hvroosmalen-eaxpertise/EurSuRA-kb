@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
 domain:
   - Climate
 summary: 'The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore.'
@@ -8,7 +10,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Synthesis_and_Characterization_of_Adsorb.pdf
 ---
-
 # Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture
  The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore. The work focuses on the development and characterization of adsorbents for the capture of carbon dioxide (COâ‚‚) from post-combustion flue gases, a critical technology for mitigating greenhouse gas emissions. The research was supervised by Dr. Sanjay Kumar Singh and Dr. E. Anil Kumar, and was completed in December 2020.
  ## Background

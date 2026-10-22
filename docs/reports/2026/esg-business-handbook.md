@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-7
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "A practical ESG guidance handbook for businesses (AIRE Centre / UNDP, 
 domain:
 - ESRS
 ---
-
 # ESG Business Handbook: Environmental, Social and Governance Standards for Businesses in Bosnia and Herzegovina
 
 The *Building a Sustainable Future: ESG Business Handbook* is a practical guidance document produced by the Advice on Individual Rights in Europe (AIRE) Centre and the United Nations Development Programme (UNDP) in Bosnia and Herzegovina (BiH), first published in 2023. [^1] The handbook introduces Environmental, Social and Governance (ESG) standards and United Nations (UN) Sustainable Development Goals (SDGs) to businesses operating in BiH, with particular emphasis on small and medium enterprises (SMEs). [^2] It combines an overview of international regulatory frameworks, European Union (EU) instruments, and domestic legislation with case studies drawn from past recipients of the UNDP SDG Business Pioneers Award in BiH. [^3]

@@ -1,0 +1,167 @@
+---
+title: SDG Summary
+content_type: model
+generated: true
+date_updated: 2026-10-22
+---
+
+# SDG Summary
+
+Report pages grouped by the UN Sustainable Development Goals they touch on. Reports with no SDG tag land under **Generic**.
+
+## SDG-4 — Quality Education (5)
+
+- [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md)
+- [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
+- [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
+- [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md)
+- [Software Carbon Intensity for AI Specification](reports/2026/green-software-foundation--sci-for-ai-specification.md)
+
+## SDG-7 — Affordable and Clean Energy (17)
+
+- [reports/2026/analysing_european_union_circular_econom.md](reports/2026/analysing_european_union_circular_econom.md)
+- [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md)
+- [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md)
+- [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md)
+- [reports/2026/esg-business-handbook.md](reports/2026/esg-business-handbook.md)
+- [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md)
+- [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md)
+- [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md)
+- [reports/2026/global_warming_and_the_management_of_zom.md](reports/2026/global_warming_and_the_management_of_zom.md)
+- [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md)
+- [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md)
+- [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md)
+- [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md)
+- [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md)
+- [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md)
+- [reports/2026/the_state_of_sustainability_in_higher_ed.md](reports/2026/the_state_of_sustainability_in_higher_ed.md)
+- [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
+
+## SDG-8 — Decent Work and Economic Growth (10)
+
+- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md)
+- [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
+- [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md)
+- [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md)
+- [reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md](reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md)
+- [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
+- [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md)
+- [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md)
+- [reports/2026/the_shallow_consensus_sdgs_leverage_poin.md](reports/2026/the_shallow_consensus_sdgs_leverage_poin.md)
+- [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
+
+## SDG-9 — Industry, Innovation and Infrastructure (19)
+
+- [reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md](reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md)
+- [reports/2026/analysing_european_union_circular_econom.md](reports/2026/analysing_european_union_circular_econom.md)
+- [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md)
+- [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md)
+- [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md)
+- [reports/2026/corp.sust.strategies-specialissuesd_original.md](reports/2026/corp.sust.strategies-specialissuesd_original.md)
+- [reports/2026/ghg_accounting_and_reporting_multi_secto.md](reports/2026/ghg_accounting_and_reporting_multi_secto.md)
+- [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md)
+- [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md)
+- [reports/2026/management_accounting_as_a_strategic_dec.md](reports/2026/management_accounting_as_a_strategic_dec.md)
+- [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md)
+- [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md)
+- [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md)
+- [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md)
+- [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md)
+- [reports/2026/the_political_life_of_everyday_sustainab.md](reports/2026/the_political_life_of_everyday_sustainab.md)
+- [reports/2026/the_shallow_consensus_sdgs_leverage_poin.md](reports/2026/the_shallow_consensus_sdgs_leverage_poin.md)
+- [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md)
+- [Software Carbon Intensity for AI Specification](reports/2026/green-software-foundation--sci-for-ai-specification.md)
+
+## SDG-11 — Sustainable Cities and Communities (5)
+
+- [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md)
+- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md)
+- [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
+- [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md)
+- [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md)
+
+## SDG-12 — Responsible Consumption and Production (20)
+
+- [reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md](reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md)
+- [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md)
+- [reports/2026/an_integrated_carbon_accounting_and_miti.md](reports/2026/an_integrated_carbon_accounting_and_miti.md)
+- [reports/2026/analysing_european_union_circular_econom.md](reports/2026/analysing_european_union_circular_econom.md)
+- [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md)
+- [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md)
+- [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
+- [reports/2026/efrag-final-assessment-report-web.md](reports/2026/efrag-final-assessment-report-web.md)
+- [reports/2026/esg-business-handbook.md](reports/2026/esg-business-handbook.md)
+- [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md)
+- [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md)
+- [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md)
+- [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md)
+- [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md)
+- [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md)
+- [reports/2026/strategic_management_for_sustainability.md](reports/2026/strategic_management_for_sustainability.md)
+- [reports/2026/the_political_life_of_everyday_sustainab.md](reports/2026/the_political_life_of_everyday_sustainab.md)
+- [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md)
+- [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md)
+- [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
+
+## SDG-13 — Climate Action (31)
+
+- [reports/2026/a_handbook_on_terminology_for_climate_ch.md](reports/2026/a_handbook_on_terminology_for_climate_ch.md)
+- [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md)
+- [reports/2026/an_integrated_carbon_accounting_and_miti.md](reports/2026/an_integrated_carbon_accounting_and_miti.md)
+- [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md)
+- [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md)
+- [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md)
+- [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md)
+- [reports/2026/determinants_of_reducing_greenhouse_gas.md](reports/2026/determinants_of_reducing_greenhouse_gas.md)
+- [reports/2026/development_of_a_course_module_for_clima.md](reports/2026/development_of_a_course_module_for_clima.md)
+- [reports/2026/esg-business-handbook.md](reports/2026/esg-business-handbook.md)
+- [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md)
+- [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md)
+- [reports/2026/ghg_accounting_and_reporting_multi_scope.md](reports/2026/ghg_accounting_and_reporting_multi_scope.md)
+- [reports/2026/ghg_accounting_and_reporting_multi_secto.md](reports/2026/ghg_accounting_and_reporting_multi_secto.md)
+- [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md)
+- [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md)
+- [reports/2026/global_warming_and_the_management_of_zom.md](reports/2026/global_warming_and_the_management_of_zom.md)
+- [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md)
+- [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md)
+- [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md)
+- [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md)
+- [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md)
+- [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md)
+- [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md)
+- [reports/2026/synthesis_and_characterization_of_adsorb.md](reports/2026/synthesis_and_characterization_of_adsorb.md)
+- [reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md](reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md)
+- [reports/2026/the_political_life_of_everyday_sustainab.md](reports/2026/the_political_life_of_everyday_sustainab.md)
+- [reports/2026/the_standard_climate_paradigm_does_not_s.md](reports/2026/the_standard_climate_paradigm_does_not_s.md)
+- [reports/2026/the_state_of_sustainability_in_higher_ed.md](reports/2026/the_state_of_sustainability_in_higher_ed.md)
+- [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md)
+- [Software Carbon Intensity for AI Specification](reports/2026/green-software-foundation--sci-for-ai-specification.md)
+
+## SDG-14 — Life Below Water (3)
+
+- [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md)
+- [reports/2026/corporate_sustainability_strategy_bridgi.md](reports/2026/corporate_sustainability_strategy_bridgi.md)
+- [reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md](reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md)
+
+## SDG-15 — Life on Land (10)
+
+- [reports/2026/6-esg-reporting-frameworks.md](reports/2026/6-esg-reporting-frameworks.md)
+- [reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md](reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md)
+- [reports/2026/a_handbook_on_terminology_for_climate_ch.md](reports/2026/a_handbook_on_terminology_for_climate_ch.md)
+- [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md)
+- [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
+- [reports/2026/development_of_a_course_module_for_clima.md](reports/2026/development_of_a_course_module_for_clima.md)
+- [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md)
+- [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md)
+- [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md)
+- [reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md](reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md)
+
+## SDG-16 — Peace, Justice and Strong Institutions (2)
+
+- [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
+- [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md)
+
+## Generic (2)
+
+- [reports/2026/strategic-sustainability-communication.md](reports/2026/strategic-sustainability-communication.md)
+- [reports/2026/the_evolution_of_sustainable_finance_par.md](reports/2026/the_evolution_of_sustainable_finance_par.md)

@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-7
+  - SDG-9
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "Q&A implementation guidance on applying EFRAG's Voluntary SME (VSME) s
 domain:
 - VSME
 ---
-
 # Voluntary Sustainability Reporting for SMEs: VSME Standard Implementation Guidance
 
 The Voluntary Sustainability Reporting for Small and Medium-sized Enterprises (VSME) standard is a framework developed under the auspices of the European Financial Reporting Advisory Group (EFRAG) to enable smaller organisations to report on sustainability matters voluntarily and in a structured manner. A webinar hosted by the CSRD Collectief on 8 May 2025 addressed practical questions from small and medium-sized enterprises (SMEs) regarding tooling, implementation approaches, and regulatory developments related to the VSME standard.[^1]

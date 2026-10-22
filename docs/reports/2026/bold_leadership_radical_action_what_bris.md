@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-11
 domain:
   - Climate
 summary: 'Bristol residents express a strong concern about climate change, with a significant emphasis on the need for radical action and citywide leadership.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Bold_leadership_radical_action_What_Bris.pdf
 ---
-
 # Bold Leadership, Radical Action: What Bristol Residents Want on Climate Change
  Bristol residents express a strong concern about climate change, with a significant emphasis on the need for radical action and citywide leadership. This research, conducted in 2020, aimed to understand how ordinary people in Bristol perceive climate change, how it affects their lives, and what they expect from local policies. The findings highlight the importance of equity, the urgency of transport-related changes, and the role of the One City Climate Strategy in shaping the city's response to the climate emergency.
  This report is based on interviews and an online survey conducted with 333 residents in person and 1343 online, covering a wide range of backgrounds and experiences. The study was funded by the UK Research and Innovation Quality-Related Strategic Priorities Fund and supported by the University of Bristol and local organizations. The research team included eight researchers, with contributions from postgraduate and undergraduate students, and was led by Emilia Melville, Jack Nicholls, and Hen Wilkinson.

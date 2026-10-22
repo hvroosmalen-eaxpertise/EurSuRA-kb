@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-9
 domain:
   - CSRD
   - GHG
@@ -10,7 +14,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Smart_Port_Real_Time_Greenhouse_Gas_Meas.pdf
 ---
-
 # Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System
  The global maritime transport sector is at a critical juncture where logistical expansion and environmental preservation must align. As the infrastructure driving over three-quarters of global commerce, international shipping accounts for a significant and expanding anthropogenic footprint. Historically, carbon accounting for this supply chain has relied on low-resolution, retrospective estimation models. However, the introduction of stringent international legal mandates has compressed the timeline for a structural transition. This text establishes the comprehensive scientific and engineering blueprint for a Modular Smart Port GHG Measurement and AI Control System (MSGMS), designed to address the paradigm shift in emissions monitoring and enforcement.
  ## Background

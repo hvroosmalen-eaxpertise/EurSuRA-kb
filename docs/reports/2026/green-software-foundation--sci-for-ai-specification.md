@@ -1,6 +1,10 @@
 ---
 title: Software Carbon Intensity for AI Specification
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-9
+  - SDG-4
 summary: "The Green Software Foundation's extension of the Software Carbon Intensity methodology to AI systems."
 domain:
 - Adjacent
@@ -9,7 +13,6 @@ date_added: '2026-06-11'
 date_updated: '2026-06-11'
 source_file: Green Software Foundation -SCI for AI Specification.md
 ---
-
 # Software Carbon Intensity for AI Specification
 
 ## Lead

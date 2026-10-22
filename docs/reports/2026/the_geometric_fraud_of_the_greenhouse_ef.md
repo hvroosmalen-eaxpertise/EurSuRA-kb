@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-14
 domain:
   - Climate
 summary: 'The Geometric Fraud of the Greenhouse Effect is a critique of the standard climate model, which the author argues relies on a fundamental dimensional error by treating the atmosphere as a continuous, opaque "thermal blanket" rather than a highly porous "molecular archipelago" composed of 99.999985% mechanical vacuum.'
@@ -8,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: The_Geometric_Fraud_of_the_Greenhouse_Ef.pdf
 ---
-
 # The Geometric Fraud of the Greenhouse Effect
 
 The Geometric Fraud of the Greenhouse Effect is a critique of the standard climate model, which the author argues relies on a fundamental dimensional error by treating the atmosphere as a continuous, opaque "thermal blanket" rather than a highly porous "molecular archipelago" composed of 99.999985% mechanical vacuum. The document asserts that by mathematically collapsing three-dimensional physical reality into two-dimensional planes, conventional models artificially "liquefy" scattered CO₂ molecules, creating a fictitious continuous medium that traps radiation. When actual physical conditions—such as the ballistic transit of photons at the speed of light and the extreme intermolecular void—are applied, the calculated radiative forcing collapses by seven orders of magnitude. The author concludes that the modeled greenhouse effect is a mathematical artifact, and atmospheric heat transfer must be understood through discrete kinetic collisions, not continuous radiative trapping [^1].

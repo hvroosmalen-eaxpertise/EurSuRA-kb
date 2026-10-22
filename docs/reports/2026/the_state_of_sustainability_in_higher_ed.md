@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
 domain:
   - GHG
   - Climate
@@ -9,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: The_State_of_Sustainability_in_Higher_Ed.pdf
 ---
-
 # The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success
  The State of Sustainability in Higher Education 2015 report provides an analysis of emissions metrics, consumption trends, and strategies for success across U.S. higher education institutions. It evaluates the effectiveness of sustainability initiatives, including energy conservation, efficiency improvements, and fuel-switching efforts, and explores how external factors such as public policy and energy costs influence these outcomes. The report also highlights the importance of standardized data collection and institutional commitment in advancing sustainability goals.
  ## Background

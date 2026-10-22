@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-7
+  - SDG-8
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "A webinar on EFRAG's 2024 Voluntary SME (VSME) reporting standard — 
 domain:
 - VSME
 ---
-
 # Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises (VSME): Framework, Application, and Value
 
 The Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises (VSME), published by the European Financial Reporting Advisory Group ([[EFRAG (European Financial Reporting Advisory Group)]]) in 2024, provide a structured framework enabling smaller organisations to report on sustainability performance on a voluntary basis.[^1] The standard is positioned as an accessible counterpart to the mandatory European Sustainability Reporting Standards ([[ESRS]]) that apply to large undertakings under the Corporate Sustainability Reporting Directive ([[CSRD]]).[^1] According to practitioners at the CSRD Collectief, the VSME is intended not merely as a compliance instrument but as a shared language through which organisations can realise and communicate concrete sustainability progress.[^1]

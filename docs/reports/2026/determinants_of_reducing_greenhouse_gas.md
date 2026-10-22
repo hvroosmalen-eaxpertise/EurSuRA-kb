@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
 domain:
   - GHG
   - Climate
@@ -9,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Determinants_of_Reducing_Greenhouse_Gas.pdf
 ---
-
 # Determinants of Reducing Greenhouse Gas Emissions in European Union Countries
  Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations. This article examines the determinants of GHG emissions reduction in EU countries, focusing on the role of environmental policy and "green taxes" as instruments of tax policy. The study employs linear regression analysis to identify key factors influencing GHG emissions and assesses whether green taxes significantly contribute to emission reductions.
  ## Background

@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-9
+  - SDG-8
+  - SDG-15
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "The OECD Guidelines for Multinational Enterprises on Responsible Busin
 domain:
 - CSRD
 ---
-
 # OECD Guidelines for Multinational Enterprises on Responsible Business Conduct
 
 The **Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises on Responsible Business Conduct** (hereinafter "the Guidelines") are a set of government-backed recommendations addressed to [[multinational enterprises]] (MNEs) operating in or from adhering countries, designed to promote responsible business conduct and [[sustainable development]].[^1] First adopted in 1976 and most recently updated in 2023, the Guidelines represent the most comprehensive multilateral instrument for [[corporate responsibility]] endorsed by governments.[^2] Their implementation is supported by a network of National Contact Points for Responsible Business Conduct (NCPs), established by adhering governments to promote the Guidelines' effectiveness.[^1]

@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-15
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
@@ -8,7 +10,6 @@ summary: "EFRAG's VSME Digital Template and XBRL Taxonomy tools supporting SMEs 
 domain:
 - VSME
 ---
-
 # VSME Digital Template and XBRL Taxonomy
 
 The VSME Digital Template and XBRL Taxonomy are tools developed by the EFRAG Secretariat to support micro, small, and medium-sized enterprises (SMEs) with fewer than 250 employees in implementing the Voluntary Sustainability Reporting Standard for non-listed SMEs (VSME). These tools aim to standardize sustainability reporting and reduce the complexity of ESG data requests for SMEs. The document provides an explanatory note on the latest version of these tools, released in June 2026.

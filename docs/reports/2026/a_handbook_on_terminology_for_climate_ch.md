@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-15
 domain:
   - Climate
 summary: 'Climate change resilience terminology refers to the evolving lexicon used to describe concepts, strategies, and practices aimed at enhancing the ability of systems—social, ecological, and economic—to withstand, adapt to, and recover from the impacts of climate change.'
@@ -8,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: A_Handbook_on_Terminology_for_Climate_Ch.pdf
 ---
-
 # Climate Change Resilience Terminology
 
 Climate change resilience terminology refers to the evolving lexicon used to describe concepts, strategies, and practices aimed at enhancing the ability of systems—social, ecological, and economic—to withstand, adapt to, and recover from the impacts of climate change. This terminology is shaped by academic research, policy development, and community engagement, and it reflects the complexity and interdisciplinary nature of climate change resilience.

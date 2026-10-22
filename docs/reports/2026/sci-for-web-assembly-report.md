@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-9
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "A Green Software Foundation consensus design for measuring the carbon 
 domain:
 - Adjacent
 ---
-
 # SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity
 
 ## Lead

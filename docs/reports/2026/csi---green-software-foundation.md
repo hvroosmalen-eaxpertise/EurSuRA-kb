@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-7
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "The Green Software Foundation's Software Carbon Intensity (SCI) specif
 domain:
 - Adjacent
 ---
-
 # Software Carbon Intensity (SCI) Specification
 
 The **Software Carbon Intensity (SCI)** specification is a methodology standard developed by the Standards Working Group of the [[Green Software Foundation]] for calculating the rate of carbon emissions produced by a software system. Version 1.1.0 of the specification is published by the Green Software Foundation.[^1] The SCI score is expressed as a rate rather than a total, whereby lower values indicate lower carbon intensity and a score of zero is mathematically unattainable.[^1]

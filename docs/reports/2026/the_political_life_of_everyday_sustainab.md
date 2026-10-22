@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-9
 domain:
   - Climate
 summary: 'Sustainable consumption is not normatively neutral, as it participates in the production of social distinction through competing claims to moral legitimacy.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: The_Political_Life_of_Everyday_Sustainab.pdf
 ---
-
 # The Political Life of Everyday Sustainability
 
 Sustainable consumption is not normatively neutral, as it participates in the production of social distinction through competing claims to moral legitimacy. This paper introduces the concept of *conspicuous sustainability* to capture how sustainability operates as a visible marker of moral worth and social positioning in contemporary consumer culture. Rather than treating visibility as a superficial dimension of display, the paper conceptualizes it as a mechanism through which ecological legitimacy is produced, distributed, and contested. The paper further argues that such dynamics may generate normative resistance when dominant sustainability narratives are experienced as exclusionary and ultimately extractive. Developed as part of the Symposium “Conspicuous Sustainability: Consumption, Climate Change and Morality”, which it introduces, the paper highlights sustainability as an arena of moral and political valuation in which legitimacy, inequality, and recognition are continuously negotiated [^1].

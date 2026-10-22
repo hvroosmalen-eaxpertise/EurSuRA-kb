@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-11
 domain:
   - Climate
 summary: 'Global warming, driven by increased concentrations of greenhouse gases (GHGs) primarily due to anthropogenic activities, is a critical environmental issue with wide-ranging impacts on ecosystems, human societies, and the global climate system.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: GLOBAL_WARMING_AND_ITS_CONSEQUENCES.pdf
 ---
-
 # Global Warming and Its Consequences
 
 Global warming, driven by increased concentrations of greenhouse gases (GHGs) primarily due to anthropogenic activities, is a critical environmental issue with wide-ranging impacts on ecosystems, human societies, and the global climate system. This phenomenon has led to significant climatic changes, including rising temperatures, altered weather patterns, and increased frequency of extreme events such as floods, droughts, and heatwaves. The study explores the causes and consequences of global warming, as well as potential mitigation strategies to address the ongoing climate crisis.

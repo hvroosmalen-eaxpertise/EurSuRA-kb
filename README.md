@@ -12,7 +12,7 @@ It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](http
 |---|---|
 | **Standards** | ESRS, CSRD, EU Taxonomy, VSME, GHG Protocol |
 | **Frameworks** | UN SDGs, GRI, TCFD |
-| **Models** | Semantic model, concept map, ontology, cross-reference matrix |
+| **Models** | Semantic model, concept map, ontology, cross-reference matrix, **SDG summary** |
 | **Glossary** | Definitions of all key terms |
 | **Reports** | Ingested source documents, summarised into draft pages (under [2026](docs/reports/2026/index.md)) |
 
@@ -265,6 +265,16 @@ glossary entry and removing it from that file.
 ```bash
 python ../kb-framework/pipeline/query.py --kb . --cross-ref
 ```
+
+## SDG Summary
+
+`docs/sdg-summary.md` lists every UN Sustainable Development Goal and the report pages related to it. Articles without explicit SDG references are grouped under **Generic**. Regenerate it with:
+
+```bash
+python ../kb-framework/pipeline/query.py --kb . --sdg-summary
+```
+
+It is regenerated automatically on every ingest.
 
 ## Requirements
 

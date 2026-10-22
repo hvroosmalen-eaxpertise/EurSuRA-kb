@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-7
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -10,7 +14,6 @@ domain:
 - CSRD
 - ESRS
 ---
-
 # SDG–CSRD–ESRS Alignment Matrix
 
 The **SDG–CSRD–ESRS Alignment Matrix** is a mapping framework developed by the [[European Financial Reporting Advisory Group]] (EFRAG) that cross-references the seventeen [[United Nations Sustainable Development Goals]] (SDGs) with the reporting requirements of the [[Corporate Sustainability Reporting Directive (CSRD)]] (CSRD) and the corresponding [[European Sustainability Reporting Standards (ESRS)]] (ESRS).[^1] The matrix identifies, for each SDG, the relevant ESRS topic, the anticipated corporate impact, recommended actions, and suggested indicators and [[Key Performance Indicators (ESG)]] (KPIs).[^1] The document was designated for internal use only at the time of its drafting.[^1]

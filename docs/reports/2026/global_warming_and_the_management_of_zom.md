@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
 domain:
   - Climate
 summary: 'Global warming is a slow-moving, insidious threat that, despite its lack of immediate visibility, poses a significant risk to human civilization. The phenomenon is often described as a "zombie" due to its gradual onset and the difficulty in halting its progression.'
@@ -8,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Global_Warming_and_the_Management_of_Zom.pdf
 ---
-
 # Global Warming and the Management of Zombies
 
 Global warming is a slow-moving, insidious threat that, despite its lack of immediate visibility, poses a significant risk to human civilization. The phenomenon is often described as a "zombie" due to its gradual onset and the difficulty in halting its progression. This article explores the interplay between economic incentives, political complacency, and the scientific understanding of climate change, highlighting the challenges in addressing global warming.

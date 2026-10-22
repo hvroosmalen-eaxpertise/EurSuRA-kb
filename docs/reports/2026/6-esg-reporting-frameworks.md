@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-15
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -10,7 +12,6 @@ domain:
 - GRI
 - TCFD
 ---
-
 # Sustainability and ESG Reporting Frameworks
 
 **Sustainability and [[ESG (Environmental, Social, and Governance)]] (Environmental, Social, and Governance) reporting frameworks** are structured standards and guidelines that organisations use to disclose their environmental, social, and governance performance to investors, regulators, and other stakeholders. Six frameworks have gained particular prominence globally: the [[GRI]] (Global Reporting Initiative), [[ESRS]] (European Sustainability Reporting Standards), [[TCFD]] (Task Force on Climate-Related Financial Disclosures), [[SASB]] (Sustainability Accounting Standards Board), [[ISSB]] (International Sustainability Standards Board), and [[CDP]] (Carbon Disclosure Project). These frameworks vary in scope, mandatory applicability, and thematic focus, reflecting the growing regulatory and investor demand for standardised, comparable sustainability data. [^1]

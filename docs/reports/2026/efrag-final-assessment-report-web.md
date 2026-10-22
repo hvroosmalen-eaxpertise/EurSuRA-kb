@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
@@ -8,7 +10,6 @@ summary: "EFRAG's assessment of stakeholder interest in a voluntary SME reportin
 domain:
 - VSME
 ---
-
 # EFRAG Assessment of Interest in a Voluntary Template for SMEs at the European Single Access Point
 
 The European Financial Reporting Advisory Group (EFRAG) conducted an assessment of the interest in a voluntary template for small and medium-sized enterprises (SMEs) at the European Single Access Point (ESAP) to facilitate financing. The assessment, based on stakeholder feedback and available literature, concluded that current interest in the template is insufficient to make it a meaningful and impactful tool for SME financing. The report outlines considerations for potential development of the template, including the inclusion of both quantitative and qualitative information, confidentiality concerns, and the need for additional functionalities.

@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-8
 domain:
   - SDG
   - Climate
@@ -9,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Factors_Influencing_Energy_Consumption_i.pdf
 ---
-
 # Factors Influencing Energy Consumption in the Context of Sustainable Development
 
 Energy consumption is a critical factor in the pursuit of sustainable development, with its dynamics influenced by a range of economic, social, and environmental variables. This study explores the relationship between these factors and energy consumption, focusing on primary and final energy use, and highlights the implications for policy and research. The research employs a combination of panel data analysis and bibliometric analysis to provide a comprehensive understanding of the determinants of energy consumption at the European Union level.

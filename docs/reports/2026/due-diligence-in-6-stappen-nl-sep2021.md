@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-8
+  - SDG-4
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: Due Diligence in 6 stappen-NL-sep2021.pdf
@@ -7,7 +11,6 @@ summary: "A six-step guide to human-rights and environmental due diligence under
 domain:
 - CSRD
 ---
-
 # Due Diligence under the OECD Guidelines for Multinational Enterprises
 
 Due diligence, also referred to as [[gepaste zorgvuldigheid]] (appropriate care) or [[ketenverantwoordelijkheid]] (supply chain responsibility), is a continuous process through which enterprises identify, cease, prevent, and mitigate adverse impacts on human rights, labour rights, and the environment.[^1] The process is a central component of [[international corporate social responsibility]] (ICSR) and is embedded in the internationally recognised Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises (2011) and the United Nations Guiding Principles on Business and Human Rights (UNGPs).[^1] The Dutch National Contact Point (NCP) for the OECD Guidelines for Multinational Enterprises has published a six-step framework that operationalises the due diligence process for enterprises.[^1]

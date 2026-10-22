@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-9
 domain:
   - Climate
 summary: 'Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide (COâ‚‚), recognized as a key method for reducing carbon levels in the atmosphere, which is a major contributor to global warming and climate change.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Carbon_Sequestration_Methodology_Benefit.pdf
 ---
-
 # Carbon Sequestration
  Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide (COâ‚‚), recognized as a key method for reducing carbon levels in the atmosphere, which is a major contributor to global warming and climate change. It encompasses both the removal of COâ‚‚ from the atmosphere and its permanent storage in various reservoirs. There is a distinction between carbon sequestration, which refers to the process of removing carbon from the atmosphere and depositing it in a reservoir, and carbon storage, which refers to the quantity of carbon stored in a reservoir. COâ‚‚ sequestration involves capturing emissions from industrial facilities and power plants or directly from the atmosphere, followed by safe transportation and long-term storage in geologic formations.
  - *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari.

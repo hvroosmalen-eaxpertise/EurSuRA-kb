@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-7
+  - SDG-15
 domain:
   - Climate
 summary: "The greenhouse effect is a natural process that warms the Earth's surface, playing a crucial role in maintaining the planet's habitable temperature. This phenomenon is primarily driven by greenhouse gases, which trap heat in the atmosphere and prevent it from escaping into space."
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Greenhouse_effects_on_the_global_warming.pdf
 ---
-
 # Greenhouse Effects on Global Warming
 
 The greenhouse effect is a natural process that warms the Earth's surface, playing a crucial role in maintaining the planet's habitable temperature. This phenomenon is primarily driven by greenhouse gases, which trap heat in the atmosphere and prevent it from escaping into space. While the greenhouse effect is essential for sustaining life on Earth, human activities have significantly intensified it, leading to concerns about global warming and its environmental impacts.

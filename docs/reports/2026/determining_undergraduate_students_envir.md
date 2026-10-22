@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-11
+  - SDG-15
+  - SDG-16
 domain:
   - Adjacent
 summary: 'Undergraduate students’ environmental awareness and sensitivity were assessed in a study conducted at Hacettepe University, Turkey, involving 224 students from the Department of Family and Consumer Sciences.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Determining_undergraduate_students_envir.pdf
 ---
-
 # Determining Undergraduate Students’ Environmental Awareness and Environmental Sensitivity
 
 Undergraduate students’ environmental awareness and sensitivity were assessed in a study conducted at Hacettepe University, Turkey, involving 224 students from the Department of Family and Consumer Sciences. The study aimed to evaluate the level of environmental awareness and sensitivity among these students and to examine how these levels vary by demographic factors such as gender, parental educational status, and income level. The findings indicate that students’ environmental awareness and sensitivity are generally above average, with significant variations observed across different demographic groups [^1].

@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'
@@ -8,7 +10,6 @@ summary: "An academic framework integrating organisational resources and capabil
 domain:
 - Sustainability Management
 ---
-
 # Strategic Management for Sustainability
 
 Strategic management for sustainability is a theoretical framework that integrates organizational resources and capabilities with the dimensions of sustainability to support the development of sustainable strategies. This approach is grounded in the natural resource-based view (NRBV), which emphasizes the role of natural resources in creating competitive advantage and fostering sustainable value creation. The framework aims to guide organizations in identifying their internal resources and capabilities, while also encouraging the integration of sustainability into strategic decision-making processes. It highlights the importance of aligning organizational activities with environmental, social, and economic goals to achieve long-term value appropriation by consumers and stakeholders.

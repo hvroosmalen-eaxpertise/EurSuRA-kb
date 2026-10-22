@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
 domain:
   - Climate
 summary: 'The standard climate paradigm does not study the atmosphere in three dimensions. Instead, it models the atmosphere as a two-dimensional sheet, which is used to calculate properties such as opacity and radiative forcing.'
@@ -8,7 +10,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 ---
-
 # Standard Climate Paradigm and the 2D Sheet Approximation
  The standard climate paradigm does not study the atmosphere in three dimensions. Instead, it models the atmosphere as a two-dimensional sheet, which is used to calculate properties such as opacity and radiative forcing. This approach has been criticized for not accurately representing the physical properties of the real atmosphere, which is a three-dimensional fluid with complex dynamics and interactions. The document under review argues that the standard climate paradigm's methodology leads to a misrepresentation of atmospheric behavior by reducing a three-dimensional system to a two-dimensional projection.
  ## Background

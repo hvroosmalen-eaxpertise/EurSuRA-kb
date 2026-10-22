@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-9
 domain:
   - GHG
   - Climate
@@ -9,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: GHG_Accounting_and_Reporting_Multi_Secto.pdf
 ---
-
 # GHG Accounting and Reporting Multi-Sector Tool: Characterization of IPCC Emission Factors Database Using Regular Expressions with Extensions
  The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize data from the IPCC Emission Factors Database. This tool leverages regular expressions with extensions to enhance the accuracy and efficiency of data transformation processes. The methodology is applicable to a wide range of greenhouse gas (GHG) data sources, particularly those with large free-format fields described in English.
  The characterization process is essential for the effective application of GHG accounting methods. It involves the customization and application of a standard dictionary to remove errors and redundancies, the definition of transformation rules for data cleaning and standardization, and the creation of a characteristics datasheet that includes all identified qualifiers, their values, units of measure, and annotations. This process is intended for users with a basic understanding of regular expressions, potentially supported by an expert.

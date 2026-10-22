@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-14
 domain:
   - Climate
 summary: 'Corporate sustainability strategy implementation refers to the process of translating a formulated sustainability strategy into actionable initiatives within an organization.'
@@ -8,7 +10,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Corporate_sustainability_strategy_bridgi.pdf
 ---
-
 # Corporate Sustainability Strategy Implementation
  Corporate sustainability strategy implementation refers to the process of translating a formulated sustainability strategy into actionable initiatives within an organization. While the formulation of such strategies is widely recognized as important, the actual implementation remains a complex and under-researched area. This article explores the factors that contribute to successful implementation, drawing on an in-depth case study from the automotive industry. The study identifies key conditions such as organizational structure, culture, leadership, management control, employee motivation, and communication as critical to bridging the gap between strategy formulation and implementation. These insights aim to assist companies and scholars in navigating the challenges of transitioning from strategic planning to practical execution in the context of corporate sustainability.
  ## Background

@@ -1,5 +1,7 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
 domain:
   - GHG
   - Climate
@@ -9,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: GHG_Accounting_and_Reporting_Multi_Scope.pdf
 ---
-
 # GHG Accounting and Reporting Multi-Sector Tool
 
 The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize greenhouse gas (GHG) emission factors from the Intergovernmental Panel on Climate Change (IPCC) database. This tool leverages regular expressions with extensions to process and transform unstructured data into structured formats, enabling more effective use of GHG accounting methods. The approach is particularly useful when merging multiple data sources without dedicated tools for extract, transform, and load (ETL) processes [^1].

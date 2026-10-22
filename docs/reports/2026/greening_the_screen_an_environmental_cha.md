@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-7
 domain:
   - Climate
 summary: 'The motion picture and television industries have increasingly become focal points in discussions about environmental sustainability, as their production processes contribute significantly to carbon emissions and resource consumption.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Greening_the_Screen_An_Environmental_Cha.pdf
 ---
-
 # Greening the Screen: An Environmental Challenge
  The motion picture and television industries have increasingly become focal points in discussions about environmental sustainability, as their production processes contribute significantly to carbon emissions and resource consumption. This article explores the environmental impact of film and television production, emphasizing the need for sustainable practices within the industry. By examining the British film and television industry as a case study, the author highlights the challenges and potential for change in embedding environmental sustainability into industrial and economic frameworks.
  ## Background

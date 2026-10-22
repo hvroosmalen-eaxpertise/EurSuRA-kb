@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-12
+  - SDG-9
+  - SDG-15
 domain:
   - Circular-Economy
 summary: 'Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Collaborative_Networks_in_Industry_4_0_a.pdf
 ---
-
 # Collaborative Networks in Industry 4.0 and Industry 5.0
 
 Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0. These networks, composed of autonomous entities such as organizations, people, and smart machines, are central to achieving goals such as sustainability, resilience, and human-centricity. This article provides an overview of the evolution of CNs, their role in digital transformation, and their potential contributions to the transition toward Industry 5.0.

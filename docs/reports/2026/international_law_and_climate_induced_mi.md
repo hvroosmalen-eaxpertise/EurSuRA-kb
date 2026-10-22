@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-16
 domain:
   - Climate
 summary: 'Climate-induced migration presents one of the most pressing humanitarian challenges of the twenty-first century, driven by rising sea levels, desertification, extreme weather events, and resource scarcity.'
@@ -8,7 +11,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf
 ---
-
 # International Law and Climate-Induced Migration: Protection Without Status
  Climate-induced migration presents one of the most pressing humanitarian challenges of the twenty-first century, driven by rising sea levels, desertification, extreme weather events, and resource scarcity. These factors have caused millions to abandon their homes, yet international law lacks a coherent framework to protect such populations. The 1951 Refugee Convention, which forms the basis of refugee law, does not contemplate persecution related to climate factors, leaving climate-displaced persons in a legal vacuum. Human rights mechanisms also provide limited protection, failing to address the scale and complexity of climate-induced displacement. The disconnect between legal structures and the realities of climate-induced migration becomes increasingly stark as climate change accelerates, leading to governance failures and threats to human security and international social order.
  The article by Rafael Leal-Arcas, Faten Alamri, Lobna Alsrraj, Reema Al Sahil, and Sulaiman Almojil examines the capacity of international law to respond to environmentally driven mobility. It explores the interaction between refugee law, international human rights law, disaster governance instruments, and the climate regime. The authors argue that the 1951 Refugee Convention, rooted in a persecution-based paradigm, systematically excludes climate-displaced persons. Human rights-based protections, such as non-refoulement obligations, operate only as ex-post, individualized, and threshold-dependent safeguards. The absence of a defined legal status for climate-displaced persons generates normative indeterminacy, institutional fragmentation, and inconsistent state practice.

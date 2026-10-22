@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-9
+  - SDG-8
 domain:
   - SDG
   - Climate
@@ -9,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: The_Shallow_Consensus_SDGs_Leverage_Poin.pdf
 ---
-
 # Sustainable Development Goals and Leverage Points in Global Governance
 
 The Sustainable Development Goals (SDGs), a set of 17 global objectives adopted by the United Nations in 2015, aim to address pressing challenges such as poverty, hunger, inequality, and climate change. While the SDGs are widely recognized for their ambitious scope, recent scholarship suggests that their governance architecture may be structurally limited in its capacity to drive systemic transformation. This article argues that the SDGs are concentrated at low-leverage points, meaning they focus on aspirational parameters and weakly coupled information flows, rather than addressing deeper structural issues within the global political economy [^1].

@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-7
 domain:
   - Adjacent
 summary: 'Solar powered net zero energy houses (NZEH) for southern Europe represent a promising approach to achieving energy sustainability in residential buildings.'
@@ -8,7 +12,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Solar_powered_net_zero_energy_houses_for.pdf
 ---
-
 # Solar Powered Net Zero Energy Houses for Southern Europe
  Solar powered net zero energy houses (NZEH) for southern Europe represent a promising approach to achieving energy sustainability in residential buildings. This study investigates the feasibility of integrating solar energy systems into a typical single-family home in a mild southern European climate, with a focus on dynamic thermal simulation and system sizing to meet annual energy demands. The research highlights the potential of solar thermal (ST) and photovoltaic (PV) systems, along with the impact of building design, occupant behavior, and appliance efficiency on energy performance. The findings suggest that solar NZEH systems can be both financially and environmentally viable in this climate zone.
  ## Background

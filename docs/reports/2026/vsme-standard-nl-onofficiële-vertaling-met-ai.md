@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-12
+  - SDG-4
 status: draft
 date_added: '2026-06-15'
 date_updated: '2026-06-15'
@@ -8,7 +12,6 @@ summary: "An unofficial, AI-assisted Dutch translation of EFRAG's Voluntary SME 
 domain:
 - VSME
 ---
-
 # Voluntary SME Standard (VSME)
 
 ## Voluntary Sustainability Reporting Standard for Non-Listed Micro, Small and Medium-Sized Enterprises

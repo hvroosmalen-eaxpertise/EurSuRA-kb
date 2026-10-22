@@ -1,5 +1,8 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-15
 domain:
   - GHG
   - SDG
@@ -10,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Development_of_a_Course_module_for_Clima.pdf
 ---
-
 # Climate Governance and ETF Compliance MRV Systems for Sustainable Development
 
 The course "Climate Governance and ETF Compliance MRV Systems for Sustainable Development" is designed for undergraduate students in their third year, offering three credits and a total duration of 45 hours (3 hours per week for 15 weeks). The course introduces students to the Enhanced Transparency Framework (ETF) under the Paris Agreement and its application to Measurement, Reporting, and Verification (MRV) systems, with a focus on the Agriculture, Forestry, and Other Land Use (AFOLU) sector in Sri Lanka, which contributes 25.1% (4.71 million tonnes CO2e) of the country's total greenhouse gas (GHG) emissions according to the C-NetZero 2050 report [^1]. Students will gain practical knowledge on designing, implementing, and managing MRV systems to meet ETF compliance requirements and monitor Sri Lanka’s climate commitments effectively [^1].

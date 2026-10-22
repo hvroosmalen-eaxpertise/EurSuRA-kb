@@ -1,5 +1,9 @@
 ---
 content_type: report
+sdg:
+  - SDG-13
+  - SDG-11
+  - SDG-9
 domain:
   - ESRS
   - Climate
@@ -9,7 +13,6 @@ date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: GHG_emissions_from_settlements.pdf
 ---
-
 # Greenhouse Gas Emissions from Settlements in Sri Lanka
  Greenhouse gas (GHG) emissions from settlements in Sri Lanka have been a subject of interest in environmental assessments, particularly in relation to deforestation and land use change. This article outlines the key parameters and methodologies used to estimate GHG emissions associated with settlement expansion in Sri Lanka, drawing on data and guidelines from various sources.
  ## Background
