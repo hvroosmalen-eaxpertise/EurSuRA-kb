@@ -1,5 +1,9 @@
 ---
 content_type: report
+domain:
+  - SDG
+  - Climate
+summary: 'The Sustainable Development Goals (SDGs), a set of 17 global objectives adopted by the United Nations in 2015, aim to address pressing challenges such as poverty, hunger, inequality, and climate change.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

@@ -1,5 +1,6 @@
 ---
 title: Semantic Model
+summary: 'Tabular semantic model listing concept-to-concept relationships (type, related concept, relationship, source article) distilled from the KB.'
 content_type: model
 generated: true
 date_updated: 2026-08-31

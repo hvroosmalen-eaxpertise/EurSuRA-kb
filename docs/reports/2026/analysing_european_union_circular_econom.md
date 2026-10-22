@@ -1,5 +1,9 @@
 ---
 content_type: report
+domain:
+  - Circular-Economy
+  - Climate
+summary: 'The European Union (EU) has embraced the circular economy (CE) as a central strategy for achieving sustainable development, aiming to create a "sustainable, low-carbon, resource-efficient and competitive economy".'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

@@ -1,5 +1,9 @@
-﻿---
+---
 content_type: report
+domain:
+  - Circular-Economy
+  - Climate
+summary: 'The concept of a circular economy (CE) has emerged as a central theme in contemporary sustainability discourse, offering a framework for rethinking economic systems to align with ecological and social well-being.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

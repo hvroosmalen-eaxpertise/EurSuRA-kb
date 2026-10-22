@@ -1,11 +1,16 @@
-﻿---
+---
 content_type: report
+domain:
+  - ESRS
+  - Climate
+summary: 'Greenhouse gas (GHG) emissions from settlements in Sri Lanka have been a subject of interest in environmental assessments, particularly in relation to deforestation and land use change.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: GHG_emissions_from_settlements.pdf
 ---
- # Greenhouse Gas Emissions from Settlements in Sri Lanka
+
+# Greenhouse Gas Emissions from Settlements in Sri Lanka
  Greenhouse gas (GHG) emissions from settlements in Sri Lanka have been a subject of interest in environmental assessments, particularly in relation to deforestation and land use change. This article outlines the key parameters and methodologies used to estimate GHG emissions associated with settlement expansion in Sri Lanka, drawing on data and guidelines from various sources.
  ## Background
  Settlement expansion in Sri Lanka has contributed to deforestation and associated GHG emissions, primarily through land conversion for urban development, infrastructure, and residential construction. The calculation of these emissions involves estimating the extent of deforestation, the carbon stock of the affected forests, and the resulting emissions from both immediate and ongoing carbon release. These calculations are informed by data from national and international sources, including the Sri Lanka Forest Department, remote sensing studies, and the Intergovernmental Panel on Climate Change (IPCC) guidelines.

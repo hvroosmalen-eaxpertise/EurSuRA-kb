@@ -1,5 +1,6 @@
 ---
 title: Cross-Reference Matrix
+summary: 'Auto-generated matrix cross-referencing every KB article by domain, SDG, and topic tags.'
 content_type: model
 generated: true
 date_updated: 2026-08-31

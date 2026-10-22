@@ -1,5 +1,6 @@
 ---
 title: Concept Map
+summary: 'Mermaid diagram mapping the key sustainability-reporting concepts and how they relate across standards and frameworks.'
 content_type: model
 generated: true
 date_updated: 2026-09-02

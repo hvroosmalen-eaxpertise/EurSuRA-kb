@@ -1,5 +1,9 @@
 ---
 content_type: report
+domain:
+  - GHG
+  - Climate
+summary: 'The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize greenhouse gas (GHG) emission factors from the Intergovernmental Panel on Climate Change (IPCC) database.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

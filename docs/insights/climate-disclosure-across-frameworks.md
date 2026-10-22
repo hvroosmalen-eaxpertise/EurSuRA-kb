@@ -1,5 +1,6 @@
 ---
 title: Climate Disclosure Across Frameworks
+summary: 'Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures.'
 content_type: synthesis
 generated: true
 sources: [esrs, tcfd, ghg-protocol, eu-taxonomy]

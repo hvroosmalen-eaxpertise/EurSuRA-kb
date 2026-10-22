@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Adjacent
+summary: 'Management accounting plays a critical role in strategic decision-making, particularly in project-oriented family companies, where economic information, field experience, project risk, and family values must be integrated.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

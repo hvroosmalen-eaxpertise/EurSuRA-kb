@@ -1,11 +1,15 @@
-﻿---
+---
 content_type: report
+domain:
+  - Climate
+summary: 'The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Synthesis_and_Characterization_of_Adsorb.pdf
 ---
- # Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture
+
+# Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture
  The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore. The work focuses on the development and characterization of adsorbents for the capture of carbon dioxide (COâ‚‚) from post-combustion flue gases, a critical technology for mitigating greenhouse gas emissions. The research was supervised by Dr. Sanjay Kumar Singh and Dr. E. Anil Kumar, and was completed in December 2020.
  ## Background
  Post-combustion COâ‚‚ capture is a key strategy in reducing carbon emissions from fossil fuel-based power generation. The process involves the removal of COâ‚‚ from flue gases after combustion, and adsorption is one of the most promising technologies for this purpose. Adsorbents, such as zeolites, activated carbons, and metal-organic frameworks (MOFs), are used to selectively capture COâ‚‚ from gas streams. The effectiveness of these materials depends on their surface area, pore structure, and chemical functionality, which can be tailored through synthesis and modification techniques.

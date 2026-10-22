@@ -1,5 +1,8 @@
-﻿---
+---
 content_type: report
+domain:
+  - Circular-Economy
+summary: 'Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

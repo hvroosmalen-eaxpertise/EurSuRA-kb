@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: 'Global warming is a slow-moving, insidious threat that, despite its lack of immediate visibility, poses a significant risk to human civilization. The phenomenon is often described as a "zombie" due to its gradual onset and the difficulty in halting its progression.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

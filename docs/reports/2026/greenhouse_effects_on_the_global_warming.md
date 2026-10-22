@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: "The greenhouse effect is a natural process that warms the Earth's surface, playing a crucial role in maintaining the planet's habitable temperature. This phenomenon is primarily driven by greenhouse gases, which trap heat in the atmosphere and prevent it from escaping into space."
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

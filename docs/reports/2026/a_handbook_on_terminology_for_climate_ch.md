@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: 'Climate change resilience terminology refers to the evolving lexicon used to describe concepts, strategies, and practices aimed at enhancing the ability of systems—social, ecological, and economic—to withstand, adapt to, and recover from the impacts of climate change.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

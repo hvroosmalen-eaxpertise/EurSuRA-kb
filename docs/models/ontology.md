@@ -1,5 +1,6 @@
 ---
 title: Ontology
+summary: 'Hierarchical ontology of sustainability-reporting concepts, grouping terms by parent/child relationships extracted from the corpus.'
 content_type: model
 generated: true
 date_updated: 2026-08-31

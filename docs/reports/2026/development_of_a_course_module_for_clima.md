@@ -1,5 +1,10 @@
 ---
 content_type: report
+domain:
+  - GHG
+  - SDG
+  - Climate
+summary: 'The course "Climate Governance and ETF Compliance MRV Systems for Sustainable Development" is designed for undergraduate students in their third year, offering three credits and a total duration of 45 hours (3 hours per week for 15 weeks).'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

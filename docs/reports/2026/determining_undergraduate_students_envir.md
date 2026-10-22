@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Adjacent
+summary: 'Undergraduate students’ environmental awareness and sensitivity were assessed in a study conducted at Hacettepe University, Turkey, involving 224 students from the Department of Family and Consumer Sciences.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

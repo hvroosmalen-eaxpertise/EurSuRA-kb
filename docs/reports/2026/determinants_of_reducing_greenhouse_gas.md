@@ -1,11 +1,16 @@
-﻿---
+---
 content_type: report
+domain:
+  - GHG
+  - Climate
+summary: 'Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'
 source_file: Determinants_of_Reducing_Greenhouse_Gas.pdf
 ---
- # Determinants of Reducing Greenhouse Gas Emissions in European Union Countries
+
+# Determinants of Reducing Greenhouse Gas Emissions in European Union Countries
  Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations. This article examines the determinants of GHG emissions reduction in EU countries, focusing on the role of environmental policy and "green taxes" as instruments of tax policy. The study employs linear regression analysis to identify key factors influencing GHG emissions and assesses whether green taxes significantly contribute to emission reductions.
  ## Background
  The industrial growth of the 19th and 20th centuries led to increased GHG emissions and other atmospheric pollutants, contributing to global warming and climate change. International organizations and governments have since pursued policies to mitigate these effects. While various instruments, such as tradable emission quotas and carbon accounting systems, have been proposed, the role of green taxesâ€”also known as environmental taxesâ€”has remained a subject of debate. These taxes are designed to influence behavior toward sustainability by imposing costs on activities that generate GHG emissions. However, their effectiveness in reducing emissions is not universally accepted, and their impact is often influenced by broader economic, social, and political factors.

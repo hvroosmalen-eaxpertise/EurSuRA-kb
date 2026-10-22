@@ -1,5 +1,6 @@
 ---
 title: Double Materiality Across Regimes
+summary: 'Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI.'
 content_type: synthesis
 generated: true
 sources: [csrd, esrs, gri]

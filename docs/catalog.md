@@ -2,7 +2,7 @@
 title: Catalog
 content_type: model
 generated: true
-date_updated: 2026-08-31
+date_updated: 2026-10-22
 ---
 
 # Catalog
@@ -17,10 +17,10 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 ## model
 
-- [Cross-Reference Matrix](cross-reference-matrix.md) *(generated)*
-- [Concept Map](models/concept-map.md) *(generated)*
-- [Ontology](models/ontology.md) *(generated)*
-- [Semantic Model](models/semantic-model.md) *(generated)*
+- [Cross-Reference Matrix](cross-reference-matrix.md) - Auto-generated matrix cross-referencing every KB article by domain, SDG, and topic tags. *(generated)*
+- [Concept Map](models/concept-map.md) - Mermaid diagram mapping the key sustainability-reporting concepts and how they relate across standards and frameworks. *(generated)*
+- [Ontology](models/ontology.md) - Hierarchical ontology of sustainability-reporting concepts, grouping terms by parent/child relationships extracted from the corpus. *(generated)*
+- [Semantic Model](models/semantic-model.md) - Tabular semantic model listing concept-to-concept relationships (type, related concept, relationship, source article) distilled from the KB. *(generated)*
 
 ## other
 
@@ -34,53 +34,53 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 - [reports/2026/6-esg-reporting-frameworks.md](reports/2026/6-esg-reporting-frameworks.md) `ESRS, GRI, TCFD` - A survey of the six major ESG and sustainability reporting frameworks organisations use to disclose environmental, social, and governance performance.
 - [reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md](reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira.md) `Sustainability Management` - An academic overview of sustainability management as a systems-based, multidisciplinary field integrating ESG considerations into organisational strategy.
-- [reports/2026/a_handbook_on_terminology_for_climate_ch.md](reports/2026/a_handbook_on_terminology_for_climate_ch.md)
+- [reports/2026/a_handbook_on_terminology_for_climate_ch.md](reports/2026/a_handbook_on_terminology_for_climate_ch.md) `Climate` - Climate change resilience terminology refers to the evolving lexicon used to describe concepts, strategies, and practices aimed at enhancing the ability of systems—social, ecological, and economic—to withstand, adapt to, and recover from the impacts of climate change.
 - [reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md](reports/2026/an-architecture-for-sustainable-value-transition-within-social-and-planetary-boundaries-.md) `ESRS` - EFRAG's 2026 conceptual architecture for steering sustainable value transition within social and planetary boundaries.
-- [reports/2026/an_integrated_carbon_accounting_and_miti.md](reports/2026/an_integrated_carbon_accounting_and_miti.md)
-- [reports/2026/analysing_european_union_circular_econom.md](reports/2026/analysing_european_union_circular_econom.md)
-- [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md)
-- [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md)
-- [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md)
-- [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md)
-- [reports/2026/corporate_sustainability_strategy_bridgi.md](reports/2026/corporate_sustainability_strategy_bridgi.md)
+- [reports/2026/an_integrated_carbon_accounting_and_miti.md](reports/2026/an_integrated_carbon_accounting_and_miti.md) `ESRS, GHG, Climate` - The Integrated Carbon Accounting and Mitigation (INCAM) framework is a systematic approach designed to track carbon emissions and identify potential emission reduction strategies within industrial settings.
+- [reports/2026/analysing_european_union_circular_econom.md](reports/2026/analysing_european_union_circular_econom.md) `Circular-Economy, Climate` - The European Union (EU) has embraced the circular economy (CE) as a central strategy for achieving sustainable development, aiming to create a "sustainable, low-carbon, resource-efficient and competitive economy".
+- [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md) `Climate` - Bristol residents express a strong concern about climate change, with a significant emphasis on the need for radical action and citywide leadership.
+- [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md) `Climate` - Carbon dioxide (COâ‚‚) is a naturally occurring greenhouse gas that plays a critical role in the Earth's climate system. While essential for plant growth and the natural greenhouse effect, excessive concentrations of COâ‚‚ in the atmosphere have become a significant environmental concern due to human-induced emissions.
+- [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md) `Climate` - Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide (COâ‚‚), recognized as a key method for reducing carbon levels in the atmosphere, which is a major contributor to global warming and climate change.
+- [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md) `Circular-Economy` - Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0.
+- [reports/2026/corporate_sustainability_strategy_bridgi.md](reports/2026/corporate_sustainability_strategy_bridgi.md) `Climate` - Corporate sustainability strategy implementation refers to the process of translating a formulated sustainability strategy into actionable initiatives within an organization.
 - [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md) `Adjacent` - The Green Software Foundation's Software Carbon Intensity (SCI) specification for measuring the carbon-emissions rate of software systems (ISO/IEC 21031).
-- [reports/2026/determinants_of_reducing_greenhouse_gas.md](reports/2026/determinants_of_reducing_greenhouse_gas.md)
-- [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
-- [reports/2026/development_of_a_course_module_for_clima.md](reports/2026/development_of_a_course_module_for_clima.md)
+- [reports/2026/determinants_of_reducing_greenhouse_gas.md](reports/2026/determinants_of_reducing_greenhouse_gas.md) `GHG, Climate` - Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations.
+- [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md) `Adjacent` - Undergraduate students’ environmental awareness and sensitivity were assessed in a study conducted at Hacettepe University, Turkey, involving 224 students from the Department of Family and Consumer Sciences.
+- [reports/2026/development_of_a_course_module_for_clima.md](reports/2026/development_of_a_course_module_for_clima.md) `GHG, SDG, Climate` - The course "Climate Governance and ETF Compliance MRV Systems for Sustainable Development" is designed for undergraduate students in their third year, offering three credits and a total duration of 45 hours (3 hours per week for 15 weeks).
 - [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md) `CSRD` - A six-step guide to human-rights and environmental due diligence under the OECD Guidelines for Multinational Enterprises.
 - [reports/2026/efrag-final-assessment-report-web.md](reports/2026/efrag-final-assessment-report-web.md) `VSME` - EFRAG's assessment of stakeholder interest in a voluntary SME reporting template at the European Single Access Point (ESAP).
 - [reports/2026/esg-business-handbook.md](reports/2026/esg-business-handbook.md) `ESRS` - A practical ESG guidance handbook for businesses (AIRE Centre / UNDP, Bosnia and Herzegovina) covering environmental, social, and governance standards.
-- [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md)
-- [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md)
-- [reports/2026/ghg_accounting_and_reporting_multi_scope.md](reports/2026/ghg_accounting_and_reporting_multi_scope.md)
-- [reports/2026/ghg_accounting_and_reporting_multi_secto.md](reports/2026/ghg_accounting_and_reporting_multi_secto.md)
-- [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md)
-- [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md)
-- [reports/2026/global_warming_and_the_management_of_zom.md](reports/2026/global_warming_and_the_management_of_zom.md)
+- [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md) `SDG, Climate` - Carbon taxation policies have been increasingly recognized as a policy tool to mitigate pollutant emissions in both developed and developing economies.
+- [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md) `SDG, Climate` - Energy consumption is a critical factor in the pursuit of sustainable development, with its dynamics influenced by a range of economic, social, and environmental variables.
+- [reports/2026/ghg_accounting_and_reporting_multi_scope.md](reports/2026/ghg_accounting_and_reporting_multi_scope.md) `GHG, Climate` - The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize greenhouse gas (GHG) emission factors from the Intergovernmental Panel on Climate Change (IPCC) database.
+- [reports/2026/ghg_accounting_and_reporting_multi_secto.md](reports/2026/ghg_accounting_and_reporting_multi_secto.md) `GHG, Climate` - The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize data from the IPCC Emission Factors Database. This tool leverages regular expressions with extensions to enhance the accuracy and efficiency of data transformation processes.
+- [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md) `ESRS, Climate` - Greenhouse gas (GHG) emissions from settlements in Sri Lanka have been a subject of interest in environmental assessments, particularly in relation to deforestation and land use change.
+- [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md) `Climate` - Global warming, driven by increased concentrations of greenhouse gases (GHGs) primarily due to anthropogenic activities, is a critical environmental issue with wide-ranging impacts on ecosystems, human societies, and the global climate system.
+- [reports/2026/global_warming_and_the_management_of_zom.md](reports/2026/global_warming_and_the_management_of_zom.md) `Climate` - Global warming is a slow-moving, insidious threat that, despite its lack of immediate visibility, poses a significant risk to human civilization. The phenomenon is often described as a "zombie" due to its gradual onset and the difficulty in halting its progression.
 - [Software Carbon Intensity for AI Specification](reports/2026/green-software-foundation--sci-for-ai-specification.md) `Adjacent` - The Green Software Foundation's extension of the Software Carbon Intensity methodology to AI systems.
-- [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md)
-- [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md)
-- [reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md](reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md)
-- [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md)
+- [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md) `Climate` - The greenhouse effect is a natural process that warms the Earth's surface, playing a crucial role in maintaining the planet's habitable temperature. This phenomenon is primarily driven by greenhouse gases, which trap heat in the atmosphere and prevent it from escaping into space.
+- [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md) `Climate` - The motion picture and television industries have increasingly become focal points in discussions about environmental sustainability, as their production processes contribute significantly to carbon emissions and resource consumption.
+- [reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md](reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md) `ESRS, SDG` - The Gross Domestic Product (GDP) has long been the primary measure of a country's economic performance, but its limitations in capturing sustainability and long-term well-being have led to calls for alternative indicators.
+- [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md) `Climate` - Climate-induced migration presents one of the most pressing humanitarian challenges of the twenty-first century, driven by rising sea levels, desertification, extreme weather events, and resource scarcity.
 - [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md) `Adjacent` - DigComp 3.0, the European Commission's 2025 Digital Competence Framework (JRC).
-- [reports/2026/management_accounting_as_a_strategic_dec.md](reports/2026/management_accounting_as_a_strategic_dec.md)
+- [reports/2026/management_accounting_as_a_strategic_dec.md](reports/2026/management_accounting_as_a_strategic_dec.md) `Adjacent` - Management accounting plays a critical role in strategic decision-making, particularly in project-oriented family companies, where economic information, field experience, project risk, and family values must be integrated.
 - [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md) `CSRD` - The OECD Guidelines for Multinational Enterprises on Responsible Business Conduct — government-backed recommendations on due diligence and responsible business.
 - [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md) `CSRD` - An integrated view of EU sustainability legislation — the due-diligence, reporting, and product obligations imposed on companies in the EU market.
 - [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md) `VSME` - Q&A implementation guidance on applying EFRAG's Voluntary SME (VSME) sustainability reporting standard.
 - [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md) `Adjacent` - A Green Software Foundation consensus design for measuring the carbon intensity of WebAssembly web applications.
 - [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md) `SDG, CSRD, ESRS` - EFRAG's alignment matrix cross-referencing the 17 UN SDGs with CSRD and ESRS reporting requirements.
-- [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md)
-- [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md)
+- [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md) `CSRD, GHG, Climate` - The global maritime transport sector is at a critical juncture where logistical expansion and environmental preservation must align. As the infrastructure driving over three-quarters of global commerce, international shipping accounts for a significant and expanding anthropogenic footprint.
+- [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md) `Adjacent` - Solar powered net zero energy houses (NZEH) for southern Europe represent a promising approach to achieving energy sustainability in residential buildings.
 - [reports/2026/strategic-sustainability-communication.md](reports/2026/strategic-sustainability-communication.md) `Sustainability Management` - An academic treatment of strategic sustainability communication and its role in advancing sustainable practices in organisations and society.
 - [reports/2026/strategic_management_for_sustainability.md](reports/2026/strategic_management_for_sustainability.md) `Sustainability Management` - An academic framework integrating organisational resources and capabilities (natural resource-based view) into sustainable strategy.
-- [reports/2026/synthesis_and_characterization_of_adsorb.md](reports/2026/synthesis_and_characterization_of_adsorb.md)
-- [reports/2026/the_evolution_of_sustainable_finance_par.md](reports/2026/the_evolution_of_sustainable_finance_par.md)
-- [reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md](reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md)
-- [reports/2026/the_political_life_of_everyday_sustainab.md](reports/2026/the_political_life_of_everyday_sustainab.md)
-- [reports/2026/the_shallow_consensus_sdgs_leverage_poin.md](reports/2026/the_shallow_consensus_sdgs_leverage_poin.md)
-- [reports/2026/the_standard_climate_paradigm_does_not_s.md](reports/2026/the_standard_climate_paradigm_does_not_s.md)
-- [reports/2026/the_state_of_sustainability_in_higher_ed.md](reports/2026/the_state_of_sustainability_in_higher_ed.md)
-- [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md)
+- [reports/2026/synthesis_and_characterization_of_adsorb.md](reports/2026/synthesis_and_characterization_of_adsorb.md) `Climate` - The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore.
+- [reports/2026/the_evolution_of_sustainable_finance_par.md](reports/2026/the_evolution_of_sustainable_finance_par.md) `TCFD` - The global banking sector is undergoing a significant transformation, shifting from voluntary environmental commitments to mandatory climate risk governance embedded in prudential supervision.
+- [reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md](reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md) `Climate` - The Geometric Fraud of the Greenhouse Effect is a critique of the standard climate model, which the author argues relies on a fundamental dimensional error by treating the atmosphere as a continuous, opaque "thermal blanket" rather than a highly porous "molecular archipelago" composed of 99.999985% mechanical vacuum.
+- [reports/2026/the_political_life_of_everyday_sustainab.md](reports/2026/the_political_life_of_everyday_sustainab.md) `Climate` - Sustainable consumption is not normatively neutral, as it participates in the production of social distinction through competing claims to moral legitimacy.
+- [reports/2026/the_shallow_consensus_sdgs_leverage_poin.md](reports/2026/the_shallow_consensus_sdgs_leverage_poin.md) `SDG, Climate` - The Sustainable Development Goals (SDGs), a set of 17 global objectives adopted by the United Nations in 2015, aim to address pressing challenges such as poverty, hunger, inequality, and climate change.
+- [reports/2026/the_standard_climate_paradigm_does_not_s.md](reports/2026/the_standard_climate_paradigm_does_not_s.md) `Climate` - The standard climate paradigm does not study the atmosphere in three dimensions. Instead, it models the atmosphere as a two-dimensional sheet, which is used to calculate properties such as opacity and radiative forcing.
+- [reports/2026/the_state_of_sustainability_in_higher_ed.md](reports/2026/the_state_of_sustainability_in_higher_ed.md) `GHG, Climate` - The State of Sustainability in Higher Education 2015 report provides an analysis of emissions metrics, consumption trends, and strategies for success across U.S. higher education institutions.
+- [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md) `Circular-Economy, Climate` - The concept of a circular economy (CE) has emerged as a central theme in contemporary sustainability discourse, offering a framework for rethinking economic systems to align with ecological and social well-being.
 - [reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md](reports/2026/vsme-digital-template-and-xbrl-taxonomy-explanatory-note-june-2026.md) `VSME` - EFRAG's VSME Digital Template and XBRL Taxonomy tools supporting SMEs (<250 employees) in implementing voluntary sustainability reporting.
 - [reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md](reports/2026/vsme-standard-nl-onofficiële-vertaling-met-ai.md) `VSME` - An unofficial, AI-assisted Dutch translation of EFRAG's Voluntary SME (VSME) sustainability reporting standard.
 - [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md) `VSME` - A webinar on EFRAG's 2024 Voluntary SME (VSME) reporting standard — its framework, application, and value for SMEs.
@@ -95,6 +95,6 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 ## synthesis
 
-- [Climate Disclosure Across Frameworks](insights/climate-disclosure-across-frameworks.md) *(generated)*
-- [Double Materiality Across Regimes](insights/double-materiality-across-regimes.md) *(generated)*
-- [The SME Reporting Pathway](insights/the-sme-reporting-pathway.md) *(generated)*
+- [Climate Disclosure Across Frameworks](insights/climate-disclosure-across-frameworks.md) - Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures. *(generated)*
+- [Double Materiality Across Regimes](insights/double-materiality-across-regimes.md) - Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI. *(generated)*
+- [The SME Reporting Pathway](insights/the-sme-reporting-pathway.md) - Synthesis of how SMEs can navigate sustainability reporting via the voluntary VSME standard alongside the mandatory CSRD/ESRS regime. *(generated)*

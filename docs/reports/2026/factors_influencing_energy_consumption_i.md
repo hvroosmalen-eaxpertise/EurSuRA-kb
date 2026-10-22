@@ -1,5 +1,9 @@
 ---
 content_type: report
+domain:
+  - SDG
+  - Climate
+summary: 'Energy consumption is a critical factor in the pursuit of sustainable development, with its dynamics influenced by a range of economic, social, and environmental variables.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

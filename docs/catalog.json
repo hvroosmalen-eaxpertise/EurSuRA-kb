@@ -115,8 +115,7 @@
       "Gepaste Zorgvuldigheid",
       "Gini coefficient",
       "Governing body",
-      "Greenhouse Gas Emissions (GHG Emissions)",
-      "Greenhouse gas emissions",
+      "Greenhouse Gas (GHG) Emissions",
       "Greenwashing",
       "Grievance Mechanism",
       "Hardware Efficiency",
@@ -336,7 +335,7 @@
   },
   {
     "title": "Cross-Reference Matrix",
-    "summary": "",
+    "summary": "Auto-generated matrix cross-referencing every KB article by domain, SDG, and topic tags.",
     "content_type": "model",
     "domain": [],
     "status": "",
@@ -346,7 +345,7 @@
   },
   {
     "title": "Concept Map",
-    "summary": "",
+    "summary": "Mermaid diagram mapping the key sustainability-reporting concepts and how they relate across standards and frameworks.",
     "content_type": "model",
     "domain": [],
     "status": "",
@@ -356,7 +355,7 @@
   },
   {
     "title": "Ontology",
-    "summary": "",
+    "summary": "Hierarchical ontology of sustainability-reporting concepts, grouping terms by parent/child relationships extracted from the corpus.",
     "content_type": "model",
     "domain": [],
     "status": "",
@@ -366,7 +365,7 @@
   },
   {
     "title": "Semantic Model",
-    "summary": "",
+    "summary": "Tabular semantic model listing concept-to-concept relationships (type, related concept, relationship, source article) distilled from the KB.",
     "content_type": "model",
     "domain": [],
     "status": "",
@@ -419,7 +418,7 @@
     "generated": false,
     "url": "reports/2026/_oceanofpdf.com_sustainability_management_-_ana_cristina_siqueira/",
     "wikilinks": [
-      "Circular Economy",
+      "Circular Economy (CE)",
       "Corporate Social Responsibility (CSR)",
       "Environmental, Social, and Governance (ESG)",
       "Greenwashing",
@@ -430,9 +429,11 @@
   },
   {
     "title": "reports/2026/a_handbook_on_terminology_for_climate_ch.md",
-    "summary": "",
+    "summary": "Climate change resilience terminology refers to the evolving lexicon used to describe concepts, strategies, and practices aimed at enhancing the ability of systems—social, ecological, and economic—to withstand, adapt to, and recover from the impacts of climate change.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/a_handbook_on_terminology_for_climate_ch/",
@@ -466,9 +467,13 @@
   },
   {
     "title": "reports/2026/an_integrated_carbon_accounting_and_miti.md",
-    "summary": "",
+    "summary": "The Integrated Carbon Accounting and Mitigation (INCAM) framework is a systematic approach designed to track carbon emissions and identify potential emission reduction strategies within industrial settings.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS",
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/an_integrated_carbon_accounting_and_miti/",
@@ -476,9 +481,12 @@
   },
   {
     "title": "reports/2026/analysing_european_union_circular_econom.md",
-    "summary": "",
+    "summary": "The European Union (EU) has embraced the circular economy (CE) as a central strategy for achieving sustainable development, aiming to create a \"sustainable, low-carbon, resource-efficient and competitive economy\".",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Circular-Economy",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/analysing_european_union_circular_econom/",
@@ -486,19 +494,27 @@
   },
   {
     "title": "reports/2026/bold_leadership_radical_action_what_bris.md",
-    "summary": "",
+    "summary": "Bristol residents express a strong concern about climate change, with a significant emphasis on the need for radical action and citywide leadership.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/bold_leadership_radical_action_what_bris/",
-    "wikilinks": []
+    "wikilinks": [
+      "Bristol City Council",
+      "Bristol Green Capital Partnership",
+      "One City Climate Strategy"
+    ]
   },
   {
     "title": "reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md",
-    "summary": "",
+    "summary": "Carbon dioxide (COâ‚‚) is a naturally occurring greenhouse gas that plays a critical role in the Earth's climate system. While essential for plant growth and the natural greenhouse effect, excessive concentrations of COâ‚‚ in the atmosphere have become a significant environmental concern due to human-induced emissions.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/carbon_di_oxide_a_fact_and_an_ecological/",
@@ -512,9 +528,11 @@
   },
   {
     "title": "reports/2026/carbon_sequestration_methodology_benefit.md",
-    "summary": "",
+    "summary": "Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide (COâ‚‚), recognized as a key method for reducing carbon levels in the atmosphere, which is a major contributor to global warming and climate change.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/carbon_sequestration_methodology_benefit/",
@@ -528,9 +546,11 @@
   },
   {
     "title": "reports/2026/collaborative_networks_in_industry_4_0_a.md",
-    "summary": "",
+    "summary": "Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Circular-Economy"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/collaborative_networks_in_industry_4_0_a/",
@@ -546,9 +566,11 @@
   },
   {
     "title": "reports/2026/corporate_sustainability_strategy_bridgi.md",
-    "summary": "",
+    "summary": "Corporate sustainability strategy implementation refers to the process of translating a formulated sustainability strategy into actionable initiatives within an organization.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/corporate_sustainability_strategy_bridgi/",
@@ -586,9 +608,12 @@
   },
   {
     "title": "reports/2026/determinants_of_reducing_greenhouse_gas.md",
-    "summary": "",
+    "summary": "Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/determinants_of_reducing_greenhouse_gas/",
@@ -596,15 +621,17 @@
       "Climate change mitigation",
       "Environmental policy",
       "Green tax",
-      "Greenhouse gas emissions",
+      "Greenhouse Gas (GHG) Emissions",
       "Sustainable development"
     ]
   },
   {
     "title": "reports/2026/determining_undergraduate_students_envir.md",
-    "summary": "",
+    "summary": "Undergraduate students’ environmental awareness and sensitivity were assessed in a study conducted at Hacettepe University, Turkey, involving 224 students from the Department of Family and Consumer Sciences.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/determining_undergraduate_students_envir/",
@@ -612,9 +639,13 @@
   },
   {
     "title": "reports/2026/development_of_a_course_module_for_clima.md",
-    "summary": "",
+    "summary": "The course \"Climate Governance and ETF Compliance MRV Systems for Sustainable Development\" is designed for undergraduate students in their third year, offering three credits and a total duration of 45 hours (3 hours per week for 15 weeks).",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "GHG",
+      "SDG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/development_of_a_course_module_for_clima/",
@@ -686,9 +717,12 @@
   },
   {
     "title": "reports/2026/exploring_the_role_of_carbon_taxation_po.md",
-    "summary": "",
+    "summary": "Carbon taxation policies have been increasingly recognized as a policy tool to mitigate pollutant emissions in both developed and developing economies.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "SDG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/exploring_the_role_of_carbon_taxation_po/",
@@ -696,9 +730,12 @@
   },
   {
     "title": "reports/2026/factors_influencing_energy_consumption_i.md",
-    "summary": "",
+    "summary": "Energy consumption is a critical factor in the pursuit of sustainable development, with its dynamics influenced by a range of economic, social, and environmental variables.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "SDG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/factors_influencing_energy_consumption_i/",
@@ -706,9 +743,12 @@
   },
   {
     "title": "reports/2026/ghg_accounting_and_reporting_multi_scope.md",
-    "summary": "",
+    "summary": "The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize greenhouse gas (GHG) emission factors from the Intergovernmental Panel on Climate Change (IPCC) database.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/ghg_accounting_and_reporting_multi_scope/",
@@ -721,9 +761,12 @@
   },
   {
     "title": "reports/2026/ghg_accounting_and_reporting_multi_secto.md",
-    "summary": "",
+    "summary": "The GHG Accounting and Reporting Multi-Sector Tool is a methodological framework designed to characterize and standardize data from the IPCC Emission Factors Database. This tool leverages regular expressions with extensions to enhance the accuracy and efficiency of data transformation processes.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/ghg_accounting_and_reporting_multi_secto/",
@@ -736,25 +779,30 @@
   },
   {
     "title": "reports/2026/ghg_emissions_from_settlements.md",
-    "summary": "",
+    "summary": "Greenhouse gas (GHG) emissions from settlements in Sri Lanka have been a subject of interest in environmental assessments, particularly in relation to deforestation and land use change.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/ghg_emissions_from_settlements/",
     "wikilinks": [
       "Carbon Stock",
       "Deforestation",
-      "Greenhouse Gas Emissions",
+      "Greenhouse Gas (GHG) Emissions",
       "Intergovernmental Panel on Climate Change",
       "Land Use Change"
     ]
   },
   {
     "title": "reports/2026/global_warming_and_its_consequences.md",
-    "summary": "",
+    "summary": "Global warming, driven by increased concentrations of greenhouse gases (GHGs) primarily due to anthropogenic activities, is a critical environmental issue with wide-ranging impacts on ecosystems, human societies, and the global climate system.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/global_warming_and_its_consequences/",
@@ -768,9 +816,11 @@
   },
   {
     "title": "reports/2026/global_warming_and_the_management_of_zom.md",
-    "summary": "",
+    "summary": "Global warming is a slow-moving, insidious threat that, despite its lack of immediate visibility, poses a significant risk to human civilization. The phenomenon is often described as a \"zombie\" due to its gradual onset and the difficulty in halting its progression.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/global_warming_and_the_management_of_zom/",
@@ -798,19 +848,27 @@
   },
   {
     "title": "reports/2026/greenhouse_effects_on_the_global_warming.md",
-    "summary": "",
+    "summary": "The greenhouse effect is a natural process that warms the Earth's surface, playing a crucial role in maintaining the planet's habitable temperature. This phenomenon is primarily driven by greenhouse gases, which trap heat in the atmosphere and prevent it from escaping into space.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/greenhouse_effects_on_the_global_warming/",
-    "wikilinks": []
+    "wikilinks": [
+      "Climate change",
+      "Global warming",
+      "Greenhouse gas"
+    ]
   },
   {
     "title": "reports/2026/greening_the_screen_an_environmental_cha.md",
-    "summary": "",
+    "summary": "The motion picture and television industries have increasingly become focal points in discussions about environmental sustainability, as their production processes contribute significantly to carbon emissions and resource consumption.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/greening_the_screen_an_environmental_cha/",
@@ -823,9 +881,12 @@
   },
   {
     "title": "reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md",
-    "summary": "",
+    "summary": "The Gross Domestic Product (GDP) has long been the primary measure of a country's economic performance, but its limitations in capturing sustainability and long-term well-being have led to calls for alternative indicators.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "ESRS",
+      "SDG"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav/",
@@ -833,9 +894,11 @@
   },
   {
     "title": "reports/2026/international_law_and_climate_induced_mi.md",
-    "summary": "",
+    "summary": "Climate-induced migration presents one of the most pressing humanitarian challenges of the twenty-first century, driven by rising sea levels, desertification, extreme weather events, and resource scarcity.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/international_law_and_climate_induced_mi/",
@@ -869,9 +932,11 @@
   },
   {
     "title": "reports/2026/management_accounting_as_a_strategic_dec.md",
-    "summary": "",
+    "summary": "Management accounting plays a critical role in strategic decision-making, particularly in project-oriented family companies, where economic information, field experience, project risk, and family values must be integrated.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/management_accounting_as_a_strategic_dec/",
@@ -976,7 +1041,7 @@
     "url": "reports/2026/sdg-csrd-esrs-matrix/",
     "wikilinks": [
       "2030 Agenda for Sustainable Development",
-      "Circular Economy",
+      "Circular Economy (CE)",
       "Climate Adaptation",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "European Financial Reporting Advisory Group",
@@ -993,9 +1058,13 @@
   },
   {
     "title": "reports/2026/smart_port_real_time_greenhouse_gas_meas.md",
-    "summary": "",
+    "summary": "The global maritime transport sector is at a critical juncture where logistical expansion and environmental preservation must align. As the infrastructure driving over three-quarters of global commerce, international shipping accounts for a significant and expanding anthropogenic footprint.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "CSRD",
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/smart_port_real_time_greenhouse_gas_meas/",
@@ -1013,13 +1082,20 @@
   },
   {
     "title": "reports/2026/solar_powered_net_zero_energy_houses_for.md",
-    "summary": "",
+    "summary": "Solar powered net zero energy houses (NZEH) for southern Europe represent a promising approach to achieving energy sustainability in residential buildings.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Adjacent"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/solar_powered_net_zero_energy_houses_for/",
-    "wikilinks": []
+    "wikilinks": [
+      "Low Energy Home",
+      "Net Zero Energy Building",
+      "Passivhaus",
+      "Renewable Energy Systems"
+    ]
   },
   {
     "title": "reports/2026/strategic-sustainability-communication.md",
@@ -1053,25 +1129,29 @@
   },
   {
     "title": "reports/2026/synthesis_and_characterization_of_adsorb.md",
-    "summary": "",
+    "summary": "The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/synthesis_and_characterization_of_adsorb/",
     "wikilinks": [
       "Adsorption",
-      "Carbon Capture and Storage",
-      "Metal-Organic Framework",
+      "Carbon Capture and Storage (CCS)",
+      "Metal-Organic Frameworks (MOFs)",
       "Post-Combustion Carbon Capture",
       "Zeolite"
     ]
   },
   {
     "title": "reports/2026/the_evolution_of_sustainable_finance_par.md",
-    "summary": "",
+    "summary": "The global banking sector is undergoing a significant transformation, shifting from voluntary environmental commitments to mandatory climate risk governance embedded in prudential supervision.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "TCFD"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_evolution_of_sustainable_finance_par/",
@@ -1084,9 +1164,11 @@
   },
   {
     "title": "reports/2026/the_geometric_fraud_of_the_greenhouse_ef.md",
-    "summary": "",
+    "summary": "The Geometric Fraud of the Greenhouse Effect is a critique of the standard climate model, which the author argues relies on a fundamental dimensional error by treating the atmosphere as a continuous, opaque \"thermal blanket\" rather than a highly porous \"molecular archipelago\" composed of 99.999985% mechanical vacuum.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_geometric_fraud_of_the_greenhouse_ef/",
@@ -1100,9 +1182,11 @@
   },
   {
     "title": "reports/2026/the_political_life_of_everyday_sustainab.md",
-    "summary": "",
+    "summary": "Sustainable consumption is not normatively neutral, as it participates in the production of social distinction through competing claims to moral legitimacy.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_political_life_of_everyday_sustainab/",
@@ -1110,9 +1194,12 @@
   },
   {
     "title": "reports/2026/the_shallow_consensus_sdgs_leverage_poin.md",
-    "summary": "",
+    "summary": "The Sustainable Development Goals (SDGs), a set of 17 global objectives adopted by the United Nations in 2015, aim to address pressing challenges such as poverty, hunger, inequality, and climate change.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "SDG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_shallow_consensus_sdgs_leverage_poin/",
@@ -1127,9 +1214,11 @@
   },
   {
     "title": "reports/2026/the_standard_climate_paradigm_does_not_s.md",
-    "summary": "",
+    "summary": "The standard climate paradigm does not study the atmosphere in three dimensions. Instead, it models the atmosphere as a two-dimensional sheet, which is used to calculate properties such as opacity and radiative forcing.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_standard_climate_paradigm_does_not_s/",
@@ -1142,9 +1231,12 @@
   },
   {
     "title": "reports/2026/the_state_of_sustainability_in_higher_ed.md",
-    "summary": "",
+    "summary": "The State of Sustainability in Higher Education 2015 report provides an analysis of emissions metrics, consumption trends, and strategies for success across U.S. higher education institutions.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "GHG",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/the_state_of_sustainability_in_higher_ed/",
@@ -1156,9 +1248,12 @@
   },
   {
     "title": "reports/2026/transition_to_a_sustainable_circular_soc.md",
-    "summary": "",
+    "summary": "The concept of a circular economy (CE) has emerged as a central theme in contemporary sustainability discourse, offering a framework for rethinking economic systems to align with ecological and social well-being.",
     "content_type": "report",
-    "domain": [],
+    "domain": [
+      "Circular-Economy",
+      "Climate"
+    ],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/transition_to_a_sustainable_circular_soc/",
@@ -1211,7 +1306,7 @@
     "url": "reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen/",
     "wikilinks": [
       "CSRD",
-      "Circular Economy",
+      "Circular Economy (CE)",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "DMA",
       "Double Materiality Assessment (DMA)",
@@ -1322,7 +1417,7 @@
   },
   {
     "title": "Climate Disclosure Across Frameworks",
-    "summary": "",
+    "summary": "Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures.",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
@@ -1340,7 +1435,7 @@
   },
   {
     "title": "Double Materiality Across Regimes",
-    "summary": "",
+    "summary": "Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI.",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
@@ -1357,7 +1452,7 @@
   },
   {
     "title": "The SME Reporting Pathway",
-    "summary": "",
+    "summary": "Synthesis of how SMEs can navigate sustainability reporting via the voluntary VSME standard alongside the mandatory CSRD/ESRS regime.",
     "content_type": "synthesis",
     "domain": [],
     "status": "",

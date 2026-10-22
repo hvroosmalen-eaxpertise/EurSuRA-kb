@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: 'The Geometric Fraud of the Greenhouse Effect is a critique of the standard climate model, which the author argues relies on a fundamental dimensional error by treating the atmosphere as a continuous, opaque "thermal blanket" rather than a highly porous "molecular archipelago" composed of 99.999985% mechanical vacuum.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

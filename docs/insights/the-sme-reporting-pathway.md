@@ -1,5 +1,6 @@
 ---
 title: The SME Reporting Pathway
+summary: 'Synthesis of how SMEs can navigate sustainability reporting via the voluntary VSME standard alongside the mandatory CSRD/ESRS regime.'
 content_type: synthesis
 generated: true
 sources: [vsme, esrs, csrd]

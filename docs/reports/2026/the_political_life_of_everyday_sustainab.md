@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: 'Sustainable consumption is not normatively neutral, as it participates in the production of social distinction through competing claims to moral legitimacy.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

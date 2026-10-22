@@ -1,5 +1,10 @@
 ---
 content_type: report
+domain:
+  - ESRS
+  - GHG
+  - Climate
+summary: 'The Integrated Carbon Accounting and Mitigation (INCAM) framework is a systematic approach designed to track carbon emissions and identify potential emission reduction strategies within industrial settings.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'

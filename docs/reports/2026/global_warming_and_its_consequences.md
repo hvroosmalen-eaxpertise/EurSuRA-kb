@@ -1,5 +1,8 @@
 ---
 content_type: report
+domain:
+  - Climate
+summary: 'Global warming, driven by increased concentrations of greenhouse gases (GHGs) primarily due to anthropogenic activities, is a critical environmental issue with wide-ranging impacts on ecosystems, human societies, and the global climate system.'
 status: draft
 date_added: '2026-08-31'
 date_updated: '2026-08-31'
