@@ -7,4 +7,5 @@ mkdocs-git-revision-date-localized-plugin>=1.2   # per-page "last update" in the
 anthropic>=0.40
 pyyaml>=6.0
 python-dotenv>=1.0
-pypdf>=4.0          # PDF text-extraction fallback when marker-pdf is unavailable
+docling>=2.0        # primary PDF extractor: preserves tables, headings, reading order
+pypdf>=4.0          # last-resort fallback when docling is unavailable
