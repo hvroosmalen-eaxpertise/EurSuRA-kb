@@ -148,6 +148,14 @@ the offending PDF moves to `pipeline/failed/` and the error is recorded in
 > hand-edits), run the finalise stage directly:
 > `python ../kb-framework/pipeline/finalize.py --kb . --no-push`.
 
+> **PDF extraction.** PDFs are converted to Markdown with
+> [`docling`](https://github.com/DS4SD/docling) as the primary extractor —
+> it preserves tables as pipe tables, keeps heading hierarchy, and respects
+> reading order. `pypdf` plain-text extraction is kept as a last-resort
+> fallback for environments where docling is not installed. See
+> `specs/2026-10-22-pdf-extractor-eval-results.md` for the comparison that
+> picked docling, and `scripts/eval_extractors.py` for the rerunnable harness.
+
 > **Unreadable PDFs.** Extraction needs a real text layer. Two kinds fail it: a
 > scanned/image-only PDF (near-zero characters) and a broken-font PDF (high char
 > count but mojibake, from a broken ToUnicode map — no text extractor can recover
