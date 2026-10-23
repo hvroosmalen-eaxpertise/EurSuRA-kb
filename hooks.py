@@ -413,7 +413,13 @@ def _inject_source_link(markdown, meta, current_dir, docs_dir):
 def on_nav(nav, config, files, **kwargs):
     """Honour a page's ``nav_title:`` frontmatter as its label in the sidebar
     navigation, falling back to ``title:`` (MkDocs' own default). Keeps long
-    H1s legible on the page while giving the nav a tidier short label."""
+    H1s legible on the page while giving the nav a tidier short label.
+
+    Also prepends a non-English language badge to the nav label (``[NL]``
+    today; add further codes to ``LANG_BADGES`` as the corpus grows) so a
+    reader can see at a glance which reports are not in the house default."""
+    LANG_BADGES = {"nl": "[NL] "}
+
     def walk(items):
         for item in items:
             if hasattr(item, "children") and item.children:
@@ -422,9 +428,14 @@ def on_nav(nav, config, files, **kwargs):
                 page = item.file.page
                 if page is None:
                     continue
-                nav_title = (page.meta or {}).get("nav_title")
+                meta = page.meta or {}
+                nav_title = meta.get("nav_title")
                 if nav_title:
                     item.title = str(nav_title)
+                lang = str(meta.get("language", "")).lower()
+                badge = LANG_BADGES.get(lang)
+                if badge:
+                    item.title = badge + item.title
     walk(nav.items)
     return nav
 

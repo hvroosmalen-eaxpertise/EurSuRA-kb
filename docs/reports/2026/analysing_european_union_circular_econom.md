@@ -1,6 +1,7 @@
 ---
 title: Circular Economy Policies of the European Union
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-12

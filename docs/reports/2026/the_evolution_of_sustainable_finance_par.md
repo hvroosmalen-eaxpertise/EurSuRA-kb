@@ -1,6 +1,7 @@
 ---
 title: "The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance"
 content_type: report
+language: en
 report_type: academic
 domain:
   - TCFD

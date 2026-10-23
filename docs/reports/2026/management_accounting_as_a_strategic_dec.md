@@ -1,6 +1,7 @@
 ---
 title: Management Accounting as a Strategic Decision-Making Tool
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-9

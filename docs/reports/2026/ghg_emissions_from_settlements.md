@@ -2,6 +2,7 @@
 title: Greenhouse Gas Emissions from Settlements in Sri Lanka
 nav_title: GHG Emissions from Settlements (Sri Lanka)
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-13

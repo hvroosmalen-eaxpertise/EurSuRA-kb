@@ -2,6 +2,7 @@
 title: "Bold Leadership, Radical Action: What Bristol Residents Want on Climate Change"
 nav_title: Bold Leadership, Radical Action (Bristol)
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-13

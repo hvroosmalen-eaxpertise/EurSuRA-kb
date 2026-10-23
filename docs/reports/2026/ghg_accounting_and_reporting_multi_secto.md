@@ -2,6 +2,7 @@
 title: "GHG Accounting and Reporting Multi-Sector Tool: Characterization of IPCC Emission Factors Database Using Regular Expressions with Extensions"
 nav_title: GHG Accounting and Reporting Multi-Sector Tool
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-13

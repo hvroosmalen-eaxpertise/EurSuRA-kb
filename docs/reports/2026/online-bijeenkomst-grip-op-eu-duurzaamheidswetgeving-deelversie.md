@@ -2,6 +2,7 @@
 title: "EU Sustainability Legislation: An Integrated Compliance Framework"
 nav_title: Grip op EU-duurzaamheidswetgeving (NL)
 content_type: report
+language: nl
 report_type: webinar
 sdg:
   - SDG-12

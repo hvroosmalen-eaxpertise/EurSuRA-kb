@@ -2,6 +2,7 @@
 title: EFRAG Assessment of Interest in a Voluntary Template for SMEs at the European Single Access Point
 nav_title: "EFRAG Assessment: Voluntary SME Template at ESAP"
 content_type: report
+language: en
 report_type: standards-guidance
 sdg:
   - SDG-12

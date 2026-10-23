@@ -1,6 +1,7 @@
 ---
 title: Strategic Management for Sustainability
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-12

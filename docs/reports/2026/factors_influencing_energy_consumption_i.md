@@ -2,6 +2,7 @@
 title: Factors Influencing Energy Consumption in the Context of Sustainable Development
 nav_title: Factors Influencing Energy Consumption
 content_type: report
+language: en
 report_type: academic
 sdg:
   - SDG-13
