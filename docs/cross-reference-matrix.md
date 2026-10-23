@@ -21,10 +21,13 @@ date_updated: 2026-10-23
 | [Concept Map](models/concept-map.md) |  |  |  |
 | [Ontology](models/ontology.md) |  |  |  |
 | [Semantic Model](models/semantic-model.md) |  |  |  |
+| [CSDDD](standards/csddd/index.md) | CSDDD |  |  |
 | [CSRD](standards/csrd/index.md) | CSRD |  |  |
 | [ESRS](standards/esrs/index.md) | ESRS |  |  |
 | [EU Taxonomy](standards/eu-taxonomy/index.md) | EU-TAXONOMY |  |  |
 | [GHG Protocol](standards/ghg-protocol/index.md) | GHG |  |  |
+| [ISSB](standards/issb/index.md) | ISSB |  |  |
+| [SFDR](standards/sfdr/index.md) | SFDR |  |  |
 | [VSME](standards/vsme/index.md) | VSME |  |  |
 | [Reports — 2025](reports/2025/index.md) |  |  |  |
 | [reports/2026/6-esg-reporting-frameworks.md](reports/2026/6-esg-reporting-frameworks.md) | ESRS, GRI, TCFD | SDG-15 |  |
