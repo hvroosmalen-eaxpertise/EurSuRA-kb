@@ -335,7 +335,7 @@
   },
   {
     "title": "Cross-Reference Matrix",
-    "summary": "Auto-generated matrix cross-referencing every KB article by domain, SDG, and topic tags.",
+    "summary": "",
     "content_type": "model",
     "domain": [],
     "status": "",
@@ -371,6 +371,16 @@
     "status": "",
     "generated": true,
     "url": "models/semantic-model/",
+    "wikilinks": []
+  },
+  {
+    "title": "SDG Summary",
+    "summary": "",
+    "content_type": "model",
+    "domain": [],
+    "status": "",
+    "generated": true,
+    "url": "sdg-summary/",
     "wikilinks": []
   },
   {
@@ -563,6 +573,32 @@
       "Internet of Things",
       "Sustainability"
     ]
+  },
+  {
+    "title": "reports/2026/corp.sust.strategies-specialissuesd_original.md",
+    "summary": "Corporate sustainability strategies are essential for organizations aiming to integrate sustainability into their operations effectively. This paper explores the development of specific sustainability profiles and maturity levels to guide companies in implementing sustainable practices.",
+    "content_type": "report",
+    "domain": [
+      "SDG",
+      "Sustainability-Management"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/corp.sust.strategies-specialissuesd_original/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/corporate_social_responsibility_applying_sustainab.md",
+    "summary": "Corporate social responsibility (CSR) has become a significant aspect of business operations, particularly in the context of stakeholder engagement and sustainability.",
+    "content_type": "report",
+    "domain": [
+      "SDG",
+      "Sustainability-Management"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/corporate_social_responsibility_applying_sustainab/",
+    "wikilinks": []
   },
   {
     "title": "reports/2026/corporate_sustainability_strategy_bridgi.md",

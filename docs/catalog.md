@@ -2,7 +2,7 @@
 title: Catalog
 content_type: model
 generated: true
-date_updated: 2026-10-22
+date_updated: 2026-10-23
 ---
 
 # Catalog
@@ -17,10 +17,11 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 ## model
 
-- [Cross-Reference Matrix](cross-reference-matrix.md) - Auto-generated matrix cross-referencing every KB article by domain, SDG, and topic tags. *(generated)*
+- [Cross-Reference Matrix](cross-reference-matrix.md) *(generated)*
 - [Concept Map](models/concept-map.md) - Mermaid diagram mapping the key sustainability-reporting concepts and how they relate across standards and frameworks. *(generated)*
 - [Ontology](models/ontology.md) - Hierarchical ontology of sustainability-reporting concepts, grouping terms by parent/child relationships extracted from the corpus. *(generated)*
 - [Semantic Model](models/semantic-model.md) - Tabular semantic model listing concept-to-concept relationships (type, related concept, relationship, source article) distilled from the KB. *(generated)*
+- [SDG Summary](sdg-summary.md) *(generated)*
 
 ## other
 
@@ -42,6 +43,8 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 - [reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md](reports/2026/carbon_di_oxide_a_fact_and_an_ecological.md) `Climate` - Carbon dioxide (COâ‚‚) is a naturally occurring greenhouse gas that plays a critical role in the Earth's climate system. While essential for plant growth and the natural greenhouse effect, excessive concentrations of COâ‚‚ in the atmosphere have become a significant environmental concern due to human-induced emissions.
 - [reports/2026/carbon_sequestration_methodology_benefit.md](reports/2026/carbon_sequestration_methodology_benefit.md) `Climate` - Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide (COâ‚‚), recognized as a key method for reducing carbon levels in the atmosphere, which is a major contributor to global warming and climate change.
 - [reports/2026/collaborative_networks_in_industry_4_0_a.md](reports/2026/collaborative_networks_in_industry_4_0_a.md) `Circular-Economy` - Collaborative networks (CNs) are evolving as key enablers of industrial transformation, particularly in the context of Industry 4.0 and the emerging paradigm of Industry 5.0.
+- [reports/2026/corp.sust.strategies-specialissuesd_original.md](reports/2026/corp.sust.strategies-specialissuesd_original.md) `SDG, Sustainability-Management` - Corporate sustainability strategies are essential for organizations aiming to integrate sustainability into their operations effectively. This paper explores the development of specific sustainability profiles and maturity levels to guide companies in implementing sustainable practices.
+- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md) `SDG, Sustainability-Management` - Corporate social responsibility (CSR) has become a significant aspect of business operations, particularly in the context of stakeholder engagement and sustainability.
 - [reports/2026/corporate_sustainability_strategy_bridgi.md](reports/2026/corporate_sustainability_strategy_bridgi.md) `Climate` - Corporate sustainability strategy implementation refers to the process of translating a formulated sustainability strategy into actionable initiatives within an organization.
 - [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md) `Adjacent` - The Green Software Foundation's Software Carbon Intensity (SCI) specification for measuring the carbon-emissions rate of software systems (ISO/IEC 21031).
 - [reports/2026/determinants_of_reducing_greenhouse_gas.md](reports/2026/determinants_of_reducing_greenhouse_gas.md) `GHG, Climate` - Greenhouse gas (GHG) emissions reduction is a critical goal for the European Union (EU) and globally, as it is essential for balancing economic development, environmental protection, and societal expectations.

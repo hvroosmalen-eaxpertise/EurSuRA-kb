@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-22
+
+### Added (ingested)
+- **Corp.Sust.Strategies-specialissueSD_Original.pdf** → `reports\2026\corp.sust.strategies-specialissuesd_original.md` — corp.sust.strategies-specialissuesd_original (domain: —)
+
+---
+
+
 ## 2026-08-31
 
 ### Added (ingested)
