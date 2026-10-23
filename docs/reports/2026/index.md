@@ -2,6 +2,8 @@
 title: Reports — 2026
 summary: Source documents ingested into the knowledge base during 2026.
 status: published
+reviewed_by: hvroosmalen-eaxpertise
+reviewed_on: '2026-10-23'
 ---
 
 # Reports — 2026

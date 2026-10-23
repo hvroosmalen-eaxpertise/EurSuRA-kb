@@ -2,6 +2,8 @@
 title: Insights
 summary: Cross-domain synthesis pages that combine several standards around a practical question.
 status: published
+reviewed_by: hvroosmalen-eaxpertise
+reviewed_on: '2026-10-23'
 ---
 
 # Insights

@@ -2,6 +2,8 @@
 title: Home
 summary: A structured knowledge base on EU sustainability reporting for SMEs.
 status: published
+reviewed_by: hvroosmalen-eaxpertise
+reviewed_on: '2026-10-23'
 ---
 
 # EurSuRA Knowledge Base

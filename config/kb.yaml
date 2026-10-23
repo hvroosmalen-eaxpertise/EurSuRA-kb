@@ -24,7 +24,7 @@ enrich:
     lint:      ollama-xl    # deep contradiction check (lint.py --deep)
 
 lint:
-  hard_fail: [ORPHAN, STALE, GLOSSDUP, GLOSSFMT]  # kinds that fail CI; XREF and CONTRADICTION are advisory
+  hard_fail: [ORPHAN, STALE, GLOSSDUP, GLOSSFMT, UNREVIEWED]  # kinds that fail CI; XREF and CONTRADICTION are advisory
   ignore_terms:                   # glossary terms too common to require wikilinking
     - sustainability
     - climate change
