@@ -33,9 +33,8 @@ Report pages grouped by the UN Sustainable Development Goals they touch on. Repo
 - [reports/2026/the_state_of_sustainability_in_higher_ed.md](reports/2026/the_state_of_sustainability_in_higher_ed.md)
 - [reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md](reports/2026/webinar-vsme---marlou-duchateau-en-esther-roelofsen.md)
 
-## SDG-8 — Decent Work and Economic Growth (9)
+## SDG-8 — Decent Work and Economic Growth (8)
 
-- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md)
 - [reports/2026/due-diligence-in-6-stappen-nl-sep2021.md](reports/2026/due-diligence-in-6-stappen-nl-sep2021.md)
 - [reports/2026/exploring_the_role_of_carbon_taxation_po.md](reports/2026/exploring_the_role_of_carbon_taxation_po.md)
 - [reports/2026/factors_influencing_energy_consumption_i.md](reports/2026/factors_influencing_energy_consumption_i.md)
@@ -64,10 +63,9 @@ Report pages grouped by the UN Sustainable Development Goals they touch on. Repo
 - [reports/2026/the_shallow_consensus_sdgs_leverage_poin.md](reports/2026/the_shallow_consensus_sdgs_leverage_poin.md)
 - [reports/2026/transition_to_a_sustainable_circular_soc.md](reports/2026/transition_to_a_sustainable_circular_soc.md)
 
-## SDG-11 — Sustainable Cities and Communities (5)
+## SDG-11 — Sustainable Cities and Communities (4)
 
 - [reports/2026/bold_leadership_radical_action_what_bris.md](reports/2026/bold_leadership_radical_action_what_bris.md)
-- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md)
 - [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
 - [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md)
 - [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md)
@@ -149,7 +147,15 @@ Report pages grouped by the UN Sustainable Development Goals they touch on. Repo
 - [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md)
 - [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md)
 
-## Generic (2)
+## Generic (10)
 
+- [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md)
+- [reports/2026/corporate_sustainability_strategies_are.md](reports/2026/corporate_sustainability_strategies_are.md)
+- [reports/2026/crafting_corporate_sustainability_strate.md](reports/2026/crafting_corporate_sustainability_strate.md)
+- [reports/2026/firm_strategy_for_sustainability.md](reports/2026/firm_strategy_for_sustainability.md)
+- [reports/2026/modeling_corporate_sustainability_strate.md](reports/2026/modeling_corporate_sustainability_strate.md)
 - [reports/2026/strategic-sustainability-communication.md](reports/2026/strategic-sustainability-communication.md)
+- [reports/2026/strategies-and-practices-for-sustainability-experiences-from-firm-level.md](reports/2026/strategies-and-practices-for-sustainability-experiences-from-firm-level.md)
+- [reports/2026/sustainability_and_business.md](reports/2026/sustainability_and_business.md)
 - [reports/2026/the_evolution_of_sustainable_finance_par.md](reports/2026/the_evolution_of_sustainable_finance_par.md)
+- [reports/2026/the_sustainability_balanced_scorecard_li.md](reports/2026/the_sustainability_balanced_scorecard_li.md)

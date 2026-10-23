@@ -242,6 +242,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Backcasting
+
+**Definition:** A strategic planning approach that starts from a desired future state and works backward to determine the necessary steps to achieve it, focusing on sustainability goals.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Scenario planning, System conditions for sustainability  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on backcasting, 2004
+
+---
+
 ### Backreferences to Participating Capturing Groups
 
 **Definition:** Advanced pattern matching techniques that allow for referencing previously captured groups in regular expressions during GHG data transformation.
@@ -446,6 +457,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Black Economic Empowerment (BEE)
+
+**Definition:** A policy framework aimed at promoting economic empowerment and procurement practices among historically disadvantaged groups.  
+**Domain:** General  
+**Synonyms:** BEE Policy, Affirmative Action  
+**Abbreviation:** BEE  
+**Related terms:** Corporate Social Responsibility, Companies Act 71 of 2008, King Report on Corporate Governance  
+**Source:** Corporate Social Responsibility: Applying Sustainability Principles in Stakeholder Engagement, Legislative Framework section, 2026
+
+---
+
 ### Brown energy
 
 **Definition:** Energy derived from fossil fuels, which are associated with high greenhouse gas emissions and environmental degradation.
@@ -495,6 +517,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Business model
+
+**Definition:** The framework through which a company creates, delivers, and captures value, often incorporating sustainable practices to ensure long-term viability.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Resource-based view, Corporate sustainability strategy, Sustainable development  
+**Source:** Modeling corporate sustainability strategy, section "Resource-based view", 2015
+
+---
+
 ### Business Relationship
 
 **Definition:** A connection between an enterprise and a supplier, customer, or other party through which the enterprise may be directly linked to an adverse impact even where the enterprise has not itself caused or contributed to that impact.
@@ -510,6 +543,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
 
 ---
+
+---
+
+### Business Strategy
+
+**Definition:** A strategy that focuses on competitive positioning in relevant markets, determining how a company will achieve its corporate objectives through specific market actions.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Corporate Strategy, Functional Strategy, Integrated Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -1192,6 +1241,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Circular Economy
+
+**Definition:** A model that emphasizes product reuse, recycling, and resource efficiency to mitigate the problem of electronic waste and promote sustainable consumption and production.  
+**Domain:** General  
+**Synonyms:** Circular Business Model  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Green IT, Supply Chain Management  
+**Source:** Sustainability and Business, Challenges and Opportunities section, 2025
+
+---
+
 ### Circular Economy (CE)
 
 **Definition:** A paradigm aiming to create a sustainable, low-carbon, resource-efficient, and competitive economy by rethinking production, consumption, and waste management practices.
@@ -1339,6 +1399,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** A Handbook on Terminology for Climate Change Resilience. (2025). Ali Douabul.
 
 ---
+
+---
+
+### Climate Crisis
+
+**Definition:** A global environmental challenge caused by the accumulation of greenhouse gases in the atmosphere, leading to rising global temperatures, extreme weather events, and ecological disruption.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Linear Economy, Circular Economy, Net-zero Future  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Background", 2026
 
 ---
 
@@ -1569,6 +1645,44 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Competitive advantage
+
+**Definition:** A company's ability to outperform its competitors through unique resources, capabilities, or strategies that provide long-term value.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Resource-based view, Corporate sustainability strategy, Business model  
+**Source:** Modeling corporate sustainability strategy, section "Resource-based view", 2015
+
+---
+
+### Competitive Disadvantage
+
+**Definition:** A situation in which a company is at a disadvantage relative to its competitors, often due to inefficiencies, lack of innovation, or failure to adapt to market changes.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Competitive Advantage, Sustainability Strategy, Business Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
+### Competitive strategy
+
+**Definition:** A company's approach to achieving a sustainable competitive advantage through differentiation, cost leadership, or other strategic positioning in the market.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Market-based view, Corporate sustainability strategy, Differentiation  
+**Source:** Modeling corporate sustainability strategy, section "Market-based view", 2015
+
+---
+
 ### Complementary Protection Regimes
 
 **Definition:** Legal frameworks and mechanisms that provide protection to individuals who do not qualify as refugees under the 1951 Refugee Convention but are in need of international protection.
@@ -1584,6 +1698,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 4, 2026
 
 ---
+
+---
+
+### Complementary Sustainability Strategy
+
+**Definition:** A sustainability strategy that complements the creation of competitive advantage without challenging the existing corporate and business strategy, often through cost-saving or efficiency-enhancing initiatives.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Integrated Sustainability Strategy, Stand-alone Sustainability Strategy, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -1754,37 +1884,39 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Corporate Social Responsibility (CSR)
 
-**Definition:** A voluntary business framework through which companies integrate social and environmental concerns into their operations and stakeholder interactions, characterised in the ESG context as a precursor to the regulated obligations now established under ESG standards.
-
-**Domain:** SDG
-
-**Synonyms:** CSR, corporate responsibility, corporate citizenship, Corporate Responsibility, Business Responsibility
-
-**Abbreviation:** CSR
-
-**Related terms:** Strategic Sustainability Communication, Sustainability Management, Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)
-
-**Source:** ESG Business Handbook, Section: Evolution of ESG Standards, EFRAG, 2026-06-15 · Strategic Sustainability Communication, section 2.2, 2026
+**Definition:** A self-regulating business model that helps a company be socially accountable to itself, its stakeholders, and the public, often involving ethical practices and contributions to sustainable development.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** CSR  
+**Related terms:** Sustainable development, Shared value  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on corporate social responsibility, 2004
 
 ---
+
+### Corporate Strategy
+
+**Definition:** The overall direction of a firm, encompassing decisions about where to compete and how to allocate resources across different business units.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Business Strategy, Functional Strategy, Integrated Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
 ### Corporate Sustainability
 
-**Definition:** A strategic approach that seeks to balance the social, environmental, and economic needs of both the company and society.
-
-**Domain:** General
-
-**Synonyms:** Sustainable business, Triple bottom line
-
-**Abbreviation:** None
-
-**Related terms:** Triple bottom line, Strategic management, Sustainability strategy, Organizational culture, Employee motivation
-
-**Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
-
----
+**Definition:** The integration of environmental, social, and governance (ESG) standards into a company's strategic planning, daily operations, and decision-making processes.  
+**Domain:** General  
+**Synonyms:** Sustainable business practices, ESG integration  
+**Abbreviation:** none  
+**Related terms:** Triple Bottom Line (TBL) Model, Environmental, Social, and Governance (ESG), Sustainability Strategy  
+**Source:** Sustainability and Business, Background section, 2025
 
 ---
 
@@ -1824,16 +1956,14 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Corporate Sustainability Strategy
+### Corporate sustainability strategy
 
-**Definition:** A structured approach to integrating sustainability into organizational operations, focusing on achieving long-term viability while addressing environmental, social, and economic dimensions.  
+**Definition:** A strategic approach that enables a company to create value by considering economic, environmental, and social constraints in its operations.  
 **Domain:** General  
-**Synonyms:** Sustainability Strategy, Corporate Sustainability Approach  
-**Abbreviation:** none  
-**Related terms:** Sustainability Maturity, Sustainability Profile, Sustainable Development  
-**Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
-
----
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Sustainable development, Corporate social responsibility (CSR), Resource-based view (RBV), Institutional theory  
+**Source:** Modeling corporate sustainability strategy, section "Modeling corporate sustainability strategy", 2015
 
 ---
 
@@ -2162,6 +2292,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Differentiation
+
+**Definition:** A strategic approach that enables a company to stand out from competitors by offering unique products, services, or value propositions.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Market-based view, Competitive strategy, Corporate sustainability strategy  
+**Source:** Modeling corporate sustainability strategy, section "Market-based view", 2015
+
+---
+
 ### Digital Template to XBRL Converter
 
 **Definition:** A tool that allows users to convert data from the VSME Digital Template into XBRL format, with customization features for personalized reports.
@@ -2177,6 +2318,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
 
 ---
+
+---
+
+### Digital Transformation
+
+**Definition:** The integration of digital technologies into all areas of a business, which can enhance efficiency but also presents challenges due to the energy demands of supporting infrastructure.  
+**Domain:** General  
+**Synonyms:** Digital Innovation  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Technology Management, Green IT  
+**Source:** Sustainability and Business, Strategic Recommendations section, 2025
 
 ---
 
@@ -2314,6 +2466,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Eco-efficiency
+
+**Definition:** A strategy that aims to reduce the environmental impact of a company's operations while maintaining or increasing productivity and profitability.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Sustainability Strategy, Complementary Sustainability Strategy, Internal Driver  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Ecocinema
 
 **Definition:** A form of cinema that focuses on environmental themes, often highlighting ecological issues, sustainability, and the relationship between humans and nature.
@@ -2342,6 +2510,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
 
 ---
+
+---
+
+### Ecological Auditing
+
+**Definition:** A method used to assess the environmental impact of an organization's activities, often as a way to develop sustainable business practices.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate social responsibility, Sustainable development  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on ecological auditing, 2004
 
 ---
 
@@ -2469,6 +2648,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### EFRAG
+
+**Definition:** The European Financial Reporting Advisory Group, an independent body that provides guidance on the application of International Financial Reporting Standards (IFRS) and sustainability reporting standards.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** EFRAG  
+
+**Related terms:** Sustainability Reporting, Corporate Sustainability Strategy, Integrated Management  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Background", 2026
+
+---
+
 ### EFRAG (European Financial Reporting Advisory Group)
 
 **Definition:** A European advisory body responsible for developing and advising on financial and sustainability reporting standards within the EU, including the development of the European Sustainability Reporting Standards (ESRS) under the CSRD.
@@ -2502,6 +2697,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
 
 ---
+
+---
+
+### Emergent Strategy
+
+**Definition:** A strategy that develops through the actions and adaptations of individuals and groups within an organization, rather than being fully planned in advance.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Planned Strategy, Strategic Learning, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -2587,19 +2798,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Energy Efficiency
 
-**Definition:** A category of software sustainability actions consisting of measures taken to reduce the amount of electricity consumed by software in performing a given function, without altering the output of that function.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Hardware Efficiency]], [[Carbon Awareness]], [[Energy]], [[Action (SCI context)]]
-
-**Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
-
----
+**Definition:** The optimization of energy use in business operations to reduce costs and environmental impact, particularly in the context of information technology and data centers.  
+**Domain:** General  
+**Synonyms:** Energy Optimization  
+**Abbreviation:** none  
+**Related terms:** Green IT, Corporate Sustainability, Digital Transformation  
+**Source:** Sustainability and Business, Challenges and Opportunities section, 2025
 
 ---
 
@@ -2792,6 +2996,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Environmental Scanning
+
+**Definition:** The process of identifying and analyzing external environmental factors that may affect a company's strategy and operations.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategy Formulation, Implementation, Evaluation of Performance, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Environmental Sensitivity
 
 **Definition:** The willingness to take positive actions against environmental issues.
@@ -2874,14 +3094,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Environmental, Social, and Governance (ESG)
 
-**Definition:** A framework for evaluating a company's or organization's impact on the environment, society, and corporate governance.
-**Domain:** SDG
-**Synonyms:** ESG Criteria, ESG Factors
-**Abbreviation:** ESG
-**Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Gross Domestic Product (GDP)
-**Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
-
----
+**Definition:** A framework that integrates environmental, social, and governance factors into corporate strategy and operations to ensure long-term viability and market competitiveness.  
+**Domain:** General  
+**Synonyms:** Corporate Sustainability, Triple Bottom Line (TBL) Model  
+**Abbreviation:** ESG  
+**Related terms:** Corporate Sustainability, Triple Bottom Line (TBL) Model  
+**Source:** Sustainability and Business, Background section, 2025
 
 ---
 
@@ -3472,6 +3690,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Evaluation of Performance
+
+**Definition:** The process of assessing the effectiveness of a strategy in achieving its intended outcomes and making adjustments as needed.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Environmental Scanning, Strategy Formulation, Implementation, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Expressions Register
 
 **Definition:** A register of expressions used in the characterization process to enhance the standardization and transformation of GHG data.
@@ -3580,6 +3814,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
 
 ---
+
+---
+
+### External Driver
+
+**Definition:** A factor originating outside the company, such as regulations, customer demand, investor expectations, or market forces, that influences the integration of sustainability into a company's strategy.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Internal Driver, Sustainability Driver, Push Factor, Pull Factor  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -3933,6 +4183,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Implementation Mechanism, 2023
 
 ---
+
+---
+
+### Functional Strategy
+
+**Definition:** A strategy that focuses on leveraging resource productivity through distinct competencies in specific functions such as production, marketing, or procurement.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Corporate Strategy, Business Strategy, Integrated Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -4308,6 +4574,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Green IT
+
+**Definition:** The application of environmental strategies to information technology, including energy-efficient technologies and renewable energy integration to reduce operational costs and environmental impact.  
+**Domain:** General  
+**Synonyms:** Sustainable IT  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Circular Economy, Supply Chain Management  
+**Source:** Sustainability and Business, Challenges and Opportunities section, 2025
+
+---
+
 ### Green tax
 
 **Definition:** A tax imposed on activities that generate greenhouse gas emissions to influence behavior toward sustainability.
@@ -4535,6 +4812,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Hindering Factor
+
+**Definition:** An internal factor that impedes the integration of sustainability into a company's strategy, such as a lack of resources, short-termism, or weak leadership.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Supportive Factor, Internal Driver, Sustainability Driver  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### HITRAN
 
 **Definition:** A database used to model the absorption and emission of radiation by atmospheric gases, which reduces the three-dimensional properties of molecules to a two-dimensional scalar.
@@ -4669,6 +4962,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Impact Framework
+
+**Definition:** A structured approach used by IBM to drive measurable improvements in environmental performance, including reductions in greenhouse gas emissions and increased use of renewable energy.  
+**Domain:** General  
+**Synonyms:** Sustainability Strategy  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, IBM, Green IT  
+**Source:** Sustainability and Business, Corporate Sustainability and the Technology Sector section, 2025
+
+---
+
 ### Impact Materiality
 
 **Definition:** The dimension of double materiality that assesses whether the reporting organisation's activities cause significant actual or potential impacts on people and the environment, regardless of financial consequences to the organisation.
@@ -4684,6 +4988,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
 
 ---
+
+---
+
+### Implementation
+
+**Definition:** The process of putting a strategy into action through the allocation of resources, organizational changes, and the execution of specific plans.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Environmental Scanning, Strategy Formulation, Evaluation of Performance, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -4811,6 +5131,28 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Institutional theory
+
+**Definition:** A theoretical framework that examines how institutional conditions, norms, and pressures shape organizational behavior and strategic decision-making.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Institutional-based view, Corporate sustainability strategy, Stakeholder theory  
+**Source:** Modeling corporate sustainability strategy, section "Institutional-based view", 2015
+
+---
+
+### Institutional-based view
+
+**Definition:** A strategic perspective that highlights the influence of institutional conditions on corporate behavior and the alignment of strategies with stakeholder and societal expectations.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate sustainability strategy, Institutional theory, Stakeholder theory  
+**Source:** Modeling corporate sustainability strategy, section "Institutional-based view", 2015
+
+---
+
 ### Integrated Carbon Accounting and Mitigation (INCAM) Framework
 
 **Definition:** A systematic approach to track carbon emissions and identify emission reduction strategies within industrial settings, enabling organizations to quantify emissions, monitor emission profiles, and implement measures to reduce emissions.
@@ -4829,6 +5171,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Integrated Management
+
+**Definition:** A management approach that systematically integrates sustainability into a company's strategic analysis, goals, processes, and learning to achieve a sustainable future.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Corporate Sustainability Strategy, Strategic Learning, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Background", 2026
+
+---
+
 ### Integrated Prioritisation
 
 **Definition:** A phase within the integrated EU sustainability compliance methodology in which a company systematically identifies and ranks supply chains for further due diligence investigation by applying sequential assessments of regulatory scope, customer requirements, dependency and materiality, known high risks, and existing risk management.
@@ -4844,6 +5202,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Integrated Implementation Approach, 2026
 
 ---
+
+---
+
+### Integrated Sustainability Strategy
+
+**Definition:** A strategic approach that uses sustainability considerations to challenge and potentially redefine a company's corporate strategy (where to compete) and business strategy (how to gain competitive advantage).  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Corporate Strategy, Business Strategy, Stand-alone Sustainability Strategy, Complementary Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -4875,6 +5249,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
 
 ---
+
+---
+
+### Internal Driver
+
+**Definition:** A factor originating within the company, such as cost reduction opportunities, top management vision, employee motivation, or organizational culture, that influences the integration of sustainability into a company's strategy.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** External Driver, Sustainability Driver, Supportive Factor, Hindering Factor  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -5110,6 +5500,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### King Report on Corporate Governance
+
+**Definition:** A report that emphasizes the importance of stakeholder engagement and triple bottom line reporting in corporate governance.  
+**Domain:** General  
+**Synonyms:** King Report  
+**Abbreviation:** KRCG  
+**Related terms:** Corporate Social Responsibility, Triple Bottom Line, Black Economic Empowerment  
+**Source:** Corporate Social Responsibility: Applying Sustainability Principles in Stakeholder Engagement, Corporate Social Responsibility Development in South Africa section, 2026
+
+---
+
 ### Knowledge cycle of technology, information, and education
 
 **Definition:** The production, dissemination, and application of knowledge critical for driving innovation and informing sustainable practices.
@@ -5296,6 +5697,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Linear Economy
+
+**Definition:** An economic system characterized by the extraction of raw materials, production of goods, and disposal of waste, leading to resource depletion and environmental degradation.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Circular Economy, Sustainable Development, Net-zero Future  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Background", 2026
+
+---
+
 ### Linear regression analysis
 
 **Definition:** A statistical method used to model the relationship between a dependent variable and one or more independent variables.
@@ -5384,6 +5801,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Market Force
+
+**Definition:** A factor originating from the market, such as customer demand, competition, or investor expectations, that influences a company's strategic decisions.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Non-market Force, External Driver, Pull Factor, Push Factor  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Market-Based Measures
 
 **Definition:** Instruments such as renewable energy certificates or carbon credits that allow organisations to claim reductions in reported emissions through purchases or offsets rather than through direct reductions, explicitly excluded from the SCI calculation methodology.
@@ -5399,6 +5832,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
 
 ---
+
+---
+
+### Market-based view
+
+**Definition:** A strategic perspective that focuses on competitive advantage through cost leadership and differentiation by understanding customer preferences and market dynamics.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate sustainability strategy, Competitive strategy, Differentiation  
+**Source:** Modeling corporate sustainability strategy, section "Market-based view", 2015
 
 ---
 
@@ -5869,6 +6313,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Net-zero Future
+
+**Definition:** A future characterized by the balance between greenhouse gas emissions and removals, aiming to achieve a state where the net emissions of greenhouse gases are zero.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Circular Economy, Sustainable Development, Climate Crisis  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Background", 2026
+
+---
+
 ### Network for Greening the Financial System (NGFS)
 
 **Definition:** A global network of central banks and financial supervisors that develops climate scenarios and tools to translate climate-related disclosures into actionable risk management practices.
@@ -5964,6 +6424,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
+
+---
+
+### Non-market Force
+
+**Definition:** A factor originating from non-market sources, such as regulations, legal compliance, or public opinion, that influences a company's strategic decisions.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Market Force, External Driver, Push Factor, Sustainability Driver  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -6341,6 +6817,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Planned Strategy
+
+**Definition:** A strategy that is deliberately designed and implemented by an organization to achieve specific long-term goals and objectives.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Emergent Strategy, Strategic Learning, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Policy Recommendations
 
 **Definition:** Suggested actions or strategies to improve the implementation and effectiveness of Measurement, Reporting, and Verification (MRV) systems in alignment with national and international climate commitments.
@@ -6429,6 +6921,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
 
 ---
+
+---
+
+### Porter's Five Forces
+
+**Definition:** A framework developed by Michael Porter to analyze the competitive forces within an industry, including the threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes, and rivalry among existing competitors.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategy Development, Strategic Analysis, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -6577,6 +7085,38 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Pull Factor
+
+**Definition:** A driver that attracts a company to take action, often representing an opportunity if realized, such as customer demand or market trends.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Push Factor, Sustainability Driver, External Driver, Market Force  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
+### Push Factor
+
+**Definition:** A driver that compels a company to take action, often representing a risk if ignored, such as regulatory requirements or legal compliance.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Pull Factor, Sustainability Driver, External Driver, Non-market Force  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Qualifiers Datasheet
 
 **Definition:** A structured sheet containing all identified qualifiers, their values, units of measure, and annotations for GHG data.
@@ -6662,6 +7202,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
 
 ---
+
+---
+
+### Reachable, Meaningful, and Fun (RMF) Framework
+
+**Definition:** A proposed model designed to enhance stakeholder engagement by making sustainability initiatives more accessible, meaningful, and enjoyable for all involved.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** RMF  
+**Related terms:** Corporate Sustainability Strategy, Stakeholder Engagement  
+**Source:** Corporate Sustainability Strategies Are Often Easier Said Than Done, Section 6, 2022
 
 ---
 
@@ -6855,14 +7406,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Renewable Energy
 
-**Definition:** Energy derived from naturally replenished resources such as sunlight, wind, rain, and geothermal heat, which can be harnessed to generate electricity or heat.
-**Domain:** General
-**Synonyms:** Sustainable energy
-**Abbreviation:** none
-**Related terms:** Climate emergency, Radical action
-**Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
-
----
+**Definition:** Energy derived from naturally replenished resources such as sunlight, wind, rain, and geothermal heat, which is increasingly used by companies to reduce their carbon footprint.  
+**Domain:** General  
+**Synonyms:** Clean Energy  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Green IT, Impact Framework  
+**Source:** Sustainability and Business, Corporate Sustainability and the Technology Sector section, 2025
 
 ---
 
@@ -6943,6 +7492,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.3, 2026
 
 ---
+
+---
+
+### Resource-based view
+
+**Definition:** A strategic perspective that emphasizes the role of a company's internal resources and capabilities in achieving sustainable competitive advantage.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate sustainability strategy, Competitive advantage, Business model  
+**Source:** Modeling corporate sustainability strategy, section "Resource-based view", 2015
 
 ---
 
@@ -7049,6 +7609,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Scenario Planning
+
+**Definition:** A method of strategic decision-making that involves creating plausible future scenarios to guide planning and strategy development, often based on a deductive approach.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Backcasting, System conditions for sustainability  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on scenario planning, 2004
+
+---
+
 ### Science-Based Targets
 
 **Definition:** A climate target aligned with the levels of decarbonisation required to meet the goals of the Paris Agreement, focused on the elimination of emissions rather than their neutralisation through offsets, referenced in the SCI specification as a framework with which the SCI is designed to be compatible.
@@ -7113,14 +7684,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Scope 3 Emissions
 
-**Definition:** Indirect greenhouse gas emissions from activities not directly owned or controlled by an organization, such as commuting, study abroad, and business travel.
-**Domain:** GHG
-**Synonyms:** none
-**Abbreviation:** none
-**Related terms:** Scope 1 Emissions, Scope 2 Emissions, Greenhouse Gas Protocol
-**Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
-
----
+**Definition:** Indirect greenhouse gas emissions that occur in the value chain of a company, including upstream and downstream activities, and are often complex to manage across global supply chains.  
+**Domain:** General  
+**Synonyms:** Indirect Emissions  
+**Abbreviation:** Scope 3  
+**Related terms:** Corporate Sustainability, Supply Chain Management  
+**Source:** Sustainability and Business, Challenges and Opportunities section, 2025
 
 ---
 
@@ -7245,6 +7814,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C7), 2026
 
 ---
+
+---
+
+### Shared Value
+
+**Definition:** A business concept that integrates social and environmental issues into core corporate strategy to create economic value in a way that also creates value for society.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate social responsibility, Strategy and society  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on shared value, 2004
 
 ---
 
@@ -7611,14 +8191,39 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Stakeholder Engagement
 
-**Definition:** The process of involving and collaborating with relevant parties, including government institutions, NGOs, and the private sector, to ensure the effective implementation of climate initiatives.
-**Domain:** General
-**Synonyms:** None
-**Abbreviation:** None
-**Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Capacity Building
-**Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+**Definition:** The process of involving and communicating with stakeholders, including investors, customers, and regulatory bodies, to align corporate strategies with sustainability expectations.  
+**Domain:** General  
+**Synonyms:** Stakeholder Interaction  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Digital Transformation, Supply Chain Management  
+**Source:** Sustainability and Business, Corporate Sustainability and the Technology Sector section, 2025
 
 ---
+
+### Stakeholder theory
+
+**Definition:** A framework that emphasizes the importance of considering the interests and expectations of all stakeholders in corporate decision-making and strategy.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Institutional-based view, Corporate sustainability, Corporate social responsibility (CSR)  
+**Source:** Modeling corporate sustainability strategy, section "Institutional-based view", 2015
+
+---
+
+### Stand-alone Sustainability Strategy
+
+**Definition:** A sustainability strategy that addresses social and environmental issues in a way that is not linked to the firm's corporate or business strategy, often as an intrinsic add-on or response to generic external expectations.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Integrated Sustainability Strategy, Complementary Sustainability Strategy, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7632,6 +8237,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
+
+---
+
+### Strategic Integration
+
+**Definition:** The incorporation of sustainability into fundamental operations and oversight mechanisms, ensuring it is a core component of corporate strategy rather than a marginal initiative.  
+**Domain:** General  
+**Synonyms:** Strategic Alignment  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Technology Management, Supply Chain Optimization  
+**Source:** Sustainability and Business, Strategic Recommendations section, 2025
+
+---
+
+### Strategic Learning
+
+**Definition:** The process through which organizations acquire, share, and apply knowledge to improve their strategic capabilities and adapt to changing environmental and market conditions.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Emergent Strategy, Planned Strategy, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7699,6 +8331,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Strategic Sustainability Communication, section 2.3, 2026
 
 ---
+
+---
+
+### Strategy and Society
+
+**Definition:** A concept that links competitive advantage with corporate social responsibility, emphasizing the integration of social and environmental issues into core corporate strategy.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Shared value, Corporate social responsibility  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on strategy and society, 2004
+
+---
+
+### Strategy Formulation
+
+**Definition:** The process of developing and selecting a strategy based on an analysis of the company's internal capabilities and external environment.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Environmental Scanning, Implementation, Evaluation of Performance, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7805,6 +8464,28 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Supply Chain Management
+
+**Definition:** The coordination of activities involved in sourcing, procurement, conversion, and logistics management of a product or service, with a focus on sustainability and transparency.  
+**Domain:** General  
+**Synonyms:** Supply Chain Operations  
+**Abbreviation:** SCM  
+**Related terms:** Corporate Sustainability, Circular Economy, Green IT  
+**Source:** Sustainability and Business, Strategic Recommendations section, 2025
+
+---
+
+### Supply Chain Optimization
+
+**Definition:** The process of addressing challenges such as indirect Scope 3 emissions and material shortages within extensive, international supplier networks through collaboration and transparency.  
+**Domain:** General  
+**Synonyms:** Supply Chain Improvement  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Strategic Integration, Digital Transformation  
+**Source:** Sustainability and Business, Strategic Recommendations section, 2025
+
+---
+
 ### Supply Chain Reporting
 
 **Definition:** The interoperable disclosure of product-level social and environmental impact information across supply-chain participants, enabling collation of complete pictures of sustainable impact and value by supply-chain parties and third parties.
@@ -7823,6 +8504,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Supportive Factor
+
+**Definition:** An internal factor that facilitates the integration of sustainability into a company's strategy, such as a responsible organizational culture or professional risk management.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Hindering Factor, Internal Driver, Sustainability Driver  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### Sustainability
 
 **Definition:** A normative principle that shapes communication and organizational practices, guiding behavior toward ecological and societal imperatives.
@@ -7838,6 +8535,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Strategic Sustainability Communication, section 2.3, 2026
 
 ---
+
+---
+
+### Sustainability Accelerator
+
+**Definition:** A program implemented by IBM to enhance environmental performance through targeted initiatives, such as reducing operational greenhouse gas emissions and increasing renewable energy usage.  
+**Domain:** General  
+**Synonyms:** Sustainability Initiative  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Impact Framework, Green IT  
+**Source:** Sustainability and Business, Corporate Sustainability and the Technology Sector section, 2025
 
 ---
 
@@ -7869,6 +8577,33 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
 
 ---
+
+---
+
+### Sustainability Balanced Scorecard (SBSC)
+
+**Definition:** A strategic management tool that integrates environmental and social aspects into a firm's overall management system by extending the traditional Balanced Scorecard framework.  
+**Domain:** General  
+**Synonyms:** none  
+**Abbreviation:** SBSC  
+**Related terms:** Balanced Scorecard, Sustainability Management  
+**Source:** The_Sustainability_Balanced_Scorecard_li.pdf
+
+---
+
+### Sustainability Driver
+
+**Definition:** A factor, either internal or external, that influences a company's decision to integrate sustainability into its strategy, including push/pull factors, market/nonmarket forces, or supportive/hindering factors.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** External Driver, Internal Driver, Sustainability Strategy, Maturity Model  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7905,6 +8640,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Strategic Sustainability Communication, section 2.2, 2026
 
 ---
+
+---
+
+### Sustainability Maturity
+
+**Definition:** A framework that describes the evolution of a sustainability strategy over time, ranging from initial to optimizing stages, reflecting the dynamic interplay of external and internal factors.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Sustainability Strategy, External Drivers, Internal Drivers, Maturity Model  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7964,19 +8715,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sustainability Strategy
 
-**Definition:** A plan that outlines how an organization will achieve its sustainability goals.
+**Definition:** A strategic approach that integrates sustainability into a company's long-term goals, processes, and learning to achieve a sustainable future.  
 
-**Domain:** General
+**Domain:** General  
 
-**Synonyms:** None
+**Synonyms:** None  
 
-**Abbreviation:** None
+**Abbreviation:** None  
 
-**Related terms:** Corporate sustainability, Strategic management, Corporate Sustainability Strategy Implementation, Organizational culture, Employee motivation
+**Related terms:** Integrated Sustainability Strategy, Stand-alone Sustainability Strategy, Complementary Sustainability Strategy  
 
-**Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
-
----
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
 
 ---
 
@@ -7998,16 +8747,36 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Sustainable Development
+### Sustainable Business
 
-**Definition:** Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, emphasizing both economic and environmental considerations.
-**Domain:** ESRS
-**Synonyms:** Sustainable growth, environmental sustainability
-**Abbreviation:** SD
-**Related terms:** Environmental sustainability, Materiality (ESRS)
-**Source:** United Nations World Commission on Environment and Development, 1987
+**Definition:** A business model that integrates environmental and social considerations into its operations and strategies to ensure long-term viability and positive impact on society.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Corporate social responsibility, Ecological auditing  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on sustainable business, 2004
 
 ---
+
+### Sustainable Development
+
+**Definition:** A form of development that meets the needs of the present without compromising the ability of future generations to meet their own needs, focusing on ecological, economic, and social sustainability.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** System conditions for sustainability, Backcasting  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on sustainable development, 2004
+
+---
+
+### Sustainable Development Goals (SDG)
+
+**Definition:** A set of 17 global goals established by the United Nations to address global challenges such as poverty, inequality, climate change, and environmental degradation.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** SDG  
+**Related terms:** Corporate Sustainability Strategy, Environmental, Social, and Governance (ESG), Stakeholder Engagement  
+**Source:** Corporate Sustainability Strategies Are Often Easier Said Than Done, Section 2, 2022
 
 ---
 
@@ -8088,6 +8857,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Lead, 2026
 
 ---
+
+---
+
+### System Conditions for Sustainability
+
+**Definition:** A framework of four conditions that guide sustainable development by focusing on ecological sustainability through the potential damaging effects of systematic increases in substances or degradation of the environment.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** Backcasting, Scenario planning  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on system conditions for sustainability, 2004
 
 ---
 
@@ -8217,6 +8997,28 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
 
 ---
+
+---
+
+### Technology Management
+
+**Definition:** The deliberate management of digital tools, including AI, to enhance efficiency while addressing their substantial energy consumption and the energy demands of supporting infrastructure.  
+**Domain:** General  
+**Synonyms:** Digital Tool Management  
+**Abbreviation:** none  
+**Related terms:** Corporate Sustainability, Strategic Integration, Digital Transformation  
+**Source:** Sustainability and Business, Strategic Recommendations section, 2025
+
+---
+
+### The Natural Step
+
+**Definition:** A framework for sustainable development that outlines a set of principles and conditions for sustainability, emphasizing the reduction of environmental impact through systemic changes.  
+**Domain:** General  
+**Synonyms:** None  
+**Abbreviation:** None  
+**Related terms:** System conditions for sustainability, Sustainable development  
+**Source:** Strategies and Practices for Sustainability: Experiences from Firm Level, section on The Natural Step, 2004
 
 ---
 
@@ -8455,6 +9257,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### Triple Bottom Line
+
+**Definition:** A framework that expands traditional financial performance metrics to include social and environmental performance.  
+**Domain:** General  
+**Synonyms:** People, Planet, Profit  
+**Abbreviation:** TBL  
+**Related terms:** Corporate Social Responsibility, Stakeholder Engagement, King Report on Corporate Governance  
+**Source:** Corporate Social Responsibility: Applying Sustainability Principles in Stakeholder Engagement, Background section, 2026
+
+---
+
 ### Triple Bottom Line (TBL)
 
 **Definition:** A framework that integrates economic, environmental, and social dimensions of performance to evaluate organizational sustainability.
@@ -8470,6 +9283,17 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Strategic Management for Sustainability, Section 2, 2026-07-29 · Strategic_Management_for_Sustainability.pdf, Section 3, 2026-07-29
 
 ---
+
+---
+
+### Triple Bottom Line (TBL) Model
+
+**Definition:** A framework that encourages firms to measure success not only by financial performance but also by societal and ecological impacts.  
+**Domain:** General  
+**Synonyms:** Triple Bottom Line, TBL  
+**Abbreviation:** TBL  
+**Related terms:** Corporate Sustainability, Environmental, Social, and Governance (ESG)  
+**Source:** Sustainability and Business, Background section, 2025
 
 ---
 
@@ -8790,6 +9614,22 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+### VRIO Framework
+
+**Definition:** A framework developed by Jay Barney to assess the value, rarity, inimitability, and organization of a company's resources to determine their potential to create sustainable competitive advantage.  
+
+**Domain:** General  
+
+**Synonyms:** None  
+
+**Abbreviation:** None  
+
+**Related terms:** Strategy Development, Strategic Analysis, Sustainability Strategy  
+
+**Source:** Crafting Corporate Sustainability Strategy, section "Strategy Development and Sustainability: Past and Present", 2026
+
+---
+
 ### VSME Digital Template
 
 **Definition:** A tool developed by the EFRAG Secretariat to enable user-friendly data entry for SMEs, including auto-calculation of totals, validations, and consistency checks.
@@ -8967,3 +9807,4 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 ---
 
 ---
+
