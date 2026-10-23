@@ -3,6 +3,7 @@ title: "Voluntary Sustainability Reporting for SMEs: VSME Standard Implementatio
 nav_title: Q&A — VSME Webinar (NL)
 content_type: report
 language: nl
+report_type: webinar
 sdg:
   - SDG-12
   - SDG-7

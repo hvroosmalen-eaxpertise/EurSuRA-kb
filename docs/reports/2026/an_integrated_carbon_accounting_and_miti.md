@@ -2,6 +2,7 @@
 title: Integrated Carbon Accounting and Mitigation (INCAM) Framework
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-12

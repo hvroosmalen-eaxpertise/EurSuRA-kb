@@ -2,6 +2,7 @@
 title: "The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success"
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-7

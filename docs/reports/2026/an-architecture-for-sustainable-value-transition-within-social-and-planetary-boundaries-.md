@@ -3,6 +3,7 @@ title: An Architecture for Sustainable Value Transition within Social and Planet
 nav_title: Architecture for Sustainable Value Transition
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-12

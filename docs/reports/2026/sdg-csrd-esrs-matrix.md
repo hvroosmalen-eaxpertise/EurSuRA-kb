@@ -2,6 +2,7 @@
 title: SDG–CSRD–ESRS Alignment Matrix
 content_type: report
 language: en
+report_type: template
 sdg:
   - SDG-13
   - SDG-12

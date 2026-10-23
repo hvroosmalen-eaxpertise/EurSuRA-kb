@@ -2,6 +2,7 @@
 title: Sustainable Development Goals and Leverage Points in Global Governance
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-9
   - SDG-8

@@ -2,6 +2,7 @@
 title: Strategic Sustainability Communication
 content_type: report
 language: en
+report_type: academic
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'

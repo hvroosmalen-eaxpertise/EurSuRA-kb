@@ -3,6 +3,7 @@ title: Sustainability and ESG Reporting Frameworks
 nav_title: Six ESG Reporting Frameworks
 content_type: report
 language: en
+report_type: standards-guidance
 sdg:
   - SDG-15
 status: draft

@@ -3,6 +3,7 @@ title: Determinants of Reducing Greenhouse Gas Emissions in European Union Count
 nav_title: Determinants of Reducing GHG Emissions (EU)
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
 domain:

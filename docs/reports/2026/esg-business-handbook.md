@@ -3,6 +3,7 @@ title: "ESG Business Handbook: Environmental, Social and Governance Standards fo
 nav_title: ESG Business Handbook (BiH)
 content_type: report
 language: en
+report_type: handbook
 sdg:
   - SDG-13
   - SDG-12

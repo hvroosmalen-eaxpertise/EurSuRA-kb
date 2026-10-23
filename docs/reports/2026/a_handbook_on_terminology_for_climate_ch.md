@@ -3,6 +3,7 @@ title: Climate Change Resilience Terminology
 nav_title: "Handbook: Climate Change Terminology"
 content_type: report
 language: en
+report_type: handbook
 sdg:
   - SDG-13
   - SDG-15

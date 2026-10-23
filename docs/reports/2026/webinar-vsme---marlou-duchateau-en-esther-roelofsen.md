@@ -3,6 +3,7 @@ title: "Voluntary Sustainability Reporting Standards for Small and Medium-Sized 
 nav_title: VSME Webinar — Duchateau & Roelofsen (NL)
 content_type: report
 language: nl
+report_type: webinar
 sdg:
   - SDG-12
   - SDG-7

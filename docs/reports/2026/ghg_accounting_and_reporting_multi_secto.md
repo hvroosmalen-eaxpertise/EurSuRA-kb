@@ -3,6 +3,7 @@ title: "GHG Accounting and Reporting Multi-Sector Tool: Characterization of IPCC
 nav_title: GHG Accounting and Reporting Multi-Sector Tool
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-9

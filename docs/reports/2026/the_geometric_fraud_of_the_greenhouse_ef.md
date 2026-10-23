@@ -2,6 +2,7 @@
 title: The Geometric Fraud of the Greenhouse Effect
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-14

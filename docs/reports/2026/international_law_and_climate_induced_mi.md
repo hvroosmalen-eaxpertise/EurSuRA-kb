@@ -2,6 +2,7 @@
 title: "International Law and Climate-Induced Migration: Protection Without Status"
 content_type: report
 language: en
+report_type: academic
 sdg:
   - SDG-13
   - SDG-16
