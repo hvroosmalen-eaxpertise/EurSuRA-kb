@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: handbook
 sdg:
   - SDG-13
   - SDG-15

@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: academic
 sdg:
   - SDG-12
   - SDG-7

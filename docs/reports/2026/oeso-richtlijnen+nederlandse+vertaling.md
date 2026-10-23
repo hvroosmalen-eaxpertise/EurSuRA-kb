@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: policy
 sdg:
   - SDG-9
   - SDG-8
