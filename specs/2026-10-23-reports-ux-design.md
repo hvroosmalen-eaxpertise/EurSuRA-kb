@@ -1,0 +1,178 @@
+# #22 — Reports UX: sub-group, human-readable titles, language flags, source links
+
+**Date:** 2026-10-23
+**Issue:** [#22](https://github.com/hvroosmalen-eaxpertise/EurSuRA-kb/issues/22)
+**Epic:** [#23](https://github.com/hvroosmalen-eaxpertise/EurSuRA-kb/issues/23)
+
+## Intent
+
+The Reports section has grown from 19 pages at the time #22 was filed to 57
+pages today (plus the 2025 landing). A single flat list under
+`Reports / 2026` is now unreadable: machine-slugged titles mix with
+hand-set ones, Dutch and English pages interleave with no visual signal,
+and there is no way to find "all reports for CSRD" or "all VSME
+webinars". The source-link task from #22 is already done (hooks.py
+injects a *Source document* footer — issue #15 is closed), so the
+remaining work is purely navigation and metadata.
+
+## Non-goals
+
+- No content rewrites of existing report pages.
+- No change to the ingest pipeline's slug/filename conventions —
+  everything happens via frontmatter and `mkdocs.yml` display titles.
+- No automatic translation of Dutch pages.
+- VSME section polish is out of scope (it's reports *grouping*, not a
+  VSME audit).
+
+## Starting state (2026-10-23)
+
+- 57 report pages in `docs/reports/2026/` plus a 2025 landing.
+- All appear in `mkdocs.yml` nav as a flat alphabetical list under
+  **Reports → 2026**.
+- Many nav entries are slug-derived (`"Q&A Nav Webinair Vsme_Marlou En
+  Esther"`, `"Oeso Richtlijnen+Nederlandse+Vertaling"`, `"Vsme Standard
+  Nl Onofficiële Vertaling Met Ai"`).
+- Every page has a page-level H1 title set from `frontmatter.title`; the
+  nav label is a *separate* string in `mkdocs.yml`.
+- `source_file:` footer link already works via `hooks.py` (#15).
+- Reports do carry `domain:` tags since #19.
+- No `language:` field exists today.
+
+## Phases (one PR each)
+
+Each phase lands on a feature branch and merges via its own PR.
+
+### Phase 1 — Report-type taxonomy and `report_type:` frontmatter
+
+Introduce a small controlled vocabulary that will drive sub-grouping.
+Candidates after a sweep of the current corpus:
+
+| `report_type:` | Covers |
+|---|---|
+| `standards-guidance` | EFRAG explanatory notes, VSME digital template guides, OECD guidelines text |
+| `academic` | Peer-reviewed papers and MDPI articles (`sustainability_*`, `determinants_of_*`, etc.) |
+| `webinar` | Webinar transcripts and Q&A docs |
+| `handbook` | Longer practitioner handbooks (ESG Business Handbook, Climate Terminology Handbook) |
+| `template` | Taxonomies, digital templates, SDG-CSRD-ESRS matrix |
+| `policy` | EU / UN policy documents and directives |
+
+Tagger / frontmatter work:
+
+- Add `report_type:` as an optional frontmatter field (framework schema
+  already allows arbitrary optional fields).
+- Backfill the 57 existing report pages with the right value. Done
+  one-shot in a Python script that reads frontmatter + first paragraph
+  and emits a mapping file; a human sanity-check pass before commit.
+- `pipeline/ingest.py` learns to emit `report_type:` on new ingests
+  (defaults to blank; the tagger agent fills it where confident).
+- `pipeline/lint.py`: new advisory `UNTAGGED_REPORT_TYPE` finding — a
+  report page lacking `report_type:` logs a warning but does not fail
+  CI.
+
+Branch: `issue-22-phase-1-report-type`.
+
+### Phase 2 — Human-readable titles
+
+Replace slug-derived nav labels with explicit human titles.
+
+- Every report page gets its `title:` set to the human title (the H1 is
+  derived from it anyway).
+- `mkdocs.yml` nav labels are rewritten to match. Where a short label is
+  needed in nav (long academic titles), the frontmatter carries a new
+  `nav_title:` field; a tiny `hooks.py` addition picks `nav_title` or
+  falls back to `title`.
+- Dutch titles kept in Dutch; see Phase 3 for the language marker.
+
+Executed as a Python script that reads each report, proposes a title
+from H1 or the opening sentence, writes a review file, waits for a
+sanity pass, then writes the updates.
+
+Branch: `issue-22-phase-2-titles`.
+
+### Phase 3 — `language:` frontmatter and a nav marker
+
+- New optional frontmatter `language:` with two values this cycle: `nl`
+  (Dutch) and `en` (English). Default `en` where omitted.
+- `hooks.py` prepends a small flag chip (🇳🇱 / 🇬🇧 or a plain `[NL]` /
+  `[EN]` text badge) to the nav label at build time, so nothing is
+  hand-maintained in `mkdocs.yml`.
+- Backfill all 57 reports.
+- The emoji-vs-text choice is settled in the PR by a visual check in
+  the browser pane.
+
+Branch: `issue-22-phase-3-language`.
+
+### Phase 4 — Sub-grouping in the nav
+
+With `report_type:` and `language:` in place, replace the flat 2026 nav
+block with sub-groups.
+
+Preferred layout:
+
+```yaml
+- Reports:
+  - '2025': reports/2025/index.md
+  - '2026':
+    - Overview: reports/2026/index.md
+    - Standards guidance: …
+    - Templates: …
+    - Handbooks: …
+    - Policy: …
+    - Webinars: …
+    - Academic papers: …
+```
+
+Within each sub-group, entries are sorted alphabetically by display
+title. The sub-group lists are generated by a build-time `hooks.py`
+function (or a small `pipeline/nav_sync.py` script run from
+`orchestrate.py`'s finalize step), reading `report_type:` from each
+page — so adding a new report in the right sub-group is a frontmatter
+change, not a nav edit.
+
+Branch: `issue-22-phase-4-nav-subgroups`.
+
+### Phase 5 — Per-domain "Sources & further reading"
+
+Partly unlocked by #19 (domain tags on reports). Each canonical domain
+page (ESRS, CSRD, VSME, …) grows a short **Sources & further reading**
+section listing the reports whose `domain:` includes that domain,
+grouped by `report_type:` for readability.
+
+Generated by a new `pipeline/query.py --domain-sources` output or a
+`hooks.py` injection; the latter is lighter, since it keeps canonical
+pages hand-edited while the list stays live.
+
+Branch: `issue-22-phase-5-domain-sources`.
+
+### Phase 6 — Verify, regenerate, close
+
+- `mkdocs build --strict` passes.
+- `python ../kb-framework/pipeline/lint.py --kb .` passes.
+- Visual review of the Reports section in the browser pane.
+- Regenerate catalog and cross-reference matrix.
+- Close #22 and tick it off in the Epic #23 body; close #23 if nothing
+  else is pending.
+
+Rolled into the Phase 5 PR, no separate branch.
+
+## Settled calls
+
+- The 4th original task (source link on each page) is already done
+  via `hooks.py` + #15 — not re-done here.
+- `report_type:` taxonomy is the six values listed above; new values
+  are added by editing the Phase 1 PR, not ad-hoc per report.
+- `nav_title:` is the right split — `title` is content, `nav_title` is
+  presentation; most reports won't need it.
+- Language field is `language:` with ISO 639-1 codes; the chip style
+  (flag vs text) is settled in Phase 3 by looking at both in the
+  browser.
+- `pipeline/nav_sync.py` (or a `hooks.py` hook): the latter is
+  preferred because it avoids a committed, generated nav block and
+  keeps the mkdocs.yml tree small — settled in Phase 4.
+
+## Open to the builder
+
+Nothing requires further decisions from the user before Phase 1 starts.
+If the Phase 1 taxonomy sweep surfaces a report that fits none of the
+six values, the builder adds a seventh in the same PR with a one-line
+rationale.
