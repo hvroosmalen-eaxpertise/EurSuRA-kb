@@ -1661,11 +1661,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Conservative – Efficiency Strategy
 
-**Definition:** A corporate sustainability strategy that concentrates on eco-efficiency and cleaner production.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Visionary – Holistic Sustainability Strategy  
+**Definition:** A corporate sustainability strategy that concentrates on eco-efficiency and cleaner production.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Visionary – Holistic Sustainability Strategy
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
 
 ---
@@ -1826,11 +1826,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Corporate Sustainability Strategy
 
-**Definition:** A structured approach to integrating sustainability into organizational operations, focusing on achieving long-term viability while addressing environmental, social, and economic dimensions.  
-**Domain:** General  
-**Synonyms:** Sustainability Strategy, Corporate Sustainability Approach  
-**Abbreviation:** none  
-**Related terms:** Sustainability Maturity, Sustainability Profile, Sustainable Development  
+**Definition:** A structured approach to integrating sustainability into organizational operations, focusing on achieving long-term viability while addressing environmental, social, and economic dimensions.
+**Domain:** General
+**Synonyms:** Sustainability Strategy, Corporate Sustainability Approach
+**Abbreviation:** none
+**Related terms:** Sustainability Maturity, Sustainability Profile, Sustainable Development
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
 
 ---
@@ -2409,11 +2409,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Economic Dimension of Corporate Sustainability
 
-**Definition:** The dimension of corporate sustainability that encompasses aspects essential for an organization's long-term market viability, alongside environmental and social considerations.  
-**Domain:** General  
-**Synonyms:** Generic Dimension  
-**Abbreviation:** none  
-**Related terms:** Ecological Dimension, Social Dimension, Sustainability Aspect  
+**Definition:** The dimension of corporate sustainability that encompasses aspects essential for an organization's long-term market viability, alongside environmental and social considerations.
+**Domain:** General
+**Synonyms:** Generic Dimension
+**Abbreviation:** none
+**Related terms:** Ecological Dimension, Social Dimension, Sustainability Aspect
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
 
 ---
@@ -3629,11 +3629,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Extroverted – Legitimizing Strategy
 
-**Definition:** A corporate sustainability strategy that emphasizes external relationships and the license to operate.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Introverted – Risk Mitigation Strategy, Conservative – Efficiency Strategy, Visionary – Holistic Sustainability Strategy  
+**Definition:** A corporate sustainability strategy that emphasizes external relationships and the license to operate.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Introverted – Risk Mitigation Strategy, Conservative – Efficiency Strategy, Visionary – Holistic Sustainability Strategy
 **Source:** Corp.Sust.Strategies-special, Section 2, 2026
 
 ---
@@ -5001,11 +5001,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Introverted – Risk Mitigation Strategy
 
-**Definition:** A corporate sustainability strategy that focuses on legal and external standards to mitigate risks related to environmental and social aspects.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy, Visionary – Holistic Sustainability Strategy  
+**Definition:** A corporate sustainability strategy that focuses on legal and external standards to mitigate risks related to environmental and social aspects.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy, Visionary – Holistic Sustainability Strategy
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
 
 ---
@@ -7389,11 +7389,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Social Dimension of Corporate Sustainability
 
-**Definition:** The dimension of corporate sustainability that involves the organization's responsibility and commitment to its actions, particularly in business activities.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Economic Dimension, Ecological Dimension, Sustainability Aspect  
+**Definition:** The dimension of corporate sustainability that involves the organization's responsibility and commitment to its actions, particularly in business activities.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Economic Dimension, Ecological Dimension, Sustainability Aspect
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
 
 ---
@@ -7861,11 +7861,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Sustainability Aspect
 
-**Definition:** A specific issue or factor within the economic, ecological, or social dimensions of corporate sustainability that requires attention and management.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Economic Dimension, Ecological Dimension, Social Dimension  
+**Definition:** A specific issue or factor within the economic, ecological, or social dimensions of corporate sustainability that requires attention and management.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Economic Dimension, Ecological Dimension, Social Dimension
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
 
 ---
@@ -8645,11 +8645,11 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Visionary – Holistic Sustainability Strategy
 
-**Definition:** A corporate sustainability strategy that encompasses sustainability issues across all business activities, deriving competitive advantages through innovation and differentiation.  
-**Domain:** General  
-**Synonyms:** none  
-**Abbreviation:** none  
-**Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy  
+**Definition:** A corporate sustainability strategy that encompasses sustainability issues across all business activities, deriving competitive advantages through innovation and differentiation.
+**Domain:** General
+**Synonyms:** none
+**Abbreviation:** none
+**Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
 
 ---

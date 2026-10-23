@@ -4,7 +4,7 @@ summary: 'Comparative synthesis of how double materiality is defined and operati
 content_type: synthesis
 generated: true
 sources: [csrd, esrs, gri]
-date_updated: 2026-08-31
+date_updated: '2026-10-23'
 ---
 
 # Double Materiality Across Regimes

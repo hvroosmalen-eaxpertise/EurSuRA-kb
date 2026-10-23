@@ -4,7 +4,7 @@ summary: 'Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxo
 content_type: synthesis
 generated: true
 sources: [esrs, tcfd, ghg-protocol, eu-taxonomy]
-date_updated: 2026-08-31
+date_updated: '2026-10-23'
 ---
 
 # Climate Disclosure Across Frameworks
