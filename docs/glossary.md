@@ -1958,12 +1958,12 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ### Corporate sustainability strategy
 
-**Definition:** A strategic approach that enables a company to create value by considering economic, environmental, and social constraints in its operations.
+**Definition:** A structured approach to integrating sustainability into organizational operations, focusing on achieving long-term viability while addressing environmental, social, and economic dimensions. A strategic approach that enables a company to create value by considering economic, environmental, and social constraints in its operations.
 **Domain:** General
-**Synonyms:** None
-**Abbreviation:** None
-**Related terms:** Sustainable development, Corporate social responsibility (CSR), Resource-based view (RBV), Institutional theory
-**Source:** Modeling corporate sustainability strategy, section "Modeling corporate sustainability strategy", 2015
+**Synonyms:** Sustainability Strategy, Corporate Sustainability Approach
+**Abbreviation:** none
+**Related terms:** Sustainability Maturity, Sustainability Profile, Sustainable Development, Corporate social responsibility (CSR), Resource-based view (RBV), Institutional theory
+**Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026; Modeling corporate sustainability strategy, section "Modeling corporate sustainability strategy", 2015
 
 ---
 
