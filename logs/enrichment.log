@@ -188,3 +188,27 @@
 2026-08-31T17:22:33 [INFO] STYLE_APPLIED Transition_to_a_Sustainable_Circular_Soc.pdf
 2026-08-31T17:22:33 [INFO] TAGGED Transition_to_a_Sustainable_Circular_Soc.pdf → domain=None
 2026-08-31T17:25:08 [INFO] GLOSSARY_UPSERT 9 entries
+2026-10-23T10:38:43 [INFO] STYLE_APPLIED Corporate_social_responsibility_Applying_sustainab.pdf
+2026-10-23T10:38:43 [INFO] TAGGED Corporate_social_responsibility_Applying_sustainab.pdf → domain=None
+2026-10-23T10:39:55 [INFO] GLOSSARY_UPSERT 5 entries
+2026-10-23T10:43:57 [INFO] STYLE_APPLIED Corporate_Sustainability_Strategies_Are.pdf
+2026-10-23T10:43:57 [INFO] TAGGED Corporate_Sustainability_Strategies_Are.pdf → domain=None
+2026-10-23T10:45:19 [INFO] GLOSSARY_UPSERT 5 entries
+2026-10-23T10:57:50 [INFO] STYLE_APPLIED Crafting_Corporate_Sustainability_Strate.pdf
+2026-10-23T10:57:50 [INFO] TAGGED Crafting_Corporate_Sustainability_Strate.pdf → domain=None
+2026-10-23T11:11:15 [INFO] GLOSSARY_UPSERT 36 entries
+2026-10-23T11:16:15 [INFO] STYLE_APPLIED FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf
+2026-10-23T11:16:15 [INFO] TAGGED FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf → domain=None
+2026-10-23T11:36:15 [WARN] GLOSSARY_SKIP FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf: timed out
+2026-10-23T11:40:57 [INFO] STYLE_APPLIED Modeling_Corporate_Sustainability_Strate.pdf
+2026-10-23T11:40:57 [INFO] TAGGED Modeling_Corporate_Sustainability_Strate.pdf → domain=None
+2026-10-23T11:43:28 [INFO] GLOSSARY_UPSERT 12 entries
+2026-10-23T11:48:33 [INFO] STYLE_APPLIED Strategies and Practices for Sustainability Experiences from Firm Level.pdf
+2026-10-23T11:48:33 [INFO] TAGGED Strategies and Practices for Sustainability Experiences from Firm Level.pdf → domain=None
+2026-10-23T11:51:01 [INFO] GLOSSARY_UPSERT 10 entries
+2026-10-23T11:58:54 [INFO] STYLE_APPLIED Sustainability_and_Business.pdf
+2026-10-23T11:58:54 [INFO] TAGGED Sustainability_and_Business.pdf → domain=None
+2026-10-23T12:03:31 [INFO] GLOSSARY_UPSERT 16 entries
+2026-10-23T12:06:50 [INFO] STYLE_APPLIED The_Sustainability_Balanced_Scorecard_li.pdf
+2026-10-23T12:06:50 [INFO] TAGGED The_Sustainability_Balanced_Scorecard_li.pdf → domain=None
+2026-10-23T12:07:07 [INFO] GLOSSARY_UPSERT 1 entries
