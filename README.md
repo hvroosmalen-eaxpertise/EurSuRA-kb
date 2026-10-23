@@ -6,6 +6,8 @@ It is built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](http
 
 **Live wiki:** <https://hvroosmalen-eaxpertise.github.io/EurSuRA-kb/>
 
+**See also:** [`../digital-sustainability-kb`](../digital-sustainability-kb) — adjacent local KB covering green software (SCI) and digital competence (DigComp), relocated from here per issue #20 to keep this KB on-scope.
+
 ## Contents
 
 | Section | Description |

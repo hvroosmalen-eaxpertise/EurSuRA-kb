@@ -18,6 +18,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### 3TG Minerals
 
 **Definition:** A collective designation for the four minerals—tin, tantalum, tungsten, and gold—subject to mandatory supply chain due diligence under the Conflict Minerals Regulation due to their association with conflict-affected and high-risk areas.
@@ -31,6 +33,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Conflict Minerals Regulation (CMR)]], [[Due Diligence]], [[Value Chain]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
 
 ---
 
@@ -50,6 +54,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Adaptation Funds
 
 **Definition:** Financial mechanisms aimed at supporting adaptation and mitigation efforts to address the impacts of climate change on vulnerable populations.
@@ -63,6 +69,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate-Induced Migration, Climate Refugee, International Law, Funding Mechanisms
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -82,6 +90,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Adsorbent
 
 **Definition:** A porous material capable of capturing and retaining substances, particularly CO₂, through surface interactions.
@@ -93,6 +103,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Adsorption
 
 **Definition:** The process by which a substance (adsorbate) adheres to the surface of a solid or liquid (adsorbent) due to surface forces.
@@ -101,6 +113,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Adsorbent, Carbon Capture and Storage, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
+
+---
 
 ---
 
@@ -120,6 +134,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Affected Stakeholders
 
 **Definition:** Individuals or groups—such as workers or local communities—who bear the risk of adverse impacts arising from an enterprise's operations, products, services, or business relationships, and whose interests are the primary focus of the CSR risk analysis.
@@ -136,20 +152,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Agentic AI
-
-**Definition:** A class of AI systems characterised by autonomous decision-making and the orchestration of multi-step workflows, explicitly addressed within the SCI for AI Specification's scope and Operation and Monitoring lifecycle stage for carbon accounting purposes.
-
-**Domain:** GHG
-
-**Synonyms:** autonomous AI, AI agent systems
-
-**Abbreviation:** none
-
-**Related terms:** [[Generative AI]], [[Operation and Monitoring]], [[Inference]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies & Operation and Monitoring, 2026
-
 ---
 
 ### Agriculture
@@ -160,6 +162,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Anthropogenic Factors, Greenhouse Gas, Livestock Production
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -174,36 +178,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### AI Lifecycle Stages
-
-**Definition:** The five sequential phases — Inception, Design and Development, Deployment, Operation and Monitoring, and End of Life — into which the SCI for AI Specification divides an AI system's existence for the purpose of measuring and attributing carbon emissions.
-
-**Domain:** GHG
-
-**Synonyms:** AI system lifecycle, AI lifecycle phases
-
-**Abbreviation:** none
-
-**Related terms:** [[Inception]], [[Design and Development]], [[Deployment]], [[Operation and Monitoring]], [[End of Life]], [[Consumer]], [[Provider]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages, 2026
-
----
-
-### AI-Orchestrated Consensus Process
-
-**Definition:** A novel document production methodology employed in the SCI for Web Assembly Report in which participant inputs are synthesised by a large language model to generate candidate content, which is then subjected to iterative review rounds concluding in formal participant positions of Endorsed, Consented, or Objected prior to content merger.
-
-**Domain:** GHG
-
-**Synonyms:** AI-orchestrated assembly process
-
-**Abbreviation:** none
-
-**Related terms:** [[Large Language Model (LLM)]], [[Endorsed]], [[Consented]], [[Objected]], [[Software Carbon Intensity for Web (SCI for Web)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
-
 ---
 
 ### Albedo
@@ -217,6 +191,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Anthropogenic Factors
 
 **Definition:** Human activities that contribute to the increase in greenhouse gas emissions and global warming.
@@ -227,20 +203,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
-
-### Application Programming Interface (API)
-
-**Definition:** A programmatic service interface that, for purposes of the SCI for Web specification, is classified as in-scope when it is accessed primarily through browser-based interfaces representing the primary human interaction mode, and out-of-scope when serving exclusively machine-to-machine programmatic clients.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** API
-
-**Related terms:** [[Browser-Mediated Human Interaction]], [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition — API Classification, 2026-06-15
 
 ---
 
@@ -260,6 +222,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Automated Reporting Pipelines
 
 **Definition:** Systems capable of automatically feeding greenhouse gas measurement data into national registry systems, port authority dashboards, and IMO MRV platforms without manual intervention.
@@ -276,20 +240,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Backend and Infrastructure Engineer
-
-**Definition:** A technical practitioner within the SCI for Web target persona framework who controls server-side systems generating and delivering content to browsers, encompassing backend developers, infrastructure and systems engineers, and platform and DevOps engineers, whose decisions affect operational emissions from datacentres and infrastructure.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Operational Emissions]], [[Content Delivery Network (CDN)]], [[Continuous Integration and Continuous Deployment (CI/CD)]], [[Software Carbon Intensity for Web (SCI for Web)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
-
 ---
 
 ### Backreferences to Participating Capturing Groups
@@ -300,6 +250,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -314,6 +266,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Basel III
 
 **Definition:** A regulatory framework for global banking that aims to enhance the stability of the financial system through improved capital adequacy, risk management, and transparency requirements.
@@ -322,6 +276,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** Basel III
 **Related terms:** Sustainable Development Goals (SDGs), Global governance, Leverage points
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
+
+---
 
 ---
 
@@ -341,6 +297,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Basic Module (VSME)
 
 **Definition:** The foundational reporting tier of the VSME standard, covering core sustainability disclosure requirements applicable to all SMEs adopting the framework, mapped to general and thematic ESRS chapters.
@@ -357,6 +315,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Beer-Lambert Law
 
 **Definition:** A law used to describe the attenuation of light as it passes through a medium, which integrates two-dimensional scalars from HITRAN along a one-dimensional ray to project the atmosphere onto a single transverse plane.
@@ -368,6 +328,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Bibliometric Analysis
 
 **Definition:** A research method that quantitatively analyzes academic literature to identify trends, patterns, and gaps in knowledge.
@@ -376,6 +338,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** BA
 **Related terms:** Energy Consumption, Methodology
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
+
+---
 
 ---
 
@@ -395,6 +359,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Biodiversity
 
 **Definition:** The variety of life on Earth, including the number of different species of plants, animals, fungi, and microorganisms.
@@ -408,6 +374,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Ecosystems, Conservation Biology, Resilience Metrics
 
 **Source:** A Handbook on Terminology for Climate Change Resilience. (2025). Ali Douabul.
+
+---
 
 ---
 
@@ -427,6 +395,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Biogeochemical cycles of the Earth
 
 **Definition:** Fundamental cycles such as the water, carbon, nitrogen, and phosphorus cycles that ensure the circulation and transformation of matter and energy on Earth.
@@ -435,6 +405,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Ecosystem cycles, Resource cycles of materials and energy
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.1, 2026
+
+---
 
 ---
 
@@ -454,6 +426,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Black Carbon (BC)
 
 **Definition:** A short-lived climate forcer and a component of PM, with significant health and climate impacts, a focus area for IMO 2030 targets.
@@ -470,6 +444,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Brown energy
 
 **Definition:** Energy derived from fossil fuels, which are associated with high greenhouse gas emissions and environmental degradation.
@@ -480,20 +456,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
 
 ---
-
-### Browser-Mediated Human Interaction
-
-**Definition:** The defining scope criterion for the SCI for Web specification, referring to the condition in which human users primarily access and consume a service's functional value through the rendering capabilities of a web browser, as distinct from programmatic or machine-to-machine access.
-
-**Domain:** GHG
-
-**Synonyms:** browser-mediated interaction
-
-**Abbreviation:** none
-
-**Related terms:** [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Single-Page Application (SPA)]], [[Application Programming Interface (API)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
 
 ---
 
@@ -513,6 +475,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Business Conduct (VSME)
 
 **Definition:** A governance-related sustainability topic addressed within the VSME standard, corresponding to ESRS chapter G1, covering areas such as anti-corruption, codes of conduct, payment behaviour, and reporting mechanisms for ethical breaches.
@@ -526,6 +490,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[VSME]], [[ESRS]], [[Material Topic]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -545,6 +511,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Campus Carbon Calculator
 
 **Definition:** A tool for measuring and reporting carbon footprints of higher education institutions, developed in partnership between the University of New Hampshire and the nonprofit Clean Air-Cool Planet.
@@ -556,6 +524,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Capacity Building
 
 **Definition:** The process of enhancing the knowledge, skills, and resources of individuals and organizations to effectively implement and manage climate-related initiatives.
@@ -564,6 +534,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Climate Governance, Measurement, Reporting, and Verification (MRV), Stakeholder Engagement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -583,6 +555,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Capital transfers for environmental protection
 
 **Definition:** Financial resources allocated to initiatives aimed at protecting the environment and reducing greenhouse gas emissions.
@@ -591,6 +565,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Greenhouse gas emissions, Population size
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
+
+---
 
 ---
 
@@ -610,6 +586,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Accounting
 
 **Definition:** A method of quantifying and tracking greenhouse gas emissions and removals to support accurate Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
@@ -618,6 +596,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), IPCC Guidelines for MRV in the AFOLU Sector
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -637,6 +617,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Awareness
 
 **Definition:** A category of software sustainability actions consisting of time-shifting or region-shifting computation in order to take advantage of lower-carbon or renewable energy sources.
@@ -650,6 +632,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Carbon-Aware]], [[Time-Shifting]], [[Region-Shifting]], [[Energy Efficiency]], [[Hardware Efficiency]]
 
 **Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
 
 ---
 
@@ -669,6 +653,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Budget
 
 **Definition:** A quantified and declining allocation of permissible greenhouse gas emissions available to a company or economy that constrains activity within planetary boundaries relating to climate change.
@@ -682,6 +668,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[planetary boundaries]], [[net-zero carbon]], [[Sustainable Value Transition]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
+
+---
 
 ---
 
@@ -701,6 +689,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Capture and Storage (CCS)
 
 **Definition:** A technology aimed at capturing carbon dioxide emissions from industrial processes and storing them in underground geological formations to prevent their release into the atmosphere.
@@ -709,6 +699,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CCS
 **Related terms:** Adsorbent, Adsorption, Zeolite, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
+
+---
 
 ---
 
@@ -728,6 +720,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Commitment
 
 **Definition:** A climate commitment initiative launched in 2007 by the American College & University Presidents’ Climate Commitment, requiring institutions to report Scope 1 and 2 emissions, as well as a subset of Scope 3 emissions.
@@ -736,6 +730,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Campus Carbon Calculator, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
+
+---
 
 ---
 
@@ -755,6 +751,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Dioxide Emissions
 
 **Definition:** Emissions of carbon dioxide resulting from human activities, primarily the combustion of fossil fuels, industrial processes, and deforestation.
@@ -768,6 +766,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Greenhouse gas, Climate change, Carbon capture and storage, Carbon dioxide removal
 
 **Source:** Carbon Dioxide: A Fact and an Ecological Balance, Carbon Dioxide Emissions and Their Sources, 2024
+
+---
 
 ---
 
@@ -787,6 +787,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Disclosure Project
 
 **Definition:** A global environmental disclosure platform active since 2000 that collects self-reported data from companies on climate change, water security, and deforestation risks and performance, typically at the request of investors or governments, in alignment with TCFD recommendations and science-based targets.
@@ -800,6 +802,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Task Force on Climate-Related Financial Disclosures]], [[Science-Based Targets]], [[Greenwashing]], [[ESG (Environmental, Social, and Governance)]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: Carbon Disclosure Project, 2026
+
+---
 
 ---
 
@@ -819,6 +823,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Emission Index (CEI)
 
 **Definition:** A metric calculated by dividing the total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) by the total production amount (t) for a month and multiplying by 100%.
@@ -832,6 +838,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Integrated Carbon Accounting and Mitigation (INCAM) Framework, Carbon Accounting Centre (CAC), Carbon Performance Indicator (CPI), Carbon Emission Profile (%)
 
 **Source:** An Integrated Carbon Accounting and Mitigation Framework for Greening the Industry, section 3, 2015
+
+---
 
 ---
 
@@ -851,6 +859,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Emission Profile (%)
 
 **Definition:** A percentage representing the proportion of total monthly CO2e (tCO2e) for each Carbon Accounting Centre (CAC) or Carbon Performance Indicator (CPI) relative to the total monthly CO2e (tCO2e) of each CPI.
@@ -867,6 +877,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Emissions
 
 **Definition:** The release of greenhouse gases, primarily carbon dioxide, into the atmosphere as a result of human activities, contributing to global warming and climate change.
@@ -875,6 +887,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
+
+---
 
 ---
 
@@ -889,6 +903,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Footprint
 
 **Definition:** The total amount of greenhouse gases emitted as a result of an activity, product, or service, typically measured in tonnes of carbon dioxide equivalent.
@@ -900,6 +916,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Intensity
 
 **Definition:** A measure of the amount of CO₂ emissions produced per unit of energy generated, used to assess the environmental impact of different energy sources.
@@ -908,6 +926,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CI
 **Related terms:** Energy intensity, Greenhouse gas emissions, Carbon taxation
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
+
+---
 
 ---
 
@@ -927,6 +947,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Markets
 
 **Definition:** Markets where greenhouse gas emissions are traded, allowing entities to buy and sell emission allowances to meet regulatory requirements or achieve climate goals.
@@ -935,6 +957,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Climate Governance, Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV)
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -954,6 +978,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Sequestration
 
 **Definition:** The process of capturing and storing atmospheric carbon dioxide to mitigate climate change, often through natural processes such as photosynthesis in plants and trees.
@@ -965,6 +991,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Sequestration and Emissions from Deforestation
 
 **Definition:** The release of carbon stored in forest ecosystems into the atmosphere upon deforestation, including immediate emissions from clearing and ongoing emissions from soil degradation or land conversion.
@@ -973,6 +1001,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Deforestation, Carbon Stock
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
+
+---
 
 ---
 
@@ -992,6 +1022,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Taxation
 
 **Definition:** A policy tool that imposes taxes on polluting energy sources and products based on their CO₂ emissions to reduce fossil fuel consumption and CO₂ emissions.
@@ -1000,6 +1032,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CT
 **Related terms:** Greenhouse gas emissions, Propensity score matching, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 1, 2020
+
+---
 
 ---
 
@@ -1014,6 +1048,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Taxation (Non-Implementation)
 
 **Definition:** The absence of carbon taxation policies in European countries, which is analyzed to assess the impact on CO₂ emissions compared to countries with carbon taxation.
@@ -1025,6 +1061,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Carbon Trading
 
 **Definition:** A market-based approach to controlling emissions by allowing companies to buy and sell emission allowances, thereby setting a definite limit on greenhouse gas emissions.
@@ -1033,6 +1071,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CT
 **Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
+
+---
 
 ---
 
@@ -1052,6 +1092,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Cascade Dependency Chain
 
 **Definition:** A sequence of processes where the output of one methodology (e.g., HITRAN) is used as the input for another (e.g., Beer-Lambert Law), leading to the reduction of the atmosphere to a two-dimensional sheet.
@@ -1062,20 +1104,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
 
 ---
-
-### Cascading Style Sheets (CSS)
-
-**Definition:** A stylesheet language used to describe the presentation of web content whose efficiency is identified in the SCI for Web specification as a factor within the control of frontend developers that influences client-side energy consumption.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** CSS
-
-**Related terms:** [[Frontend Developer]], [[Web Application]], [[Browser-Mediated Human Interaction]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Frontend Developers and Design Practitioners, 2026-06-15
 
 ---
 
@@ -1095,6 +1123,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Chain Partners
 
 **Definition:** Supply chain partners of an SME that may request sustainability disclosures, including detailed CO₂ data, thereby driving the adoption of extended VSME reporting modules or supplementary ESRS-aligned disclosures.
@@ -1108,6 +1138,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[VSME Standard]], [[Extended Module (VSME)]], [[ESRS E1]], [[Small and Medium-sized Enterprises]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
 
 ---
 
@@ -1127,6 +1159,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Characterization
 
 **Definition:** The process of analyzing and transforming unstructured data into a structured format to ensure consistency, accuracy, and usability in GHG accounting.
@@ -1143,6 +1177,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Characterization Process
 
 **Definition:** A systematic approach to standardize, clean, and structure unstructured GHG data using dictionaries, transformation rules, and shortening rules.
@@ -1154,6 +1190,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Circular Economy (CE)
 
 **Definition:** A paradigm aiming to create a sustainable, low-carbon, resource-efficient, and competitive economy by rethinking production, consumption, and waste management practices.
@@ -1162,6 +1200,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CE
 **Related terms:** Sustainable Development, Resource Efficiency, Eco-Economic Decoupling
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 1, 2020
+
+---
 
 ---
 
@@ -1181,6 +1221,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Circular Economy Action Plan
 
 **Definition:** A strategic framework launched by the European Commission in 2015 to promote the transition towards a circular economy, focusing on resource efficiency, waste reduction, and sustainable economic growth.
@@ -1189,6 +1231,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** CEAP
 **Related terms:** European Green Deal, Circular Economy, Resource Efficiency
 **Source:** Circular Economy Action Plan, European Commission, 2015
+
+---
 
 ---
 
@@ -1203,6 +1247,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Circular Economy Discourse Typology
 
 **Definition:** A classification system developed by Calisto Friant et al. (2020) to differentiate between holistic and segmented, as well as optimist and sceptical, discourses on the circular economy.
@@ -1211,6 +1257,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Discourse Analysis, Circular Economy, Policy Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
+
+---
 
 ---
 
@@ -1230,6 +1278,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Adaptation Mechanisms
 
 **Definition:** Strategies and measures aimed at reducing the vulnerability of communities to climate change impacts, often integrated into legal and policy frameworks.
@@ -1246,6 +1296,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Change
 
 **Definition:** A long-term change in the Earth's climate, including shifts in temperature, precipitation, and weather patterns, often attributed to human activities such as greenhouse gas emissions.
@@ -1257,6 +1309,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate change mitigation
 
 **Definition:** Actions taken to reduce or prevent the emission of greenhouse gases to slow the pace of climate change.
@@ -1265,6 +1319,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green tax, Environmental policy, Greenhouse gas emissions
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
+
+---
 
 ---
 
@@ -1284,6 +1340,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Emergency
 
 **Definition:** A critical situation requiring urgent and significant action to mitigate the impacts of climate change and prevent irreversible environmental damage.
@@ -1292,6 +1350,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Radical action, One City Climate Strategy
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Citywide Leadership", 2020
+
+---
 
 ---
 
@@ -1306,6 +1366,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Governance
 
 **Definition:** The process of managing and coordinating climate-related policies, actions, and responsibilities at local, national, and international levels to address climate change.
@@ -1314,6 +1376,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Enhanced Transparency Framework (ETF), Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs)
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -1333,6 +1397,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Refugee
 
 **Definition:** A person displaced due to environmental factors, but lacking a defined legal status under international law.
@@ -1349,6 +1415,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate risk governance
 
 **Definition:** A mandatory framework for integrating climate risk assessment and management into prudential supervision and financial decision-making processes.
@@ -1357,6 +1425,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green banking, Sustainable finance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
+
+---
 
 ---
 
@@ -1376,6 +1446,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate Transition Plan
 
 **Definition:** A documented organisational strategy setting out how a reporting entity intends to align its operations and business model with climate-related targets, as required under ESRS E1-1.
@@ -1389,6 +1461,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Scope 1 Emissions]], [[Scope 2 Emissions]], [[Scope 3 Emissions]], [[Climate Change Mitigation]]
 
 **Source:** ESRS E1-1, Transition plans for climate change mitigation, 2023
+
+---
 
 ---
 
@@ -1408,6 +1482,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Climate-Related Financial Risk
 
 **Definition:** The financial risks arising from climate change—including physical risks and transition risks—that organisations are required to identify, assess, and disclose under frameworks such as TCFD and IFRS S2.
@@ -1421,6 +1497,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[IFRS S2]], [[ISSB (International Sustainability Standards Board)]], [[CDP (Carbon Disclosure Project)]], [[Science-Based Targets]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -1440,6 +1518,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Collective bargaining
 
 **Definition:** A process of negotiation between employers and a group of employees aimed at agreements that regulate working conditions, reported under VSME Basic Module disclosure B10 as part of workforce remuneration and labour relations metrics.
@@ -1456,6 +1536,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Community Engagement
 
 **Definition:** The process of involving community members in decision-making and policy development to ensure that their perspectives and needs are considered.
@@ -1464,6 +1546,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Impact of Covid-19 on Research Responses", 2020
+
+---
 
 ---
 
@@ -1483,6 +1567,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Complementary Protection Regimes
 
 **Definition:** Legal frameworks and mechanisms that provide protection to individuals who do not qualify as refugees under the 1951 Refugee Convention but are in need of international protection.
@@ -1496,6 +1582,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate-Induced Migration, Climate Refugee, Non-Refoulement, International Law
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -1515,6 +1603,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Confidentiality
 
 **Definition:** The assurance that information provided by SMEs is protected and not disclosed without consent.
@@ -1528,6 +1618,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[SMEs]], [[Voluntary Template (SMEs)]]
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
 
 ---
 
@@ -1547,6 +1639,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Conflicting Requirements
 
 **Definition:** Situations in which MNEs face incompatible legal or regulatory obligations imposed by two or more jurisdictions, which Subscribing Countries commit to cooperate in avoiding or minimising under the OECD Declaration on International Investment and Multinational Enterprises.
@@ -1563,20 +1657,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Consented
-
-**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating acceptance of proposed content for merger into the draft document without active objection, though without necessarily expressing affirmative support.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Endorsed]], [[Objected]], [[AI-Orchestrated Consensus Process]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
-
 ---
 
 ### Conservative – Efficiency Strategy
@@ -1587,6 +1667,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Visionary – Holistic Sustainability Strategy  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -1606,20 +1688,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Consumer
-
-**Definition:** An entity that uses AI services and pays for functional units of AI, whose carbon accounting boundary encompasses all components related to the Operation and Monitoring lifecycle stage.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Provider]], [[Functional Unit]], [[Consumer Boundary]], [[Operation and Monitoring]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
-
 ---
 
 ### Consumer behavior
@@ -1633,52 +1701,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Consumer Boundary
-
-**Definition:** The carbon accounting boundary applicable to the Consumer persona, which must include all components related to the Operation and Monitoring lifecycle stage, including API and inference, orchestration, scaling, observability and monitoring, data and feature management, storage and artefacts, user experience and client-side components, and model tool and service connectors.
-
-**Domain:** GHG
-
-**Synonyms:** consumer system boundary
-
-**Abbreviation:** none
-
-**Related terms:** [[Persona-Based System Boundary]], [[Consumer]], [[Provider Boundary]], [[Operation and Monitoring]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Consumer Boundary, 2026
-
----
-
-### Content Delivery Network (CDN)
-
-**Definition:** A geographically distributed network infrastructure layer whose configuration and edge-caching policies are identified in the SCI for Web specification as factors under the control of platform and DevOps engineers that affect the carbon emissions associated with web content delivery.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** CDN
-
-**Related terms:** [[Backend and Infrastructure Engineer]], [[Operational Emissions]], [[Continuous Integration and Continuous Deployment (CI/CD)]], [[Software Carbon Intensity for Web (SCI for Web)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
-
----
-
-### Continuous Integration and Continuous Deployment (CI/CD)
-
-**Definition:** A software engineering practice encompassing automated build and deployment pipeline processes that, within the SCI for Web specification, is identified as a factor under the control of infrastructure and systems engineers that influences the carbon emissions profile of web application delivery.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** CI/CD
-
-**Related terms:** [[Backend and Infrastructure Engineer]], [[Operational Emissions]], [[Software Carbon Intensity for Web (SCI for Web)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
-
 ---
 
 ### Continuous Monitoring
@@ -1689,6 +1711,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -1708,6 +1732,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Corporate Responsibility
 
 **Definition:** The obligation of enterprises to act in accordance with applicable laws and internationally recognised standards across social, environmental, human rights, and governance dimensions of their activities and business relationships.
@@ -1721,6 +1747,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Responsible Business Conduct]], [[Due Diligence]], [[Multinational Enterprise]], [[Sustainable Development]]
 
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Background, 2023
+
+---
 
 ---
 
@@ -1740,6 +1768,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Corporate Sustainability
 
 **Definition:** A strategic approach that seeks to balance the social, environmental, and economic needs of both the company and society.
@@ -1753,6 +1783,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Triple bottom line, Strategic management, Sustainability strategy, Organizational culture, Employee motivation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
+
+---
 
 ---
 
@@ -1772,6 +1804,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Corporate Sustainability Reporting Directive (CSRD)
 
 **Definition:** A European Union directive mandating companies to disclose scope 1, 2, and 3 emissions across their supply chains, with core obligations in force despite delayed timelines.
@@ -1788,6 +1822,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Corporate Sustainability Strategy
 
 **Definition:** A structured approach to integrating sustainability into organizational operations, focusing on achieving long-term viability while addressing environmental, social, and economic dimensions.  
@@ -1796,6 +1832,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Sustainability Maturity, Sustainability Profile, Sustainable Development  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -1815,6 +1853,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Corruption and bribery
 
 **Definition:** Criminal conduct involving the abuse of entrusted power for private gain or the offering, giving, receiving or soliciting of an advantage as an inducement for an action that is illegal or a breach of trust, reported under VSME Basic Module disclosure B11 through convictions and fines.
@@ -1828,6 +1868,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Basic Module (VSME)]], [[Governing body]]
 
 **Source:** Voluntary SME Standard (VSME), Structure of the standard – Basic Module (B11), 2026
+
+---
 
 ---
 
@@ -1847,6 +1889,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Cross-Border Displacement
 
 **Definition:** The movement of people from one country to another due to environmental factors, often leading to international protection challenges.
@@ -1860,6 +1904,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate-Induced Migration, Climate Refugee, Refugee Convention, Non-Refoulement
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -1879,6 +1925,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### CSR Risk Analysis
 
 **Definition:** A systematic assessment, conducted as part of the due diligence process, that maps an enterprise's business activities and relationships with respect to actual or potential adverse impacts on affected stakeholders—such as workers or local communities—rather than on the enterprise itself.
@@ -1892,6 +1940,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Due Diligence]], [[Adverse Impacts]], [[Risk Prioritisation]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
 
 ---
 
@@ -1911,6 +1961,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Cyber-Physical System
 
 **Definition:** An integrated system combining physical processes with computational elements, used in the Modular Smart Port GHG Measurement and AI Control System for real-time monitoring and control.
@@ -1924,6 +1976,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Modular Smart Port GHG Measurement and AI Control System, Real-Time GHG Measurement, Tamper-Evident Data Chains, Smart Port
 
 **Source:** Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System, Section 2, 2026
+
+---
 
 ---
 
@@ -1943,6 +1997,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Data Integrity
 
 **Definition:** The accuracy, reliability, and consistency of data used in Measurement, Reporting, and Verification (MRV) systems to ensure transparency and accountability in climate actions.
@@ -1951,6 +2007,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Capacity Building, Stakeholder Engagement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -1970,6 +2028,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Data Standardization
 
 **Definition:** The process of converting unstructured or inconsistent data into a uniform, structured format to ensure consistency and comparability in GHG accounting.
@@ -1986,6 +2046,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Database
 
 **Definition:** A structured collection of data used to store, manage, and retrieve information related to greenhouse gas emissions and climate actions for reporting and analysis.
@@ -1994,6 +2056,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Web Portal, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -2013,6 +2077,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Deforestation
 
 **Definition:** The clearing of forests for agriculture, urban development, and logging, which reduces the planet's capacity to absorb carbon dioxide and contributes to global warming.
@@ -2021,6 +2087,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Anthropogenic Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -2035,6 +2103,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Deforestation Methodology
 
 **Definition:** The approach or method used to convert land to non-forest uses, such as urban expansion or infrastructure development, which influences the rate and extent of deforestation.
@@ -2046,6 +2116,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Deforestation Rate
 
 **Definition:** The annual rate at which forest area is cleared, typically expressed as a percentage of total forest area.
@@ -2054,6 +2126,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Deforestation, Land Use Change
 **Source:** GHG_emissions_from_settlements.pdf, Section 4, 2024
+
+---
 
 ---
 
@@ -2073,36 +2147,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Deployment
-
-**Definition:** The third stage of the AI lifecycle, covering the incorporation of an AI model into larger systems, the design of component interactions, connections with external applications, and pre-deployment integration testing, whose associated carbon emissions must be included in the Provider SCI calculation.
-
-**Domain:** GHG
-
-**Synonyms:** deployment stage
-
-**Abbreviation:** none
-
-**Related terms:** [[AI Lifecycle Stages]], [[Provider]], [[Operation and Monitoring]], [[Design and Development]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Deployment (Provider), 2026
-
----
-
-### Design and Development
-
-**Definition:** The second stage of the AI lifecycle, encompassing data collection, preprocessing, synthetic data generation, model selection, feature engineering, distributed training setup, evaluation metric definition, and computational resource optimisation, all of whose associated carbon emissions must be included in the Provider SCI calculation.
-
-**Domain:** GHG
-
-**Synonyms:** design and development stage
-
-**Abbreviation:** none
-
-**Related terms:** [[AI Lifecycle Stages]], [[Model Training]], [[Provider]], [[Inception]], [[Deployment]], [[Feature Engineering]], [[Distributed Training]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Design and Development (Provider), 2026
-
 ---
 
 ### Dictionary
@@ -2113,6 +2157,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Characterization Process, Data Normalization, GHG Emission Factors
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -2132,6 +2178,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Dimensional Category Error
 
 **Definition:** A fundamental error in climate modeling that confuses the volumetric reality of a gas (m³) with flat mathematical abstractions (m²), leading to an invalidation of the physics of layer models.
@@ -2140,6 +2188,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Radiative transfer, Greenhouse effect, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Dimensional Category Error (m³ vs. m²)", 2026
+
+---
 
 ---
 
@@ -2159,6 +2209,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Discretionary Humanitarian Assistance
 
 **Definition:** Aid provided by states or organizations based on their own discretion rather than legal obligation, often in the context of climate-induced displacement.
@@ -2174,20 +2226,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 3, 2026
 
 ---
-
-### Distributed Training
-
-**Definition:** A model training approach in which computational workloads are distributed across multiple processing units or systems to handle large-scale AI models, constituting a component of the Design and Development lifecycle stage whose infrastructure must be included in the Provider SCI calculation.
-
-**Domain:** GHG
-
-**Synonyms:** distributed training infrastructure
-
-**Abbreviation:** none
-
-**Related terms:** [[Model Training]], [[Design and Development]], [[Provider Boundary]], [[FLOP]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
 
 ---
 
@@ -2207,6 +2245,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Double Materiality
 
 **Definition:** A reporting principle required under ESRS whereby companies must disclose both financial materiality—how sustainability issues affect the company's financial position—and impact materiality—how the company's activities affect people and the environment.
@@ -2220,6 +2260,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Financial Materiality]], [[Impact Materiality]], [[ESRS]], [[CSRD]], [[Materiality (sustainability reporting)]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -2239,6 +2281,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Due Diligence
 
 **Definition:** A risk-based process through which enterprises identify, prevent, mitigate, and account for actual and potential adverse impacts on people, the environment, and society connected to their own operations, supply chains, and other business relationships.
@@ -2255,6 +2299,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Eco-Economic Decoupling
 
 **Definition:** The concept that socio-technical innovations can separate economic growth from environmental degradation, thereby preventing ecological collapse.
@@ -2266,6 +2312,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ecocinema
 
 **Definition:** A form of cinema that focuses on environmental themes, often highlighting ecological issues, sustainability, and the relationship between humans and nature.
@@ -2274,6 +2322,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Ecomedia, Environmental sustainability
 **Source:** Greening the Screen: An Environmental Challenge, 2016
+
+---
 
 ---
 
@@ -2293,6 +2343,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ecological Economics
 
 **Definition:** An interdisciplinary field that treats the economy as a subsystem of the biosphere, emphasising biophysical limits to growth and the valuation of ecosystem services and natural capital as prerequisites for sustainable economic policy.
@@ -2309,6 +2361,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ecomedia
 
 **Definition:** Media that incorporates environmental themes, promotes sustainability, and seeks to raise awareness about ecological issues through storytelling and representation.
@@ -2317,6 +2371,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Ecocinema, Environmental sustainability
 **Source:** Greening the Screen: An Environmental Challenge, 2016
+
+---
 
 ---
 
@@ -2336,6 +2392,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Economic cycles of wealth, capital, and money
 
 **Definition:** Flows of wealth and capital central to economic systems that must be restructured to promote sustainability and social equity.
@@ -2344,6 +2402,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.5, 2026
+
+---
 
 ---
 
@@ -2358,6 +2418,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ecosystem cycles
 
 **Definition:** Natural cycles that enable the continuous reproduction and regeneration of life through energy flows and nutrient recycling.
@@ -2366,6 +2428,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Biogeochemical cycles of the Earth, Resource cycles of materials and energy
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.2, 2026
+
+---
 
 ---
 
@@ -2385,6 +2449,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ecosystems
 
 **Definition:** The communities of living organisms and their physical environment, interacting as a system.
@@ -2398,6 +2464,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Biodiversity, Conservation Biology, Resilience Metrics
 
 **Source:** A Handbook on Terminology for Climate Change Resilience. (2025). Ali Douabul.
+
+---
 
 ---
 
@@ -2417,6 +2485,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Embodied Emissions
 
 **Definition:** The total carbon emitted during the creation and disposal of a hardware device, of which a proportional fraction is allocated to a software application based on the time-share and resource-share of that hardware used by the software.
@@ -2433,6 +2503,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Emission Factors
 
 **Definition:** Quantitative values that represent the amount of greenhouse gas emissions associated with specific activities or processes.
@@ -2441,6 +2513,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** EF
 **Related terms:** GHG Values, IPCC, GHG Accounting
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -2460,6 +2534,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Employee Motivation
 
 **Definition:** The internal and external factors that drive employees to perform their tasks effectively.
@@ -2475,36 +2551,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
 
 ---
-
-### End of Life
-
-**Definition:** The fifth and final stage of the AI lifecycle, involving the decommissioning of AI systems no longer maintained in runtime environments and the proper handling of associated resources and data, also referred to as the Retirement stage for SCI calculation purposes.
-
-**Domain:** GHG
-
-**Synonyms:** Retirement, retirement stage, decommissioning
-
-**Abbreviation:** none
-
-**Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Provider]], [[Operation and Monitoring]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Retirement, 2026
-
----
-
-### Endorsed
-
-**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating active affirmative support for merging proposed content into the draft document.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Consented]], [[Objected]], [[AI-Orchestrated Consensus Process]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
 
 ---
 
@@ -2524,6 +2570,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Energy Consumption
 
 **Definition:** The use of energy by individuals, industries, and communities, encompassing both primary and final energy use.
@@ -2532,6 +2580,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** EC
 **Related terms:** GDP, Greenhouse Gas Emissions, Sustainable Development
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
+
+---
 
 ---
 
@@ -2551,6 +2601,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Energy Information Administration (EIA)
 
 **Definition:** A U.S. government agency responsible for collecting, analyzing, and disseminating energy data and information to support energy policy and research.
@@ -2562,6 +2614,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Energy Intensity
 
 **Definition:** A measure of the amount of energy consumed per unit of economic output, used to assess the relationship between energy use and economic activity.
@@ -2570,6 +2624,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** EI
 **Related terms:** Carbon intensity, Population, Income levels, Carbon taxation
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
+
+---
 
 ---
 
@@ -2589,6 +2645,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Energy Taxes
 
 **Definition:** Taxes imposed on energy products or services, designed to reduce energy consumption and encourage more sustainable practices.
@@ -2597,6 +2655,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Energy Consumption, Policy Instruments
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
+
+---
 
 ---
 
@@ -2611,6 +2671,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Enhanced Transparency Framework (ETF)
 
 **Definition:** A framework under the Paris Agreement that promotes transparency and accountability in climate actions through standardized Measurement, Reporting, and Verification (MRV) systems.
@@ -2619,6 +2681,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ETF
 **Related terms:** Measurement, Reporting, and Verification (MRV), Nationally Determined Contributions (NDCs), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -2638,6 +2702,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Enterprise Risk Management
 
 **Definition:** A structured organisational framework for identifying, assessing, and managing risks across all business functions, into which ESG-related risks should be incorporated.
@@ -2654,6 +2720,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental and Social Risk Analysis (ESRA)
 
 **Definition:** A methodology for assessing environmental and social risks in project financing, structured around project categorization, detailed assessment against IFC Performance Standards, and ongoing covenant monitoring.
@@ -2662,6 +2730,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ESRA
 **Related terms:** UNEP-FI, Equator Principles
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
+
+---
 
 ---
 
@@ -2681,6 +2751,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental Footprint
 
 **Definition:** A measure of the environmental impact of an industry, encompassing conventional pollutants, energy use, greenhouse gas emissions, hazardous waste, and fatalities.
@@ -2689,6 +2761,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Carbon footprint, Sustainability
 **Source:** Sustainability in the Motion Picture Industry, 2006
+
+---
 
 ---
 
@@ -2703,6 +2777,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental policy
 
 **Definition:** A set of regulations and initiatives aimed at protecting the environment and promoting sustainable development.
@@ -2711,6 +2787,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green tax, Climate change mitigation, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 2, 2022
+
+---
 
 ---
 
@@ -2730,6 +2808,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental Standards
 
 **Definition:** A subset of ESG standards that assess a business's impact on the natural environment through its consumption of energy and raw materials, including contributions to climate change, pollution, waste generation, and natural resource depletion.
@@ -2746,6 +2826,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental Sustainability
 
 **Definition:** The practice of maintaining the health and integrity of the environment while meeting current human needs, ensuring that natural resources are used responsibly and preserved for future generations.
@@ -2757,6 +2839,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental Taxes
 
 **Definition:** Taxes imposed on activities or products that have a negative environmental impact, such as carbon taxes, to discourage harmful practices and promote sustainable alternatives.
@@ -2765,6 +2849,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ET
 **Related terms:** Carbon taxation, Greenhouse gas emissions, Sustainable Development Goals (SDGs)
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 2, 2020
+
+---
 
 ---
 
@@ -2784,6 +2870,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental, Social, and Governance (ESG)
 
 **Definition:** A framework for evaluating a company's or organization's impact on the environment, society, and corporate governance.
@@ -2792,6 +2880,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ESG
 **Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Gross Domestic Product (GDP)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
+
+---
 
 ---
 
@@ -2811,6 +2901,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Environmental, social, and governance (ESG) considerations
 
 **Definition:** A framework for evaluating the sustainability and societal impact of an organization, encompassing environmental, social, and governance factors.
@@ -2819,6 +2911,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ESG
 **Related terms:** Green tax, Climate change mitigation
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
+
+---
 
 ---
 
@@ -2838,6 +2932,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Equator Principles
 
 **Definition:** A set of voluntary guidelines adopted by financial institutions to manage environmental and social risks in project financing, requiring project categorization and risk assessment before loan approval.
@@ -2849,6 +2945,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Equity
 
 **Definition:** The principle of fairness and justice in the distribution of resources, opportunities, and responsibilities, particularly in the context of climate action and policy implementation.
@@ -2857,6 +2955,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Taking Action: Who’s Responsible?", 2020
+
+---
 
 ---
 
@@ -2876,6 +2976,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESG Investing
 
 **Definition:** An investment approach that incorporates environmental, social, and governance factors into investment analysis and portfolio selection, used to identify companies whose practices align with sustainability values and to manage long-term investment risks.
@@ -2889,6 +2991,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Principles for Responsible Investment]], [[Sustainable Finance]], [[Environmental, Social and Governance Standards]], [[EU Taxonomy]]
 
 **Source:** ESG Business Handbook, Section: ESG Investing, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -2908,6 +3012,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS E1
 
 **Definition:** The European Sustainability Reporting Standard addressing climate change, under which reporting entities disclose information on energy consumption, greenhouse gas emissions, and climate-related risks and opportunities, mapped to SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) in the EFRAG alignment matrix.
@@ -2921,6 +3027,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[climate adaptation]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[ESRS E2]], [[ESRS E3]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -2940,6 +3048,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS E3
 
 **Definition:** The European Sustainability Reporting Standard addressing water and marine resources, under which reporting entities disclose information on water consumption, wastewater management, and marine ecosystem impacts, mapped to SDG 6 (Clean Water and Sanitation) and SDG 14 (Life Below Water) in the EFRAG alignment matrix.
@@ -2953,6 +3063,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS E1]], [[ESRS E5]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -2972,6 +3084,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS E5
 
 **Definition:** The European Sustainability Reporting Standard addressing biodiversity and ecosystems, under which reporting entities disclose information on impacts to terrestrial and urban ecosystems, mapped to SDG 11 (Sustainable Cities and Communities) and SDG 15 (Life on Land) in the EFRAG alignment matrix.
@@ -2985,6 +3099,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS E3]], [[ESRS E4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3004,6 +3120,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS G1
 
 **Definition:** The European Sustainability Reporting Standard in the governance series, forming part of the ESRS governance standards (G1–G2) that address corporate governance matters relevant to CSRD disclosures.
@@ -3017,6 +3135,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS G2]], [[Corporate Sustainability Reporting Directive (CSRD)]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3036,6 +3156,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS S1
 
 **Definition:** The European Sustainability Reporting Standard addressing own workforce, under which reporting entities disclose information on social impact, community engagement, and workforce-related matters, mapped to SDG 1 (No Poverty) in the EFRAG alignment matrix.
@@ -3049,6 +3171,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S2]], [[ESRS S3]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3068,6 +3192,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS S3
 
 **Definition:** The European Sustainability Reporting Standard addressing training and development, under which reporting entities disclose information on employee education initiatives, training hours, and institutional partnerships, mapped to SDG 4 (Quality Education) in the EFRAG alignment matrix.
@@ -3081,6 +3207,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S1]], [[ESRS S4]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3100,6 +3228,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ESRS S5
 
 **Definition:** The European Sustainability Reporting Standard addressing working conditions, under which reporting entities disclose information on fair wages, safe working environments, employment growth, and productivity, mapped to SDG 8 (Decent Work and Economic Growth) in the EFRAG alignment matrix.
@@ -3113,6 +3243,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[ESRS S2]], [[ESRS S6]]
 
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3132,6 +3264,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### ETL
 
 **Definition:** A process for extracting, transforming, and loading data from various sources into a structured format, commonly used in GHG data management.
@@ -3140,6 +3274,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ETL
 **Related terms:** GHG Accounting, Data Standardization, Regular Expressions
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 1, 2026
+
+---
 
 ---
 
@@ -3159,6 +3295,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### EU Deforestation Regulation (EUDR)
 
 **Definition:** An EU regulation that prohibits the import of products and their derivatives produced on deforested or forest-degraded land, covering commodities including beef, cocoa, coffee, palm oil, rubber, soya, and wood, in force from December 2026.
@@ -3172,6 +3310,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Due Diligence]], [[Value Chain]], [[OECD Six-Step Framework]], [[Integrated Prioritisation]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
 
 ---
 
@@ -3191,6 +3331,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### EU Taxonomy
 
 **Definition:** An EU regulatory classification system establishing science-based criteria for determining whether an economic activity qualifies as environmentally sustainable, forming part of the EU's sustainable finance framework.
@@ -3204,6 +3346,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Sustainable Finance Disclosure Regulation]], [[Sustainable Finance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Carbon Leakage]]
 
 **Source:** ESG Business Handbook, Section: EU Regulatory Framework, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3223,6 +3367,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### European Financial Reporting Advisory Group
 
 **Definition:** The European Union's independent advisory body responsible for developing and publishing sustainability reporting standards, including the ESRS and the VSME, in support of EU regulatory frameworks.
@@ -3236,6 +3382,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ESRS]], [[VSME]], [[CSRD]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -3255,6 +3403,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### European Single Access Point (ESAP)
 
 **Definition:** A centralized platform aimed at improving access to financing for SMEs by hosting voluntary reporting templates and other relevant information.
@@ -3268,6 +3418,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Voluntary Template (SMEs), Small and Medium-Sized Enterprises
 
 **Source:** EFRAG Final Assessment Report, 2026-07-29
+
+---
 
 ---
 
@@ -3287,6 +3439,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### European Union Emissions Trading System (EU ETS)
 
 **Definition:** A cap-and-trade system that requires large ships entering EU ports to surrender CO₂ allowances, with phased coverage and compliance obligations.
@@ -3303,6 +3457,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Eurostat
 
 **Definition:** An agency of the European Union responsible for collecting, analyzing, and providing statistical data on the EU's economy, society, and environment.
@@ -3311,6 +3467,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** ESS
 **Related terms:** Energy Consumption, Data Sources
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
+
+---
 
 ---
 
@@ -3325,6 +3483,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Extended Expression Names
 
 **Definition:** Enhanced naming conventions for regular expressions used in the characterization process to improve clarity and manageability.
@@ -3333,6 +3493,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -3352,6 +3514,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Extended Search
 
 **Definition:** Advanced pattern matching capabilities that allow for more complex and precise data transformation in GHG accounting.
@@ -3360,6 +3524,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Regular Expressions, Search and Replace Patterns, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -3379,6 +3545,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Extended Substitution Features (v.2.0)
 
 **Definition:** Advanced substitution capabilities within regular expressions that enable more sophisticated pattern replacement for improved data accuracy in GHG accounting.
@@ -3392,6 +3560,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Regular expressions, Characterization, Data standardization
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -3411,6 +3581,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### External Verification
 
 **Definition:** A process of checking the accuracy and completeness of data and reporting by an independent third party to ensure compliance with Measurement, Reporting, and Verification (MR, V) standards.
@@ -3419,6 +3591,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, Third-Party Audits
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -3438,6 +3612,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Extreme Weather Events
 
 **Definition:** Unusually severe and frequent weather phenomena such as heatwaves, floods, and droughts, which have become more common due to global warming.
@@ -3446,6 +3622,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate Change, Global Warming, Environmental Impacts
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
+
+---
 
 ---
 
@@ -3460,6 +3638,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Family Business
 
 **Definition:** A business owned and controlled by a family, where decisions are influenced by both financial goals and non-financial factors such as owner authority, reputation, long-term relationships, and business sustainability.
@@ -3470,20 +3650,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
 
 ---
-
-### Feature Engineering
-
-**Definition:** The process of selecting, transforming, and constructing input variables from raw data to improve AI model performance, constituting a component of the Design and Development lifecycle stage whose associated systems must be included in the Provider SCI calculation.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Design and Development]], [[Model Training]], [[Provider]], [[Provider Boundary]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
 
 ---
 
@@ -3498,6 +3664,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Female Population
 
 **Definition:** The proportion of the population that is female, often associated with changes in energy consumption patterns due to shifts in societal and economic roles.
@@ -3506,6 +3674,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Energy Consumption, Social Factors
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
+
+---
 
 ---
 
@@ -3525,6 +3695,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Fifth Assessment Report (AR5)
 
 **Definition:** A comprehensive report by the Intergovernmental Panel on Climate Change (IPCC) that confirmed the dominant role of human activities in observed global warming since 1950.
@@ -3536,6 +3708,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Final Energy Consumption
 
 **Definition:** The amount of energy consumed after it has been converted into a usable form for end-use applications.
@@ -3544,6 +3718,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** FEC
 **Related terms:** Primary Energy Consumption, Energy Efficiency
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
+
+---
 
 ---
 
@@ -3563,6 +3739,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Financial Reporting
 
 **Definition:** The process of recording, summarizing, and reporting an organization's financial activities.
@@ -3579,6 +3757,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### FinOps
 
 **Definition:** An operational practice applied within the Operation and Monitoring lifecycle stage of AI systems to manage and optimise cloud and infrastructure financial and resource efficiency, referenced in the SCI for AI Specification as an example of operational practice relevant to carbon accounting.
@@ -3588,20 +3768,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Synonyms:** financial operations, cloud financial management **Abbreviation
 
 ---
-
-### FLOP (Floating Point Operation)
-
-**Definition:** A basic computational operation used as a standardised measure of computational work in AI systems, serving as a proxy metric for the energy and carbon costs of model training and inference.
-
-**Domain:** GHG
-
-**Synonyms:** floating point operation
-
-**Abbreviation:** FLOP
-
-**Related terms:** [[Model Training]], [[Inference]], [[Parameter]], [[Functional Unit]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
 ---
 
@@ -3621,6 +3787,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Forest Fires
 
 **Definition:** Wildfires that can release stored carbon back into the atmosphere, reducing the effectiveness of biological carbon sequestration efforts.
@@ -3637,6 +3805,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Forest Type and Carbon Stock
 
 **Definition:** The classification of forest ecosystems and the amount of carbon stored per hectare, typically measured in tonnes of CO₂.
@@ -3645,6 +3815,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Carbon Stock, Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
+
+---
 
 ---
 
@@ -3664,6 +3836,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Fortress Circular Economy
 
 **Definition:** A circular economy discourse that aims to secure natural resources, economic prosperity, socio-ecological resilience, and geopolitical power through segmented and sceptical interpretations of circularity.
@@ -3675,6 +3849,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Free emission allowances
 
 **Definition:** Permits allocated to entities to emit a certain amount of greenhouse gases without incurring additional costs.
@@ -3683,6 +3859,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green tax, Climate change mitigation
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
+
+---
 
 ---
 
@@ -3702,6 +3880,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Freedom of Association
 
 **Definition:** A labour right entitling workers to form and join trade unions and to engage in collective bargaining.
@@ -3717,20 +3897,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** ILO Declaration on Fundamental Principles and Rights at Work, 1998
 
 ---
-
-### Frontend Developer
-
-**Definition:** A technical practitioner within the SCI for Web target persona framework whose responsibilities—including JavaScript bundle optimisation, CSS efficiency, framework selection, asset optimisation, and client-side caching—directly affect energy consumed on end-user devices during browser-mediated interactions.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Browser-Mediated Human Interaction]], [[Single-Page Application (SPA)]], [[Web Application]], [[Cascading Style Sheets (CSS)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Frontend Developers and Design Practitioners, 2026-06-15
 
 ---
 
@@ -3750,6 +3916,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Functional Equivalence
 
 **Definition:** The principle that the processes and outcomes of National Contact Points across different Subscribing Countries should be comparable and consistent, ensuring equal access to and effectiveness of the non-judicial grievance mechanism provided by the OECD Guidelines.
@@ -3763,6 +3931,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[National Contact Point for Responsible Business Conduct]], [[Subscribing Country]]
 
 **Source:** OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, Implementation Mechanism, 2023
+
+---
 
 ---
 
@@ -3782,6 +3952,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Gap Analysis
 
 **Definition:** A structured assessment process by which a business identifies the difference between its current ESG practices and performance and the requirements or expectations set out by applicable standards, frameworks, or regulatory obligations.
@@ -3798,6 +3970,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GDP (Gross Domestic Product)
 
 **Definition:** A measure of a country's economic performance, representing the total value of goods and services produced within its borders.
@@ -3806,6 +3980,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** GDP
 **Related terms:** Inclusive Wealth Index (IWI), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
+
+---
 
 ---
 
@@ -3825,6 +4001,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### gender pay gap
 
 **Definition:** A key performance indicator measuring the percentage difference between the average or median remuneration of male and female employees within a reporting entity, used under ESRS S4 to assess progress toward gender equality in the workplace.
@@ -3840,20 +4018,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** SDG-CSRD-ESRS matrix.pdf, EFRAG, 2026-06-15
 
 ---
-
-### Generative AI
-
-**Definition:** A class of AI systems capable of producing novel content outputs — including text, images, video, music, and code — encompassing architectures such as Large Language Models, and explicitly addressed within the scope of the SCI for AI Specification for carbon accounting purposes.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Large Language Model (LLM)]], [[Agentic AI]], [[Token]], [[Inference]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026
 
 ---
 
@@ -3873,6 +4037,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Geometric Fraud
 
 **Definition:** A systematic error in climate models that mathematically collapses three-dimensional physical reality into two-dimensional planes, creating a fictitious continuous medium that traps radiation.
@@ -3881,6 +4047,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Radiative transfer, Greenhouse effect, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Geometric Fraud of the Greenhouse Effect", 2026
+
+---
 
 ---
 
@@ -3900,6 +4068,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GHG Accounting
 
 **Definition:** The systematic measurement, recording, and reporting of greenhouse gas emissions and removals by organizations to assess and manage their environmental impact.
@@ -3916,6 +4086,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GHG Accounting and Reporting Multi-Sector Tool
 
 **Definition:** A methodological framework for characterizing and standardizing greenhouse gas (GHG) emission factors from the IPCC database using regular expressions and data transformation techniques.
@@ -3924,6 +4096,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** GHG Emission Factors, IPCC, Regular Expressions, ETL
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 1, 2026
+
+---
 
 ---
 
@@ -3938,6 +4112,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GHG Value Qualifier & Format
 
 **Definition:** Rules and specifications for formatting and qualifying the quantitative values of greenhouse gas emissions in GHG data.
@@ -3946,6 +4122,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** GHG Values, Qualifiers Datasheet, Data Standardization
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -3960,6 +4138,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GHG Values
 
 **Definition:** Quantitative measures representing the amount of greenhouse gas emissions associated with specific activities or processes.
@@ -3968,6 +4148,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Emission Factors, GHG Data, Qualifiers
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -3987,6 +4169,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GIS
 
 **Definition:** A system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data, often used to support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
@@ -3995,6 +4179,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** GIS
 **Related terms:** Measurement, Reporting, and Verification (MRV), Agriculture, Forestry, and Other Land Use (AFOLU), Remote Sensing
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -4014,6 +4200,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Global Governance
 
 **Definition:** The process and mechanisms through which international actors coordinate to manage global issues, often characterized by institutional frameworks and normative agreements.
@@ -4022,6 +4210,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Sustainable Development Goals (SDGs), Leverage points, Basel III
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
+
+---
 
 ---
 
@@ -4041,6 +4231,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Global Warming
 
 **Definition:** The long-term rise in Earth's average surface temperature, primarily due to human activities that increase greenhouse gas concentrations in the atmosphere.
@@ -4049,6 +4241,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Greenhouse Effect, Climate Change, Greenhouse Gas
 **Source:** Greenhouse Effects on the Global Warming, section 1, 2026
+
+---
 
 ---
 
@@ -4068,6 +4262,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Governing body
 
 **Definition:** The highest administrative, management or supervisory body of an enterprise responsible for oversight, strategy and accountability, including its composition and diversity characteristics as reportable under the VSME Extended Module.
@@ -4084,6 +4280,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Green banking
 
 **Definition:** A voluntary approach by banks to integrate environmental considerations into their operations and lending practices, focusing on minimizing negative environmental impacts.
@@ -4092,6 +4290,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate risk governance, Sustainable finance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
+
+---
 
 ---
 
@@ -4106,6 +4306,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Green tax
 
 **Definition:** A tax imposed on activities that generate greenhouse gas emissions to influence behavior toward sustainability.
@@ -4117,6 +4319,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Greenhouse Effect
 
 **Definition:** A natural process by which certain gases in the atmosphere trap heat, warming the Earth's surface and maintaining a habitable temperature.
@@ -4125,6 +4329,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Greenhouse Gas, Global Warming, Climate Change
 **Source:** Greenhouse Effects on the Global Warming, section 1, 2026
+
+---
 
 ---
 
@@ -4144,6 +4350,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Greenhouse Gas (GHG) Emissions
 
 **Definition:** Emissions of gases—including carbon dioxide, methane, and nitrous oxide—that trap heat in the atmosphere and contribute to climate change, constituting a primary metric for assessing a business's environmental impact under ESG and climate-related frameworks.
@@ -4160,6 +4368,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Greenhouse Gas Protocol
 
 **Definition:** A global framework for accounting and reporting greenhouse gas emissions, establishing boundaries for temporal, organizational, and operational scopes and defining Scope 1, 2, and 3 emissions.
@@ -4171,6 +4381,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Greenhouse Gas Register
 
 **Definition:** A register of greenhouse gas-related terms and expressions used in the characterization process to enhance data standardization.
@@ -4179,6 +4391,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Expressions Register, Extended Search, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -4198,6 +4412,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### GRI (Global Reporting Initiative)
 
 **Definition:** An international, voluntary sustainability reporting framework first published in 1997 that provides standards enabling organisations to disclose how their activities affect people and the planet across economic, environmental, and social themes, targeting a wide range of stakeholders.
@@ -4211,6 +4427,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ESG (Environmental, Social, and Governance)]], [[ESRS]], [[ISSB]], [[Materiality (sustainability reporting)]], [[Double Materiality]], [[GRI Standards 2021]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -4230,6 +4448,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Grievance Mechanism
 
 **Definition:** A formal channel established by an enterprise through which affected parties may submit complaints regarding adverse impacts, forming part of the enterprise's obligation to provide access to remedy under the due diligence framework.
@@ -4243,6 +4463,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Remediation]], [[Adverse Impacts]], [[Due Diligence]], [[National Contact Point (OECD)]], [[Affected Stakeholders]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
 
 ---
 
@@ -4262,6 +4484,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Hardware Efficiency
 
 **Definition:** A category of software sustainability actions consisting of measures taken to reduce the number of physical resources required by software to perform a given function, without altering the output of that function.
@@ -4275,6 +4499,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Energy Efficiency]], [[Carbon Awareness]], [[Embodied Emissions]], [[Action (SCI context)]]
 
 **Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
 
 ---
 
@@ -4294,6 +4520,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Healthcare Expenditures
 
 **Definition:** The financial resources allocated to healthcare services and systems, often associated with reduced energy consumption due to shifts in economic priorities and lifestyle changes.
@@ -4302,6 +4530,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Energy Consumption, Economic Factors
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 3, 2026
+
+---
 
 ---
 
@@ -4316,6 +4546,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Holistic Discourse
 
 **Definition:** A circular economy discourse that integrates social, political, and cultural implications of circularity, seeking socio-political and cultural change alongside technical and industrial improvements.
@@ -4324,6 +4556,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular Economy Discourse, Segmental Discourse, Discourse Analysis
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
+
+---
 
 ---
 
@@ -4343,6 +4577,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Human rights policies and processes
 
 **Definition:** Formal commitments and operational procedures adopted by an enterprise to prevent, mitigate and remediate adverse human rights impacts across its own workforce and value chain, disclosed under VSME Extended Module disclosure C6.
@@ -4356,6 +4592,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Extended Module (VSME)]], [[Serious adverse human rights incidents]], [[Value chain]]
 
 **Source:** Voluntary SME Standard (VSME), Structure of the standard – Extended Module (C6), 2026
+
+---
 
 ---
 
@@ -4375,20 +4613,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Hypertext Transfer Protocol (HTTP)
-
-**Definition:** An application-layer protocol for distributed hypermedia information systems that, together with its encrypted variant HTTPS, constitutes the delivery mechanism criterion defining the scope of the SCI for Web specification.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** HTTP
-
-**Related terms:** [[Web Application]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Browser-Mediated Human Interaction]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
-
 ---
 
 ### IFRS Foundation
@@ -4404,6 +4628,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ISSB (International Sustainability Standards Board)]], [[IFRS S1]], [[IFRS S2]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -4423,6 +4649,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### IFRS S2
 
 **Definition:** An ISSB standard effective from January 2024 that sets out specific requirements for the disclosure of climate-related financial information, building on the foundations of the TCFD framework.
@@ -4436,6 +4664,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ISSB (International Sustainability Standards Board)]], [[IFRS S1]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[Climate-Related Financial Risk]], [[IFRS Foundation]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -4455,20 +4685,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Inception
-
-**Definition:** The first stage of the AI lifecycle, involving the definition of the AI problem, assessment of AI suitability, engagement with end-users, and establishment of performance objectives and computational constraints, whose associated systems must be included in the Provider SCI calculation when material.
-
-**Domain:** GHG
-
-**Synonyms:** inception stage, AI inception phase
-
-**Abbreviation:** none
-
-**Related terms:** [[AI Lifecycle Stages]], [[Provider]], [[Design and Development]], [[Provider Boundary]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Inception (Provider), 2026
-
 ---
 
 ### Inclusive Wealth Index (IWI)
@@ -4479,6 +4695,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** IWI
 **Related terms:** Gross Domestic Product (GDP), Sustainable Development Goals (SDGs), Environmental, Social, and Governance (ESG)
 **Source:** How To Go With And Beyond The GDP In Favour Of Sustainability? The Association Of Gross Domestic Product (GDP) With The Inclusive Wealth Index (IWI), 2024
+
+---
 
 ---
 
@@ -4498,6 +4716,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Industrial Organization Economic Theory (IO)
 
 **Definition:** A theoretical framework that focuses on the structure of industries and the behavior of firms within competitive markets.
@@ -4514,6 +4734,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Industrialization
 
 **Definition:** The process of industrial development and manufacturing, which emits significant quantities of greenhouse gases and contributes to global warming.
@@ -4524,20 +4746,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
 
 ---
-
-### Inference
-
-**Definition:** The process of using a trained AI model to make predictions or generate outputs based on input data, constituting the primary operational activity within the Consumer boundary for carbon accounting purposes.
-
-**Domain:** GHG
-
-**Synonyms:** model inference, AI inference
-
-**Abbreviation:** none
-
-**Related terms:** [[Model Training]], [[Token]], [[Functional Unit]], [[Operation and Monitoring]], [[Consumer]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
 ---
 
@@ -4552,6 +4760,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Insolation
 
 **Definition:** The amount of solar radiation received by the Earth, influenced by variations in the Earth's orbital patterns and contributing to long-term climate changes.
@@ -4560,6 +4770,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Natural Factors, Milankovitch cycles
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -4579,6 +4791,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Institutional Fragmentation
 
 **Definition:** The lack of coordination and coherence among international institutions and legal frameworks, leading to inconsistent protection for climate-displaced persons.
@@ -4592,6 +4806,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate-Induced Migration, Climate Refugee, UNHCR, IOM, UNFCCC
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 3, 2026
+
+---
 
 ---
 
@@ -4611,6 +4827,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Integrated Prioritisation
 
 **Definition:** A phase within the integrated EU sustainability compliance methodology in which a company systematically identifies and ranks supply chains for further due diligence investigation by applying sequential assessments of regulatory scope, customer requirements, dependency and materiality, known high risks, and existing risk management.
@@ -4627,6 +4845,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Intergovernmental Panel on Climate Change (IPCC)
 
 **Definition:** An international organization that assesses the science related to climate change, its impacts, and potential future risks, providing a basis for informed decision-making.
@@ -4635,6 +4855,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** IPCC
 **Related terms:** Climate Change, Global Warming, Fifth Assessment Report
 **Source:** Global Warming and Its Consequences, Section Background, 2026
+
+---
 
 ---
 
@@ -4654,6 +4876,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Internal Market
 
 **Definition:** A single market within the European Union that allows the free movement of goods, services, capital, and people.
@@ -4670,6 +4894,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Internal Verification
 
 **Definition:** A process of checking the accuracy and completeness of data and reporting within an organization to ensure compliance with Measurement, Reporting, and Verification (MRV) standards.
@@ -4678,6 +4904,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), External Verification, Third-Party Audits
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -4697,6 +4925,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### International Financial Reporting Standards Foundation
 
 **Definition:** An independent non-profit organisation that oversees international accounting and sustainability standard-setting bodies, including the IASB and the ISSB, with the aim of developing globally accepted disclosure standards.
@@ -4710,6 +4940,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ISSB]], [[IFRS S1]], [[IFRS S2]]
 
 **Source:** EFRAG, Sustainability & ESG Reporting Frameworks You Should Know: Top 6, Section: International Sustainability Standards Board, 2026
+
+---
 
 ---
 
@@ -4729,6 +4961,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### International Social Order
 
 **Definition:** The collective framework of international relations and norms that govern the interactions between states and the protection of global stability.
@@ -4742,6 +4976,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate-Induced Migration, Human Security, International Law, Social Order
 
 **Source:** INTERNATIONAL_LAW_AND_CLIMATE_INDUCED_MI.pdf, Section 1, 2026
+
+---
 
 ---
 
@@ -4761,6 +4997,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Introverted – Risk Mitigation Strategy
 
 **Definition:** A corporate sustainability strategy that focuses on legal and external standards to mitigate risks related to environmental and social aspects.  
@@ -4769,6 +5007,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy, Visionary – Holistic Sustainability Strategy  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -4788,6 +5028,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### IPCC Guidelines for MRV in the AFOLU Sector
 
 **Definition:** A set of guidelines developed by the Intergovernmental Panel on Climate Change (IPCC) to standardize the measurement, reporting, and verification of greenhouse gas emissions in the Agriculture, Forestry, and Other Land Use (AFOLU) sector.
@@ -4798,20 +5040,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
-
-### ISO/IEC 21031:2024
-
-**Definition:** The international standard that codifies the Software Carbon Intensity (SCI) methodology, establishing the normative foundation upon which domain-specific extensions, including the SCI for AI Specification, are built.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[SCI for AI Specification]], [[Carbon Intensity]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Background, 2026
 
 ---
 
@@ -4831,6 +5059,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ketenverantwoordelijkheid
 
 **Definition:** The Dutch-language concept designating an enterprise's responsibility for adverse impacts occurring throughout its supply chain and broader value chain, operationalised through the due diligence process under the OECD Guidelines for Multinational Enterprises.
@@ -4844,6 +5074,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Due Diligence]], [[Gepaste Zorgvuldigheid]], [[International Corporate Social Responsibility]], [[Value Chain]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
 
 ---
 
@@ -4863,6 +5095,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Key Performance Indicators (KPIs)
 
 **Definition:** Metrics used to evaluate the effectiveness and progress of a Measurement, Reporting, and Verification (MRV) system in achieving its objectives.
@@ -4874,6 +5108,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Knowledge cycle of technology, information, and education
 
 **Definition:** The production, dissemination, and application of knowledge critical for driving innovation and informing sustainable practices.
@@ -4882,6 +5118,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular economy, Socio-ecological cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.6, 2026
+
+---
 
 ---
 
@@ -4901,6 +5139,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Kyoto Protocol
 
 **Definition:** An international treaty adopted in 1997 that established binding emission reduction targets for developed countries and introduced mechanisms such as carbon trading to address climate change.
@@ -4909,6 +5149,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -4923,6 +5165,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Laboratory Experiment (Glass Cylinder Trap)
 
 **Definition:** A demonstration used to support the greenhouse effect, which the author argues misinterprets the physical process of photon absorption and conversion to heat, attributing it to a continuous medium rather than discrete molecular interactions.
@@ -4934,6 +5178,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Land Use Change and Post-Deforestation Land Productivity
 
 **Definition:** The impact of converting deforested land to agricultural or settlement uses on the carbon footprint, including emissions from agricultural practices or construction activities.
@@ -4942,6 +5188,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Land Use Change, Deforestation
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
+
+---
 
 ---
 
@@ -4961,20 +5209,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Large Language Model (LLM)
-
-**Definition:** A type of generative AI system based on neural network architectures trained on large text corpora to perform token-based text generation and other natural language tasks, characterised by high parameter counts and significant computational and carbon costs at both training and inference stages.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** LLM
-
-**Related terms:** [[AI-Orchestrated Consensus Process]], [[Endorsed]], [[Consented]], [[Objected]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – Emerging AI Technologies, 2026 · SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
-
 ---
 
 ### Leakage
@@ -4990,6 +5224,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Geological Sequestration, Carbon Storage, Induced Seismicity
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
+
+---
 
 ---
 
@@ -5009,6 +5245,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Leverage Points
 
 **Definition:** Interventions within a system that, when changed, can significantly alter the system's behavior, categorized by their transformative potential according to systems theory.
@@ -5017,6 +5255,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** LP
 **Related terms:** Sustainable Development Goals (SDGs), Systems thinking, Policy resistance
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
+
+---
 
 ---
 
@@ -5036,6 +5276,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Limited Assurance
 
 **Definition:** An assurance engagement level under which a practitioner expresses a conclusion that no material misstatements have come to attention, representing a lower level of scrutiny than reasonable assurance, mandated for sustainability statements under the initial phase of the CSRD framework.
@@ -5052,6 +5294,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Linear regression analysis
 
 **Definition:** A statistical method used to model the relationship between a dependent variable and one or more independent variables.
@@ -5060,6 +5304,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Greenhouse gas emissions, SPSS
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
+
+---
 
 ---
 
@@ -5074,6 +5320,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Local Government
 
 **Definition:** The administrative body responsible for the governance of a local area, including the implementation of policies and services that affect the community.
@@ -5082,6 +5330,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Residents’ Most Talked-About Topics", 2020
+
+---
 
 ---
 
@@ -5101,20 +5351,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Machine Learning
-
-**Definition:** A foundational AI paradigm in which systems learn to perform tasks by identifying patterns in data rather than through explicit programming, encompassing supervised learning, unsupervised learning, reinforcement learning, and deep learning, and covered within the SCI for AI Specification's scope.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** ML
-
-**Related terms:** [[Reinforcement Learning]], [[Model Training]], [[Parameter]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – AI Paradigms, 2026
-
 ---
 
 ### Management Control Systems
@@ -5125,6 +5361,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Family Business, Project-Based Companies
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
+
+---
 
 ---
 
@@ -5144,6 +5382,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Market-Based Measures
 
 **Definition:** Instruments such as renewable energy certificates or carbon credits that allow organisations to claim reductions in reported emissions through purchases or offsets rather than through direct reductions, explicitly excluded from the SCI calculation methodology.
@@ -5157,6 +5397,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Region-Specific Carbon Intensity]], [[Carbon Intensity]], [[Neutralisation]], [[Carbon Offsets]]
 
 **Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
 
 ---
 
@@ -5176,6 +5418,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Material Themes
 
 **Definition:** Sustainability topics identified as significant to an organisation's reporting under the VSME standard, determined through an initial assessment process to prioritise disclosure efforts.
@@ -5189,6 +5433,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[VSME Standard]], [[Basic Module (VSME)]], [[Key Performance Indicators]], [[Data Collection Plan]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
 
 ---
 
@@ -5208,6 +5454,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Materiality (ESRS)
 
 **Definition:** The significance of an environmental, social, or governance issue to an organization's ability to operate in a given context, as defined by the European Sustainability Reporting Standards.
@@ -5216,6 +5464,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Sustainability, Environmental sustainability
 **Source:** European Sustainability Reporting Standards (ESRS)
+
+---
 
 ---
 
@@ -5235,6 +5485,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Materiality Assessment
 
 **Definition:** A process by which a business identifies and prioritises the environmental, social, and governance topics that are most significant with respect to its impacts on society and the environment and to its own financial performance, informing ESG strategy and reporting.
@@ -5251,6 +5503,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Measurement, Reporting, and Verification (MRV)
 
 **Definition:** A systematic process involving the measurement, reporting, and verification of greenhouse gas emissions and climate actions to ensure transparency and accountability.
@@ -5259,6 +5513,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** MRV
 **Related terms:** Enhanced Transparency Framework (ETF), Nationally Determined Contributions (NDCs), Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -5273,6 +5529,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Metal-Organic Frameworks (MOFs)
 
 **Definition:** A class of porous materials composed of metal ions or clusters connected by organic ligands, offering high surface area and tunable pore structures for selective adsorption.
@@ -5281,6 +5539,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** MOF
 **Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Zeolite, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
+
+---
 
 ---
 
@@ -5300,6 +5560,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Micro-enterprise
 
 **Definition:** An enterprise that does not exceed two of the following three thresholds as defined in Article 3 of Directive 2013/34/EU: balance sheet total of €450,000, net turnover of €900,000, and average number of ten employees during the financial year.
@@ -5316,6 +5578,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Milankovitch Cycles
 
 **Definition:** Long-term variations in the Earth's orbital patterns that influence the distribution of solar radiation and contribute to the onset and termination of ice ages.
@@ -5324,6 +5588,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Insolation, Natural Factors, Climate Change
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -5343,6 +5609,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Mitigation Strategies
 
 **Definition:** Actions and policies aimed at reducing greenhouse gas emissions and limiting the impacts of global warming.
@@ -5353,20 +5621,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
 
 ---
-
-### Model Training
-
-**Definition:** The process of developing an AI model by exposing it to data and optimising its parameters to perform a specific task or set of tasks, representing a computationally intensive lifecycle phase whose carbon emissions must be calculated over the entire training duration including all epochs, steps, parameter updates, intermediate runs, and early stopping phases.
-
-**Domain:** GHG
-
-**Synonyms:** AI model training, training phase
-
-**Abbreviation:** none
-
-**Related terms:** [[Inference]], [[Parameter]], [[FLOP]], [[Design and Development]], [[Provider Boundary]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions & Design and Development, 2026
 
 ---
 
@@ -5386,6 +5640,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Molecular Archipelago
 
 **Definition:** A conceptual model describing the atmosphere as a sparse, discontinuous medium composed of isolated molecules surrounded by vast intermolecular voids, rather than a continuous medium.
@@ -5394,6 +5650,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Radiative transfer, Greenhouse effect, Atmospheric physics
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Molecular Archipelago and the Photon Ratio", 2026
+
+---
 
 ---
 
@@ -5413,6 +5671,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Multiple Capitals
 
 **Definition:** The range of asset types—financial, manufactured, natural, human, social, and intellectual—whose combined state determines long-run societal welfare.
@@ -5429,6 +5689,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### National Aeronautics and Space Administration (NASA)
 
 **Definition:** A U.S. government agency responsible for the civilian space program and for aeronautics and aerospace research, providing data on climate change and global warming.
@@ -5437,6 +5699,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** NASA
 **Related terms:** National Oceanic and Atmospheric Administration, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
+
+---
 
 ---
 
@@ -5456,6 +5720,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### National Contact Point for Responsible Business Conduct
 
 **Definition:** A body established by each Subscribing Country government to promote awareness of and compliance with the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct, and to handle specific instances submitted under those Guidelines.
@@ -5472,6 +5738,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### National Oceanic and Atmospheric Administration (NOAA)
 
 **Definition:** A U.S. government agency focused on the condition of the oceans and the atmosphere, providing data and research on climate change and global warming.
@@ -5480,6 +5748,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** NOAA
 **Related terms:** National Aeronautics and Space Administration, Climate Change, Global Warming
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
+
+---
 
 ---
 
@@ -5499,6 +5769,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Nationally Determined Contributions (NDCs)
 
 **Definition:** National climate action plans submitted by countries under the Paris Agreement, outlining their commitments to reduce greenhouse gas emissions and adapt to climate change.
@@ -5509,20 +5781,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
 
 ---
-
-### Natural Language Processing
-
-**Definition:** An application-specific AI domain focused on enabling AI systems to understand, interpret, and generate human language, listed within the SCI for AI Specification as an in-scope application domain for carbon intensity measurement.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** NLP
-
-**Related terms:** [[Large Language Model (LLM)]], [[Token]], [[Generative AI]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – Application-Specific AI Solutions, 2026
 
 ---
 
@@ -5542,6 +5800,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Net Present Value (NPV) (Economic Theory)
 
 **Definition:** A financial metric used to evaluate the profitability of projects by discounting future cash flows to their present value, often used to justify continued fossil fuel production due to the long-term discounting of climate risks.
@@ -5550,6 +5810,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** NPV
 **Related terms:** Paris Climate Accord, Economic Incentives
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
+
+---
 
 ---
 
@@ -5569,6 +5831,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Net Zero Energy Home (NZEH)
 
 **Definition:** A residential building that balances annual energy consumption with on-site renewable energy production, typically connected to the electrical grid.
@@ -5582,6 +5846,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Net Zero Energy Building, Renewable Energy Systems, Low Energy Home
 
 **Source:** Solar Powered Net Zero Energy Houses for Southern Europe, Section 2, 2012
+
+---
 
 ---
 
@@ -5601,6 +5867,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Network for Greening the Financial System (NGFS)
 
 **Definition:** A global network of central banks and financial supervisors that develops climate scenarios and tools to translate climate-related disclosures into actionable risk management practices.
@@ -5609,6 +5877,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** NGFS
 **Related terms:** Taskforce on Climate-related Financial Disclosures (TCFD), Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
+
+---
 
 ---
 
@@ -5628,6 +5898,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Nitrogen Oxides (NOx)
 
 **Definition:** A group of reactive gases including NO and NO₂, contributing to air quality issues, health impacts, and secondary particulate matter formation, regulated under MARPOL Tier III.
@@ -5641,6 +5913,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Greenhouse Gas, CO₂, Methane, Nitrous Oxide, EEDI, EEXI, CII
 
 **Source:** Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System, Section 3, 2026
+
+---
 
 ---
 
@@ -5660,6 +5934,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Non-Financial Reporting Directive
 
 **Definition:** A predecessor European Union directive to the CSRD that established earlier non-financial disclosure obligations for large public-interest entities.
@@ -5676,6 +5952,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Non-fiscal functions of taxes
 
 **Definition:** The influence of taxes on behavior and decision-making beyond their financial impact, such as promoting sustainable practices.
@@ -5684,6 +5962,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green tax, Sustainable development
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
+
+---
 
 ---
 
@@ -5703,6 +5983,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Normative Indeterminacy
 
 **Definition:** The ambiguity and lack of clarity in legal norms, leading to inconsistent application and interpretation in the context of climate-induced migration.
@@ -5719,20 +6001,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Objected
-
-**Definition:** A formal participant position within the SCI for Web AI-orchestrated consensus process indicating opposition to merging proposed content into the draft document, with the effect of blocking merger unless the objection is resolved.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Endorsed]], [[Consented]], [[AI-Orchestrated Consensus Process]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background — Document Production Process, 2026-06-15
-
 ---
 
 ### Ocean Acidification
@@ -5743,6 +6011,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate Change, Global Warming, Sea Level Rise
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
+
+---
 
 ---
 
@@ -5762,6 +6032,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### OECD Guidelines for Multinational Enterprises
 
 **Definition:** A set of government-backed recommendations, last revised in 2011 under the auspices of the Organisation for Economic Co-operation and Development, addressing responsible business conduct for multinational enterprises in areas including human rights, employment, the environment, and anti-corruption.
@@ -5775,6 +6047,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Due Diligence]], [[International Corporate Social Responsibility]], [[United Nations Guiding Principles on Business and Human Rights]], [[National Contact Point (OECD)]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
 
 ---
 
@@ -5794,6 +6068,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Omnibus Proposal
 
 **Definition:** A European Commission regulatory initiative aimed at simplifying the European Sustainability Reporting Standards, which may indirectly narrow the gap between the ESRS and the VSME standard and create pressure for future adjustments to the VSME framework.
@@ -5807,6 +6083,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[VSME Standard]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[EFRAG (European Financial Reporting Advisory Group)]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
 
 ---
 
@@ -5826,6 +6104,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### One City Climate Strategy
 
 **Definition:** A framework for coordinating and integrating climate policies across different sectors and communities to achieve sustainable and equitable outcomes.
@@ -5836,36 +6116,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Citywide Leadership", 2020
 
 ---
-
-### Operation and Monitoring
-
-**Definition:** The fourth stage of the AI lifecycle, encompassing model deployment for inference, orchestration of autonomous workflows, integration of model tools and services, performance monitoring, and operational practices across edge devices, data centres, and cloud environments, whose associated carbon emissions must be included in the Consumer SCI calculation.
-
-**Domain:** GHG
-
-**Synonyms:** operational stage, operation and monitoring stage
-
-**Abbreviation:** none
-
-**Related terms:** [[AI Lifecycle Stages]], [[Consumer]], [[Inference]], [[Agentic AI]], [[FinOps]], [[Deployment]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, AI Lifecycle Stages & Operation and Monitoring (Consumer), 2026
-
----
-
-### Operational Emissions
-
-**Definition:** Greenhouse gas emissions arising from the active running of server-side systems, datacentres, and infrastructure that generate and deliver content to browsers, as distinct from embodied or supply-chain emissions.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[Carbon Intensity]], [[Backend and Infrastructure Engineer]], [[Content Delivery Network (CDN)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Target Personas — Backend and Infrastructure Engineers, 2026-06-15
 
 ---
 
@@ -5885,6 +6135,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Ozone
 
 **Definition:** A greenhouse gas present in the Earth's atmosphere, contributing to the greenhouse effect and global warming.
@@ -5893,6 +6145,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** O₃
 **Related terms:** Greenhouse Gas, Anthropogenic Factors
 **Source:** Global Warming and Its Consequences, Section Greenhouse Gases: The Main Culprits, 2026
+
+---
 
 ---
 
@@ -5912,6 +6166,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Panel Data Analysis
 
 **Definition:** A statistical method that uses data collected over multiple time periods for multiple entities to analyze the impact of various factors on energy consumption.
@@ -5922,20 +6178,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
 
 ---
-
-### Parameter
-
-**Definition:** An individual, adjustable value that defines a part of an AI model's structure and behaviour, the total count of which characterises model scale and influences computational and carbon costs.
-
-**Domain:** GHG
-
-**Synonyms:** model parameter, weight
-
-**Abbreviation:** none
-
-**Related terms:** [[Model Training]], [[FLOP]], [[Large Language Model (LLM)]], [[Functional Unit]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
 ---
 
@@ -5950,6 +6192,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Paris Climate Accord
 
 **Definition:** An international treaty aimed at limiting global temperature rise by reducing greenhouse gas emissions, often cited as a benchmark for climate action but less economically attractive for fossil fuel producers due to present value calculations.
@@ -5958,6 +6202,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Economic Incentives, Net Present Value
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
+
+---
 
 ---
 
@@ -5977,6 +6223,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Particulate Matter (PM)
 
 **Definition:** A mixture of solid and liquid particles suspended in the air, including PM₂.₅ and PM₁₀, contributing to health impacts and indirect climate forcing, monitored under EU MRV.
@@ -5993,6 +6241,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Parts of Speech Analysis
 
 **Definition:** An analysis of grammatical components in data entries to enhance the accuracy of GHG data characterization and standardization.
@@ -6001,6 +6251,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Characterization Process, Data Normalization, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 4, 2026
+
+---
 
 ---
 
@@ -6020,20 +6272,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Persona-Based System Boundary
-
-**Definition:** A carbon accounting boundary definition approach that delimits the scope of SCI calculations according to the role — Consumer or Provider — of the reporting entity, reflecting each persona's distinct sphere of control and agency over an AI system's carbon footprint.
-
-**Domain:** GHG
-
-**Synonyms:** persona-based boundary, role-based system boundary
-
-**Abbreviation:** none
-
-**Related terms:** [[Consumer Boundary]], [[Provider Boundary]], [[Consumer]], [[Provider]], [[Software Carbon Intensity (SCI)]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Persona-Based System Boundary Definition, 2026
-
 ---
 
 ### Pest Outbreaks
@@ -6052,6 +6290,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Photon Ratio
 
 **Definition:** The numerical relationship between photons and molecules in the atmosphere, indicating that the vast majority of space is empty, and thus photons are unlikely to be intercepted by molecules.
@@ -6060,6 +6300,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Molecular Archipelago, Radiative transfer, Greenhouse effect
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "The Molecular Archipelago and the Photon Ratio", 2026
+
+---
 
 ---
 
@@ -6079,6 +6321,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Planetary Boundaries
 
 **Definition:** Quantitative ecological thresholds within which human activity must remain to maintain Earth-system stability and avoid irreversible environmental change.
@@ -6095,6 +6339,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Policy Recommendations
 
 **Definition:** Suggested actions or strategies to improve the implementation and effectiveness of Measurement, Reporting, and Verification (MRV) systems in alignment with national and international climate commitments.
@@ -6103,6 +6349,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Climate Governance
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -6117,6 +6365,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Political Complacency
 
 **Definition:** A state of passive acceptance or inaction in the face of pressing issues, often influenced by financial interests that shape public policy and downplay the urgency of climate action.
@@ -6125,6 +6375,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Economic Incentives, Political Discourse
 **Source:** Global Warming and the Management of Zombies, Economic and Political Incentives section, 2018
+
+---
 
 ---
 
@@ -6139,6 +6391,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Political Will
 
 **Definition:** The determination and commitment of political actors to implement policies and drive change, often seen as a critical factor in the success of the energy transition and climate action.
@@ -6147,6 +6401,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Energy Transition, Renewable Energy Transition
 **Source:** Global Warming and the Management of Zombies, Technological and Policy Solutions section, 2018
+
+---
 
 ---
 
@@ -6161,6 +6417,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Population size
 
 **Definition:** The number of people in a given area, which influences greenhouse gas emissions through consumption and resource use.
@@ -6169,6 +6427,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Greenhouse gas emissions, Capital transfers for environmental protection
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
+
+---
 
 ---
 
@@ -6183,6 +6443,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Post-Combustion Carbon Capture
 
 **Definition:** A carbon capture technology that removes CO₂ from flue gases after the combustion of fossil fuels, typically using adsorbents or other separation methods.
@@ -6194,6 +6456,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Primary Energy Consumption
 
 **Definition:** The total amount of energy consumed at the source before it is converted into usable forms.
@@ -6202,6 +6466,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** PEC
 **Related terms:** Final Energy Consumption, Energy Conversion
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 1, 2026
+
+---
 
 ---
 
@@ -6221,6 +6487,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Priority
 
 **Definition:** Rules for determining the priority of patterns during matching in the extended search and replace process for GHG data.
@@ -6229,6 +6497,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -6248,6 +6518,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Project-Based Companies
 
 **Definition:** Companies whose operations are primarily focused on project execution, requiring the integration of formal and informal control mechanisms in strategic decision-making.
@@ -6256,6 +6528,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Management Accounting, Family Business
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
+
+---
 
 ---
 
@@ -6269,36 +6543,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Exploring the Role of Carbon Taxation Policies on CO₂ Emissions: Contextual Evidence from Tax Implementation and Non-Implementation European Countries, Section 3, 2020
 
 ---
-
-### Provider
-
-**Definition:** An entity that develops and delivers AI services, selling functional units of AI, whose carbon accounting boundary encompasses all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Consumer]], [[Functional Unit]], [[Provider Boundary]], [[Model Training]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
-
----
-
-### Provider Boundary
-
-**Definition:** The carbon accounting boundary applicable to the Provider persona, which must include all components related to the Inception, Design and Development, Deployment, and Retirement lifecycle stages, encompassing training infrastructure, data systems, evaluation frameworks, and system integration.
-
-**Domain:** GHG
-
-**Synonyms:** provider system boundary
-
-**Abbreviation:** none
-
-**Related terms:** [[Persona-Based System Boundary]], [[Provider]], [[Consumer Boundary]], [[Model Training]], [[Design and Development]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Provider Boundary, 2026
 
 ---
 
@@ -6318,6 +6562,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Public Transportation
 
 **Definition:** A system of transportation that is accessible to the general public, typically operated by a government or public authority, and designed to provide mobility for a wide range of users.
@@ -6329,6 +6575,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Qualifiers Datasheet
 
 **Definition:** A structured sheet containing all identified qualifiers, their values, units of measure, and annotations for GHG data.
@@ -6337,6 +6585,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Characterization Process, GHG Values, Qualifiers
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 3, 2026
+
+---
 
 ---
 
@@ -6356,6 +6606,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Quantitative Information
 
 **Definition:** Data that can be measured and expressed in numerical terms.
@@ -6372,6 +6624,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Radiative Forcing
 
 **Definition:** The change in the Earth's energy balance due to external factors, such as greenhouse gases, calculated using models that assume a continuous medium rather than a sparse, three-dimensional volume.
@@ -6380,6 +6634,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Greenhouse effect, Climate models, Radiative transfer
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "From Radiation to Local Thermodynamics", 2026
+
+---
 
 ---
 
@@ -6394,6 +6650,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Radical Action
 
 **Definition:** A comprehensive and transformative approach to addressing climate change that goes beyond incremental changes to implement significant and immediate measures.
@@ -6402,6 +6660,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, One City Climate Strategy
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
+
+---
 
 ---
 
@@ -6421,6 +6681,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Reasonable Assurance
 
 **Definition:** An assurance engagement level under which a practitioner expresses a positive opinion that a subject matter is free from material misstatement, representing a higher level of scrutiny than limited assurance, toward which the CSRD framework provides for a phased transition.
@@ -6434,6 +6696,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Limited Assurance]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Sustainability Statement]]
 
 **Source:** CSRD (Directive (EU) 2022/2464), Assurance of sustainability reporting, 2022
+
+---
 
 ---
 
@@ -6453,6 +6717,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Reformist Circular Society
 
 **Definition:** A circular economy discourse that seeks a prosperous, fair, democratic, and sustainable future through technological breakthroughs, social innovations, and alternative business models.
@@ -6461,6 +6727,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular Economy Discourse, Technocentric Circular Economy, Transformational Circular Society
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
+
+---
 
 ---
 
@@ -6480,6 +6748,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Region-Shifting
 
 **Definition:** A carbon awareness action whereby computation is relocated to a geographic region where the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
@@ -6493,6 +6763,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Carbon Awareness]], [[Carbon-Aware]], [[Time-Shifting]], [[Region-Specific Carbon Intensity]]
 
 **Source:** SCI Specification v1.1.0, Software Sustainability Actions, Green Software Foundation / EFRAG, 2026
+
+---
 
 ---
 
@@ -6512,6 +6784,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Regular Expressions
 
 **Definition:** A sequence of characters and symbols used to define search patterns in text, enabling efficient data extraction and transformation in GHG accounting.
@@ -6525,6 +6799,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Characterization, Data standardization, Emission Factors Database
 
 **Source:** GHG_Accounting_and_Reporting_Multi_Sector.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -6544,20 +6820,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Reinforcement Learning
-
-**Definition:** A machine learning paradigm in which an AI model learns to make sequential decisions by receiving feedback signals from an environment, included within the SCI for AI Specification's scope of covered AI paradigms.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** RL
-
-**Related terms:** [[Model Training]], [[Machine Learning]], [[SCI for AI Specification]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Scope – AI Paradigms, 2026
-
 ---
 
 ### Remediation
@@ -6576,6 +6838,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Remote Sensing
 
 **Definition:** A technology that uses sensors to collect data about the Earth's surface from a distance, often used to monitor environmental changes and support Measurement, Reporting, and Verification (MRV) in the AFOLU sector.
@@ -6587,6 +6851,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Renewable Energy
 
 **Definition:** Energy derived from naturally replenished resources such as sunlight, wind, rain, and geothermal heat, which can be harnessed to generate electricity or heat.
@@ -6595,6 +6861,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate emergency, Radical action
 **Source:** Bold_leadership_radical_action_What_Bris.pdf, section "Visions for the Future", 2020
+
+---
 
 ---
 
@@ -6614,6 +6882,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Renewable Energy Transition
 
 **Definition:** The shift from fossil fuel-based energy systems to renewable energy sources, such as solar and nuclear power, which is increasingly seen as both technically feasible and economically viable.
@@ -6622,6 +6892,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Energy Transition, Political Will
 **Source:** Global Warming and the Management of Zombies, Technological and Policy Solutions section, 2018
+
+---
 
 ---
 
@@ -6641,6 +6913,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Resilience Metrics
 
 **Definition:** Quantitative or qualitative measures used to assess the resilience of systems—social, ecological, and economic—to the impacts of climate change.
@@ -6657,6 +6931,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Resource cycles of materials and energy
 
 **Definition:** Cycles involving the extraction, use, and regeneration of materials and energy to minimize waste and maximize resource efficiency.
@@ -6665,6 +6941,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3.3, 2026
+
+---
 
 ---
 
@@ -6684,6 +6962,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Resource-Share
 
 **Definition:** The proportion of a hardware device's total available resources that are reserved for use by a given software application, used as a factor in allocating total embodied emissions to that application.
@@ -6697,6 +6977,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Embodied Emissions]], [[Total Embodied Emissions]], [[Time-Share]]
 
 **Source:** SCI Specification v1.1.0, Calculation Methodology, Green Software Foundation / EFRAG, 2026
+
+---
 
 ---
 
@@ -6716,6 +6998,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Risk Prioritisation
 
 **Definition:** The ordering of identified adverse impacts by degree of significance, used within the due diligence process to determine the sequence in which an enterprise is to address those impacts.
@@ -6732,6 +7016,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Roadmap
 
 **Definition:** A strategic plan outlining the steps, timelines, and resources required to achieve specific goals, such as full compliance with the Enhanced Transparency Framework (ETF) and the implementation of a national Measurement, Reporting, and Verification (MRV) system.
@@ -6740,6 +7026,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Future Directions, Policy Recommendations
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -6759,20 +7047,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### SCI for AI Specification
-
-**Definition:** A domain-specific extension of the SCI framework, published by the Green Software Foundation, that provides a standardised methodology for measuring and reporting carbon emissions associated with AI systems throughout their lifecycle, including persona-based system boundaries, lifecycle stages, and functional units applicable to machine learning, generative AI, and agentic AI.
-
-**Domain:** GHG
-
-**Synonyms:** Software Carbon Intensity for Artificial Intelligence Specification
-
-**Abbreviation:** SCI for AI
-
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[ISO/IEC 21031:2024]], [[Functional Unit]], [[AI Lifecycle Stages]], [[Consumer]], [[Provider]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Lead, 2026
-
 ---
 
 ### Science-Based Targets
@@ -6788,6 +7062,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[CDP (Carbon Disclosure Project)]], [[TCFD (Task Force on Climate-Related Financial Disclosures)]], [[Climate-Related Financial Risk)]], [[IFRS S2]], [[Science-Based Targets Initiative (SBTi)]]
 
 **Source:** SCI Specification v1.1.0, Background, Green Software Foundation / EFRAG, 2026 · EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -6807,6 +7083,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Scope 1 Emissions
 
 **Definition:** Direct greenhouse gas emissions from sources owned or controlled by an organization, such as on-campus fossil fuel combustion.
@@ -6815,6 +7093,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Scope 2 Emissions, Scope 3 Emissions, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
+
+---
 
 ---
 
@@ -6829,6 +7109,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Scope 3 Emissions
 
 **Definition:** Indirect greenhouse gas emissions from activities not directly owned or controlled by an organization, such as commuting, study abroad, and business travel.
@@ -6837,6 +7119,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Scope 1 Emissions, Scope 2 Emissions, Greenhouse Gas Protocol
 **Source:** The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success, University of New Hampshire Scholars' Repository, 2015
+
+---
 
 ---
 
@@ -6856,6 +7140,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### SDG–CSRD–ESRS Alignment Matrix
 
 **Definition:** A mapping framework developed by EFRAG that cross-references the seventeen United Nations Sustainable Development Goals with the reporting requirements of the Corporate Sustainability Reporting Directive and the corresponding European Sustainability Reporting Standards, identifying for each SDG the relevant ESRS topic, anticipated corporate impact, recommended actions, and suggested indicators and KPIs.
@@ -6872,6 +7158,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sea Level Rise
 
 **Definition:** The increase in the level of the ocean due to the melting of glaciers and polar ice caps, contributing to coastal flooding and affecting marine ecosystems.
@@ -6880,6 +7168,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Climate Change, Global Warming, Ocean Acidification
 **Source:** Global Warming and Its Consequences, Section Effects of Global Warming, 2026
+
+---
 
 ---
 
@@ -6899,6 +7189,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sections
 
 **Definition:** Different sections of data, including geo-location, numbers, ranges, lists, units of measure, assignment operators, and mathematical operators, used in GHG data characterization.
@@ -6907,6 +7199,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Extended Search, Regular Expressions, GHG Data
 **Source:** GHG_Accounting_and_Reporting_Multi_Scope.pdf, Section 6, 2026
+
+---
 
 ---
 
@@ -6921,6 +7215,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sendai Framework for Disaster Risk Reduction
 
 **Definition:** A global agreement adopted in 2015 to reduce disaster risk and losses in life and property, promoting resilience to disasters and integrating disaster risk reduction into sustainable development.
@@ -6929,6 +7225,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Climate Governance, United Nations Framework Convention on Climate Change (UNFCCC), 2030 Agenda for Sustainable Development
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -6948,6 +7246,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Shareholder Value Creation
 
 **Definition:** A corporate governance orientation that prioritises the maximisation of financial returns to equity shareholders, identified in this context as the prevailing but insufficient paradigm that excludes social and ecological value considerations.
@@ -6961,6 +7261,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[societal value creation]], [[fiduciary duty]], [[multiple capitals]], [[Sustainable Value Transition]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Background, 2026
+
+---
 
 ---
 
@@ -6980,6 +7282,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Single Market Programme
 
 **Definition:** An EU funding programme supporting the functioning of the internal market, under which EFRAG receives financial support from the European Union, with participation also from EEA–EFTA countries and Kosovo.
@@ -6995,20 +7299,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Voluntary SME Standard (VSME), Background – EFRAG and its mandate, 2026
 
 ---
-
-### Single-Page Application (SPA)
-
-**Definition:** A browser-based web application architectural pattern in which content and functionality are rendered and updated dynamically within a single HTML page through client-side execution, falling within the scope of the SCI for Web specification.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** SPA
-
-**Related terms:** [[Web Application]], [[Browser-Mediated Human Interaction]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Frontend Developer]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
 
 ---
 
@@ -7028,6 +7318,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Small and Medium-Sized Enterprises (SMEs)
 
 **Definition:** An enterprise classified as micro, small or medium-sized on the basis of balance sheet total, net turnover and average number of employees, as defined in Article 3 of Directive 2013/34/EU, qualifying for a category by not exceeding two of the three applicable thresholds.
@@ -7041,6 +7333,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Voluntary Template (SMEs), European Single Access Point
 
 **Source:** EFR. Final Assessment Report, 2026-07-29 · EFRAG Final Assessment Report, 2026-07-29 · Voluntary SME Standard (VSME), Background – Size thresholds, 2026 · VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
 
 ---
 
@@ -7060,6 +7354,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Social Boundaries
 
 **Definition:** Minimum thresholds of human welfare and equity that economic activity must meet or exceed in order to satisfy societal requirements for a just and inclusive society.
@@ -7076,6 +7372,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Social cycles of care
 
 **Definition:** Cycles encompassing the provision, distribution, and impact of care on social cohesion and resilience as a fundamental aspect of human relationships and societal well-being.
@@ -7087,6 +7385,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Social Dimension of Corporate Sustainability
 
 **Definition:** The dimension of corporate sustainability that involves the organization's responsibility and commitment to its actions, particularly in business activities.  
@@ -7095,6 +7395,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Economic Dimension, Ecological Dimension, Sustainability Aspect  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
+
+---
 
 ---
 
@@ -7114,6 +7416,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Societal Value Creation
 
 **Definition:** The generation of positive outcomes across environmental, social, and economic dimensions for stakeholders beyond shareholders, measured and managed with the same rigour as financial value.
@@ -7130,6 +7434,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Socio-ecological cycles
 
 **Definition:** Interconnected cycles and flows that operate within human societies and the planet, essential for understanding circularity and its implications for sustainability.
@@ -7138,6 +7444,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular economy, Biogeochemical cycles of the Earth, Ecosystem cycles, Resource cycles of materials and energy, Political cycles of power, Economic cycles of wealth, capital, and money, Knowledge cycle of technology, information, and education, Social cycles of care
 **Source:** Transition to a Sustainable Circular Society: More than Just Resource Efficiency, Section 3, 2026
+
+---
 
 ---
 
@@ -7157,36 +7465,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Software Carbon Intensity (SCI)
-
-**Definition:** A methodology developed by the Green Software Foundation for quantifying the carbon emissions associated with software systems, expressed as a rate of carbon per unit of functional value delivered.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** SCI
-
-**Related terms:** [[Software Carbon Intensity for Web (SCI for Web)]], [[Carbon Intensity]], [[Functional Unit]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background, 2026-06-15
-
----
-
-### Software Carbon Intensity for Web (SCI for Web)
-
-**Definition:** A domain-specific extension of the SCI specification developed by the Green Software Foundation that establishes requirements for measuring the carbon intensity of browser-based web applications spanning both server-side infrastructure and client-side browser execution environments.
-
-**Domain:** GHG
-
-**Synonyms:** SCI for Web specification
-
-**Abbreviation:** SCI for Web
-
-**Related terms:** [[Software Carbon Intensity (SCI)]], [[Browser-Mediated Human Interaction]], [[Web Application]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Background, 2026-06-15
-
 ---
 
 ### Soil Carbon Loss
@@ -7197,6 +7475,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Deforestation, Land Use Change
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
+
+---
 
 ---
 
@@ -7216,6 +7496,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Solar Activity
 
 **Definition:** Fluctuations in the Sun's radiation output, particularly sunspot activity, which can influence the Earth's climate and contribute to global warming.
@@ -7224,6 +7506,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Natural Factors, Climate Change
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -7243,6 +7527,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Solid fossil fuels
 
 **Definition:** Fossil fuels in solid form, such as coal, which are significant sources of greenhouse gas emissions.
@@ -7251,6 +7537,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Greenhouse gas emissions, Supply and consumption
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
+
+---
 
 ---
 
@@ -7270,6 +7558,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### SPSS
 
 **Definition:** A statistical software package used for data analysis, including regression models to assess factors influencing greenhouse gas emissions.
@@ -7278,6 +7568,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** SPSS
 **Related terms:** Linear regression analysis, Greenhouse gas emissions
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 3, 2022
+
+---
 
 ---
 
@@ -7297,6 +7589,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Stakeholder Communication
 
 **Definition:** The process of engaging with stakeholders to exchange information, manage expectations, and build relationships that support sustainability objectives.
@@ -7313,6 +7607,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Stakeholder Engagement
 
 **Definition:** The process of involving and collaborating with relevant parties, including government institutions, NGOs, and the private sector, to ensure the effective implementation of climate initiatives.
@@ -7324,6 +7620,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Standard Climate Paradigm
 
 **Definition:** A framework used to model and predict climate behavior, particularly focusing on the Earth's energy balance and the effects of greenhouse gases, by simplifying the atmosphere to a two-dimensional sheet.
@@ -7332,6 +7630,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Two Flatteners, Radiative Transfer, Climate Sensitivity
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
+
+---
 
 ---
 
@@ -7351,6 +7651,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Strategic Management Accounting (SMA)
 
 **Definition:** A management accounting approach that integrates customer, competitor, market, planning, and performance control data to support strategic decision-making.
@@ -7359,6 +7661,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Management Accounting, Strategic Decision-Making
 **Source:** Management Accounting as a Strategic Decision-Making Tool: An Exploratory Study of Growth Strategy Formulation, AJHSSR, vol. 10, no. 8, 2026, pp. 58–66
+
+---
 
 ---
 
@@ -7378,6 +7682,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Strategic Sustainability Communication
 
 **Definition:** The purposeful use of communication to support sustainability objectives, whether through the transmission of information or the co-creation of shared narratives.
@@ -7391,6 +7697,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Corporate Social Responsibility (CSR), Sustainability Management, Stakeholder Communication, Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)
 
 **Source:** Strategic Sustainability Communication, section 2.3, 2026
+
+---
 
 ---
 
@@ -7410,6 +7718,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Substances of Concern
 
 **Definition:** Chemical or biological substances that pose risks to human health or the environment and are subject to disclosure in pollution reporting.
@@ -7426,6 +7736,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Substitution effect
 
 **Definition:** A shift in demand from one product or service to another due to changes in relative prices or availability, often observed in the context of energy sources.
@@ -7434,6 +7746,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green tax, Brown energy
 **Source:** Determinants of Reducing Greenhouse Gas Emissions in European Union Countries, Section 4, 2022
+
+---
 
 ---
 
@@ -7453,6 +7767,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Super Critical Fluid
 
 **Definition:** A state of matter where a substance exists as a fluid above its critical temperature and pressure, commonly used in CO₂ capture and storage processes.
@@ -7466,6 +7782,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Carbon Capture and Utilization (CCUS), Geological Sequestration, CO₂ Capture
 
 **Source:** *Carbon Sequestration: Methodology, Benefits and Risks* by Satyesh Bhandari
+
+---
 
 ---
 
@@ -7485,6 +7803,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Supply Chain Reporting
 
 **Definition:** The interoperable disclosure of product-level social and environmental impact information across supply-chain participants, enabling collation of complete pictures of sustainable impact and value by supply-chain parties and third parties.
@@ -7498,6 +7818,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[corporate reporting]], [[product information]], [[externalities]], [[Sustainable Value Architecture]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Component 6 – Supply Chain Reporting, 2026
+
+---
 
 ---
 
@@ -7517,6 +7839,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainability Accounting Standards Board
 
 **Definition:** A standard-setting body that developed industry-specific sustainability accounting standards across 77 industries to enable companies to disclose financially material ESG information relevant to investors, subsequently merged into the ISSB.
@@ -7533,6 +7857,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainability Aspect
 
 **Definition:** A specific issue or factor within the economic, ecological, or social dimensions of corporate sustainability that requires attention and management.  
@@ -7541,6 +7867,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Economic Dimension, Ecological Dimension, Social Dimension  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 3, 2026
+
+---
 
 ---
 
@@ -7560,6 +7888,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainability Management
 
 **Definition:** The integration of sustainability principles into organizational strategies and operations to achieve long-term ecological and societal goals.
@@ -7573,6 +7903,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Strategic Sustainability Communication, Corporate Social Responsibility (CSR), Environmental, Social, and Governance (ESG) Criteria, Sustainable Development Goals (SDGs)
 
 **Source:** Strategic Sustainability Communication, section 2.2, 2026
+
+---
 
 ---
 
@@ -7592,6 +7924,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainability Reporting Framework
 
 **Definition:** A structured standard or guideline that organisations use to disclose their environmental, social, and governance performance to investors, regulators, and other stakeholders in a standardised and comparable manner.
@@ -7605,6 +7939,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[GRI]], [[ESRS]], [[TCFD]], [[SASB]], [[ISSB]], [[CDP]], [[Materiality (sustainability reporting)]], [[Double Materiality]]
 
 **Source:** EFRAG, *Sustainability & ESG Reporting Frameworks You Should Know: Top 6*, 2026-06-15
+
+---
 
 ---
 
@@ -7624,6 +7960,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainability Strategy
 
 **Definition:** A plan that outlines how an organization will achieve its sustainability goals.
@@ -7637,6 +7975,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Corporate sustainability, Strategic management, Corporate Sustainability Strategy Implementation, Organizational culture, Employee motivation
 
 **Source:** Corporate sustainability strategy: Bridging the gap between formulation and implementation, Engert et al., 2016
+
+---
 
 ---
 
@@ -7656,6 +7996,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainable Development
 
 **Definition:** Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, emphasizing both economic and environmental considerations.
@@ -7664,6 +8006,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** SD
 **Related terms:** Environmental sustainability, Materiality (ESRS)
 **Source:** United Nations World Commission on Environment and Development, 1987
+
+---
 
 ---
 
@@ -7678,6 +8022,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainable finance
 
 **Definition:** A financial system that integrates environmental, social, and governance (ESG) factors into investment and banking practices to promote long-term sustainability and responsible economic growth.
@@ -7686,6 +8032,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Green banking, Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "Theoretical Foundations: Sustainable Banking Typologies and the Triple Bottom Line"
+
+---
 
 ---
 
@@ -7705,6 +8053,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Sustainable Value Architecture
 
 **Definition:** The set of institutional structures and mechanisms needed to support a Sustainable Value Transition, comprising nine interdependent components spanning corporate governance, law, reporting, product information, supply-chain transparency, macroeconomic accounts, fiscal policy, and education.
@@ -7718,6 +8068,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Sustainable Value Transition]], [[multiple capitals]], [[corporate reporting]], [[externalities]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Lead, 2026
+
+---
 
 ---
 
@@ -7737,20 +8089,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Synthetic Data Generation
-
-**Definition:** The process of artificially producing data for use in AI model training or evaluation, rather than collecting it from real-world sources, constituting a component of both the Design and Development lifecycle stage and the Provider boundary for SCI carbon accounting purposes.
-
-**Domain:** GHG
-
-**Synonyms:** synthetic data creation
-
-**Abbreviation:** none
-
-**Related terms:** [[Design and Development]], [[Model Training]], [[Provider Boundary]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Design and Development & Provider Boundary, 2026
-
 ---
 
 ### Systems Theory
@@ -7769,6 +8107,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Systems Thinking
 
 **Definition:** A theoretical framework that examines the structure and behavior of systems, emphasizing the importance of understanding interactions and feedback loops to drive systemic change.
@@ -7777,6 +8117,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Leverage points, Sustainable Development Goals (SDGs), Global governance
 **Source:** The Shallow Consensus: SDGs, Leverage Points, and the Price of Concession in Global Governance, section 1, 2026
+
+---
 
 ---
 
@@ -7796,6 +8138,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Task Force on Climate-Related Financial Disclosures
 
 **Definition:** An international body launched in 2017 that developed a voluntary framework for consistent, decision-useful disclosure of climate-related financial risks, structured around four core pillars: Governance, Strategy, Risk Management, and Metrics and Targets.
@@ -7812,6 +8156,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Taskforce on Climate-related Financial Disclosures (TCFD)
 
 **Definition:** A global initiative that provides a framework for organizations to disclose climate-related financial risks and opportunities, now mandatory in several major jurisdictions.
@@ -7820,6 +8166,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** TCFD
 **Related terms:** Network for Greening the Financial System (NGFS), Climate risk governance
 **Source:** The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance, section "International Regulatory Architecture and Institutional Frameworks"
+
+---
 
 ---
 
@@ -7839,6 +8187,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### TCFD (Task Force on Climate-Related Financial Disclosures)
 
 **Definition:** A framework launched in 2017 structured around four thematic pillars—Governance, Strategy, Risk Management, and Metrics and Targets—designed to help organisations disclose climate-related financial risks in a consistent and comparable manner, and which subsequently served as a foundational basis for ISSB standards.
@@ -7855,6 +8205,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Technocentric Circular Economy
 
 **Definition:** A circular economy discourse that aims to reconcile economic and environmental imperatives through technological innovations, particularly in biotechnology, renewable energy, and resource recovery.
@@ -7866,6 +8218,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Thermal Blanket
 
 **Definition:** A metaphor used in climate science to describe the atmosphere's role in retaining heat, which the author argues is a dimensional category error and an artificial construct of two-dimensional models.
@@ -7874,6 +8228,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Greenhouse effect, Radiative transfer, Climate models
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "Background", 2026
+
+---
 
 ---
 
@@ -7893,6 +8249,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Third-Party Audits
 
 **Definition:** Independent assessments conducted by external auditors to evaluate the accuracy, completeness, and compliance of Measurement, Reporting, and Verification (MRV) systems.
@@ -7901,6 +8259,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Internal Verification, External Verification
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -7920,6 +8280,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Time-Shifting
 
 **Definition:** A carbon awareness action whereby computation is scheduled to coincide with periods when the carbon intensity of the energy supply is lower, thereby reducing the carbon emissions associated with software execution.
@@ -7936,6 +8298,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Timeframe for Emission Estimates
 
 **Definition:** The period over which deforestation and carbon release are measured, essential for accurate estimation of GHG emissions.
@@ -7944,6 +8308,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Deforestation, Carbon Emissions
 **Source:** GHG_emissions_from_settlements.pdf, Section 2, 2024
+
+---
 
 ---
 
@@ -7957,20 +8323,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Source:** Global Warming and the Management of Zombies, Scientific Understanding and Feedback Mechanisms section, 2018
 
 ---
-
-### Token
-
-**Definition:** The atomic unit of text processing in language models, typically representing parts of words or characters, used as a functional unit for measuring the carbon intensity of language model inference.
-
-**Domain:** GHG
-
-**Synonyms:** none
-
-**Abbreviation:** none
-
-**Related terms:** [[Inference]], [[Functional Unit]], [[Large Language Model (LLM)]], [[Generative AI]]
-
-**Source:** Green Software Foundation – SCI for AI Specification, Terms and Definitions, 2026
 
 ---
 
@@ -7990,6 +8342,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Transformation Rules
 
 **Definition:** Guidelines or algorithms used to clean, parametrize, and standardize data during the GHG accounting process.
@@ -8006,6 +8360,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Transformational Circular Society
 
 **Definition:** A circular economy discourse that seeks to completely reconfigure the current societal system, democratize and redistribute wealth and power, and achieve mutual harmony between humanity and nature.
@@ -8014,6 +8370,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Circular Economy Discourse, Reformist Circular Society, Fortress Circular Economy
 **Source:** Analysing European Union circular economy policies: words versus actions, Section 3, 2020
+
+---
 
 ---
 
@@ -8033,6 +8391,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Transition Pathway
 
 **Definition:** A defined, time-bound sequence of actions and milestones through which a company or economic system progressively realigns its activities with social and planetary boundaries, including phase-out strategies for harmful activities.
@@ -8046,6 +8406,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Sustainable Value Transition]], [[carbon budget]], [[planetary boundaries]], [[net-zero carbon]]
 
 **Source:** An Architecture for Sustainable Value Transition within Social and Planetary Boundaries, Four Strategic Goals, 2026
+
+---
 
 ---
 
@@ -8065,6 +8427,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Transport-Related Changes
 
 **Definition:** Modifications to transportation systems and practices aimed at reducing carbon emissions and promoting sustainable mobility.
@@ -8076,6 +8440,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Transportation
 
 **Definition:** The movement of people and goods via land, water, and air transport systems, which accounts for a significant portion of global carbon dioxide emissions.
@@ -8084,6 +8450,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Anthropogenic Factors, Greenhouse Gas
 **Source:** Global Warming and Its Consequences, Section Factors of Global Warming, 2026
+
+---
 
 ---
 
@@ -8103,6 +8471,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Two Flatteners
 
 **Definition:** Two methodologies, HITRAN and the Beer-Lambert Law, that contribute to the reduction of the atmosphere to a two-dimensional sheet by simplifying its three-dimensional properties.
@@ -8114,6 +8484,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Two-Dimensional Sheet
 
 **Definition:** A simplified representation of the atmosphere used in the standard climate paradigm, which reduces the complex three-dimensional dynamics of the atmosphere to a two-dimensional projection.
@@ -8122,6 +8494,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Standard Climate Paradigm, HITR, Beer-Lambert Law
 **Source:** THE_STANDARD_CLIMATE_PARADIGM_DOES_NOT_S.pdf
+
+---
 
 ---
 
@@ -8141,6 +8515,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### UN Guiding Principles on Business and Human Rights
 
 **Definition:** An international framework establishing the respective responsibilities of states to protect and businesses to respect human rights, and the need for access to remedy for those whose rights are violated.
@@ -8154,6 +8530,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Corporate Sustainability Due Diligence Directive (CSDDD)]], [[Social Standards]], [[UN Global Compact]]
 
 **Source:** ESG Business Handbook, Section: International Frameworks, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -8173,6 +8551,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### United Nations Guiding Principles on Business and Human Rights
 
 **Definition:** A framework endorsed by the United Nations Human Rights Council in 2011 that articulates the respective duties of states and responsibilities of businesses with regard to human rights, placing due diligence at the core of responsible enterprise behaviour.
@@ -8186,6 +8566,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Due Diligence]], [[OECD Guidelines for Multinational Enterprises]], [[International Corporate Social Responsibility]], [[Adverse Impacts]]
 
 **Source:** Nationaal Contactpunt OESO-Richtlijnen voor Multinationale Ondernemingen, *Due Diligence in 6 stappen*, September 2021
+
+---
 
 ---
 
@@ -8205,6 +8587,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Upstream Supply Chain
 
 **Definition:** The portion of a value chain that encompasses suppliers, raw material extractors, and other entities providing inputs to a company prior to its own operations, subject to specific scope provisions under the Forced Labour Regulation and other EU due diligence instruments.
@@ -8218,6 +8602,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[Value Chain]], [[Due Diligence]], [[Forced Labour Regulation (FLR)]], [[Corporate Sustainability Due Diligence Directive (CSDDD)]]
 
 **Source:** EU Sustainability Legislation: An Integrated Compliance Framework, Regulatory Landscape, 2026
+
+---
 
 ---
 
@@ -8237,6 +8623,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Value Creation
 
 **Definition:** The process through which an organization generates value for the enterprise and fosters value appropriation by customers, viewed through economic, social, and sustainable perspectives.
@@ -8253,6 +8641,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Visionary – Holistic Sustainability Strategy
 
 **Definition:** A corporate sustainability strategy that encompasses sustainability issues across all business activities, deriving competitive advantages through innovation and differentiation.  
@@ -8261,6 +8651,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none  
 **Related terms:** Introverted – Risk Mitigation Strategy, Extroverted – Legitimizing Strategy, Conservative – Efficiency Strategy  
 **Source:** Corp.Sust.Strategies-specialissueSD_Original.pdf, Section 2, 2026
+
+---
 
 ---
 
@@ -8280,6 +8672,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Volcanic Eruptions
 
 **Definition:** Natural events that release carbon dioxide and aerosols into the atmosphere, contributing to long-term warming by trapping heat and reducing the Earth's ability to radiate it back into space.
@@ -8291,6 +8685,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Volumetric Spatial Advantage
 
 **Definition:** A metric describing the extreme porosity of the atmosphere, calculated as the ratio of intermolecular space to particle size, indicating that the atmosphere is predominantly empty space.
@@ -8299,6 +8695,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Atmospheric physics, Greenhouse effect, Molecular Archipelago
 **Source:** The Geometric Fraud of the Greenhouse Effect, Section "A 99.999985% Vacuum (Atmospheric Porosity)", 2026
+
+---
 
 ---
 
@@ -8318,6 +8716,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Voluntary Sustainability Reporting for Small and Medium-sized Enterprises (VSME) Standard
 
 **Definition:** A voluntary sustainability reporting framework developed under the auspices of EFRAG, designed specifically to enable small and medium-sized enterprises to report on sustainability matters in a structured manner outside the scope of mandatory CSRD obligations.
@@ -8331,6 +8731,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[European Sustainability Reporting Standards (ESRS)]], [[Corporate Sustainability Reporting Directive (CSRD)]], [[Small and Medium-sized Enterprises]], [[EFRAG (European Financial Reporting Advisory Group)]], [[Basic Module (VSME)]], [[Extended Module (VSME)]]
 
 **Source:** Q&A Navigation Webinar VSME, CSRD Collectief / EFRAG, 2026
+
+---
 
 ---
 
@@ -8350,6 +8752,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises
 
 **Definition:** A structured, voluntary sustainability reporting framework published by EFRAG in 2024, designed to enable small and medium-sized enterprises to disclose sustainability performance using standardised modules aligned with the European Sustainability Reporting Standards.
@@ -8363,6 +8767,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** [[ESRS]], [[CSRD]], [[EFRAG (European Financial Reporting Advisory Group)]], [[Double Materiality Assessment]], [[Small and Medium-Sized Enterprises (SMEs)]]
 
 **Source:** Webinar VSME – Marlou Duchateau en Esther Roelofsen, EFRAG, 2026-06-15
+
+---
 
 ---
 
@@ -8382,6 +8788,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### VSME Digital Template
 
 **Definition:** A tool developed by the EFRAG Secretariat to enable user-friendly data entry for SMEs, including auto-calculation of totals, validations, and consistency checks.
@@ -8395,6 +8803,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** VSME XBRL Taxonomy, XBRL, EFRAG, SME
 
 **Source:** VSME Digital Template and XBRL Taxonomy – Explanatory Note, Section 2, 2026
+
+---
 
 ---
 
@@ -8414,6 +8824,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Vulnerability Assessment
 
 **Definition:** The process of evaluating the susceptibility of systems—social, ecological, and economic—to the impacts of climate change and the potential consequences of such impacts.
@@ -8427,6 +8839,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Related terms:** Climate Change Resilience, Adaptation Strategies, Resilience Metrics
 
 **Source:** A Handbook on Terminology for Climate Change Resilience. (2025). Ali Douabul.
+
+---
 
 ---
 
@@ -8446,20 +8860,6 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
-### Web Application
-
-**Definition:** A software application that delivers functional value to human users primarily through browser-based interfaces accessed via HTTP or HTTPS, where content rendering and execution occur within web browser environments and interfaces are designed for direct human interaction rather than exclusively machine-to-machine communication.
-
-**Domain:** GHG
-
-**Synonyms:** browser-based application
-
-**Abbreviation:** none
-
-**Related terms:** [[Browser-Mediated Human Interaction]], [[Single-Page Application (SPA)]], [[Software Carbon Intensity for Web (SCI for Web)]], [[Hypertext Transfer Protocol (HTTP)]]
-
-**Source:** SCI for Web Assembly Report: Consensus Design Document for Measuring Web Application Carbon Intensity, Scope Definition, 2026-06-15
-
 ---
 
 ### Web Portal
@@ -8470,6 +8870,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** None
 **Related terms:** Measurement, Reporting, and Verification (MRV), Database, Monitoring Progress, Evaluating Effectiveness, and Continuous Improvement
 **Source:** Development_of_a_Course_module_for_Clima.pdf, Section 2, 2026-08-31
+
+---
 
 ---
 
@@ -8489,6 +8891,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Whistleblower Mechanism
 
 **Definition:** A formal channel through which employees or other stakeholders can report suspected misconduct, including violations of anti-corruption and anti-bribery policies.
@@ -8505,6 +8909,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### World Bank
 
 **Definition:** An international financial institution that provides loans and grants to developing countries for projects aimed at reducing poverty and promoting sustainable development.
@@ -8513,6 +8919,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** WB
 **Related terms:** Energy Consumption, Data Sources
 **Source:** Factors Influencing Energy Consumption in the Context of Sustainable Development, Section 4, 2026
+
+---
 
 ---
 
@@ -8532,6 +8940,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---
+
 ### Zeolite
 
 **Definition:** A microporous, aluminosilicate mineral that can selectively adsorb molecules based on size and shape due to its crystalline structure.
@@ -8540,6 +8950,8 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 **Abbreviation:** none
 **Related terms:** Adsorbent, Adsorption, Carbon Capture and Storage, Metal-Organic Framework, Post-Combustion Carbon Capture
 **Source:** Synthesis and Characterization of Adsorbents for Post-Combustion CO₂ Capture, section 2, 2020
+
+---
 
 ---
 
@@ -8554,3 +8966,4 @@ summary: "Alphabetical glossary of sustainability-reporting terms and abbreviati
 
 ---
 
+---

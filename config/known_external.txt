@@ -81,3 +81,6 @@ refugee law
 spatiotemporal graph neural networks
 thermodynamics
 wced, 1987
+
+operational emissions
+software carbon intensity

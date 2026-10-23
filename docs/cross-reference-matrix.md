@@ -39,7 +39,6 @@ date_updated: 2026-10-23
 | [reports/2026/corp.sust.strategies-specialissuesd_original.md](reports/2026/corp.sust.strategies-specialissuesd_original.md) | SDG, Sustainability-Management | SDG-9 |  |
 | [reports/2026/corporate_social_responsibility_applying_sustainab.md](reports/2026/corporate_social_responsibility_applying_sustainab.md) | SDG, Sustainability-Management | SDG-11, SDG-8 |  |
 | [reports/2026/corporate_sustainability_strategy_bridgi.md](reports/2026/corporate_sustainability_strategy_bridgi.md) | Climate | SDG-14 |  |
-| [reports/2026/csi---green-software-foundation.md](reports/2026/csi---green-software-foundation.md) | Adjacent | SDG-13, SDG-12, SDG-7 |  |
 | [reports/2026/determinants_of_reducing_greenhouse_gas.md](reports/2026/determinants_of_reducing_greenhouse_gas.md) | GHG, Climate | SDG-13 |  |
 | [reports/2026/determining_undergraduate_students_envir.md](reports/2026/determining_undergraduate_students_envir.md) | Adjacent | SDG-11, SDG-15, SDG-16 |  |
 | [reports/2026/development_of_a_course_module_for_clima.md](reports/2026/development_of_a_course_module_for_clima.md) | GHG, SDG, Climate | SDG-13, SDG-15 |  |
@@ -53,18 +52,15 @@ date_updated: 2026-10-23
 | [reports/2026/ghg_emissions_from_settlements.md](reports/2026/ghg_emissions_from_settlements.md) | ESRS, Climate | SDG-13, SDG-11, SDG-9 |  |
 | [reports/2026/global_warming_and_its_consequences.md](reports/2026/global_warming_and_its_consequences.md) | Climate | SDG-13, SDG-7, SDG-11 |  |
 | [reports/2026/global_warming_and_the_management_of_zom.md](reports/2026/global_warming_and_the_management_of_zom.md) | Climate | SDG-13, SDG-7 |  |
-| [Software Carbon Intensity for AI Specification](reports/2026/green-software-foundation--sci-for-ai-specification.md) | Adjacent | SDG-13, SDG-9, SDG-4 |  |
 | [reports/2026/greenhouse_effects_on_the_global_warming.md](reports/2026/greenhouse_effects_on_the_global_warming.md) | Climate | SDG-13, SDG-7, SDG-15 |  |
 | [reports/2026/greening_the_screen_an_environmental_cha.md](reports/2026/greening_the_screen_an_environmental_cha.md) | Climate | SDG-13, SDG-12, SDG-7 |  |
 | [reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md](reports/2026/how_to_go_with_and_beyond_the_gdp_in_fav.md) | ESRS, SDG | SDG-8 |  |
 | [Reports — 2026](reports/2026/index.md) |  |  |  |
 | [reports/2026/international_law_and_climate_induced_mi.md](reports/2026/international_law_and_climate_induced_mi.md) | Climate | SDG-13, SDG-16 |  |
-| [reports/2026/jrc144121_01.md](reports/2026/jrc144121_01.md) | Adjacent | SDG-9, SDG-8, SDG-4 |  |
 | [reports/2026/management_accounting_as_a_strategic_dec.md](reports/2026/management_accounting_as_a_strategic_dec.md) | Adjacent | SDG-9 |  |
 | [reports/2026/oeso-richtlijnen+nederlandse+vertaling.md](reports/2026/oeso-richtlijnen+nederlandse+vertaling.md) | CSRD | SDG-9, SDG-8, SDG-15 |  |
 | [reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md](reports/2026/online-bijeenkomst-grip-op-eu-duurzaamheidswetgeving-deelversie.md) | CSRD | SDG-12, SDG-9, SDG-8 |  |
 | [reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md](reports/2026/q&a-nav-webinair-vsme_marlou-en-esther.md) | VSME | SDG-12, SDG-7, SDG-9 |  |
-| [reports/2026/sci-for-web-assembly-report.md](reports/2026/sci-for-web-assembly-report.md) | Adjacent | SDG-13, SDG-7, SDG-9 |  |
 | [reports/2026/sdg-csrd-esrs-matrix.md](reports/2026/sdg-csrd-esrs-matrix.md) | SDG, CSRD, ESRS | SDG-13, SDG-12, SDG-7 |  |
 | [reports/2026/smart_port_real_time_greenhouse_gas_meas.md](reports/2026/smart_port_real_time_greenhouse_gas_meas.md) | CSRD, GHG, Climate | SDG-13, SDG-12, SDG-9 |  |
 | [reports/2026/solar_powered_net_zero_energy_houses_for.md](reports/2026/solar_powered_net_zero_energy_houses_for.md) | Adjacent | SDG-13, SDG-12, SDG-7 |  |
