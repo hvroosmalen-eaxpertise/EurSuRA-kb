@@ -70,7 +70,6 @@
       "EU Taxonomy Regulation",
       "Ecodesign Regulation",
       "Embodied Emissions",
-      "Energy",
       "Energy Efficiency",
       "Environmental Standards",
       "Environmental, Social and Governance Standards",
@@ -547,16 +546,33 @@
   },
   {
     "title": "reports/2026/corporate_social_responsibility_applying_sustainab.md",
-    "summary": "Corporate social responsibility (CSR) has become a significant aspect of business operations, particularly in the context of stakeholder engagement and sustainability.",
+    "summary": "",
     "content_type": "report",
-    "domain": [
-      "SDG",
-      "Sustainability-Management"
-    ],
+    "domain": [],
     "status": "draft",
     "generated": false,
     "url": "reports/2026/corporate_social_responsibility_applying_sustainab/",
-    "wikilinks": []
+    "wikilinks": [
+      "Black Economic Empowerment",
+      "Corporate Social Responsibility",
+      "King Report on Corporate Governance",
+      "Triple Bottom Line"
+    ]
+  },
+  {
+    "title": "reports/2026/corporate_sustainability_strategies_are.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/corporate_sustainability_strategies_are/",
+    "wikilinks": [
+      "Corporate Sustainability Strategy",
+      "Environmental, Social, and Governance (ESG)",
+      "Stakeholder Engagement",
+      "Sustainable Development Goals"
+    ]
   },
   {
     "title": "reports/2026/corporate_sustainability_strategy_bridgi.md",
@@ -577,6 +593,21 @@
       "Sustainability strategy",
       "Triple bottom line",
       "WCED, 1987"
+    ]
+  },
+  {
+    "title": "reports/2026/crafting_corporate_sustainability_strate.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/crafting_corporate_sustainability_strate/",
+    "wikilinks": [
+      "Corporate Strategy",
+      "Integrated Management",
+      "Science-Based Target Setting",
+      "Sustainability Maturity"
     ]
   },
   {
@@ -713,6 +744,22 @@
     "generated": false,
     "url": "reports/2026/factors_influencing_energy_consumption_i/",
     "wikilinks": []
+  },
+  {
+    "title": "reports/2026/firm_strategy_for_sustainability.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/firm_strategy_for_sustainability/",
+    "wikilinks": [
+      "Corporate Social Responsibility",
+      "Greenwashing",
+      "Knowledge Management",
+      "Sustainability",
+      "Triple Bottom Line"
+    ]
   },
   {
     "title": "reports/2026/ghg_accounting_and_reporting_multi_scope.md",
@@ -873,6 +920,16 @@
     "status": "draft",
     "generated": false,
     "url": "reports/2026/management_accounting_as_a_strategic_dec/",
+    "wikilinks": []
+  },
+  {
+    "title": "reports/2026/modeling_corporate_sustainability_strate.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/modeling_corporate_sustainability_strate/",
     "wikilinks": []
   },
   {
@@ -1042,6 +1099,39 @@
     ]
   },
   {
+    "title": "reports/2026/strategies-and-practices-for-sustainability-experiences-from-firm-level.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/strategies-and-practices-for-sustainability-experiences-from-firm-level/",
+    "wikilinks": [
+      "Backcasting",
+      "Corporate social responsibility",
+      "Scenario planning",
+      "Sustainable development",
+      "System conditions for sustainability"
+    ]
+  },
+  {
+    "title": "reports/2026/sustainability_and_business.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/sustainability_and_business/",
+    "wikilinks": [
+      "Circular Economy",
+      "Corporate Sustainability",
+      "Environmental, Social, and Governance (ESG)",
+      "Green IT",
+      "Supply Chain Management",
+      "Triple Bottom Line (TBL) Model"
+    ]
+  },
+  {
     "title": "reports/2026/synthesis_and_characterization_of_adsorb.md",
     "summary": "The thesis titled *Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture* presents the research conducted by Debashis Panda during his Ph.D. studies at the Indian Institute of Technology Indore.",
     "content_type": "report",
@@ -1159,6 +1249,16 @@
       "Carbon Commitment",
       "Greenhouse Gas Protocol"
     ]
+  },
+  {
+    "title": "reports/2026/the_sustainability_balanced_scorecard_li.md",
+    "summary": "",
+    "content_type": "report",
+    "domain": [],
+    "status": "draft",
+    "generated": false,
+    "url": "reports/2026/the_sustainability_balanced_scorecard_li/",
+    "wikilinks": []
   },
   {
     "title": "reports/2026/transition_to_a_sustainable_circular_soc.md",
@@ -1331,54 +1431,73 @@
   },
   {
     "title": "Climate Disclosure Across Frameworks",
-    "summary": "Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures.",
+    "summary": "",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
     "generated": true,
     "url": "insights/climate-disclosure-across-frameworks/",
     "wikilinks": [
-      "Carbon Border Adjustment Mechanism (CBAM)",
       "Corporate Sustainability Reporting Directive (CSRD)",
-      "Double Materiality Assessment",
       "EU Taxonomy Regulation",
-      "European Sustainability Reporting Standards (ESRS)",
       "Task Force on Climate-Related Financial Disclosures (TCFD)",
-      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
+      "Voluntary Sustainability Reporting Standard for SMEs"
     ]
   },
   {
     "title": "Double Materiality Across Regimes",
-    "summary": "Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI.",
+    "summary": "",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
     "generated": true,
     "url": "insights/double-materiality-across-regimes/",
     "wikilinks": [
+      "2030 Agenda for Sustainable Development",
+      "3TG Minerals",
+      "Adaptation Strategies",
+      "Adverse Impacts",
+      "Affected Stakeholders",
+      "Agriculture, Forestry, and Other Land Use (AFOLU)",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality",
       "Double Materiality Assessment",
+      "ESG (Environmental, Social, and Governance)",
       "European Sustainability Reporting Standards (ESRS)",
       "Global Reporting Initiative (GRI)",
+      "Non-Financial Reporting Directive",
       "Voluntary Sustainability Reporting Standard for SMEs"
     ]
   },
   {
     "title": "The SME Reporting Pathway",
-    "summary": "Synthesis of how SMEs can navigate sustainability reporting via the voluntary VSME standard alongside the mandatory CSRD/ESRS regime.",
+    "summary": "",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
     "generated": true,
     "url": "insights/the-sme-reporting-pathway/",
     "wikilinks": [
+      "Adaptation Funds",
+      "Adaptation Strategies",
+      "Adsorbent",
+      "Adsorption",
+      "Adverse Impacts",
+      "Affected Stakeholders",
+      "Agriculture",
+      "Agriculture, Forestry, and Other Land Use (AFOLU)",
+      "Conflict Minerals Regulation (CMR)",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality Assessment",
+      "Due Diligence",
       "ESG (Environmental, Social, and Governance)",
       "European Sustainability Reporting Standards (ESRS)",
       "Non-Financial Reporting Directive",
-      "Voluntary Sustainability Reporting Standard for SMEs"
+      "Value Chain",
+      "Voluntary Sustainability Reporting Standard for SMEs",
+      "csrd",
+      "esrs",
+      "vsme"
     ]
   }
 ]

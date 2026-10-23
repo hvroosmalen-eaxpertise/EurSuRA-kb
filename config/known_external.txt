@@ -84,3 +84,5 @@ wced, 1987
 
 operational emissions
 software carbon intensity
+science-based target setting
+knowledge management

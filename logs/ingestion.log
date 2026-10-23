@@ -301,3 +301,35 @@
 2026-08-31T17:25:08 [INFO] DONE Transition_to_a_Sustainable_Circular_Soc.pdf → transition_to_a_sustainable_circular_soc.md
 2026-08-31T18:25:41 [INFO] FINALIZE_RECONCILE 24 external links recorded
 2026-08-31T18:26:05 [ERROR] FINALIZE_ABORT strict build failed
+2026-10-23T10:34:17 [INFO] START Corporate_social_responsibility_Applying_sustainab.pdf
+2026-10-23T10:35:27 [INFO] EXTRACTED 41K chars from Corporate_social_responsibility_Applying_sustainab.pdf
+2026-10-23T10:38:43 [INFO] WRITTEN docs\reports\2026\corporate_social_responsibility_applying_sustainab.md
+2026-10-23T10:39:55 [INFO] DONE Corporate_social_responsibility_Applying_sustainab.pdf → corporate_social_responsibility_applying_sustainab.md
+2026-10-23T10:39:55 [INFO] START Corporate_Sustainability_Strategies_Are.pdf
+2026-10-23T10:40:22 [INFO] EXTRACTED 47K chars from Corporate_Sustainability_Strategies_Are.pdf
+2026-10-23T10:43:57 [INFO] WRITTEN docs\reports\2026\corporate_sustainability_strategies_are.md
+2026-10-23T10:45:19 [INFO] DONE Corporate_Sustainability_Strategies_Are.pdf → corporate_sustainability_strategies_are.md
+2026-10-23T10:45:19 [INFO] START Crafting_Corporate_Sustainability_Strate.pdf
+2026-10-23T10:46:06 [INFO] EXTRACTED 81K chars from Crafting_Corporate_Sustainability_Strate.pdf
+2026-10-23T10:57:50 [INFO] WRITTEN docs\reports\2026\crafting_corporate_sustainability_strate.md
+2026-10-23T11:11:15 [INFO] DONE Crafting_Corporate_Sustainability_Strate.pdf → crafting_corporate_sustainability_strate.md
+2026-10-23T11:11:16 [INFO] START FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf
+2026-10-23T11:12:02 [INFO] EXTRACTED 43K chars from FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf
+2026-10-23T11:16:15 [INFO] WRITTEN docs\reports\2026\firm_strategy_for_sustainability.md
+2026-10-23T11:36:16 [INFO] DONE FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf → firm_strategy_for_sustainability.md
+2026-10-23T11:36:16 [INFO] START Modeling_Corporate_Sustainability_Strate.pdf
+2026-10-23T11:37:02 [INFO] EXTRACTED 57K chars from Modeling_Corporate_Sustainability_Strate.pdf
+2026-10-23T11:40:57 [INFO] WRITTEN docs\reports\2026\modeling_corporate_sustainability_strate.md
+2026-10-23T11:43:28 [INFO] DONE Modeling_Corporate_Sustainability_Strate.pdf → modeling_corporate_sustainability_strate.md
+2026-10-23T11:43:28 [INFO] START Strategies and Practices for Sustainability Experiences from Firm Level.pdf
+2026-10-23T11:43:47 [INFO] EXTRACTED 29K chars from Strategies and Practices for Sustainability Experiences from Firm Level.pdf
+2026-10-23T11:48:33 [INFO] WRITTEN docs\reports\2026\strategies-and-practices-for-sustainability-experiences-from-firm-level.md
+2026-10-23T11:51:01 [INFO] DONE Strategies and Practices for Sustainability Experiences from Firm Level.pdf → strategies-and-practices-for-sustainability-experiences-from-firm-level.md
+2026-10-23T11:51:01 [INFO] START Sustainability_and_Business.pdf
+2026-10-23T11:52:00 [INFO] EXTRACTED 89K chars from Sustainability_and_Business.pdf
+2026-10-23T11:58:54 [INFO] WRITTEN docs\reports\2026\sustainability_and_business.md
+2026-10-23T12:03:31 [INFO] DONE Sustainability_and_Business.pdf → sustainability_and_business.md
+2026-10-23T12:03:31 [INFO] START The_Sustainability_Balanced_Scorecard_li.pdf
+2026-10-23T12:04:16 [INFO] EXTRACTED 67K chars from The_Sustainability_Balanced_Scorecard_li.pdf
+2026-10-23T12:06:50 [INFO] WRITTEN docs\reports\2026\the_sustainability_balanced_scorecard_li.md
+2026-10-23T12:07:07 [INFO] DONE The_Sustainability_Balanced_Scorecard_li.pdf → the_sustainability_balanced_scorecard_li.md
