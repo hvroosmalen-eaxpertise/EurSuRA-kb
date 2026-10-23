@@ -1,30 +1,34 @@
 ---
 title: Climate Disclosure Across Frameworks
+summary: 'Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures.'
 content_type: synthesis
 generated: true
 sources: [esrs, tcfd, ghg-protocol, eu-taxonomy]
-date_updated: 2026-10-23
+date_updated: '2026-10-23'
 ---
 
 # Climate Disclosure Across Frameworks
 
-Climate-related disclosures are increasingly required by regulatory and voluntary frameworks to ensure transparency and accountability. For small and medium-sized enterprises (SMEs), the European Sustainability Reporting Standards (ESRS) and the Voluntary Sustainability Reporting Standard for SMEs (VSME) provide structured guidance, while the Task Force on Climate-Related Financial Disclosures (TCFD) and the Greenhouse Gas (GHG) Protocol offer complementary approaches. These frameworks overlap in their emphasis on GHG emissions, materiality, and supply chain transparency, but differ in scope, mandatory application, and reporting depth.
+Climate-related disclosures are increasingly required across multiple regulatory and reporting frameworks, with the European Sustainability Reporting Standards (ESRS), the Task Force on Climate-Related Financial Disclosures (TCFD), the Greenhouse Gas (GHG) Protocol, and the EU Taxonomy each offering distinct yet complementary approaches. For small and medium-sized enterprises (SMEs), the ESRS and the Voluntary Sustainability Reporting Standard for SMEs (VSME) provide a structured pathway to align with broader EU regulatory expectations, while the TCFD and GHG Protocol offer international benchmarks for climate risk and emissions reporting. These frameworks overlap in their emphasis on transparency, materiality, and the integration of climate considerations into business strategy, though they differ in scope, mandatory application, and the depth of disclosure required.
 
-| Framework | Mandatory? | Scope | Key Focus Areas | Materiality Approach | GHG Emissions Coverage | SME Applicability |
-|----------|-----------|------|------------------|----------------------|------------------------|-------------------|
-| **ESRS** | Yes (for EU large companies) | Broad ESG | Climate, Social, Governance | Double Materiality | Yes (Scope 1, 2, 3) | Indirect via VSME |
-| **TCFD** | Yes (in some jurisdictions) | Climate-Related Financial Risks | Governance, Strategy, Risk, Metrics | Single Materiality | No | Limited |
-| **GHG Protocol** | No | GHG Emissions | Emissions measurement, targets | Not explicitly defined | Yes (Scope 1, 2, 3) | Yes (via VSME) |
-| **EU Taxonomy** | Yes (for EU financial institutions) | Sustainable Activities | Environmental classification | Not directly applicable | No | Indirect |
+| Framework         | Mandatory? | Scope of Climate Disclosure | Materiality Focus | Emissions Reporting | SME Relevance |
+|------------------|-----------|-----------------------------|-------------------|---------------------|---------------|
+| **ESRS**         | Yes (EU)  | Broad (ESG)                 | Double Materiality | Yes (Scope 1-3)     | Yes (via VSME)|
+| **TCFD**         | Yes (some jurisdictions) | Climate-related financial risks | Financial Materiality | No | Limited |
+| **GHG Protocol** | No        | Emissions measurement and targets | Environmental Materiality | Yes (Scope 1-3) | Yes |
+| **EU Taxonomy**  | No        | Sustainable economic activities | Environmental Impact | No | Indirectly relevant |
 
-The ESRS and VSME are the most relevant for SMEs, as they provide a structured approach to climate disclosure aligned with EU regulatory requirements. The VSME is proportionate to the ESRS, ensuring that SMEs can report in a way that is consistent with larger entities in their value chains. The TCFD, while not mandatory for SMEs, offers a robust framework for financial risk disclosure, which is increasingly expected by investors and stakeholders. The GHG Protocol provides the technical standards for measuring and reporting emissions, which is essential for SMEs to meet the requirements of both the ESRS and TCFD.
+For SMEs, the ESRS and VSME provide a direct pathway to meet EU regulatory requirements, with the VSME offering a proportionate and simplified version of the ESRS. The TCFD, while not mandatory for SMEs, is widely adopted internationally and serves as a foundation for many global reporting standards. The GHG Protocol, on the other hand, is specifically designed for emissions measurement and target-setting, making it particularly relevant for SMEs seeking to quantify and reduce their carbon footprint. The EU Taxonomy, while not directly tied to climate disclosure, influences the broader context of sustainable finance and may shape the strategic direction of SMEs aiming to align with EU sustainability goals.
 
-The ESRS requires a double materiality assessment, which evaluates both the financial impact of sustainability factors and the organization's impact on society and the environment. This dual lens is distinct from the TCFD's single materiality focus, which centers on financial risks. The GHG Protocol, on the other hand, provides the technical basis for measuring emissions, which is a foundational element of both the ESRS and TCFD frameworks. The EU Taxonomy, while not directly related to disclosure, influences the classification of sustainable activities, which can affect how SMEs structure their ESG strategies.
+The ESRS and VSME emphasize double materiality, requiring SMEs to disclose both the financial impacts of climate risks and their environmental impacts. This dual focus is distinct from the TCFD, which primarily addresses financial risks and does not require the same level of environmental impact assessment. The GHG Protocol, by contrast, focuses on the measurement and reduction of greenhouse gas emissions, aligning closely with the ESRS's climate change and energy topic area. The EU Taxonomy, while not directly tied to disclosure, provides a classification system that can guide SMEs in identifying and reporting on sustainable activities.
 
 ## See Also
 
-- [[Corporate Sustainability Reporting Directive (CSRD)]]
-- [[Voluntary Sustainability Reporting Standard for SMEs]]
+- [[European Sustainability Reporting Standards (ESRS)]]
 - [[Task Force on Climate-Related Financial Disclosures (TCFD)]]
-- Greenhouse Gas Emissions in ESG and Sustainability Reporting
+- Greenhouse Gas (GHG) Protocol
 - [[EU Taxonomy Regulation]]
+- [[Voluntary Sustainability Reporting Standard for SMEs (VSME)]]
+- [[Double Materiality Assessment]]
+- [[Corporate Sustainability Reporting Directive (CSRD)]]
+- [[Carbon Border Adjustment Mechanism (CBAM)]]
