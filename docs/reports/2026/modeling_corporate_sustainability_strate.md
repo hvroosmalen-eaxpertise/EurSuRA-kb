@@ -1,4 +1,5 @@
 ---
+title: Modeling corporate sustainability strategy
 content_type: report
 report_type: academic
 status: draft

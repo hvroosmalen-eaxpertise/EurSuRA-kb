@@ -1,4 +1,5 @@
 ---
+title: "Strategies and Practices for Sustainability: Experiences from Firm Level"
 content_type: report
 report_type: academic
 status: draft

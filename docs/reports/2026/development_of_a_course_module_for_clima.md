@@ -1,4 +1,6 @@
 ---
+title: Climate Governance and ETF Compliance MRV Systems for Sustainable Development
+nav_title: Climate Governance and ETF Compliance MRV
 content_type: report
 report_type: academic
 sdg:

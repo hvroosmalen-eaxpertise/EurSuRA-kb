@@ -1,4 +1,5 @@
 ---
+title: Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture
 content_type: report
 report_type: academic
 sdg:

@@ -1,4 +1,6 @@
 ---
+title: Determining Undergraduate Students’ Environmental Awareness and Environmental Sensitivity
+nav_title: Undergraduate Students' Environmental Awareness
 content_type: report
 report_type: academic
 sdg:

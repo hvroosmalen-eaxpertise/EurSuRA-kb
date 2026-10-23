@@ -1,4 +1,5 @@
 ---
+title: Global Warming and the Management of Zombies
 content_type: report
 report_type: academic
 sdg:

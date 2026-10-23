@@ -1,4 +1,5 @@
 ---
+title: "The State of Sustainability in Higher Education 2015: Emissions Metrics, Consumption Trends & Strategies for Success"
 content_type: report
 report_type: academic
 sdg:

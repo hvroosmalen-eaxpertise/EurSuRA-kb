@@ -1,4 +1,6 @@
 ---
+title: Corporate Sustainability Strategies Are Often Easier Said Than Done
+nav_title: "Corporate Sustainability Strategies: Easier Said Than Done"
 content_type: report
 report_type: academic
 status: draft

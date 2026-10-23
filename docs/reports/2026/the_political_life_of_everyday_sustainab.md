@@ -1,4 +1,5 @@
 ---
+title: The Political Life of Everyday Sustainability
 content_type: report
 report_type: academic
 sdg:

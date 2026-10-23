@@ -1,4 +1,6 @@
 ---
+title: "ESG Business Handbook: Environmental, Social and Governance Standards for Businesses in Bosnia and Herzegovina"
+nav_title: ESG Business Handbook (BiH)
 content_type: report
 report_type: handbook
 sdg:

@@ -1,4 +1,5 @@
 ---
+title: "Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System"
 content_type: report
 report_type: academic
 sdg:

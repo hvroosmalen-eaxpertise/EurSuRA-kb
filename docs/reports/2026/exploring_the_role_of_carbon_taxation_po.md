@@ -1,4 +1,6 @@
 ---
+title: Carbon Taxation Policies and Their Impact on COâ‚‚ Emissions in European Countries
+nav_title: Carbon Taxation and CO₂ Emissions (EU)
 content_type: report
 report_type: academic
 sdg:

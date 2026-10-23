@@ -1,4 +1,5 @@
 ---
+title: Global Warming and Its Consequences
 content_type: report
 report_type: academic
 sdg:

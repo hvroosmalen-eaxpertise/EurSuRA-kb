@@ -1,4 +1,5 @@
 ---
+title: Greenhouse Effects on Global Warming
 content_type: report
 report_type: academic
 sdg:

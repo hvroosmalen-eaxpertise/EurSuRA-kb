@@ -1,4 +1,6 @@
 ---
+title: OECD Guidelines for Multinational Enterprises on Responsible Business Conduct
+nav_title: OESO-richtlijnen (NL)
 content_type: report
 report_type: policy
 sdg:

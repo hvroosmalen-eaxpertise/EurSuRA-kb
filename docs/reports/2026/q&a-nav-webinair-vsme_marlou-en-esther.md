@@ -1,4 +1,6 @@
 ---
+title: "Voluntary Sustainability Reporting for SMEs: VSME Standard Implementation Guidance"
+nav_title: Q&A — VSME Webinar (NL)
 content_type: report
 report_type: webinar
 sdg:

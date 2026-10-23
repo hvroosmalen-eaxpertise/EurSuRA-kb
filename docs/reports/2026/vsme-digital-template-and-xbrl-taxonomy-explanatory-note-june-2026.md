@@ -1,4 +1,6 @@
 ---
+title: VSME Digital Template and XBRL Taxonomy
+nav_title: VSME Digital Template & XBRL (2026)
 content_type: report
 report_type: template
 sdg:

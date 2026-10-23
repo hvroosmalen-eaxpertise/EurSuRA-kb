@@ -1,4 +1,6 @@
 ---
+title: Sustainability and ESG Reporting Frameworks
+nav_title: Six ESG Reporting Frameworks
 content_type: report
 report_type: standards-guidance
 sdg:

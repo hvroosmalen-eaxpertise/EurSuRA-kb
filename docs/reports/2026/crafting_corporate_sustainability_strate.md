@@ -1,4 +1,5 @@
 ---
+title: Crafting Corporate Sustainability Strategy
 content_type: report
 report_type: academic
 status: draft

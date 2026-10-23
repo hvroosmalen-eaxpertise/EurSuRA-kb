@@ -1,4 +1,5 @@
 ---
+title: Firm Strategy for Sustainability
 content_type: report
 report_type: academic
 status: draft

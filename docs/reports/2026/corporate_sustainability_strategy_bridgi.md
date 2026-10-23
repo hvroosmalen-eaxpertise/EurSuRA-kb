@@ -1,4 +1,5 @@
 ---
+title: Corporate Sustainability Strategy Implementation
 content_type: report
 report_type: academic
 sdg:

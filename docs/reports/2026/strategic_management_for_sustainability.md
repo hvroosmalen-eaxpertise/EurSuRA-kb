@@ -1,4 +1,5 @@
 ---
+title: Strategic Management for Sustainability
 content_type: report
 report_type: academic
 sdg:

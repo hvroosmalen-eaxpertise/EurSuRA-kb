@@ -1,4 +1,5 @@
 ---
+title: "The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance"
 content_type: report
 report_type: academic
 domain:
