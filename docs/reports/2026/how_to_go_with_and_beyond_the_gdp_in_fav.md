@@ -1,4 +1,5 @@
 ---
+title: How to Go With and Beyond the GDP in Favour of Sustainability?
 content_type: report
 sdg:
   - SDG-8

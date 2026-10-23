@@ -1,4 +1,5 @@
 ---
+title: SDG–CSRD–ESRS Alignment Matrix
 content_type: report
 sdg:
   - SDG-13

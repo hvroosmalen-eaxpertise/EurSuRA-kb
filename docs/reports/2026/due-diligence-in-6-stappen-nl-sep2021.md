@@ -1,4 +1,6 @@
 ---
+title: Due Diligence under the OECD Guidelines for Multinational Enterprises
+nav_title: Due Diligence in 6 Stappen (NL)
 content_type: report
 sdg:
   - SDG-12

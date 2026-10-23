@@ -1,4 +1,6 @@
 ---
+title: Collaborative Networks in Industry 4.0 and Industry 5.0
+nav_title: "Collaborative Networks: Industry 4.0 → 5.0"
 content_type: report
 sdg:
   - SDG-12

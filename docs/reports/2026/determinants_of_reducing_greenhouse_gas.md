@@ -1,4 +1,6 @@
 ---
+title: Determinants of Reducing Greenhouse Gas Emissions in European Union Countries
+nav_title: Determinants of Reducing GHG Emissions (EU)
 content_type: report
 sdg:
   - SDG-13

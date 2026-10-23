@@ -1,4 +1,5 @@
 ---
+title: Solar Powered Net Zero Energy Houses for Southern Europe
 content_type: report
 sdg:
   - SDG-13

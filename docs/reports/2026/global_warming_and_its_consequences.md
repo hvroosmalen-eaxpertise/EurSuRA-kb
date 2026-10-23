@@ -1,4 +1,5 @@
 ---
+title: Global Warming and Its Consequences
 content_type: report
 sdg:
   - SDG-13

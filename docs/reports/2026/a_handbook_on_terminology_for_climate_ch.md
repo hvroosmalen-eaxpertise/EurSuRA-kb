@@ -1,4 +1,6 @@
 ---
+title: Climate Change Resilience Terminology
+nav_title: "Handbook: Climate Change Terminology"
 content_type: report
 sdg:
   - SDG-13

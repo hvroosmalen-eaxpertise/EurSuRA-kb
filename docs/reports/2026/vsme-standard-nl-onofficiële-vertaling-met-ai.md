@@ -1,4 +1,6 @@
 ---
+title: Voluntary SME Standard (VSME)
+nav_title: VSME Standard (NL translation)
 content_type: report
 sdg:
   - SDG-13

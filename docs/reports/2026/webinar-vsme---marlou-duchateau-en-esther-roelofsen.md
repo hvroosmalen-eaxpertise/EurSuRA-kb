@@ -1,4 +1,6 @@
 ---
+title: "Voluntary Sustainability Reporting Standards for Small and Medium-Sized Enterprises (VSME): Framework, Application, and Value"
+nav_title: VSME Webinar — Duchateau & Roelofsen (NL)
 content_type: report
 sdg:
   - SDG-12

@@ -1,4 +1,5 @@
 ---
+title: Sustainable Development Goals and Leverage Points in Global Governance
 content_type: report
 sdg:
   - SDG-9

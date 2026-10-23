@@ -1,4 +1,5 @@
 ---
+title: Corporate Sustainability Strategy Implementation
 content_type: report
 sdg:
   - SDG-14

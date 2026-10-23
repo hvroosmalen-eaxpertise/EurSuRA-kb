@@ -1,4 +1,6 @@
 ---
+title: "Corporate Social Responsibility: Applying Sustainability Principles in Stakeholder Engagement"
+nav_title: "Corporate Social Responsibility: Sustainability in Stakeholder Engagement"
 content_type: report
 status: draft
 date_added: '2026-10-23'

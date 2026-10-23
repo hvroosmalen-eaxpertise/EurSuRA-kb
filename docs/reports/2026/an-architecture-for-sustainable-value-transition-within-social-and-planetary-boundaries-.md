@@ -1,4 +1,6 @@
 ---
+title: An Architecture for Sustainable Value Transition within Social and Planetary Boundaries
+nav_title: Architecture for Sustainable Value Transition
 content_type: report
 sdg:
   - SDG-13

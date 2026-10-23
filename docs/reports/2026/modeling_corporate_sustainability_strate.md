@@ -1,4 +1,5 @@
 ---
+title: Modeling corporate sustainability strategy
 content_type: report
 status: draft
 date_added: '2026-10-23'

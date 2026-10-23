@@ -1,4 +1,5 @@
 ---
+title: GHG Accounting and Reporting Multi-Sector Tool
 content_type: report
 sdg:
   - SDG-13

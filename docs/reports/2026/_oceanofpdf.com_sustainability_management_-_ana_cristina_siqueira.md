@@ -1,4 +1,6 @@
 ---
+title: "Sustainability Management: A Systems Approach"
+nav_title: Sustainability Management (Siqueira)
 content_type: report
 sdg:
   - SDG-12
