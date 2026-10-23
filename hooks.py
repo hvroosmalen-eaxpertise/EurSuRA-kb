@@ -291,6 +291,40 @@ def _load_known_external(docs_dir):
     return ext
 
 
+def _build_reports_index(docs_dir):
+    """Walk docs/reports/**/*.md and bucket each page by its ``domain:`` tags.
+    Entries are (display_title, rel_path, report_type) tuples. Used by
+    `on_page_markdown` to inject a per-domain "Sources & further reading"
+    section on each canonical standards/frameworks page."""
+    import yaml as _yaml
+    REPORTS_BY_DOMAIN.clear()
+    reports_dir = Path(docs_dir) / "reports"
+    if not reports_dir.is_dir():
+        return
+    for md in sorted(reports_dir.rglob("*.md")):
+        if md.name == "index.md":
+            continue
+        text = md.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+        if not m:
+            continue
+        try:
+            fm = _yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        domains = fm.get("domain") or []
+        if isinstance(domains, str):
+            domains = [domains]
+        if not domains:
+            continue
+        title = fm.get("nav_title") or fm.get("title") or md.stem
+        rtype = str(fm.get("report_type", "")).lower() or "other"
+        rel = md.relative_to(Path(docs_dir)).as_posix()
+        for d in domains:
+            REPORTS_BY_DOMAIN.setdefault(str(d).upper(), []).append(
+                (str(title), rel, rtype))
+
+
 def on_files(files, config, **kwargs):
     """Expose every ingested source in ``pipeline/processed/`` (PDF or Markdown)
     under ``assets/sources/`` so report pages can link back to the original
@@ -342,8 +376,51 @@ def on_config(config, **kwargs):
     _index_slugs(LINK_INDEX, docs_dir)
     RUNTIME_EXTERNAL.clear()
     RUNTIME_EXTERNAL.update(_load_known_external(docs_dir))
+    _build_reports_index(docs_dir)
     log.info("wikilinks: indexed %d link targets", len(LINK_INDEX))
     return config
+
+
+def _domain_tags_for(meta):
+    """Normalise frontmatter ``domain:`` into an upper-case list for lookup."""
+    doms = (meta or {}).get("domain") or []
+    if isinstance(doms, str):
+        doms = [doms]
+    return [str(d).upper() for d in doms]
+
+
+def _render_sources_section(meta, current_dir):
+    """Build a Markdown 'Sources & further reading' section for the canonical
+    page described by ``meta``, listing every report whose ``domain:`` tag
+    overlaps, grouped by ``report_type:`` and alphabetised within each group.
+    Returns an empty string if there are no matching reports."""
+    tags = _domain_tags_for(meta)
+    collected: dict[str, list[tuple[str, str]]] = {}
+    seen_paths: set[str] = set()
+    for tag in tags:
+        for title, rel, rtype in REPORTS_BY_DOMAIN.get(tag, []):
+            if rel in seen_paths:
+                continue
+            seen_paths.add(rel)
+            collected.setdefault(rtype, []).append((title, rel))
+    if not collected:
+        return ""
+    lines = ["", "## Sources & further reading", ""]
+    order = [k for k, _ in REPORT_TYPE_GROUPS] + sorted(
+        k for k in collected if k not in {g[0] for g in REPORT_TYPE_GROUPS}
+    )
+    labels = dict(REPORT_TYPE_GROUPS)
+    for key in order:
+        items = collected.get(key)
+        if not items:
+            continue
+        lines.append(f"**{labels.get(key, key.title())}**")
+        lines.append("")
+        for title, rel in sorted(items, key=lambda t: t[0].lower()):
+            href = os.path.relpath(rel, str(current_dir)).replace("\\", "/")
+            lines.append(f"- [{title}]({href})")
+        lines.append("")
+    return "\n".join(lines)
 
 
 def _meta_line(meta):
@@ -408,6 +485,10 @@ def _inject_source_link(markdown, meta, current_dir, docs_dir):
         f"**Source document:** [{source_file}]({rel})"
     )
     return markdown.rstrip() + footer
+
+
+# Index populated by on_files(): domain_tag → list of (title, rel_path, report_type).
+REPORTS_BY_DOMAIN: dict[str, list[tuple[str, str, str]]] = {}
 
 
 REPORT_TYPE_GROUPS = [
@@ -510,10 +591,24 @@ def on_nav(nav, config, files, **kwargs):
     return nav
 
 
+def _inject_sources_section(markdown, meta, current_dir):
+    """Append a 'Sources & further reading' section to canonical domain pages
+    (standards / frameworks index pages) listing all report pages that share
+    one of this page's ``domain:`` tags. No-op on anything else."""
+    ct = str((meta or {}).get("content_type", "")).lower()
+    if ct not in ("standard", "framework"):
+        return markdown
+    section = _render_sources_section(meta, current_dir)
+    if not section:
+        return markdown
+    return markdown.rstrip() + "\n" + section
+
+
 def on_page_markdown(markdown, page, config, **kwargs):
     src = page.file.src_path.replace("\\", "/")
     current_dir = PurePosixPath(src).parent
     markdown = _inject_meta(markdown, page.meta or {})
+    markdown = _inject_sources_section(markdown, page.meta or {}, current_dir)
     markdown = _inject_source_link(markdown, page.meta or {}, current_dir,
                                    config["docs_dir"])
 
