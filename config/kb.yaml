@@ -39,6 +39,9 @@ lint:
 domains:
   ESRS: standards/esrs/index.md
   CSRD: standards/csrd/index.md
+  CSDDD: standards/csddd/index.md
+  SFDR: standards/sfdr/index.md
+  ISSB: standards/issb/index.md
   EU-TAXONOMY: standards/eu-taxonomy/index.md
   VSME: standards/vsme/index.md
   GHG: standards/ghg-protocol/index.md

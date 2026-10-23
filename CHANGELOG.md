@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-10-23
+
+### Added (ingested)
+- **The_Sustainability_Balanced_Scorecard_li.pdf** → `reports\2026\the_sustainability_balanced_scorecard_li.md` — the_sustainability_balanced_scorecard_li (domain: —)
+
+- **Sustainability_and_Business.pdf** → `reports\2026\sustainability_and_business.md` — sustainability_and_business (domain: —)
+
+- **Strategies and Practices for Sustainability Experiences from Firm Level.pdf** → `reports\2026\strategies-and-practices-for-sustainability-experiences-from-firm-level.md` — strategies-and-practices-for-sustainability-experiences-from-firm-level (domain: —)
+
+- **Modeling_Corporate_Sustainability_Strate.pdf** → `reports\2026\modeling_corporate_sustainability_strate.md` — modeling_corporate_sustainability_strate (domain: —)
+
+- **FIRM_STRATEGY_FOR_SUSTAINABILITY.pdf** → `reports\2026\firm_strategy_for_sustainability.md` — firm_strategy_for_sustainability (domain: —)
+
+- **Crafting_Corporate_Sustainability_Strate.pdf** → `reports\2026\crafting_corporate_sustainability_strate.md` — crafting_corporate_sustainability_strate (domain: —)
+
+- **Corporate_Sustainability_Strategies_Are.pdf** → `reports\2026\corporate_sustainability_strategies_are.md` — corporate_sustainability_strategies_are (domain: —)
+
+- **Corporate_social_responsibility_Applying_sustainab.pdf** → `reports\2026\corporate_social_responsibility_applying_sustainab.md` — corporate_social_responsibility_applying_sustainab (domain: —)
+
+---
+
+
 ## 2026-10-22
 
 ### Added (ingested)
