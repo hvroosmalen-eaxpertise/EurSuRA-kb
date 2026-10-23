@@ -3,7 +3,9 @@ title: ESRS
 content_type: standard
 domain:
 - ESRS
-status: draft
+status: published
+reviewed_by: hvroosmalen-eaxpertise
+reviewed_on: '2026-10-23'
 date_added: '2026-06-08'
 date_updated: '2026-06-08'
 source_file: 6 ESG Reporting frameworks.pdf
