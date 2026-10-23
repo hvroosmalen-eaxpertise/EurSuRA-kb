@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: template
 sdg:
   - SDG-13
   - SDG-12

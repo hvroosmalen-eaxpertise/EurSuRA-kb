@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: academic
 domain:
   - SDG
   - Sustainability-Management

@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: webinar
 sdg:
   - SDG-12
   - SDG-9

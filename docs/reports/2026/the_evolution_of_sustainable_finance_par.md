@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: academic
 domain:
   - TCFD
 summary: 'The global banking sector is undergoing a significant transformation, shifting from voluntary environmental commitments to mandatory climate risk governance embedded in prudential supervision.'

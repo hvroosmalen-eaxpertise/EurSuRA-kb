@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: academic
 status: draft
 date_added: '2026-07-29'
 date_updated: '2026-07-29'

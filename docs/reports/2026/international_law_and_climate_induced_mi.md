@@ -1,5 +1,6 @@
 ---
 content_type: report
+report_type: academic
 sdg:
   - SDG-13
   - SDG-16
