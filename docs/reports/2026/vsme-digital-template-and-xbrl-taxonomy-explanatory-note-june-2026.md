@@ -2,6 +2,7 @@
 title: VSME Digital Template and XBRL Taxonomy
 nav_title: VSME Digital Template & XBRL (2026)
 content_type: report
+language: en
 sdg:
   - SDG-15
 status: draft

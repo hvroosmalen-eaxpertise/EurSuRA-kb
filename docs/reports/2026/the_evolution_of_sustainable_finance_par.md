@@ -1,6 +1,7 @@
 ---
 title: "The Evolution of Sustainable Finance Paradigms in Banking: Transitioning from Green Banking to Climate Risk Governance"
 content_type: report
+language: en
 domain:
   - TCFD
 summary: 'The global banking sector is undergoing a significant transformation, shifting from voluntary environmental commitments to mandatory climate risk governance embedded in prudential supervision.'

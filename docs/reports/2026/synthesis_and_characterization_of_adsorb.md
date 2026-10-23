@@ -1,6 +1,7 @@
 ---
 title: Synthesis and Characterization of Adsorbents for Post-Combustion COâ‚‚ Capture
 content_type: report
+language: en
 sdg:
   - SDG-13
 domain:

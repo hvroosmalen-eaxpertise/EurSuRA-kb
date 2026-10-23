@@ -1,6 +1,7 @@
 ---
 title: Corporate Sustainability Strategy Implementation
 content_type: report
+language: en
 sdg:
   - SDG-14
 domain:

@@ -1,6 +1,7 @@
 ---
 title: "Smart Port: Real-Time Greenhouse Gas Measurement & AI-Controlled Decarbonization System"
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-12

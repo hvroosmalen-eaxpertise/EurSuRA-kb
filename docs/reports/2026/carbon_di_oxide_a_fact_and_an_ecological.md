@@ -1,6 +1,7 @@
 ---
 title: "Carbon Dioxide: A Fact and an Ecological Balance"
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-9

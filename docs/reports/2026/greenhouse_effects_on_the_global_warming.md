@@ -1,6 +1,7 @@
 ---
 title: Greenhouse Effects on Global Warming
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-7

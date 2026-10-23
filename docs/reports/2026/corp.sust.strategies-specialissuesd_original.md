@@ -2,6 +2,7 @@
 title: Corporate Sustainability Strategies
 nav_title: Corporate Sustainability Strategies (Special Issue)
 content_type: report
+language: en
 domain:
   - SDG
   - Sustainability-Management

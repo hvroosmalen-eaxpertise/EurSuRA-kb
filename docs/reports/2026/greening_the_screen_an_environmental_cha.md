@@ -1,6 +1,7 @@
 ---
 title: "Greening the Screen: An Environmental Challenge"
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-12

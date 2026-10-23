@@ -1,6 +1,7 @@
 ---
 title: Standard Climate Paradigm and the 2D Sheet Approximation
 content_type: report
+language: en
 sdg:
   - SDG-13
 domain:

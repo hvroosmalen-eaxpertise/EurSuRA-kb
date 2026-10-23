@@ -1,6 +1,7 @@
 ---
 title: Crafting Corporate Sustainability Strategy
 content_type: report
+language: en
 status: draft
 date_added: '2026-10-23'
 date_updated: '2026-10-23'

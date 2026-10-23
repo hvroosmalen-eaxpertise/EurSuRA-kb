@@ -1,6 +1,7 @@
 ---
 title: "Transition to a Sustainable Circular Society: More than Just Resource Efficiency"
 content_type: report
+language: en
 sdg:
   - SDG-12
   - SDG-9

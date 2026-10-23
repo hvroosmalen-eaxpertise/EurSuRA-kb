@@ -1,6 +1,7 @@
 ---
 title: Global Warming and Its Consequences
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-7

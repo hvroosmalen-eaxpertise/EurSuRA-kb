@@ -1,6 +1,7 @@
 ---
 title: Global Warming and the Management of Zombies
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-7

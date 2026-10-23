@@ -2,6 +2,7 @@
 title: Determining Undergraduate Students’ Environmental Awareness and Environmental Sensitivity
 nav_title: Undergraduate Students' Environmental Awareness
 content_type: report
+language: en
 sdg:
   - SDG-11
   - SDG-15

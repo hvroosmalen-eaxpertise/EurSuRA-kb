@@ -2,6 +2,7 @@
 title: OECD Guidelines for Multinational Enterprises on Responsible Business Conduct
 nav_title: OESO-richtlijnen (NL)
 content_type: report
+language: nl
 sdg:
   - SDG-9
   - SDG-8

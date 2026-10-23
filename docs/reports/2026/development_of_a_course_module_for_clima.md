@@ -2,6 +2,7 @@
 title: Climate Governance and ETF Compliance MRV Systems for Sustainable Development
 nav_title: Climate Governance and ETF Compliance MRV
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-15

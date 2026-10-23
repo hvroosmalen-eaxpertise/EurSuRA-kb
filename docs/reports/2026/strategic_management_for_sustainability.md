@@ -1,6 +1,7 @@
 ---
 title: Strategic Management for Sustainability
 content_type: report
+language: en
 sdg:
   - SDG-12
 status: draft

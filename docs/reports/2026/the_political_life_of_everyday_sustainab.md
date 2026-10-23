@@ -1,6 +1,7 @@
 ---
 title: The Political Life of Everyday Sustainability
 content_type: report
+language: en
 sdg:
   - SDG-13
   - SDG-12
