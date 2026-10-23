@@ -11,9 +11,9 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 ## framework
 
-- [GRI](frameworks/gri/index.md) `GRI` - The Global Reporting Initiative (1997), the world's most widely adopted sustainability reporting framework, centred on impact ('inside-out') disclosure.
-- [TCFD](frameworks/tcfd/index.md) `TCFD` - The Task Force on Climate-Related Financial Disclosures (2017), structuring climate-risk disclosure around governance, strategy, risk management, and metrics.
-- [UN SDGs](frameworks/un-sdgs/index.md) `SDG` - The United Nations' 17 Sustainable Development Goals (2015), the global reference framework for sustainability targets.
+- [GRI](frameworks/gri/index.md) `GRI` - The Global Reporting Initiative — the world's most widely adopted sustainability reporting framework, built around impact ('inside-out') materiality.
+- [TCFD](frameworks/tcfd/index.md) `TCFD` - The Task Force on Climate-related Financial Disclosures — the four-pillar architecture (governance, strategy, risk management, metrics & targets) now embedded in IFRS S2 and ESRS E1.
+- [UN SDGs](frameworks/un-sdgs/index.md) `SDG` - The United Nations' 2030 Agenda for Sustainable Development — 17 goals, 169 targets, 231 unique indicators; the global reference for sustainability outcomes.
 
 ## model
 
@@ -93,14 +93,17 @@ Every page in this knowledge base, grouped by type. Machine-readable version: [c
 
 ## standard
 
+- [CSDDD](standards/csddd/index.md) `CSDDD` - The EU directive (2024/1760) obliging large companies to identify, prevent and mitigate adverse human-rights and environmental impacts across their chain of activities.
 - [CSRD](standards/csrd/index.md) `CSRD` - The EU directive (2023) mandating sustainability reporting to the ESRS for large and listed companies — the anchor of the EU corporate sustainability reporting regime.
 - [ESRS](standards/esrs/index.md) `ESRS` - The mandatory EU reporting standards developed under the CSRD (2023) that set the detailed disclosure requirements for large and listed companies.
-- [EU Taxonomy](standards/eu-taxonomy/index.md) `EU-TAXONOMY` - The EU classification system for environmentally sustainable economic activities, a cornerstone of the EU sustainable-finance framework.
+- [EU Taxonomy](standards/eu-taxonomy/index.md) `EU-TAXONOMY` - The EU classification system (Regulation 2020/852) for environmentally sustainable economic activities — the measurement spine of EU sustainable finance.
 - [GHG Protocol](standards/ghg-protocol/index.md) `GHG` - Greenhouse gas emissions accounting (Scope 1-3) within the environmental pillar of ESG and sustainability reporting.
+- [ISSB](standards/issb/index.md) `ISSB` - The ISSB and its IFRS Sustainability Disclosure Standards — IFRS S1 (general requirements) and IFRS S2 (climate) — the investor-focused global baseline for sustainability-related financial disclosure.
+- [SFDR](standards/sfdr/index.md) `SFDR` - The EU regulation (2019/2088) governing sustainability disclosures by financial-market participants and financial advisers, including the Article 6 / 8 / 9 product classification.
 - [VSME](standards/vsme/index.md) `VSME` - EFRAG's 2024 voluntary sustainability reporting standard for non-listed SMEs, enabling proportionate ESG disclosure.
 
 ## synthesis
 
-- [Climate Disclosure Across Frameworks](insights/climate-disclosure-across-frameworks.md) *(generated)*
-- [Double Materiality Across Regimes](insights/double-materiality-across-regimes.md) *(generated)*
+- [Climate Disclosure Across Frameworks](insights/climate-disclosure-across-frameworks.md) - Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures. *(generated)*
+- [Double Materiality Across Regimes](insights/double-materiality-across-regimes.md) - Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI. *(generated)*
 - [The SME Reporting Pathway](insights/the-sme-reporting-pathway.md) *(generated)*

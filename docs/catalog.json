@@ -256,7 +256,7 @@
   },
   {
     "title": "GRI",
-    "summary": "The Global Reporting Initiative (1997), the world's most widely adopted sustainability reporting framework, centred on impact ('inside-out') disclosure.",
+    "summary": "The Global Reporting Initiative — the world's most widely adopted sustainability reporting framework, built around impact ('inside-out') materiality.",
     "content_type": "framework",
     "domain": [
       "GRI"
@@ -264,11 +264,20 @@
     "status": "draft",
     "generated": false,
     "url": "frameworks/gri/",
-    "wikilinks": []
+    "wikilinks": [
+      "Double Materiality",
+      "European Sustainability Reporting Standards (ESRS)",
+      "International Sustainability Standards Board",
+      "OECD Guidelines for Multinational Enterprises",
+      "Task Force on Climate-related Financial Disclosures (TCFD)",
+      "UN Global Compact",
+      "UN Guiding Principles on Business and Human Rights",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
+    ]
   },
   {
     "title": "TCFD",
-    "summary": "The Task Force on Climate-Related Financial Disclosures (2017), structuring climate-risk disclosure around governance, strategy, risk management, and metrics.",
+    "summary": "The Task Force on Climate-related Financial Disclosures — the four-pillar architecture (governance, strategy, risk management, metrics & targets) now embedded in IFRS S2 and ESRS E1.",
     "content_type": "framework",
     "domain": [
       "TCFD"
@@ -276,11 +285,22 @@
     "status": "draft",
     "generated": false,
     "url": "frameworks/tcfd/",
-    "wikilinks": []
+    "wikilinks": [
+      "Corporate Sustainability Due Diligence Directive (CSDDD)",
+      "Double Materiality",
+      "European Sustainability Reporting Standards (ESRS)",
+      "Greenhouse Gas Protocol (GHG Protocol)",
+      "IFRS S2",
+      "International Sustainability Standards Board",
+      "SMEs",
+      "Scope 2",
+      "Scope 3",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
+    ]
   },
   {
     "title": "UN SDGs",
-    "summary": "The United Nations' 17 Sustainable Development Goals (2015), the global reference framework for sustainability targets.",
+    "summary": "The United Nations' 2030 Agenda for Sustainable Development — 17 goals, 169 targets, 231 unique indicators; the global reference for sustainability outcomes.",
     "content_type": "framework",
     "domain": [
       "SDG"
@@ -288,7 +308,14 @@
     "status": "draft",
     "generated": false,
     "url": "frameworks/un-sdgs/",
-    "wikilinks": []
+    "wikilinks": [
+      "EU Taxonomy",
+      "European Sustainability Reporting Standards (ESRS)",
+      "GRI",
+      "International Sustainability Standards Board",
+      "UN Global Compact",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
+    ]
   },
   {
     "title": "Cross-Reference Matrix",
@@ -1336,13 +1363,38 @@
     ]
   },
   {
+    "title": "CSDDD",
+    "summary": "The EU directive (2024/1760) obliging large companies to identify, prevent and mitigate adverse human-rights and environmental impacts across their chain of activities.",
+    "content_type": "standard",
+    "domain": [
+      "CSDDD"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "standards/csddd/",
+    "wikilinks": [
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "Due Diligence in Responsible Business Conduct",
+      "EU Taxonomy",
+      "European Sustainability Reporting Standards (ESRS)",
+      "OECD Guidelines for Multinational Enterprises",
+      "Paris Agreement",
+      "SMEs",
+      "UN Guiding Principles on Business and Human Rights",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)",
+      "affected communities",
+      "stakeholder engagement",
+      "workers in the value chain"
+    ]
+  },
+  {
     "title": "CSRD",
     "summary": "The EU directive (2023) mandating sustainability reporting to the ESRS for large and listed companies — the anchor of the EU corporate sustainability reporting regime.",
     "content_type": "standard",
     "domain": [
       "CSRD"
     ],
-    "status": "draft",
+    "status": "published",
     "generated": false,
     "url": "standards/csrd/",
     "wikilinks": [
@@ -1363,7 +1415,7 @@
     "domain": [
       "ESRS"
     ],
-    "status": "draft",
+    "status": "published",
     "generated": false,
     "url": "standards/esrs/",
     "wikilinks": [
@@ -1380,7 +1432,7 @@
   },
   {
     "title": "EU Taxonomy",
-    "summary": "The EU classification system for environmentally sustainable economic activities, a cornerstone of the EU sustainable-finance framework.",
+    "summary": "The EU classification system (Regulation 2020/852) for environmentally sustainable economic activities — the measurement spine of EU sustainable finance.",
     "content_type": "standard",
     "domain": [
       "EU-TAXONOMY"
@@ -1388,7 +1440,19 @@
     "status": "draft",
     "generated": false,
     "url": "standards/eu-taxonomy/",
-    "wikilinks": []
+    "wikilinks": [
+      "Corporate Sustainability Due Diligence Directive (CSDDD)",
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "European Sustainability Reporting Standards (ESRS)",
+      "Greenhouse Gas Protocol",
+      "Greenhouse Gas Protocol (GHG Protocol)",
+      "OECD Guidelines for Multinational Enterprises",
+      "SMEs",
+      "Sustainable Finance Disclosure Regulation (SFDR)",
+      "UN Guiding Principles on Business and Human Rights",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)",
+      "circular economy"
+    ]
   },
   {
     "title": "GHG Protocol",
@@ -1418,54 +1482,94 @@
     ]
   },
   {
+    "title": "ISSB",
+    "summary": "The ISSB and its IFRS Sustainability Disclosure Standards — IFRS S1 (general requirements) and IFRS S2 (climate) — the investor-focused global baseline for sustainability-related financial disclosure.",
+    "content_type": "standard",
+    "domain": [
+      "ISSB"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "standards/issb/",
+    "wikilinks": [
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "Double Materiality",
+      "European Sustainability Reporting Standards (ESRS)",
+      "Greenhouse Gas Protocol (GHG Protocol)",
+      "IFRS Foundation",
+      "SMEs",
+      "Scope 2",
+      "Scope 3",
+      "Sustainability Accounting Standards Board",
+      "Task Force on Climate-related Financial Disclosures (TCFD)"
+    ]
+  },
+  {
+    "title": "SFDR",
+    "summary": "The EU regulation (2019/2088) governing sustainability disclosures by financial-market participants and financial advisers, including the Article 6 / 8 / 9 product classification.",
+    "content_type": "standard",
+    "domain": [
+      "SFDR"
+    ],
+    "status": "draft",
+    "generated": false,
+    "url": "standards/sfdr/",
+    "wikilinks": [
+      "Corporate Sustainability Reporting Directive (CSRD)",
+      "Double Materiality",
+      "EU Taxonomy",
+      "European Sustainability Reporting Standards (ESRS)",
+      "OECD Guidelines for Multinational Enterprises",
+      "SMEs",
+      "UN Global Compact",
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)",
+      "greenhouse gas emissions"
+    ]
+  },
+  {
     "title": "VSME",
     "summary": "EFRAG's 2024 voluntary sustainability reporting standard for non-listed SMEs, enabling proportionate ESG disclosure.",
     "content_type": "standard",
     "domain": [
       "VSME"
     ],
-    "status": "draft",
+    "status": "published",
     "generated": false,
     "url": "standards/vsme/",
     "wikilinks": []
   },
   {
     "title": "Climate Disclosure Across Frameworks",
-    "summary": "",
+    "summary": "Cross-framework synthesis of how ESRS, TCFD, GHG Protocol, and EU Taxonomy each structure climate-related disclosures.",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
     "generated": true,
     "url": "insights/climate-disclosure-across-frameworks/",
     "wikilinks": [
+      "Carbon Border Adjustment Mechanism (CBAM)",
       "Corporate Sustainability Reporting Directive (CSRD)",
+      "Double Materiality Assessment",
       "EU Taxonomy Regulation",
+      "European Sustainability Reporting Standards (ESRS)",
       "Task Force on Climate-Related Financial Disclosures (TCFD)",
-      "Voluntary Sustainability Reporting Standard for SMEs"
+      "Voluntary Sustainability Reporting Standard for SMEs (VSME)"
     ]
   },
   {
     "title": "Double Materiality Across Regimes",
-    "summary": "",
+    "summary": "Comparative synthesis of how double materiality is defined and operationalised across CSRD/ESRS and GRI.",
     "content_type": "synthesis",
     "domain": [],
     "status": "",
     "generated": true,
     "url": "insights/double-materiality-across-regimes/",
     "wikilinks": [
-      "2030 Agenda for Sustainable Development",
-      "3TG Minerals",
-      "Adaptation Strategies",
-      "Adverse Impacts",
-      "Affected Stakeholders",
-      "Agriculture, Forestry, and Other Land Use (AFOLU)",
       "Corporate Sustainability Reporting Directive (CSRD)",
       "Double Materiality",
       "Double Materiality Assessment",
-      "ESG (Environmental, Social, and Governance)",
       "European Sustainability Reporting Standards (ESRS)",
       "Global Reporting Initiative (GRI)",
-      "Non-Financial Reporting Directive",
       "Voluntary Sustainability Reporting Standard for SMEs"
     ]
   },
