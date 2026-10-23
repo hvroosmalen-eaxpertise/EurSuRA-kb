@@ -410,15 +410,81 @@ def _inject_source_link(markdown, meta, current_dir, docs_dir):
     return markdown.rstrip() + footer
 
 
-def on_nav(nav, config, files, **kwargs):
-    """Honour a page's ``nav_title:`` frontmatter as its label in the sidebar
-    navigation, falling back to ``title:`` (MkDocs' own default). Keeps long
-    H1s legible on the page while giving the nav a tidier short label.
+REPORT_TYPE_GROUPS = [
+    ("standards-guidance", "Standards guidance"),
+    ("template",           "Templates"),
+    ("handbook",           "Handbooks"),
+    ("policy",             "Policy"),
+    ("webinar",            "Webinars"),
+    ("academic",           "Academic papers"),
+]
 
-    Also prepends a non-English language badge to the nav label (``[NL]``
-    today; add further codes to ``LANG_BADGES`` as the corpus grows) so a
-    reader can see at a glance which reports are not in the house default."""
+
+def _regroup_reports_section(section):
+    """Given the ``2026`` reports Section, rebuild its children as:
+    [Overview page, <Section per report_type with its Pages inside>].
+    Pages within each sub-group are sorted alphabetically by display label."""
+    from mkdocs.structure.nav import Section
+    overview = None
+    buckets: dict[str, list] = {}
+    for item in section.children:
+        if not hasattr(item, "file") or item.file is None:
+            continue
+        if item.file.src_path.replace("\\", "/").endswith("reports/2026/index.md"):
+            overview = item
+            continue
+        page = item.file.page
+        if page is None:
+            continue
+        rtype = str((page.meta or {}).get("report_type", "")).lower() or "other"
+        buckets.setdefault(rtype, []).append(item)
+
+    new_children = []
+    if overview is not None:
+        new_children.append(overview)
+    seen = set()
+    for key, title in REPORT_TYPE_GROUPS:
+        items = sorted(buckets.get(key, []), key=lambda it: (it.title or "").lower())
+        if not items:
+            continue
+        sub = Section(title=title, children=items)
+        for it in items:
+            it.parent = sub
+        new_children.append(sub)
+        seen.add(key)
+    # Anything with an unknown report_type lands in a catch-all so it does not
+    # vanish from the nav; drives a UNTAGGED_REPORT_TYPE lint finding next build.
+    leftover = [it for k, lst in buckets.items() if k not in seen for it in lst]
+    if leftover:
+        sub = Section(title="Other", children=sorted(leftover, key=lambda it: (it.title or "").lower()))
+        for it in leftover:
+            it.parent = sub
+        new_children.append(sub)
+
+    section.children = new_children
+
+
+def on_nav(nav, config, files, **kwargs):
+    """Three jobs:
+
+    1. Replace the flat ``Reports / 2026`` list with sub-sections grouped by
+       each page's ``report_type:`` frontmatter.
+    2. Honour ``nav_title:`` as the sidebar label, falling back to ``title:``
+       (MkDocs' own default). Keeps long H1s legible on the page while giving
+       the nav a tidier short label.
+    3. Prepend a non-English language badge (``[NL]`` today; add further codes
+       to ``LANG_BADGES`` as the corpus grows)."""
     LANG_BADGES = {"nl": "[NL] "}
+
+    def find_year_section(items, year="2026"):
+        for item in items:
+            if hasattr(item, "children") and item.children:
+                if item.title == year:
+                    return item
+                found = find_year_section(item.children, year)
+                if found is not None:
+                    return found
+        return None
 
     def walk(items):
         for item in items:
@@ -435,8 +501,12 @@ def on_nav(nav, config, files, **kwargs):
                 lang = str(meta.get("language", "")).lower()
                 badge = LANG_BADGES.get(lang)
                 if badge:
-                    item.title = badge + item.title
+                    item.title = (badge + (item.title or ""))
     walk(nav.items)
+
+    year_section = find_year_section(nav.items)
+    if year_section is not None:
+        _regroup_reports_section(year_section)
     return nav
 
 
